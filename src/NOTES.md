@@ -16,6 +16,18 @@ jq -r '.items[] | {name,_id}' starsmith-expanded-oracles-export.json
 jq -r '.items[] | {name,_id} | join(", Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.")' starsmith-expanded-oracles-export.json
 jq -r '.items[] | "displayName: \'"+(.name)+" tables: Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable."+(._id)' starsmith-expanded-oracles-export.json
 
+cat ironsmith-expanded-oracles-test2.json | jq -r '[("d"+ .d,.Name)],(.["Oracle Table"][] | [.Chance, .Chance, .Description]) | @tsv' 
+cat ironsmith-expanded-oracles-edit.json | jq -r '.Oracles[]' | head -n 50
+cat ironsmith-expanded-oracles-edit.json | jq -r '.Oracles[] | [("d"+ .d,.Name)],(.["Oracle Table"][] | [.Chance, .Chance, .Description]) | @tsv' | head -n 50  
+jq -r '.Oracles[] | [("d"+ .d,.Name)],(.["Oracle Table"][] | [.Chance, .Chance, .Description]) | @tsv' ironsmith-expanded-oracles-edit.json | sed 's/^d100/\n&/' | sed 's/^d300/\n&/' | sed 's/^d6/\n&/' | head -n 50
+jq -r '.Oracles[] | [("d"+ .d,.Name)],(.["Oracle Table"][] | [.Chance, .Chance, .Description]) | @tsv' ironsmith-expanded-oracles-edit.json | sed 's/^d10/\n&/' | sed 's/^d200/\n&/' | sed 's/^d300/\n&/' | sed 's/^d6/\n&/' | head -n 500
+jq -r '.Oracles[] | [("d"+ .d,.Name)],(.["Oracle Table"][] | [.Chance, .Chance, .Description]) | @tsv' ironsmith-expanded-oracles-edit.json | sed 's/^d10/\n&/' | sed 's/^d200/\n&/' | sed 's/^d300/\n&/' | sed 's/^d6/\n&/' | head -n 50
+jq -r '.Oracles[] | [("d"+ .d,.Name)],(.["Oracle Table"][] | [.Chance, .Chance, .Description]) | @tsv' ironsmith-expanded-oracles-edit.json | sed 's/^d10/\n&/' | sed 's/^d200/\n&/' | sed 's/^d300/\n&/' | sed 's/^d6/\n&/' > ironsmith-expanded-oracles.txt
+jq -r '.Oracles[] | [("d"+ .d,.Name)],(.["Oracle Table"][] | [.Chance, .Chance, .Description]) | @csv' ironsmith-expanded-oracles-edit.json | sed 's/^d10/\n&/' | sed 's/^d200/\n&/' | sed 's/^d300/\n&/' | sed 's/^d6/\n&/' > ironsmith-expanded-oracles.csv
+jq -r '.Oracles[] | [("d"+ .d,.Name)],(.["Oracle Table"][] | [.Chance|tostring + "-" + .Chance|tostring, .Description]) | @csv' ironsmith-expanded-oracles-edit.json | sed 's/^\"d10/\n&/' | sed 's/^\"d200/\n&/' | sed 's/^\"d300/\n&/' | sed 's/^\"d6/\n&/' > ironsmith-expanded-oracles.csv
+jq -r '.Oracles[] | [("d"+ .d,.Name)],(.["Oracle Table"][] | [.Chance, .Chance, .Description]) | @csv' ironsmith-expanded-oracles-edit.json | sed 's/^\"d10/\n&/' | sed 's/^\"d200/\n&/' | sed 's/^\"d300/\n&/' | sed 's/^\"d6/\n&/' | head -n 50
+=IF(ISNUMBER(B2),B2+1,1)
+
 	starforgedOracles.children[0].children.push({
 		displayName: 'Backstory Prompts (1 - 2)',
 		tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bROdhxvU3ConRO7w'],

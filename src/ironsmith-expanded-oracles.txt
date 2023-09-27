@@ -1,0 +1,3982 @@
+Ironsmith Expanded Oracles
+
+d6 Type of Evidence of Corruption
+1-1 Quirk
+2-2 Fear
+3-3 Compulsion
+4-4 Physical Signs
+5-5 Supernatural Signs
+6-6 Typical NPC Reaction
+
+d100 Quirk (Corruption)
+1-5 Nervous eye twitch or head tilt
+6-10 Constant cough or throat-clearing
+11-15 Unquenchable thirst or insatiable hunger
+16-20 Sniffs people or objects before interacting with them
+21-25 Only drinks from a single personal ale horn or water skin
+26-30 Rolls two or three iron stones around in one hand
+31-35 Never removes their helmet and face plate
+36-40 Only eats meat from an animal they have personally killed
+41-45 Refrains from touching others and shirks away from touch
+46-50 Constantly rubs hands as if wiping off blood
+51-55 Scratches head or pulls on hair often
+56-60 Readjusts armor buckles or weapon belt frequently
+61-65 Constantly looking over their shoulder as if being followed
+66-70 Always takes a deep breath and pauses before speaking as if straining to speak plainly
+71-75 Cleans weapons meticulously and often
+76-80 Squints and smiles oddly when talking
+81-85 Cannot look another person in the eye
+86-90 Does not laugh at jokes or even understand humor
+91-95 Breathes heavily and rubs their chest as if a weight is pressing down on them
+96-100 Plays with a dagger or arrow head when speaking
+
+d100 Fear (Corruption)
+1-5 Total darkness
+6-10 Bright lights
+11-15 Being alone
+16-20 Being in a crowd or large group of people
+21-25 Large, open spaces
+26-30 Small, enclosed spaces
+31-35 Insects with exoskeletons
+36-40 Heights
+41-45 Specific animal or beast
+46-50 Specific horror
+51-55 Fire
+56-60 Blood and severe wounds
+61-65 Storms, particularly with thunder and lightning
+66-70 Water, particularly deep and murky pools
+71-75 The opposite or a different gender
+76-80 Dead bodies
+81-85 Boats
+86-90 Flowing water, particularly swift rivers or rapids
+91-95 Precipitation, particularly torrential rains or sleet
+96-100 Disease
+
+d100 Compulsion (Corruption)
+1-5 Taps iron three times when expressing a hope or desire
+6-10 Performs weapon flourish or routine before every battle
+11-15 Lies about small and inconsequential things
+16-20 Must have an open flame of some kind nearby
+21-25 Steals small objects
+26-30 Sprinkles salt at entrances
+31-35 Chants prayers throughout a meal
+36-40 Cuts patterns into their own skin
+41-45 Draws sigils of an unknown origin on flat surfaces
+46-50 Scrubs skin at an old wound site
+51-55 Sets fires
+56-60 Rolls bones with fate runes on them before making decisions
+61-65 Pours out containers of liquid if left unattended
+66-70 Pulls out their own hair
+71-75 Bites nails or skin to the point of self-harm
+76-80 Self-flagellation for discovered sins
+81-85 Blurts out stream of consciousness thoughts
+86-90 Washes, shaves, or cleans to the point of self-harm
+91-95 Performs ritualistic prayer over every dead animal body
+96-100 Repeating minor actions a specific number of times
+
+d100 Physical Sign (Corruption)
+1-5 Streak of odd color in their hair
+6-10 Scars that form an odd shape or pattern
+11-15 Birthmark that resembles an evil symbol
+16-20 Strange burn mark
+21-25 Pock marks in a disquieting configuration
+26-30 Total loss of hair
+31-35 Skin of an unnatural color as if dyed or tattooed
+36-40 Fully white eyes that lack an iris or pupil
+41-45 Sharper and more pronounced teeth
+46-50 Skin drained of color
+51-55 Wounds that fester and won’t heal
+56-60 Persistent fever, nausea and sweats
+61-65 Disproportionate body part (much stronger sword arm, etc.)
+66-70 Skin unnaturally hot or cold to the touch
+71-75 Eyes permanently closed yet still seeing
+76-80 Sudden change in height, stature, or body composition
+81-85 Mouth much wider than usual
+86-90 Joints that bend further than normally possible
+91-95 Inability to use a body part except at certain times
+96-100 Sleeping with eyes open
+
+d100 Supernatural Sign (Corruption)
+1-5 Shadow that wavers as if in a haze of heat
+6-10 Shadow that moves independent of a light source
+11-15 Shadow that appears to be of a different creature
+16-20 Small horns on the head
+21-25 Elongated fingers or claws of a beast
+26-30 Bioluminescent portion of the body
+31-35 Gains a monster characteristic (see Delve)
+36-40 Gains a monster ability (see Delve)
+41-45 Hair and clothes are suspended in the air as if in water
+46-50 Glowing sigil or glyph on the body
+51-55 Flames and smokes always bends towards them
+56-60 Steam or smoke rises from their footsteps
+61-65 A ghostly visage transposed over their face
+66-70 Translucent skin
+71-75 Glowing red eyes
+76-80 Snake, tentacle or vine-like hair
+81-85 Flames leap higher when close to their skin
+86-90 Small bone spurs or protrusions
+91-95 Tail
+96-100 Covered in animal fur
+
+d100 Typical NPC Reaction (Corruption)
+1-5 Pity
+6-10 Revulsion
+11-15 Ever-increasing fear
+16-20 Bubbling and building anger
+21-25 Outright and undeserved hatred
+26-30 Annoyance or dismissiveness
+31-35 Nervousness or anxiety
+36-40 Disdain and scorn
+41-45 Suspicion and doubt
+46-50 Involuntary prophesying
+51-55 Overwhelming sorrow or grief
+56-60 Intermittent bouts of panic
+61-65 Guilt and remorse accompanied by a need to confess
+66-70 Hopelessness and despair
+71-75 Apathy and unresponsiveness
+76-80 Defensiveness
+81-85 Confusion
+86-90 Misunderstanding or misinterpreting
+91-95 Obfuscation
+96-100 Aggressiveness and contrariness
+
+d10 Fantasy Quest: Archetype
+1-1 Attack the target
+2-2 Broker the peace
+3-3 Cure the plague
+4-4 Defend the people
+5-5 Deliver justice
+6-6 Expand the influence
+7-7 Lead the rebellion
+8-8 Recover the treasure
+9-9 Rescue the innocent
+10-10 Slay the beast
+
+d10 Fantasy Quest: Modifier
+1-1 Agonizing
+2-2 Arcane
+3-3 Chilling
+4-4 Condemned
+5-5 Dire
+6-6 Innocent
+7-7 Mistaken
+8-8 Misunderstood
+9-9 Shadowy
+10-10 Vindictive
+
+d10 Grim Quest: Quest
+1-1 Aid those who are suffering
+2-2 Atone for wrongs committed
+3-3 Avenge those who were wronged
+4-4 Battle the devouring darkness
+5-5 Defend those who are weak
+6-6 Dismantle that which empowers evil
+7-7 Preserve that which provides succor
+8-8 Rebel against those who oppress
+9-9 Recover that which was lost
+10-10 Rescue the innocent in distress
+
+d10 Grim Quest: Burden
+1-1 Debilitating curse
+2-2 Profound injury
+3-3 Barren resources
+4-4 Stunning betrayal
+5-5 Hidden knowledge
+6-6 Tormenting vision
+7-7 Crippling vice
+8-8 Crushing debt
+9-9 Shameful event
+10-10 Heartbreaking loss
+
+d10 Virtue Challenge Quest: Loss
+1-1 Community
+2-2 Freedom
+3-3 Love
+4-4 Order
+5-5 Power
+6-6 Purpose
+7-7 Security
+8-8 Shelter
+9-9 Sustenance
+10-10 Trust
+
+d10 Virtue Challenge Quest: Virtue
+1-1 Courage
+2-2 Diligence
+3-3 Discipline
+4-4 Honor
+5-5 Hospitality
+6-6 Justice
+7-7 Loyalty
+8-8 Perseverance
+9-9 Self-Reliance
+10-10 Truth
+
+d6 Narrative Conflict
+1-1 vs. Self
+2-2 vs. Character
+3-3 vs. Fate
+4-4 vs. Nature
+5-5 vs. Society
+6-6 vs. Supernatural
+
+d100 Method of Making Headway
+1-10 What physical objects need to be gathered or protected?
+11-20 What new relationships must be forged, tested or broken?
+21-30 What help needs to be gathered (such as skilled craftspeople or master mystics)?
+31-40 How can you mitigate the immediate consequences of actions taken so far in the conflict?
+41-50 How can you implement a plan to prevent this conflict from happening again?
+51-60 What surrounding communities need to be informed of this conflict for their own safety?
+61-70 What motives need to be understood or expectations need to be met in order to facilitate progress?
+71-80 What are the implications of this conflict being resolved?  What new problems will that make?
+81-90 What restitution or recompense need to be made?
+91-100 In what way can a compromise be made?  Or in what way can all sides lose the least?
+
+d100 Obstacles to Overcome
+1-10 What third party wants your vow to fail?  What might they do?
+11-20 What dangers exist in the nearby environment?
+21-30 What trouble has befallen an ally related to this vow?
+31-40 What makes navigation difficult in this area?
+41-50 What makes you think that you don't have the full story?
+51-60 What cultural taboo impedes your progress?
+61-70 What mystic anomaly stands in your way?
+71-80 What predatory creatures are known to prowl this area?
+81-90 What did an ally do that unintentionally made things worse?
+91-100 What vital item just went missing?
+
+d100 Active Opposition
+1-5 Another overseer works against you. What justification do they have for opposing you?
+6-10 A crime is committed while you are working towards your vow. Is it related?
+11-15 The guardian of a prominent citizen views your actions as a threat.  Why?
+16-20 An ally or companion has turned against you.  What is it they fear will be the consequence of you fulfilling your vow?
+21-25 Another warrior seeks to accomplish the same goal before you.  What's in it for them?
+26-30 Time is the critical factor.  What happens if it takes too long to fulfill your vow?
+31-35 A rival wants to see you fail.  What occurred between you in the past that they hold a grudge?
+36-40 A mystic seer has a vision foretelling your failure.  What fate do they see lies ahead for you?
+41-45 You must access a specific location.  Why is it necessary, and what is dangerous there?
+46-50 You need a specific item or special permission.  Why is it difficult to obtain?
+51-55 An oathbreaker opposes you.  How may your failure lead to their redemption?
+56-60 A secret society opposes you.  How do they benefit from the conflict?
+61-65 A zealot feels you are not devout enough and opposes you.  Why do people follow this zealot?
+66-70 An Ironlander is under a curse or geas to work against you.  Who did this to them and why?
+71-75 You are hunted by an assassin.  What crime are you accused of, and did you do it?
+76-80 A malevolent curse on the land slowly grows in power.  What effect does it have, and who enacted it?
+81-85 A conspiracy undermines your progress.  Why?  What do they stand to gain?
+86-90 A sentient artifact or malevolent force of will works against you.  Why, and what is their goal?
+91-95 The spirit of a dead ally or family member haunts you about this quest.  How were they involved?
+96-100 An enigmatic mystic wants power for themself.  How does their goal conflict with yours?
+
+d100 Alternate Fantasy Quests
+1-2 Destroy a small shrine to an evil entity.
+3-5 Destroy a watch tower the raiders use.
+6-8 Destroy a bandit encampment.
+9-9 Destroy the raider's fortified stronghold.
+10-10 Destroy the source of malevolent magic.
+11-12 Settle a blood feud between families.
+13-15 Stop the skirmishes between two hostile settlements.
+16-18 Unite the three clans of the valley.
+19-19 Establish peace with the elves.
+20-20 Make peace with a violent second wave of Old World refugees.
+21-22 Gather a medicinal herb.
+23-25 Gather several herbs and find the alchemist.
+26-28 Gather components and complete a mystic ritual of cleansing.
+29-29 Find the nature and cure for a mystic plague.
+30-30 Find the nature and cure for a powerful curse.
+31-32 Defend the elder's honor.
+33-35 Defend the settlement from a band of raiders.
+36-38 Defend the settlement from a besieging war band.
+39-39 Defend the region from the expansion of varou territory.
+40-40 Defend the Ironlands from the unending horde of horrors from the Shattered Wastes.
+41-42 Catch a bothersome thief.
+43-45 Catch a fleeing murderer.
+46-48 Catch a skilled assassin.
+49-49 Catch the leader of a slave trade.
+50-50 Catch the mystic who unleashed the Thanosian Plague.
+51-52 Escort an emissary of peace.
+53-55 Establish a watch tower on a border.
+56-58 Establish safe routes for local trade.
+59-59 Gather skilled artisans and warriors to become a cultural hub of the region.
+60-60 Establish one overseer to rule them all.
+61-62 Help a family reclaim confiscated land.
+63-65 Assist an ally in becoming overseer at the upcoming conclave.
+66-68 Overthrow a brutal overseer.
+69-69 Free the people of the dogma enforced by the iron priests.
+70-70 Reclaim independence for the Ironlands from their firstborn oppressors.
+71-72 Find the lost livestock.
+73-75 Recover a family heirloom from the battlefield.
+76-78 Recover the armor forged by your ancestors.
+79-79 Find and repair an ancient weapon of tremendous power.
+80-80 Gather the full regalia of the last king of the Old World.
+81-82 Rescue a lost child.
+83-85 Rescue a lost and imperiled huntsman.
+86-88 Rescue an overseer taken hostage.
+89-89 Rescue the druid imprisoned by the firstborn.
+90-90 Free the spirit of your parent being tormented in the afterlife.
+91-92 Slay an attacking animal.
+93-95 Drive off a terrorizing horror.
+96-98 Slay the maddened elder beast.
+99-99 Slay a ravaging primordial.
+100-100 Slay Ormsliki the king of wyverns.
+
+d6 Mystery Vow: Premise
+1-1 Find out who the killer is before they strike again.
+2-2 Find out who stole the valuable relic and return it.
+3-3 Find out who is blackmailing a prominent citizen and set it right.
+4-4 Find out who is supplying the enemy with weapons or information and put it to an end.
+5-5 Find out who set a curse upon the settlement and reverse it.
+6-6 Find out why a settlement or building was destroyed or abandoned and make sure it won't happen again.
+
+d200 Items of Narrative Significance
+1-1 Torn scrap of leather
+2-2 Distinctive fur wrap
+3-3 Chain shirt
+4-4 Broken shield
+5-5 Mystic focus of power
+6-6 Scorched fragment of a map
+7-7 Scratched ring of iron
+8-8 Melted iron necklace
+9-9 Hastily discarded axe head
+10-10 Cracked crucible
+11-11 Broken mortar and pestle
+12-12 Pouch of rare herbs
+13-13 Blood stain
+14-14 Sprung trap
+15-15 Book written in runes
+16-16 Clan or family sigil
+17-17 Arcane runes scrawled in blood
+18-18 Sign of recent passage
+19-19 Vial of alchemical supplies
+20-20 Crushed helmet
+21-21 Broken blade with a missing hilt
+22-22 Bloodied dagger
+23-23 Hammer with a split head
+24-24 Arrow with colorful fletching
+25-25 Crystal shard humming with power
+26-26 Ingot of black iron
+27-27 Wolf pelt
+28-28 Unnatural skull
+29-29 Etched bone fragment
+30-30 Torch and other discarded supplies
+31-31 Ripped leather pouch
+32-32 Punctured waterskin
+33-33 Circle of salt disturbed in one direction
+34-34 Scroll sealed with wax
+35-35 Crumpled remains of a letter
+36-36 Hidden wooden chest
+37-37 Corpse of an Ironlander*
+38-38 Corpse of a firstborn*
+39-39 Freshly killed animal corpse
+40-40 Decaying corpse of a beast
+41-41 Residue of war paint
+42-42 Carefully constructed fire pit
+43-43 Tooth of a poisonous beast
+44-44 Claw of a rare beast
+45-45 Broken bow and empty quiver
+46-46 Shard of a mirror
+47-47 Carved wooden figure
+48-48 Drinking stein
+49-49 Well-used forge hammer
+50-50 Forge tongs made of an unknown material
+51-51 Woodcarving chisel
+52-52 Torn and bloodied boot
+53-53 Rusted fishhooks
+54-54 Small empty cage
+55-55 Ripped woven basket
+56-56 Lingering smell of incense
+57-57 Bear pelt
+58-58 Cave lion pelt
+59-59 Wyvern egg
+60-60 Wet and frozen cloak
+61-61 Intricate iron circlet
+62-62 Large pearl
+63-63 Drum with a torn head
+64-64 Gnarled and twisted staff
+65-65 Quill snapped in half
+66-66 Fur-trimmed glove slick with gore
+67-67 Arm band of iron
+68-68 Pouch of smoking weed
+69-69 Small crate broken on the ground
+70-70 Cart with a broken wheel
+71-71 Cracked clay pot depicting a battle
+72-72 Iron urn with a recognizable symbol
+73-73 Empty ink well
+74-74 Spear attached to torn rope
+75-75 Star chart for navigation
+76-76 Heavy brass sextant
+77-77 Shattered conch shell
+78-78 Compass with the iron needle missing
+79-79 Iron key with a bestial head
+80-80 Broken length of chain
+81-81 Dice made of bone and etched with runes
+82-82 Evidence of a ritual gone wrong
+83-83 Remains of a thick, viscous poison
+84-84 Skin of pungent alcohol
+85-85 Feathers from a rare creature
+86-86 Lock of hair tied in a leather thong
+87-87 Shovel next to freshly churned earth
+88-88 Knife used in preparing meat
+89-89 A single broken antler
+90-90 Blanket and supplies left by a smoldering fire
+91-91 Broken belt buckle and leather bits
+92-92 Clay pipe for smoking
+93-93 Whetstone with an etched sigil on the back
+94-94 Elven mask of a precious wood
+95-95 Totem of a fierce animal
+96-96 Talisman with a torn and bloodied chain
+97-97 Stones stacked as a memorial
+98-98 Small nub of a burnt candle of unusual color
+99-99 Broken lute of superior craftsmanship
+100-100 Flute carved of a sacred wood
+101-101 Bloody handprint
+102-102 Glowing crystal shard
+103-103 Quill of a rare bird
+104-104 Humanoid skull with distinctive injury
+105-105 Illustrations of human anatomy
+106-106 Writings of celestial movements
+107-107 Powder of crushed bone
+108-108 Pouch of hallucinatory herbs
+109-109 Small skin of blood
+110-110 Pouch of hard tack
+111-111 Bat guano
+112-112 Crude map of a partially explored site
+113-113 Used and discarded bandages
+114-114 Inventory list for a farmer
+115-115 Woolen armor padding
+116-116 Discarded saddle, reins and bit
+117-117 Crude painting on wooden slab
+118-118 Psychedelic mushrooms
+119-119 Skin of stout ale
+120-120 Patches for a sail
+121-121 Caged rat or mice
+122-122 Chained, emaciated animal
+123-123 Broken piece of chalk
+124-124 Ceremonial robes
+125-125 Small stones arranged in a circle
+126-126 Thick-shoed footprints
+127-127 Charcoal sketching of a beast
+128-128 Journal of strange travels
+129-129 List of names with some scratched off
+130-130 Pouch of spider egg sacks
+131-131 Fossilized tooth
+132-132 Inventory list for a blacksmith
+133-133 Caged snake or frog
+134-134 Figure carved in stone
+135-135 Partially assembled trap
+136-136 Deer pelt
+137-137 Materials for a tent or other temporary shelter
+138-138 Torn and threadbare cloak
+139-139 Inventory list for an alchemist
+140-140 Bound and unconscious human
+141-141 Horse's feed bag
+142-142 Recently unearthed grave
+143-143 Necklace of rune-covered beads
+144-144 Ancient spearhead
+145-145 A strange manifesto
+146-146 Signet ring
+147-147 Map of an island
+148-148 Rags covered in blood
+149-149 Animal tracks
+150-150 Stones from a distant location
+151-151 Signs of a struggle
+152-152 Chart of constellations
+153-153 Personal diary
+154-154 Poem with strange annotations
+155-155 Bite marks of a beast
+156-156 Claw marks of a beast
+157-157 Small skin of venom
+158-158 Ironroot staff
+159-159 Precious gemstone
+160-160 Unburnt, strange smelling candle
+161-161 Shredded bowstring
+162-162 Flask of unknown oil
+163-163 Bloody footprints
+164-164 Notes of a settlement overseer
+165-165 Inventory list for a trader
+166-166 Woodcut depicting a horrid scene
+167-167 Pouch of exotic spices
+168-168 Evidence of secret passage
+169-169 Iron key with a skull head
+170-170 Banner for a nearby clan or settlement
+171-171 Rare flower, dried and pressed
+172-172 Scroll of prayers
+173-173 Incriminating communication
+174-174 A set of iron manacles
+175-175 Fishing tackle
+176-176 Caged cat or dog
+177-177 Weapon cleaning supplies
+178-178 Wandering and injured mount
+179-179 Remains of a mount
+180-180 Fur-lined boots
+181-181 Caged bird or bat
+182-182 Pouch of poisonous herbs
+183-183 Book of mystic rituals
+184-184 Pouch of preserving salt
+185-185 Tally marks scratched in a surface
+186-186 Needle and catgut
+187-187 Small, locked chest
+188-188 Unsprung trap
+189-189 Broken jewelry of gold
+190-190 Vague map of trade routes
+191-191 Woodcut depicting a pleasant scene
+192-192 Dried meat scraps
+193-193 Midden heap
+194-194 Map of fishing routes
+195-195 Bound and unconscious firstborn
+196-196 Chained and vicious animal
+197-197 Fragment of clay tablet
+198-198 Bottle of multi-colored sand
+199-199 Frightening mask
+200-200 Severed finger
+
+d6 Mystery Vow: Clue Relates To
+1-2 Who committed the crime
+3-4 Why it was committed
+5-6 Culprit’s past location
+
+d6 Mystery Vow: Who Committed the Crime
+1-1 Ally or rival from your past
+2-2 Firstborn
+3-3 Beast or Horror
+4-4 Mystic or Zealot
+5-5 Warrior or Hunter
+6-6 Craftsman or Civilian
+
+d6 Mystery Vow: Why the Crime was Committed
+1-1 Pride
+2-2 Greed
+3-3 Lust
+4-4 Envy
+5-5 Wrath
+6-6 Accidental
+
+d6 Mystery Vow: Culprit's Past Location
+1-1 Crafter’s or smith’s
+2-2 Thick forest
+3-3 Sea or ship
+4-4 Another settlement
+5-5 A site of power
+6-6 Place significant to your past
+
+d10 Mystery Vow: NPC Info Type
+1-1 The location of
+2-2 A suspicious aspect in the appearance of
+3-3 A suspicious change in
+4-4 An odd connection between a PC and
+5-5 An odd connection between an NPC and
+6-6 A local legend or gossip about
+7-7 A prior altercation involving
+8-8 A recent emotional or material loss involving
+9-9 A recent change in power or authority involving
+10-10 A damaging secret involving
+
+d10 Mystery Vow: NPC Info Topic
+1-1 A primary suspect
+2-2 A tool used in the crime
+3-3 A known physical clue
+4-4 An undiscovered physical clue
+5-5 A previously unknown locaiton of significance
+6-6 A relative of a primary victim
+7-7 A secondary threat
+8-8 A recently missing item
+9-9 A site or relic of power
+10-10 A local leader
+
+d100 Mystery Vow: Obstacle
+1-10 Evidence has been destroyed.  Who or what destroyed this evidence and why would they support the criminal?
+11-20 A person with information is unwilling to share it with you.  What task must you complete to earn their trust or pay for the information?
+21-30 You find out that you don't have the permission, standing, or power to go someplace you need to investigate.  How can you show that you are worthy to access such a location?
+31-40 The pressure mounts as the evidence you just uncovered shows that the mystery must be solved soon lest an irrevocable change or evil deed make the investigation moot.  What is the impending event?
+41-50 The questions you ask or places that you go are considered taboo.  How can you get the information you need without offending people?
+51-60 The criminal is being harbored by some faction or group.  What is this group's connection to your past that will make them difficult to deal with?
+61-70 You find out that if the criminal is caught, an innocent person will likely suffer.  How is this innocent entangled in the mystery?
+71-80 A suspect sent someone or something to stop you from investigating any further.  What is this opposing force, and how far are they willing to go to stop you?
+81-90 A conflict from your past has arisen at just the wrong time.  What was that conflict, and how is it now impeding your progress?
+91-100 You find evidence that a primary suspect is actually innocent, and now they see it as a point of honor to oppose you.  Despite their innocence, what special information do they hold? 
+
+d10 One-Shot: Inciting Incident
+1-1 A group of warriors have tracked you and accuse you of a crime.  You came to this Location for proof of your innocence.  What evidence do you need, and who else will suffer consequences if you are found guilty?
+2-2 Bandits have absconded with the Horn of Paragons.  What does the horn do, and who wants to use it?
+3-3 A cult of zealots has taken the iron priest and the Iron Star Staff to conduct a nefarious ritual during the full moon.  What is the cult's goal, and who will suffer the most if they succeed?
+4-4 The murderer continues to evade you and may yet escape.  Who did they kill, and why do you feel like it is your fault?
+5-5 A group of Skulde threaten the area wielding strange powers.  What is the power, and who do they prey on?
+6-6 A curse has befallen your banner-kin that causes them to freeze in place for irregular amounts of time.  Who placed this curse, and what is needed to reverse it?
+7-7 A band of firstborn claim their god has returned and demands sacrifice.  Who did they take for these sacrifices, and what happens if the sacrifices are completed?
+8-8 A mystic commits dark experiments on Ironlanders seeking to unravel the secret to immortality.  What unnatural consequences have there been to these experiments, and who is now held captive by the mystic?
+9-9 A family heirloom was lost when a warrior fell at a great battle and must be returned to blood-kin.  Why was the battle significant, and in what way did it change the landscape forever?
+10-10 Raiders have decimated the population and food stores of a settlement.  Where is the nearest shelter for the survivors, and how is the leader of the raiders connected to you?
+
+d10 One-Shot: Location
+1-1 A cavern lit by glowing lichen holds an abandoned city.  The ground shakes, and buildings begin to crumble.
+2-2 A keep built by the firstborn centuries ago now overtaken by nature.  Vines grasp at you, wrapping about your legs and feet.
+3-3 A steep peak carved in the image of a great beast.  The ground gives way beneath you.
+4-4 A ship breached by an iceberg among the Barrier Islands.  Icy water sloshes over your feet.
+5-5 A village suspended above a waterfall and connected by rope bridges.  Your bridge has just been cut loose.
+6-6 Several miles down a sink hole with carved alcoves and passageways.  You have disturbed something best left to slumber.
+7-7 A settlement gripped by the plague and surrounded by warriors enforcing isolation.  Weakened villages have just charged to breach the quarantine.
+8-8 The site of a half-buried ancient and sprawling mechanism of war with markings from the Old World.  Symbols glow and deep rumbling begins.
+9-9 A pit used as a fighting circle.  A challenger faces you while stoic spectators chant slowly, eagerly awaiting the outcome and will of the gods.
+10-10 In the midst of four burial mounds, each with a darkened portal to the sacred places within.  A foul stench emits from the entrances along with an unnaturally strong gust of wind while the dead shamble out.
+
+d6 One-Shot: Added Pressure
+1-1 Feral screams of the broken sound all around.
+2-2 You just found a corpse.  Time is running out for the hostages.
+3-3 An unnatural storm rages and intensifies.
+4-4 An ally who you were sworn to protect has just disappeared.
+5-5 Your banner leader has fallen, plunging the clan into turmoil and in-fighting.
+6-6 Arcane chanting is carried to you by the wind, and the pungent smell of hot iron fills the air.
+
+d10 Monster Hunting: What the Monster Did
+1-1 Killed people
+2-2 Injured people
+3-3 Captured people
+4-4 Attacked livestock
+5-5 Driven off game
+6-6 Damaged structures
+7-7 Damaged crops
+8-8 Caused disease or blight
+9-9 Destroyed needed supplies
+10-10 Brought a mystical malady or curse upon the community
+
+d10 Monster Hunting: How People Tried to Stop It
+1-1 Hunting party
+2-2 Setting traps
+3-3 Luring it away
+4-4 Scaring it off
+5-5 Destroying its nest or lair
+6-6 Poisoning its food
+7-7 Destroying its food supply
+8-8 Defensive fortifications
+9-9 Posting guards or patrols
+10-10 Mystic wards or rituals
+
+d6 Monster Hunting: Dominant Attitude of the People
+1-1 Frightened to inaction
+2-2 Helpless or giving up
+3-3 Panicked or reckless
+4-4 Dismayed at the losses
+5-5 Disgusted by the monster or ignoring it
+6-6 Enraged or aggressive
+
+d6 Monster Hunting: Likelihood of Correct Size
+1-1 Likely
+2-2 Likely
+3-3 Almost certain
+4-4 Almost certain
+5-5 Almost certain
+6-6 Almost certain
+
+d6 Monster Hunting: Likelihood of Correct Primary Form
+1-1 Likely
+2-2 Likely
+3-3 Almost certain
+4-4 Almost certain
+5-5 Almost certain
+6-6 Almost certain
+
+d6 Monster Hunting: Likelihood of Correct Characteristic
+1-1 Small chance
+2-2 Unlikely
+3-3 50/50
+4-4 Likely
+5-5 Almost certain
+6-6 Almost certain
+
+d6 Monster Hunting: Likelihood of Correct Ability
+1-1 Small chance
+2-2 Unlikely
+3-3 50/50
+4-4 Likely
+5-5 Almost certain
+6-6 Almost certain
+
+d100 Monster Hunting: Tracking Sign
+1-10 Tracks
+11-20 Worn trail
+21-30 Bed or lay
+31-40 Vegetation based scat
+41-50 Protein based scat
+51-60 Broken vegetation
+61-70 Kill site
+71-80 Cough pellets
+81-90 Feathers, scales, or fur
+91-100 Destroyed nest
+
+d6 Monster Hunting: Tracking Sign Age
+1-1 Minutes old
+2-2 Hours old
+3-3 Days old
+4-4 Weeks old
+5-5 Months old
+6-6 Years old
+
+d10 Monster Hunting: Secret Actor Anti-Monster
+1-1 A prominent citizen
+2-2 The overseer
+3-3 A social outcast
+4-4 A forsaker of vows
+5-5 A retired warrior
+6-6 A vocal zealot
+7-7 A quiet hunter
+8-8 A hidden group of raiders
+9-9 A tradesman
+10-10 Another ironsworn
+
+d10 Monster Hunting: Secret Action Anti-Monster
+1-1 Guides the monster's attacks toward specific people
+2-2 Harvests parts of the monster
+3-3 Goads the monster to attack more frequently
+4-4 Protects the monster
+5-5 Weakens the settlement's defenses
+6-6 Gathers knowledge about the monster
+7-7 Attempts to lure the monster to a new settlement
+8-8 Hunts the monster's offspring
+9-9 Disrupts attempts to hunt the monster
+10-10 Enhances the monster with mystical power
+
+d6 Monster Hunting: Secret Reason Anti-Monster
+1-1 For personal wealth
+2-2 To complete a dark ritual
+3-3 For revenge
+4-4 Because they were ordered to
+5-5 Because they are under a dark geas
+6-6 To cover up a previous crime
+
+d10 Monster Hunting: Secret Actor Pro-Monster
+1-1 A Skulde descendant
+2-2 A traveling prophet
+3-3 A revered hermit
+4-4 A mystic practitioner
+5-5 A nature worshipper
+6-6 An influential businessperson
+7-7 A dabbler in dark or forbidden arts
+8-8 A firstborn who only now reveals themself
+9-9 A sea captain with a weathered map
+10-10 Another ironsworn
+
+d10 Monster Hunting: Secret Desire Pro-Monster
+1-1 Build walls around the settlement and leave the monster alone
+2-2 Sedate the monster for a time before killing it
+3-3 Guide the monster to a safer location
+4-4 Take away the monster's greatest weapon and then leave it alone
+5-5 Abandon the settlement to the monster
+6-6 Capture the monster alive
+7-7 Use the monster
+8-8 Kill the monster but take its offspring
+9-9 Breed the monster
+10-10 Tame the monster
+
+d6 Monster Hunting: Secret Reason Pro-Monster
+1-1 For altruism
+2-2 To complete an important ritual for the settlement
+3-3 To enact the next step in a secret plot
+4-4 To pay an old debt
+5-5 To oppose a coming threat
+6-6 To find a hidden relic of the Old World
+
+d10 Monster Hunting: Mounting Pressure Monster Desire
+1-1 Hunt food
+2-2 Defend its territory
+3-3 Find a mate
+4-4 Protect offspring
+5-5 Forage for food
+6-6 Expand its territory
+7-7 Build a new lair or nest
+8-8 Flee a larger threat
+9-9 Connect with others of its kind
+10-10 Fight off rivals
+
+d10 Monster Hunting: Mounting Pressure But
+1-1 The settlement is located in the way
+2-2 A hunter took down its prey
+3-3 A small group accidentally harmed it
+4-4 Passers-by accidentally frightened it
+5-5 The terrain makes it difficult
+6-6 It got injured by a hunting trap
+7-7 A small group unknowingly offended it through action or trespass
+8-8 A small group took aggressive action against it for sport
+9-9 A small group gathered its last food
+10-10 A small group disturbed its lair or nest
+
+d6 Monster Hunting: Mounting Pressure Getting Worse
+1-1 The monster is growing in size
+2-2 Competing monsters are on the way
+3-3 The monster is aging and desperate
+4-4 The monster is becoming iron-wracked
+5-5 The monster is poisoned and desperate
+6-6 The monster is mutating and gaining new abilities
+
+d10 Monster Hunting: End the Fight Hit
+1-1 Is killed outright.
+2-2 Falls unconscious and is at your mercy.
+3-3 Has you at its mercy but fails to follow through and then calmly retreats.
+4-4 Ceases attacking and cowers submissively.
+5-5 Is maimed and no longer poses a threat.
+6-6 Is gravely injured and lays dying.
+7-7 Loses its most powerful weapon or attack and is impotent in the fight.
+8-8 Obtains a recognizable injury and flees in fear.
+9-9 Realizes it has lost this battle and flees in a rage to regroup.
+10-10 Changes its stance from aggressive to grudging respect and ceases its attack.
+
+d10 Monster Hunting: End the Fight Weak Hit But
+1-1 It's worse than you thought: Endure Harm.
+2-2 You are overcome: Endure Stress.
+3-3 Your victory is short-lived: A new danger or foe appears, or an existing danger worsens.
+4-4 You suffer collateral damage: Something of value is lost or broken, or someone important must pay the cost.
+5-5 You'll pay for it: An objective falls out of reach.
+6-6 Others won't forget: You are marked for vengeance.
+7-7 You are tainted: The monster marks, infects, or curses you in some recognizable way.
+8-8 The settlement still suffers: Another incident has occurred at the settlement.  Roll for an Action and Theme using the oracles in the Ironsworn core rules.
+9-9 The plot thickens: Roll for an Aspect and Focus using the oracles in Ironsworn: Delve.
+10-10 You are viewed as ruthless or distasteful: If you have a bond with the settlement or someone closely involved with this monster hunt, Test Your Bond.  Otherwise, you may not Sojourn in the settlement after this fight.
+
+d100 Monster Hunting: Monster Weakness
+1-5 Direct sunlight harms its skin
+6-10 Cannot swim
+11-15 Afraid of fire
+16-20 Limited hearing
+21-25 Poor eyesight
+26-30 Limited sense of smell
+31-35 Afraid of loud noises
+36-40 Sensitivity to bright lights
+41-45 Can easily overwhelm its sense of smell
+46-50 Black iron weapons are particularly effective
+51-55 Will drop every other pursuit for a specific food
+56-60 A particular herb is poisonous to it
+61-65 It has allergic reactions to a specific substance
+66-70 Easily stunned if hit directly on a specific body part
+71-75 Can be goaded into charging blindly
+76-80 Becomes lethargic in extreme heat or cold
+81-85 Fascinated by brightly colored objects
+86-90 Does not think in three dimensions; It never looks up
+91-95 Becomes docile and submissive if bound
+96-100 Blood of a different creature acts as acid to this one
+
+d10 Advance Threat: Undead Uprising
+1-1 Unleash a horror not seen before
+2-2 Expand their territory
+3-3 Curse a place through magic
+4-4 Force a horrible decision
+5-5 Create mystic wards of protection
+6-6 Obtain a powerful artifact
+7-7 Attack in overwhelming numbers
+8-8 Isolate an important person or community
+9-9 Corrupt the environment
+10-10 Reveal the true nature or source of power
+
+d10 Advance Threat: Undead Uprising Accompanying Sign or Portent
+1-1 Cold fog that won't disperse
+2-2 Chants on the wind
+3-3 Blood red moon
+4-4 Sun blotted out for days
+5-5 Water sources spoil
+6-6 Prophetic shared nightmares
+7-7 Shadows move independent of bodies
+8-8 Feelings of suffocation and anxiety attacks
+9-9 Animals flee and stampede
+10-10 Trees ooze black bile
+
+d300 Action
+1-1 Scheme
+2-2 Clash
+3-3 Weaken
+4-4 Initiate
+5-5 Create
+6-6 Swear
+7-7 Avenge
+8-8 Guard
+9-9 Defeat
+10-10 Control
+11-11 Break
+12-12 Risk
+13-13 Surrender
+14-14 Inspect
+15-15 Raid
+16-16 Evade
+17-17 Assault
+18-18 Deflect
+19-19 Threaten
+20-20 Attack
+21-21 Leave
+22-22 Preserve
+23-23 Manipulate
+24-24 Remove
+25-25 Eliminate
+26-26 Withdraw
+27-27 Abandon
+28-28 Investigate
+29-29 Hold
+30-30 Focus
+31-31 Uncover
+32-32 Breach
+33-33 Aid
+34-34 Uphold
+35-35 Falter
+36-36 Suppress
+37-37 Hunt
+38-38 Share
+39-39 Destroy
+40-40 Avoid
+41-41 Reject
+42-42 Demand
+43-43 Explore
+44-44 Bolster
+45-45 Seize
+46-46 Mourn
+47-47 Reveal
+48-48 Gather
+49-49 Defy
+50-50 Transform
+51-51 Persevere
+52-52 Serve
+53-53 Begin
+54-54 Move
+55-55 Coordinate
+56-56 Resist
+57-57 Await
+58-58 Impress
+59-59 Take
+60-60 Oppose
+61-61 Capture
+62-62 Overwhelm
+63-63 Challenge
+64-64 Acquire
+65-65 Protect
+66-66 Finish
+67-67 Strengthen
+68-68 Restore
+69-69 Advance
+70-70 Command
+71-71 Refuse
+72-72 Find
+73-73 Deliver
+74-74 Hide
+75-75 Fortify
+76-76 Betray
+77-77 Secure
+78-78 Arrive
+79-79 Affect
+80-80 Change
+81-81 Defend
+82-82 Debate
+83-83 Support
+84-84 Follow
+85-85 Construct
+86-86 Locate
+87-87 Endure
+88-88 Release
+89-89 Lose
+90-90 Reduce
+91-91 Escalate
+92-92 Distract
+93-93 Journey
+94-94 Escort
+95-95 Learn
+96-96 Communicate
+97-97 Depart
+98-98 Search
+99-99 Charge
+100-100 Summon
+101-101 Terrorize
+102-102 Vanquish
+103-103 Modify
+104-104 Eclipse
+105-105 Splinter
+106-106 Extinguish
+107-107 Compel
+108-108 Ignite
+109-109 Transfigure
+110-110 Embrace
+111-111 Govern
+112-112 Discern
+113-113 Subdue
+114-114 Purge
+115-115 Dominate
+116-116 Humiliate
+117-117 Immolate
+118-118 Deceive
+119-119 Shame
+120-120 Demolish
+121-121 Revitalize
+122-122 Deviate
+123-123 Deposit
+124-124 Embellish
+125-125 Scatter
+126-126 Ambush
+127-127 Ban
+128-128 Spawn
+129-129 Consecrate
+130-130 Design
+131-131 Amplify
+132-132 Expand
+133-133 Order
+134-134 Position
+135-135 Revile
+136-136 Engulf
+137-137 Coalesce
+138-138 Poison
+139-139 Dismantle
+140-140 Infuse
+141-141 Intertwine
+142-142 Engender
+143-143 Forgive
+144-144 Plunder
+145-145 Contaminate
+146-146 Insult
+147-147 Amend
+148-148 Emanate
+149-149 Grieve
+150-150 Grapple
+151-151 Veil
+152-152 Shepherd
+153-153 Implant
+154-154 Violate
+155-155 Strangle
+156-156 Magnify
+157-157 Assail
+158-158 Conceal
+159-159 Fracture
+160-160 Harden
+161-161 Imbue
+162-162 Isolate
+163-163 Sculpt
+164-164 Refresh
+165-165 Steer
+166-166 Emit
+167-167 Stifle
+168-168 Mutate
+169-169 Alter
+170-170 Dissolve
+171-171 Grow
+172-172 Unravel
+173-173 Deteriorate
+174-174 Condemn
+175-175 Incite
+176-176 Conquer
+177-177 Absorb
+178-178 Echo
+179-179 Resolve
+180-180 Elude
+181-181 Juxtapose
+182-182 Rush
+183-183 Reconfigure
+184-184 Probe
+185-185 Instruct
+186-186 Guide
+187-187 Repulse
+188-188 Deter
+189-189 Overcome
+190-190 Devour
+191-191 Arrest
+192-192 Fuse
+193-193 Bleed
+194-194 Ruin
+195-195 Raise
+196-196 Twist
+197-197 Exacerbate
+198-198 Infringe
+199-199 Corrode
+200-200 Atone
+201-201 Reap
+202-202 Reposition
+203-203 Unveil
+204-204 Assert
+205-205 Insulate
+206-206 Unearth
+207-207 Build
+208-208 Discover
+209-209 Mystify
+210-210 Sabotage
+211-211 Rend
+212-212 Devastate
+213-213 Dissect
+214-214 Batter
+215-215 Augment
+216-216 Empower
+217-217 Defuse
+218-218 Repel
+219-219 Untangle
+220-220 Obtain
+221-221 Hinder
+222-222 Stretch
+223-223 Boost
+224-224 Nurture
+225-225 Catch
+226-226 Ambush
+227-227 Desecrate
+228-228 Bury
+229-229 Contort
+230-230 Steal
+231-231 Inhibit
+232-232 Drain
+233-233 Struggle
+234-234 Provoke
+235-235 Impart
+236-236 Reconnect
+237-237 Shake
+238-238 Excavate
+239-239 Choke
+240-240 Crush
+241-241 Shatter
+242-242 Illuminate
+243-243 Ensnare
+244-244 Diminish
+245-245 Imitate
+246-246 Refine
+247-247 Weave
+248-248 Forge
+249-249 Sustain
+250-250 Expel
+251-251 Consume
+252-252 Wreck
+253-253 Lead
+254-254 Amass
+255-255 Climb
+256-256 Revere
+257-257 Pollute
+258-258 Stalk
+259-259 Disrupt
+260-260 Entice
+261-261 Oppress
+262-262 Smite
+263-263 Ravage
+264-264 Starve
+265-265 Affirm
+266-266 Reconcile
+267-267 Soften
+268-268 Restrain
+269-269 Expose
+270-270 Commune
+271-271 Blame
+272-272 Revoke
+273-273 Extract
+274-274 Smother
+275-275 Obscure
+276-276 Advise
+277-277 Evoke
+278-278 Strike
+279-279 Kindle
+280-280 Subvert
+281-281 Forbid
+282-282 Sever
+283-283 Suffocate
+284-284 Corrupt
+285-285 Retreat
+286-286 Detect
+287-287 Spurn
+288-288 Prune
+289-289 Pierce
+290-290 Race
+291-291 Enlarge
+292-292 Frighten
+293-293 Fight
+294-294 Wrest
+295-295 Strain
+296-296 Embolden
+297-297 Erode
+298-298 Winnow
+299-299 Coerce
+300-300 Awaken
+
+d300 Theme
+1-1 Risk
+2-2 Ability
+3-3 Price
+4-4 Ally
+5-5 Battle
+6-6 Safety
+7-7 Survival
+8-8 Weapon
+9-9 Wound
+10-10 Shelter
+11-11 Leader
+12-12 Fear
+13-13 Time
+14-14 Duty
+15-15 Secret
+16-16 Innocence
+17-17 Renown
+18-18 Direction
+19-19 Death
+20-20 Honor
+21-21 Labor
+22-22 Solution
+23-23 Tool
+24-24 Balance
+25-25 Love
+26-26 Barrier
+27-27 Creation
+28-28 Decay
+29-29 Trade
+30-30 Bond
+31-31 Hope
+32-32 Superstition
+33-33 Peace
+34-34 Deception
+35-35 History
+36-36 World
+37-37 Vow
+38-38 Protection
+39-39 Nature
+40-40 Opinion
+41-41 Burden
+42-42 Vengeance
+43-43 Opportunity
+44-44 Faction
+45-45 Danger
+46-46 Corruption
+47-47 Freedom
+48-48 Debt
+49-49 Hate
+50-50 Possession
+51-51 Stranger
+52-52 Passage
+53-53 Land
+54-54 Creature
+55-55 Disease
+56-56 Advantage
+57-57 Blood
+58-58 Language
+59-59 Rumor
+60-60 Weakness
+61-61 Greed
+62-62 Family
+63-63 Resource
+64-64 Structure
+65-65 Dream
+66-66 Community
+67-67 War
+68-68 Portent
+69-69 Prize
+70-70 Destiny
+71-71 Momentum
+72-72 Power
+73-73 Memory
+74-74 Ruin
+75-75 Mysticism
+76-76 Rival
+77-77 Problem
+78-78 Idea
+79-79 Revenge
+80-80 Health
+81-81 Fellowship
+82-82 Enemy
+83-83 Religion
+84-84 Spirit
+85-85 Fame
+86-86 Desolation
+87-87 Strength
+88-88 Knowledge
+89-89 Truth
+90-90 Quest
+91-91 Pride
+92-92 Loss
+93-93 Law
+94-94 Path
+95-95 Warning
+96-96 Relationship
+97-97 Wealth
+98-98 Home
+99-99 Strategy
+100-100 Supply
+101-101 Treasure
+102-102 Victory
+103-103 Energy
+104-104 Society
+105-105 Disruption
+106-106 Imitation
+107-107 Belief
+108-108 Blessing
+109-109 Worth
+110-110 Failure
+111-111 End
+112-112 Anger
+113-113 Miracle
+114-114 Competition
+115-115 Union
+116-116 Security
+117-117 Achievement
+118-118 Desertion
+119-119 Control
+120-120 Deceit
+121-121 Redemption
+122-122 Sympathy
+123-123 Vice
+124-124 Cowardice
+125-125 Beast
+126-126 Curse
+127-127 Struggle
+128-128 Wrath
+129-129 Connection
+130-130 Plot
+131-131 Patience
+132-132 Intelligence
+133-133 Devotion
+134-134 Cooperation
+135-135 Vanity
+136-136 Violation
+137-137 Rupture
+138-138 Warband
+139-139 Exploration
+140-140 Compassion
+141-141 Mystery
+142-142 Glory
+143-143 Oppression
+144-144 Ancestry
+145-145 Atonement
+146-146 Payment
+147-147 Betrayal
+148-148 Illness
+149-149 Brilliance
+150-150 Obstacle
+151-151 Ceremony
+152-152 Charity
+153-153 Disagreement
+154-154 Order
+155-155 Identity
+156-156 Company
+157-157 Disadvantage
+158-158 Dishonor
+159-159 Punishment
+160-160 Skirmish
+161-161 Transformation
+162-162 Trick
+163-163 Offense
+164-164 Plague
+165-165 Harm
+166-166 Proposal
+167-167 Change
+168-168 Dignity
+169-169 Misfortune
+170-170 Judgment
+171-171 Life
+172-172 Opulence
+173-173 Poverty
+174-174 Progress
+175-175 Horror
+176-176 Courage
+177-177 Covenant
+178-178 Shield
+179-179 Friend
+180-180 Growth
+181-181 Skill
+182-182 Conflict
+183-183 Dispute
+184-184 Madness
+185-185 Chaos
+186-186 Alliance
+187-187 Degradation
+188-188 Passion
+189-189 Essence
+190-190 Integrity
+191-191 Plan
+192-192 Relic
+193-193 Intolerance
+194-194 Support
+195-195 Extravagance
+196-196 Bias
+197-197 Fascination
+198-198 Crime
+199-199 Penance
+200-200 Monument
+201-201 Monster
+202-202 Insecurity
+203-203 Way
+204-204 Misuse
+205-205 Pain
+206-206 Trust
+207-207 Coup
+208-208 Riches
+209-209 Vision
+210-210 Ruler
+211-211 Resources
+212-212 Territory
+213-213 Inspiration
+214-214 Ritual
+215-215 Delay
+216-216 Triumph
+217-217 Defense
+218-218 Artistry
+219-219 Exchange
+220-220 Escape
+221-221 Supplies
+222-222 Exposure
+223-223 Mercy
+224-224 Faith
+225-225 Dwelling
+226-226 Justice
+227-227 Distortion
+228-228 Machination
+229-229 Talent
+230-230 Sickness
+231-231 Beauty
+232-232 Doubt
+233-233 Aid
+234-234 Influence
+235-235 Arrogance
+236-236 Beginning
+237-237 Haunting
+238-238 Organization
+239-239 Wisdom
+240-240 Heroism
+241-241 Illusion
+242-242 Pursuit
+243-243 Tension
+244-244 Dominance
+245-245 Disorder
+246-246 Negotiation
+247-247 Hesitation
+248-248 Zealotry
+249-249 Oversight
+250-250 Depravity
+251-251 Healing
+252-252 Duel
+253-253 Tangle
+254-254 Trial
+255-255 Waste
+256-256 Heritage
+257-257 Disaster
+258-258 Herd
+259-259 Retribution
+260-260 Misery
+261-261 Culture
+262-262 Shame
+263-263 Indulgence
+264-264 Swarm
+265-265 Worship
+266-266 Gratitude
+267-267 Destruction
+268-268 Revolt
+269-269 Value
+270-270 Defeat
+271-271 Pact
+272-272 Negligence
+273-273 Forgiveness
+274-274 Separation
+275-275 Harmony
+276-276 Rage
+277-277 Preparation
+278-278 Agreement
+279-279 Submission
+280-280 Cruelty
+281-281 Division
+282-282 Fleet
+283-283 Loyalty
+284-284 Omen
+285-285 Discord
+286-286 Solace
+287-287 Blockade
+288-288 Remains
+289-289 Liberty
+290-290 Arrival
+291-291 Grief
+292-292 Falsehood
+293-293 Symbol
+294-294 Suffering
+295-295 Artifact
+296-296 Mistrust
+297-297 Food
+298-298 Authority
+299-299 Independence
+300-300 Refusal
+
+d300 Location
+1-1 Hideout
+2-2 Ruin
+3-3 Mine
+4-4 Waste
+5-5 Mystical Site
+6-6 Path
+7-7 Outpost
+8-8 Wall
+9-9 Battlefield
+10-10 Hovel
+11-11 Spring
+12-12 Lair
+13-13 Fort
+14-14 Bridge
+15-15 Camp
+16-16 Cairn/Grave
+17-18 Caravan
+19-20 Waterfall
+21-22 Cave
+23-24 Swamp
+25-26 Fen
+27-28 Ravine
+29-30 Road
+31-32 Tree
+33-34 Pond
+35-36 Fields
+37-38 Marsh
+39-40 Steading
+41-42 Rapids
+43-44 Pass
+45-46 Trail
+47-48 Glade
+49-50 Plain
+51-52 Ridge
+53-54 Cliff
+55-56 Grove
+57-58 Village
+59-60 Moor
+61-62 Thicket
+63-64 River Ford
+65-66 Valley
+67-68 Bay/Fjord
+69-70 Foothills
+71-72 Lake
+73-75 River
+76-79 Forest
+80-83 Coast
+84-88 Hill
+89-93 Mountain
+94-99 Woods
+100-100 Anomaly
+101-101 Watch Tower
+102-102 Cabin
+103-103 Large Crystal
+104-104 Encampment
+105-105 Tower
+106-106 Longhouse
+107-107 Crypt
+108-108 Rope Bridge
+109-109 Forest Fire
+110-110 Landslide
+111-111 Flash Flood
+112-112 Lean-To
+113-113 Yurt
+114-114 Mud Hut
+115-115 Fire Pit
+116-116 Orchard
+117-118 Island
+119-120 Escarpment
+121-122 Crop Field
+123-124 Mounds
+125-126 Tiered Farmland
+127-128 Stone Wall
+129-130 Scorched Earth
+131-132 Cavern System
+133-134 Desert
+135-136 Canyon
+137-138 Beach
+139-140 Tundra
+141-142 Salt Flats
+143-144 Large Rock Formations
+145-146 Mesa
+147-148 Butte
+149-150 Game Trail
+151-152 Wild Berry Patch
+153-154 Alluvial Fan
+155-156 Wildflower Field
+157-158 Underground River
+159-160 Crystal Cave
+161-162 Glacier
+163-164 Painted Hills
+165-166 Basin
+167-168 Ice Cave
+169-170 Underground Lake Entrance
+171-172 Steppe
+173-175 Mount
+176-179 Overhang
+180-183 Hunting Grounds
+184-188 Sparse Woods
+189-193 Thick Undergrowth
+194-199 Canopied Forest
+200-200 Anomaly
+201-201 Hut
+202-202 Farm
+203-203 Standing Stones
+204-204 Homestead
+205-205 Tunnel
+206-206 Shrine
+207-207 Stone Pillar
+208-208 Iron Pillar
+209-209 Volcano
+210-210 Monastery
+211-211 Oasis
+212-212 Dunes
+213-213 Mausoleum
+214-214 Stronghold
+215-215 Sacred Place
+216-216 Giant Boulders
+217-218 River Rapids
+219-220 Lava Tube
+221-222 Monument
+223-224 Ledge
+225-226 Savannah
+227-228 Sinkhole
+229-230 Pasture
+231-232 Pit
+233-234 Gravel Incline
+235-236 Rock Incline
+237-238 Summit
+239-240 Peak
+241-242 Plateau
+243-244 Gorge
+245-246 Chasm
+247-248 Stone Bridge
+249-250 Rock Spires
+251-252 Dry Riverbed
+253-254 Cavern
+255-256 Hot Springs
+257-258 Hollow
+259-260 Bog
+261-262 Switch Backs
+263-264 Quicksand
+265-266 Tar Pit
+267-268 Deciduous Forest
+269-270 Hilltop
+271-272 Jungle
+273-275 Conifer Forest
+276-279 Field
+280-283 Clearing
+284-288 Scrubland
+289-293 Stream
+294-299 Grassland
+300-300 Anomaly
+
+d300 Coastal Waters Location
+1-1 Fleet
+2-2 Sargassum
+3-3 Flotsam
+4-4 Mystical Site
+5-5 Lair
+6-10 Wreck
+11-15 Harbor
+16-23 Ship
+24-30 Rocks
+31-38 Fjord
+39-46 Estuary
+47-54 Cove
+55-62 Bay
+63-70 Ice
+71-85 Island
+86-99 Open Water
+100-100 Anomaly
+101-101 Breeding Waters
+102-102 Thermal Vents
+103-103 Sea Cave
+104-104 Lighthouse
+105-105 Solitary Dock
+106-110 Wetlands
+111-115 Port
+116-123 Barge
+124-130 River Delta
+131-138 White Cliffs
+139-146 Sandy Beach
+147-154 Inlet
+155-162 Atoll
+163-170 Iceberg
+171-185 Ice Floe
+186-199 Glacier
+200-200 Anomaly
+201-201 Fishing Village
+202-202 Pirate Camp
+203-203 Jetsam
+204-204 Lava Flow
+205-205 Coral Reef
+206-210 Barrier Reef
+211-215 Glacial Wall
+216-223 Derelict
+224-230 Storm Debris
+231-238 Peninsula
+239-246 Archipelago
+247-254 Rocky Beach
+255-262 Island Chain
+263-270 Natural Arches
+271-285 Stacks
+286-299 Sand Bars
+300-300 Anomaly
+
+d300 Location Descriptor
+1-2 High
+3-4 Remote
+5-6 Exposed
+7-8 Small
+9-10 Broken
+11-12 Diverse
+13-14 Rough
+15-16 Dark
+17-18 Shadowy
+19-20 Contested
+21-22 Grim
+23-24 Wild
+25-26 Fertile
+27-28 Blocked
+29-30 Ancient
+31-32 Perilous
+33-34 Hidden
+35-36 Occupied
+37-38 Rich
+39-40 Big
+41-42 Savage
+43-44 Defended
+45-46 Withered
+47-48 Mystical
+49-50 Inaccessible
+51-52 Protected
+53-54 Abandoned
+55-56 Wide
+57-58 Foul
+59-60 Dead
+61-62 Ruined
+63-64 Barren
+65-66 Cold
+67-68 Blighted
+69-70 Low
+71-72 Beautiful
+73-74 Abundant
+75-76 Lush
+77-78 Flooded
+79-80 Empty
+81-82 Strange
+83-84 Corrupted
+85-86 Peaceful
+87-88 Forgotten
+89-90 Expansive
+91-92 Settled
+93-94 Dense
+95-96 Civilized
+97-98 Desolate
+99-100 Isolated
+101-102 Bustling
+103-104 Compact
+105-106 Fantastic
+107-108 Huge
+109-110 Strategic
+111-112 Hazardous
+113-114 Dangerous
+115-116 Exotic
+117-118 Crumbling
+119-120 Dilapidated
+121-122 Decayed
+123-124 Unsafe
+125-126 Secret
+127-128 Tropical
+129-130 Frozen
+131-132 Mysterious
+133-134 Undesirable
+135-136 Poor
+137-138 Vibrant
+139-140 Bright
+141-142 Tamed
+143-144 Depleted
+145-146 Guarded
+147-148 Thin
+149-150 Lively
+151-152 Eerie
+153-154 Warm
+155-156 Narrow
+157-158 Windy
+159-160 Calm
+161-162 Creepy
+163-164 Crowded
+165-166 Deserted
+167-168 Dry
+169-170 Wet
+171-172 Enchanted
+173-174 Majestic
+175-176 Spacious
+177-178 Tranquil
+179-180 Natural
+181-182 Noisy
+183-184 Quiet
+185-186 Stormy
+187-188 Unique
+189-190 Traditional
+191-192 Lonely
+193-194 Smooth
+195-196 Colossal
+197-198 Giant
+199-200 Tiny
+201-202 Chilly
+203-204 Chilling
+205-206 Unnerving
+207-208 Horrifying
+209-210 Crooked
+211-212 Dim
+213-214 Filthy
+215-216 Dirty
+217-218 Dingy
+219-220 Harsh
+221-222 Elderly
+223-224 Old
+225-226 Young
+227-228 Sharp
+229-230 Steep
+231-232 Terrible
+233-234 Overgrown
+235-236 Bountiful
+237-238 Crude
+239-240 Primitive
+241-242 Odd
+243-244 Endangered
+245-246 Hostile
+247-248 Neglected
+249-250 Pristine
+251-252 Toxic
+253-254 Treacherous
+255-256 Unsavory
+257-258 Cluttered
+259-260 Bleak
+261-262 Somber
+263-264 Gloomy
+265-266 Uninhabited
+267-268 Disgusting
+269-270 Nightmarish
+271-272 Haunted
+273-274 Turbulent
+275-276 Ugly
+277-278 Grand
+279-280 Enigmatic
+281-282 Complex
+283-284 Sacred
+285-286 Hospitable
+287-288 Shoddy
+289-290 Timeless
+291-292 Untouched
+293-294 Vulnerable
+295-296 Open
+297-298 Closed
+299-300 Violent
+
+d300 Quick Settlement Name: Prefix
+1-4 Bleak
+5-8 Green
+9-12 Wolf
+13-16 Raven
+17-20 Gray
+21-24 Red
+25-28 Axe
+29-32 Great
+33-36 Wood
+37-40 Low
+41-44 White
+45-48 Storm
+49-52 Black
+53-56 Mourn
+57-60 New
+61-64 Stone
+65-68 Grim
+69-72 Lost
+73-76 High
+77-80 Rock
+81-84 Shield
+85-88 Sword
+89-92 Frost
+93-96 Thorn
+97-100 Long
+101-104 North
+105-108 South
+109-112 East
+113-116 West
+117-120 Summer
+121-124 Winter
+125-128 Fall
+129-132 Spring
+133-136 Iron
+137-140 Sweet
+141-144 Wind
+145-148 Eagle
+149-152 Bear
+153-156 Ash
+157-160 Pine
+161-164 Oak
+165-168 Timber
+169-172 Gold
+173-176 Silver
+177-180 Hill
+181-184 Hawk
+185-188 Hound
+189-192 Lion
+193-196 Wyrm
+197-200 Vintner
+201-204 Potters
+205-208 Rain
+209-212 Elk
+213-216 Boar
+217-220 Fleet
+221-224 Mead
+225-228 Bridge
+229-232 Snow
+233-236 Crow
+237-240 Owl
+241-244 Hammer
+245-248 Wrath
+249-252 Cliff
+253-256 Little
+257-260 Fox
+261-264 Dry
+265-268 Moss
+269-272 Brittle
+273-276 Bitter
+277-280 Boulder
+281-284 Dawn
+285-288 Stag
+289-292 Sleet
+293-296 Wilde
+297-300 Elder
+
+d300 Quick Settlement Name: Suffix
+1-4 moor
+5-8 ford
+9-12 crag
+13-16 watch
+17-20 hope
+21-24 wood
+25-28 ridge
+29-32 stone
+33-36 haven
+37-40 fall(s)
+41-44 river
+45-48 field
+49-52 hill
+53-56 bridge
+57-60 mark
+61-64 cairn
+65-68 land
+69-72 hall
+73-76 mount
+77-80 rock
+81-84 brook
+85-88 barrow
+89-92 stead
+93-96 home
+97-100 wick
+101-104 vale
+105-108 ton
+109-112 don
+113-116 ville
+117-120 thorpe
+121-124 stage
+125-128 rest
+129-132 fold
+133-136 crest
+137-140 tun
+141-144 bourne
+145-148 gap
+149-152 valley
+153-156 peak
+157-160 dale
+161-164 nest
+165-168 tree
+169-172 kirk
+173-176 bay
+177-180 henge
+181-184 horn
+185-188 ness
+189-192 willow
+193-196 beck
+197-200 thwaite
+201-204 brekkr
+205-208 borough
+209-212 dalr
+213-216 by
+217-220 sham
+221-224 well
+225-228 crossing
+229-232 steinn
+233-236 smith
+237-240 grave
+241-244 keld
+245-248 wen
+249-252 grove
+253-256 ham
+257-260 nock
+261-264 worth
+265-268 holm
+269-272 haugr
+273-276 fell
+277-280 gate
+281-284 mon
+285-288 dore
+289-292 torp
+293-296 loft
+297-300 vik
+
+d300 Settlement Trouble
+1-2 Outsiders rejected
+3-4 Dangerous discovery
+5-6 Dreadful omens
+7-8 Natural disaster
+9-10 Old wounds reopened
+11-12 Important object is lost
+13-14 Someone is captured
+15-16 Mysterious phenomenon
+17-18 Revolt against a leader
+19-20 Vengeful outcast
+21-22 Rival settlement
+23-24 Nature strikes back
+25-26 Someone is missing
+27-28 Production halts
+29-30 Mysterious murders
+31-32 Debt comes due
+33-34 Unjust leadership
+35-36 Disastrous accident
+37-38 In league with the enemy
+39-40 Raiders prey on the weak
+41-42 Cursed past
+43-44 An innocent is accused
+45-46 Corrupted by dark magic
+47-48 Isolated by brutal weather
+49-50 Provisions are scarce
+51-52 Sickness run amok
+53-54 Allies become enemies
+55-56 Attack is imminent
+57-58 Lost caravan
+59-60 Dark secret revealed
+61-62 Urgent expedition
+63-64 A leader falls
+65-66 Families in conflict
+67-68 Incompetent leadership
+69-70 Reckless warmongering
+71-72 Beast on the hunt
+73-74 Betrayed from within
+75-76 Broken truce
+77-78 Wrathful haunt
+79-80 Conflict with firstborn
+81-82 Trade route blocked
+83-84 In the crossfire
+85-86 Stranger causes discord
+87-88 Important event threatened
+89-90 Dangerous tradition
+91-100 Roll twice
+101-102 Mystic's power surges uncontrollably 
+103-104 Authoritarian leader
+105-106 Forced labor camps
+107-108 Contest of arms gone wrong 
+109-110 Mine collapse
+111-112 Protection racket
+113-114 Incoming swarm
+115-116 Mystical blight
+117-118 Resources depleted
+119-120 Consequences of a forsaken vow 
+121-122 Water source dried up
+123-124 Important object broken
+125-126 Mystic declares a dark prophecy
+127-128 Trade route plagued by bandits
+129-130 Trade caravan being ambushed right now
+131-132 Mob hunts a mystic
+133-134 Storm damaged structures
+135-136 Dark cult has control 
+137-138 Area slowly flooding
+139-140 Treaty signing interrupted 
+141-142 Series of kidnapping
+143-144 Horrors roam the night
+145-146 Herds being hunted
+147-148 Harvest lost
+149-150 Forest fire
+151-152 Rock formation collapse
+153-154 Lack of iron
+155-156 Winter is early
+157-158 New settlement discovered
+159-160 Blizzard catches them unprepared
+161-162 Vengeful mystic's curse
+163-164 Sacred object is lost
+165-166 Religious leader in conflict with overseer
+167-168 Zealots in control
+169-170 Town bully
+171-172 Residents too infirm to care for themselves
+173-174 Sacrifices demanded
+175-176 Turning a blind eye
+177-178 Allies abandon a cause
+179-180 Political schism
+181-182 Ironsworn rejected
+183-184 Many here have forsaken vows
+185-186 Reckless upstart
+187-188 Firstborn take offense
+189-190 Mystic ceremony interrupted
+191-200 Roll twice
+201-202 Falling star lands explosively
+203-204 Large creature burrows under structures
+205-206 Epic beast on the move
+207-208 Bounty hunter seeks an innocent
+209-210 Strange formation carved in the hillside
+211-212 Local graveyard has been desecrated
+213-214 Celestial event causes hysteria
+215-216 Game hunters injured
+217-218 Cavern of creatures unearthed
+219-220 Inexplicable deaths
+221-222 Need to create safe trade route
+223-224 Truce threatened
+225-226 Elaborate hoax
+227-228 Collapsed bridge
+229-230 Ancestral weapon lost
+231-232 Pillar of iron discovered
+233-234 Rune-covered monolith has appeared
+235-236 Permafrost spreading
+237-238 Livestock on the loose
+239-240 Citizens trapped in the wilderness
+241-242 Animal traps have been destroyed
+243-244 Mystic trapped in the throes of a ritual
+245-246 All the children have disappeared
+247-248 Rebuilding from a recent battle
+249-250 Citizen who was lost returns but can't speak
+251-252 Pack of hunting animals
+253-254 Grief-stricken over significant loss
+255-256 Untrusted criminal seeks redemption
+257-258 Settlement's chief defender has died
+259-260 Sinkhole damages settlement
+261-262 Surge of refugees
+263-264 Sickness hits livestock
+265-266 Stampede
+267-268 Vermin infestation
+269-270 Water source poisoned
+271-272 Crops are ablaze
+273-274 Dueling mystics
+275-276 Forced to quarter bandits
+277-278 Leader has been poisoned
+279-280 Assassination attempt on leader
+281-282 Smithing forge destroyed
+283-284 Beacon fires go out
+285-286 Need impartial judge for a trial
+287-288 Territory dispute
+289-290 Supplies stolen
+291-300 Roll twice
+
+d300 Character Role
+1-2 Criminal
+3-4 Healer
+5-6 Bandit
+7-9 Guide
+10-12 Performer
+13-15 Miner
+16-18 Mercenary
+19-21 Outcast
+22-24 Vagrant
+25-27 Forester
+28-30 Traveler
+31-33 Mystic
+34-36 Priest
+37-39 Sailor
+40-42 Pilgrim
+43-45 Thief
+46-48 Adventurer
+49-51 Forager
+52-54 Leader
+55-58 Guard
+59-62 Artisan
+63-66 Scout
+67-70 Herder
+71-74 Fisher
+75-79 Warrior
+80-84 Hunter
+85-89 Raider
+90-94 Trader
+95-99 Farmer
+100-100 Unusual role
+101-102 Alchemist
+103-104 Historian
+105-106 Scribe
+107-109 Baker
+110-112 Minstrel
+113-115 Apothecary
+116-118 Chandler
+119-121 Rope Maker
+122-124 Acolyte
+125-127 Clergy
+128-130 Cooper
+131-133 Equine Trainer
+134-136 Falconer
+137-139 Farrier
+140-142 Bowyer/Fletcher
+143-145 Messenger
+146-148 Herbalist
+149-151 Brewer
+152-154 Animal Healer
+155-158 Shipwright
+159-162 Mason
+163-166 Shaman
+167-170 Midwife
+171-174 Fur Trader
+175-179 Livestock Farmer
+180-184 Carpenter
+185-189 Blacksmith
+190-194 Shepherd
+195-199 Tanner
+200-200 Unusual
+201-202 Cobbler
+203-204 Explorer
+205-206 Paper Maker
+207-209 Book Binder
+210-212 Thatcher
+213-215 Tinkerer
+216-218 Soldier
+219-221 Stable Hand
+222-224 Tutor
+225-227 Tax Collector
+228-230 Jeweler
+231-233 Weaponsmith
+234-236 Armorsmith
+237-239 Potter
+240-242 Bone Carver
+243-245 Seer
+246-248 Overseer
+249-251 Bodyguard
+252-254 Wheel Maker
+255-258 Watchman
+259-262 Cook
+263-266 Trapper
+267-270 Bannerman
+271-274 Tracker
+275-279 Weaver
+280-284 Urchin
+285-289 Tailor
+290-294 Miller
+295-299 Merchant
+300-300 Unusual
+
+d300 Character Goal
+1-3 Obtain an object
+4-6 Make an agreement
+7-9 Build a relationship
+10-12 Undermine a relationship
+13-15 Seek a truth
+16-18 Pay a debt
+19-21 Refute a falsehood
+22-24 Harm a rival
+25-27 Cure an ill
+28-30 Find a person
+31-33 Find a home
+34-36 Seize power
+37-39 Restore a relationship
+40-42 Create an item
+43-45 Travel to a place
+46-48 Secure provisions
+49-51 Rebel against power
+52-54 Collect a debt
+55-57 Protect a secret
+58-60 Spread faith
+61-63 Enrich themselves
+64-66 Protect a person
+67-69 Protect the status quo
+70-72 Advance status
+73-75 Defend a place
+76-78 Avenge a wrong
+79-81 Fulfill a duty
+82-84 Gain knowledge
+85-87 Prove worthiness
+88-90 Find redemption
+91-92 Escape from something
+93-95 Resolve a dispute
+96-100 Roll twice
+101-103 Bring law and order
+104-106 Protect the innocent
+107-109 Feel personal accomplishment
+110-112 Rescue a person
+113-115 Get revenge
+116-118 Gain fame and glory
+119-121 Acquire riches
+122-124 Find unique artifacts
+125-127 Deepen mystic power
+128-130 Fight the good fight
+131-133 Explore and discover
+134-136 Advance a settlement
+137-139 Unite settlements
+140-142 Leave their mark
+143-145 Personal development
+146-148 Have food to eat
+149-151 Live in relative luxury
+152-154 Serve others
+155-157 Bring forth justice
+158-160 Advance religion
+161-163 Make many small impacts
+164-166 Build a better life
+167-169 Collect unique art
+170-172 Gain power and influence
+173-175 Solve ancient mystery
+176-178 Find safe place to live
+179-181 Gain followers
+182-184 Become an overseer
+185-187 Be loved by all
+188-190 Cure disease
+191-192 Slay a creature
+193-195 Bring balance
+196-200 Roll twice
+201-203 Hedonism
+204-206 Raise a family
+207-209 Help the helpless
+210-212 Voice for the voiceless
+213-215 Raise others from poverty
+216-218 Seek wisdom and knowledge
+219-221 Destroy an item
+222-224 Find a soulmate
+225-227 Teach others
+228-230 Be a hero
+231-233 Liberate those in bondage
+234-236 Bring order to chaos
+237-239 Achieve moral perfection
+240-242 Achieve spiritual enlightenment
+243-245 Oppress others
+246-248 Scheme machinations
+249-251 Serve the rightful ruler
+252-254 Feed an addiction
+255-257 Discover the truth of their past
+258-260 Learn of the Old World
+261-263 Make contact with firstborn
+264-266 Survive the winter
+267-269 Change the system
+270-272 Defeat a foe
+273-275 Be the best
+276-278 Avoid ridicule
+279-281 Be left alone
+282-284 Stay true to friends and family
+285-287 Win affection
+288-290 Defeat romantic rival
+291-292 Find settlement resources
+293-295 Seek forgiveness
+296-300 Roll twice
+
+d300 Character Descriptor
+1-1 Stoic
+2-2 Attractive
+3-3 Passive
+4-4 Aloof
+5-5 Affectionate
+6-6 Generous
+7-7 Smug
+8-8 Armed
+9-9 Clever
+10-10 Brave
+11-11 Ugly
+12-12 Sociable
+13-13 Doomed
+14-14 Connected
+15-15 Bold
+16-16 Jealous
+17-17 Angry
+18-18 Active
+19-19 Suspicious
+20-20 Hostile
+21-21 Hardhearted
+22-22 Successful
+23-23 Talented
+24-24 Experienced
+25-25 Deceitful
+26-26 Ambitious
+27-27 Aggressive
+28-28 Conceited
+29-29 Proud
+30-30 Stern
+31-31 Dependent
+32-32 Wary
+33-33 Strong
+34-34 Insightful
+35-35 Dangerous
+36-36 Quirky
+37-37 Cheery
+38-38 Disfigured
+39-39 Intolerant
+40-40 Skilled
+41-41 Stingy
+42-42 Timid
+43-43 Insensitive
+44-44 Wild
+45-45 Bitter
+46-46 Cunning
+47-47 Remorseful
+48-48 Kind
+49-49 Charming
+50-50 Oblivious
+51-51 Critical
+52-52 Cautious
+53-53 Resourceful
+54-54 Weary
+55-55 Wounded
+56-56 Anxious
+57-57 Powerful
+58-58 Athletic
+59-59 Driven
+60-60 Cruel
+61-61 Quiet
+62-62 Honest
+63-63 Infamous
+64-64 Dying
+65-65 Reclusive
+66-66 Artistic
+67-67 Disabled
+68-68 Confused
+69-69 Manipulative
+70-70 Relaxed
+71-71 Stealthy
+72-72 Confident
+73-73 Weak
+74-74 Friendly
+75-75 Wise
+76-76 Influential
+77-77 Young
+78-78 Adventurous
+79-79 Oppressed
+80-80 Vengeful
+81-81 Cooperative
+82-82 Armored
+83-83 Apathetic
+84-84 Determined
+85-85 Loyal
+86-86 Sick
+87-87 Religious
+88-88 Selfish
+89-89 Old
+90-90 Fervent
+91-91 Violent
+92-92 Agreeable
+93-93 Hot-tempered
+94-94 Stubborn
+95-95 Incompetent
+96-96 Greedy
+97-97 Cowardly
+98-98 Obsessed
+99-99 Careless
+100-100 Ironsworn
+101-101 Charismatic
+102-102 Gullible
+103-103 Touchy
+104-104 Passionate
+105-105 Superficial
+106-106 Sad
+107-107 Scary
+108-108 Courageous
+109-109 Contrary
+110-110 Calm
+111-111 Easily impressed
+112-112 Overcritical
+113-113 Obstinate
+114-114 Squeamish
+115-115 Organized
+116-116 Straightforward
+117-117 Alert
+118-118 Hard working
+119-119 Nice
+120-120 Lost in the past
+121-121 Discreet
+122-122 Fickle
+123-123 Reactionary
+124-124 Understanding
+125-125 Sarcastic
+126-126 Cold-hearted
+127-127 Tough
+128-128 Gregarious
+129-129 Fixated
+130-130 Reserved
+131-131 Romantic
+132-132 Miserly
+133-133 Eager to please
+134-134 Ill-tempered
+135-135 Practical
+136-136 Meddlesome
+137-137 Sincere
+138-138 Nervous
+139-139 Curious
+140-140 Compulsive
+141-141 Patient
+142-142 Clumsy
+143-143 Calculating
+144-144 Addicted
+145-145 Liberal
+146-146 Helpful
+147-147 Prejudiced
+148-148 Witty
+149-149 Thoughtless
+150-150 Reckless
+151-151 Sympathetic
+152-152 Shy
+153-153 Meek
+154-154 Plucky
+155-155 Vain
+156-156 Creepy
+157-157 Belligerent
+158-158 Irresponsible
+159-159 Fearless
+160-160 Dogmatic
+161-161 Trustworthy
+162-162 Zealous
+163-163 Foolhardy
+164-164 Sensitive
+165-165 Thoughtful
+166-166 Persistent
+167-167 Tidy
+168-168 Rude
+169-169 Erratic
+170-170 Gossipy
+171-171 Flirtatious
+172-172 Pragmatic
+173-173 Vicious
+174-174 Frank
+175-175 Brusque
+176-176 Mean
+177-177 Bothersome
+178-178 Quick-witted
+179-179 Arrogant
+180-180 Cynical
+181-181 Affable
+182-182 Abrupt
+183-183 Unorganized
+184-184 Clinging
+185-185 Pious
+186-186 Rational
+187-187 Warm-hearted
+188-188 Sleepy
+189-189 Intelligent
+190-190 Reliable
+191-191 Pompous
+192-192 Faithful
+193-193 Impulsive
+194-194 Emotional
+195-195 Patronizing
+196-196 Sneaky
+197-197 Dramatic
+198-198 Eccentric
+199-199 Harsh
+200-200 Nosy
+201-201 Grief-stricken
+202-202 Cocky
+203-203 Untrustworthy
+204-204 Moody
+205-205 Inflexible
+206-206 Impatient
+207-207 Pessimistic
+208-208 Sensible
+209-209 Compassionate
+210-210 Forceful
+211-211 Frugal
+212-212 Open-minded
+213-213 Quarrelsome
+214-214 Faithless
+215-215 Tired
+216-216 Assertive
+217-217 Superstitious
+218-218 Vindictive
+219-219 Self-centered
+220-220 Resentful
+221-221 Weak-willed
+222-222 Morose
+223-223 Indecisive
+224-224 Happy
+225-225 Loving
+226-226 Pontificating
+227-227 Inconsiderate
+228-228 Boring
+229-229 Closed-minded
+230-230 Decisive
+231-231 Bashful
+232-232 Carefree
+233-233 Ruthless
+234-234 Boastful
+235-235 Amusing
+236-236 Funny
+237-237 Insane
+238-238 Adaptable
+239-239 Diligent
+240-240 Blunt
+241-241 Short-tempered
+242-242 Disloyal
+243-243 Energetic
+244-244 Humble
+245-245 Courteous
+246-246 Communicative
+247-247 Unreliable
+248-248 Sickening
+249-249 Conscientious
+250-250 Immoral
+251-251 Modest
+252-252 Chaotic
+253-253 Indiscreet
+254-254 Dishonest
+255-255 Amicable
+256-256 Cantankerous
+257-257 Unkind
+258-258 Considerate
+259-259 Unpredictable
+260-260 Judgmental
+261-261 Possessive
+262-262 Civil
+263-263 Lazy
+264-264 Complacent
+265-265 Forthcoming
+266-266 Prideful
+267-267 Awestruck
+268-268 Devout
+269-269 Narcissistic
+270-270 Optimistic
+271-271 Paranoid
+272-272 Flexible
+273-273 Unassuming
+274-274 Childish
+275-275 Ignorant
+276-276 Polite
+277-277 Fanatical
+278-278 Grumpy
+279-279 Mysterious
+280-280 Finicky
+281-281 Immature
+282-282 Competent
+283-283 Tacky
+284-284 Absent-minded
+285-285 Secretive
+286-286 Depressing
+287-287 Tactless
+288-288 Easygoing
+289-289 Spoiled
+290-290 Deadly
+291-291 Terrifying
+292-292 Benevolent
+293-293 Pro-active
+294-294 Conservative
+295-295 Naive
+296-296 Gentle
+297-297 Impartial
+298-298 Boisterous
+299-299 Callous
+300-300 Diplomatic
+
+d300 Character Disposition
+1-6 Helpful
+7-13 Friendly
+14-20 Cooperative
+21-28 Curious
+29-36 Indifferent
+37-47 Suspicious
+48-57 Wanting
+58-67 Desperate
+68-76 Demanding
+77-85 Unfriendly
+86-93 Threatening
+94-100 Hostile
+101-106 Joyful
+107-113 Excited
+114-120 Agreeable
+121-128 Introspective
+129-136 Bored
+137-147 Guarded
+148-157 Veiled
+158-167 Needy
+168-176 Fearful
+177-185 Derisive
+186-193 Disgusted
+194-200 Hateful
+201-206 Grateful
+207-213 Optimistic
+214-220 Interested
+221-228 Distracted
+229-236 Confused
+237-247 Annoyed
+248-257 Obfuscating
+258-267 Bitter
+268-276 Nervous
+277-285 Angry
+286-293 Disapproving
+294-300 Combative
+
+d300 NPC CONVERSATION
+1-5 Their own heritage
+6-10 The heritage of a PC
+11-15 The heritage of an NPC
+16-20 A source of wealth
+21-25 The distribution of wealth
+26-30 Where the power lies
+31-35 Local warbands
+36-40 Powerful people
+41-45 Ingenious or outlandish ideas
+46-50 Items of importance
+51-55 Legends of relics
+56-60 Legends of heroic deeds
+61-65 Famous people
+66-70 Famous places
+71-75 The quickest way to fame
+76-80 How to curry favor
+81-85 Shifting political alliances
+86-90 Useful contacts
+91-95 A significant death
+96-100 The culture of the community
+101-105 The future of the community
+106-110 The heritage of the community
+111-115 The value of experience
+116-120 The most valuable experiences
+121-125 Rumors of a PC's past
+126-130 Rumors of an NPC's past
+131-135 Important social connections
+136-140 New life
+141-145 The current leadership
+146-150 Important political connections
+151-155 Recent political changes
+156-160 A specific location
+161-165 General knowledge of a region
+166-170 The acquisition of knowledge
+171-175 Current events
+176-180 Upcoming events
+181-185 A personal injury
+186-190 Their own failures
+191-195 The failures of a PC
+196-200 The failures of an NPC
+201-205 A recent change in their own family
+206-210 Reported sightings of the firstborn
+211-215 A recent change in the family of an NPC
+216-220 Information that has recently been lost
+221-225 Information that was lost when coming from the Old World
+226-230 Information that has recently been discovered
+231-235 A PC secret that has been made known
+236-240 An enemy secret that has been made known
+241-245 Gossip about shamed Ironlanders and forsaken vows
+246-250 Why the leadership needs to change
+251-255 History from before the Ironlanders
+256-260 Particular skills of a trade or craft
+261-265 Particular equipment of a trade or craft
+266-270 Common knowledge about an enemy
+271-275 Small jobs or quests that need to be done
+276-280 A recent inaction and the consequences
+281-285 Difficulties in settling the Ironlands
+286-290 The decline of the Old World as told to them in childhood
+291-295 A minor plot point involving an iron vow
+296-300 A major plot point involving an iron vow
+
+d100 NPC Plot Knowledge: Type
+1-3 The location of
+4-6 The identity of
+7-9 Positive news about
+10-12 Negative news about
+13-15 A positive change in
+16-18 A negative change in
+19-21 A connection between an NPC and
+22-24 A connection between a PC and
+25-27 A connection between an antagonist and
+28-30 A significant insight related to
+31-33 Historical/background knowledge about
+34-36 An ambush concerning
+37-39 An alteration of
+40-42 A physical loss involving
+43-45 A mental loss involving
+46-48 An emotional loss involving
+49-51 A spiritual loss involving
+52-54 A financial loss involving
+55-57 The loss of an ability involving
+58-60 The loss of authority involving
+61-63 A material loss involving
+64-66 A loss of influence involving
+67-69 A loss of opportunity involving
+70-72 A physical boon involving
+73-75 A mental boon involving
+76-78 An emotional boon involving
+79-81 A spiritual boon involving
+82-84 A financial boon involving
+85-87 The acquisition of an ability involving
+88-90 The acquisition of authority involving
+91-93 A material boon involving
+94-96 A gain in influence involving
+97-99 An additional opportunity involving
+100-100 The truth is the exact opposite of what the PCs thought about
+
+d100 NPC Plot Knowledge: Topic
+1-3 an enemy spy
+4-6 an enemy servant
+7-9 an enemy leader
+10-12 an enemy stronghold
+13-15 a secret enemy hideout
+16-18 a safe location for the PCs
+19-21 a dangerous location for the PCs
+22-24 an enemy who is now an ally
+25-27 a traitor to the PCs
+28-30 an enemy's current plan
+31-33 an enemy's future plan
+34-36 a necessary artifact for fulfilling a vow
+37-39 a benefactor for the PCs
+40-42 a distant location
+43-45 the current setting
+46-48 a main antagonist
+49-51 a beloved NPC
+52-54 a combative NPC
+55-57 a single PC
+58-60 the PCs as a whole
+61-63 a despised NPC
+64-66 a necessary object to complete a vow
+67-69 the road or passage to the next location
+70-72 a special status for a PC
+73-75 a special status for an NPC
+76-78 a special status for a main antagonist
+79-81 the current short-term goal
+82-84 a group supportive to the PCs
+85-87 an extreme or epic vow
+88-90 a person with vital information about a formidable or lower vow
+91-93 an oppositional group that is not a main antagonist
+94-96 a person with vital information about an extreme or epic vow
+97-99 a previously unknown character connected to the plot
+100-100 a foundational truth of the world
+
+d600 Ironlander Names
+1-1 Solana
+2-2 Keelan
+3-3 Cadigan
+4-4 Sola
+5-5 Kodroth
+6-6 Kione
+7-7 Katja
+8-8 Tio
+9-9 Artiga
+10-10 Eos
+11-11 Bastien
+12-12 Elli
+13-13 Maura
+14-14 Haleema
+15-15 Abella
+16-16 Morter
+17-17 Wulan
+18-18 Mai
+19-19 Farina
+20-20 Pearce
+21-21 Wynne
+22-22 Haf
+23-23 Aeddon
+24-24 Khinara
+25-25 Milla
+26-26 Nakata
+27-27 Kynan
+28-28 Kiah
+29-29 Jaggar
+30-30 Beca
+31-31 Ikram
+32-32 Melia
+33-33 Sidan
+34-34 Deshi
+35-35 Tessa
+36-36 Sibila
+37-37 Morien
+38-38 Mona
+39-39 Padma
+40-40 Avella
+41-41 Naila
+42-42 Lio
+43-43 Cera
+44-44 Ithela
+45-45 Zhan
+46-46 Kaivan
+47-47 Valeri
+48-48 Hirsham
+49-49 Pemba
+50-50 Edda
+51-51 Lestara
+52-52 Lago
+53-53 Elstan
+54-54 Saskia
+55-55 Kabeera
+56-56 Caldas
+57-57 Nisus
+58-58 Serene
+59-59 Chenda
+60-60 Themon
+61-61 Erin
+62-62 Alban
+63-63 Parcell
+64-64 Jelma
+65-65 Willa
+66-66 Nadira
+67-67 Gwen
+68-68 Amara
+69-69 Masias
+70-70 Kanno
+71-71 Razeena
+72-72 Mira
+73-73 Perella
+74-74 Myrick
+75-75 Qamar
+76-76 Kormak
+77-77 Zura
+78-78 Zanita
+79-79 Brynn
+80-80 Tegan
+81-81 Pendry
+82-82 Quinn
+83-83 Fanir
+84-84 Glain
+85-85 Emelyn
+86-86 Kendi
+87-87 Althus
+88-88 Leela
+89-89 Ishana
+90-90 Flint
+91-91 Delkash
+92-92 Nia
+93-93 Nan
+94-94 Keeara
+95-95 Katania
+96-96 Morell
+97-97 Temir
+98-98 Bas
+99-99 Sabine
+100-100 Tallus
+101-101 Segura
+102-102 Gethin
+103-103 Bataar
+104-104 Basira
+105-105 Joa
+106-106 Glynn
+107-107 Toran
+108-108 Arasen
+109-109 Kuron
+110-110 Griff
+111-111 Owena
+112-112 Adda
+113-113 Euros
+114-114 Kova
+115-115 Kara
+116-116 Morgan
+117-117 Nanda
+118-118 Tamara
+119-119 Asha
+120-120 Delos
+121-121 Torgan
+122-122 Makari
+123-123 Selva
+124-124 Kimura
+125-125 Rhian
+126-126 Tristan
+127-127 Siorra
+128-128 Sayer
+129-129 Cortina
+130-130 Vesna
+131-131 Kataka
+132-132 Keyshia
+133-133 Mila
+134-134 Lili
+135-135 Vigo
+136-136 Sadia
+137-137 Malik
+138-138 Dag
+139-139 Kuno
+140-140 Reva
+141-141 Kai
+142-142 Kalina
+143-143 Jihan
+144-144 Hennion
+145-145 Abram
+146-146 Aida
+147-147 Myrtle
+148-148 Nekun
+149-149 Menna
+150-150 Tahir
+151-151 Sarria
+152-152 Nakura
+153-153 Akiya
+154-154 Talan
+155-155 Mattick
+156-156 Okoth
+157-157 Khulan
+158-158 Verena
+159-159 Beltran
+160-160 Del
+161-161 Ranna
+162-162 Alina
+163-163 Muna
+164-164 Mura
+165-165 Torrens
+166-166 Yuda
+167-167 Nazmi
+168-168 Ghalen
+169-169 Sarda
+170-170 Shona
+171-171 Kalidas
+172-172 Wena
+173-173 Sendra
+174-174 Kori
+175-175 Setara
+176-176 Lucia
+177-177 Maya
+178-178 Reema
+179-179 Yorath
+180-180 Rhoddri
+181-181 Shekhar
+182-182 Servan
+183-183 Reese
+184-184 Kenrick
+185-185 Indirra
+186-186 Giliana
+187-187 Jebran
+188-188 Kotama
+189-189 Fara
+190-190 Katrin
+191-191 Namba
+192-192 Lona
+193-193 Taylah
+194-194 Kato
+195-195 Esra
+196-196 Eleri
+197-197 Irsia
+198-198 Kayu
+199-199 Bevan
+200-200 Chandra
+201-201 Rafe
+202-202 Eydis
+203-203 Snorri
+204-204 Orvar
+205-205 Ragnheidr
+206-206 Tarben
+207-207 Dagrun
+208-208 Bragi
+209-209 Hakonr
+210-210 Guiscard
+211-211 Esko
+212-212 Alvar
+213-213 Turid
+214-214 Gulla
+215-215 Gudrun
+216-216 Gunnhildr
+217-217 Aki
+218-218 Skuld
+219-219 Gustavo
+220-220 Loke
+221-221 Vidar
+222-222 Gudlaug
+223-223 Hroaldr
+224-224 Asgeirr
+225-225 Svea
+226-226 Trygve
+227-227 Tora
+228-228 Audhild
+229-229 Liva
+230-230 Tyra
+231-231 Haldor
+232-232 Magnhildr
+233-233 Esbjorn
+234-234 Stigr
+235-235 Steinarr
+236-236 Ingrid
+237-237 Embla
+238-238 Ingebjorg
+239-239 Hallr
+240-240 Hallbjorn
+241-241 Brynhildr
+242-242 Solveig
+243-243 Oddvarr
+244-244 Astridr
+245-245 Randi
+246-246 Dagmar
+247-247 Indridi
+248-248 Idunn
+249-249 Hildr
+250-250 Olli
+251-251 Ingvar
+252-252 Adalsteinn
+253-253 Borghild
+254-254 Hjalmar
+255-255 Laila
+256-256 Oili
+257-257 Hege
+258-258 Torhild
+259-259 Siegfried
+260-260 Esben
+261-261 Leifr
+262-262 Halvor
+263-263 Espen
+264-264 Hilda
+265-265 Viskrhordr
+266-266 Piret
+267-267 Ulfr
+268-268 Inge
+269-269 Hjordis
+270-270 Sorley
+271-271 Baard
+272-272 Sven
+273-273 Skadi
+274-274 Leif
+275-275 Felagi
+276-276 Hugleikr
+277-277 Herleif
+278-278 Asbjorn
+279-279 Karr
+280-280 Bjarni
+281-281 Aric
+282-282 Endre
+283-283 Tasgall
+284-284 Hrafnhildr
+285-285 Torben
+286-286 Birkir
+287-287 Rollo
+288-288 Olavi
+289-289 Hagen
+290-290 Steinnunnr
+291-291 Inguna
+292-292 Havardr
+293-293 Birgitta
+294-294 Elva
+295-295 Erlingr
+296-296 Erlendur
+297-297 Regin
+298-298 Erik
+299-299 Ivor
+300-300 Finnr
+301-301 Heimir
+302-302 Arvid
+303-303 Sassa
+304-304 Arnbjorg
+305-305 Gjord
+306-306 Elwes
+307-307 Oline
+308-308 Haakon
+309-309 Askr
+310-310 Gota
+311-311 Edda
+312-312 Yngvarr
+313-313 Ari
+314-314 Birgir
+315-315 Frodr
+316-316 Oswald
+317-317 Heidrun
+318-318 Gudini
+319-319 Jorun
+320-320 Nanna
+321-321 Alf
+322-322 Sigrun
+323-323 Folki
+324-324 Oddr
+325-325 Aslaug
+326-326 Sigrid
+327-327 Nerthus
+328-328 Herta
+329-329 Ove
+330-330 Keld
+331-331 Kerr
+332-332 Magni
+333-333 Aleifr
+334-334 Torunn
+335-335 Eskil
+336-336 Eir
+337-337 Tordis
+338-338 Elof
+339-339 Bjork
+340-340 Eivind
+341-341 Freyr
+342-342 Olga
+343-343 Ealdwine
+344-344 Olafur
+345-345 Erkki
+346-346 Uilliam
+347-347 Geirr
+348-348 Stigandr
+349-349 Flaemingr
+350-350 Hallsteinn
+351-351 Hrolfr
+352-352 Helga
+353-353 Mundr
+354-354 Halfdan
+355-355 Gulbrandr
+356-356 Hrafn
+357-357 Torleif
+358-358 Gunnbjorg
+359-359 Gyda
+360-360 Donar
+361-361 Gustaaf
+362-362 Sigmundr
+363-363 Tallak
+364-364 Elvar
+365-365 Bjornar
+366-366 Ritta
+367-367 Ketil
+368-368 Hughard
+369-369 Knut
+370-370 Alvis
+371-371 Trym
+372-372 Lauge
+373-373 Oleg
+374-374 Gytha
+375-375 Ingemar
+376-376 Dasa
+377-377 Elli
+378-378 Gunnvor
+379-379 Kasen
+380-380 Volha
+381-381 Sigrsteinn
+382-382 Alfvin
+383-383 Bui
+384-384 Gudfridr
+385-385 Reidar
+386-386 Njord
+387-387 Oskari
+388-388 Sindri
+389-389 Gudbrand
+390-390 Pirjo
+391-391 Bjartr
+392-392 Asketill
+393-393 Ranulf
+394-394 Kori
+395-395 Egill
+396-396 Sundri
+397-397 Terje
+398-398 Hroarr
+399-399 Ingulfr
+400-400 Gustave
+401-401 Hroderich
+402-402 Valdis
+403-403 Gunvaldr
+404-404 Kare
+405-405 Kirkja
+406-406 Alfarr
+407-407 Arnfinnr
+408-408 Noll
+409-409 Runar
+410-410 Randi
+411-411 Torgny
+412-412 Oddbjorn
+413-413 Birgit
+414-414 Torsten
+415-415 Reginfridr
+416-416 Runi
+417-417 Ragnar
+418-418 Osten
+419-419 Oszkar
+420-420 Sondre
+421-421 Unnr
+422-422 Stian
+423-423 Andor
+424-424 Ralf
+425-425 Eysteinn
+426-426 Iivari
+427-427 Gudridur
+428-428 Bergljot
+429-429 Guusje
+430-430 Svein
+431-431 Knud
+432-432 Tova
+433-433 Inkeri
+434-434 Jalmari
+435-435 Torgeir
+436-436 Osku
+437-437 Selby
+438-438 Hlif
+439-439 Idony
+440-440 Dagmara
+441-441 Guus
+442-442 Radulfr
+443-443 Gustav
+444-444 Somhairle
+445-445 Erland
+446-446 Toril
+447-447 Asdis
+448-448 Algautr
+449-449 Audr
+450-450 Tyr
+451-451 Eerikki
+452-452 Arild
+453-453 Iomhar
+454-454 Erna
+455-455 Gustav
+456-456 Jari
+457-457 Roald
+458-458 Alfhild
+459-459 Yngvi
+460-460 Fridjofr
+461-461 Holger
+462-462 Bothildr
+463-463 Vidarr
+464-464 Astrid
+465-465 Jordis
+466-466 Tollak
+467-467 Cason
+468-468 Randolf
+469-469 Kustaa
+470-470 Sigurd
+471-471 Randall
+472-472 Ragnfridr
+473-473 Ragna
+474-474 Asvaldr
+475-475 Tormod
+476-476 Einarr
+477-477 Erich
+478-478 Ylva
+479-479 Brennan
+480-480 Gunars
+481-481 Agnarr
+482-482 Sverre
+483-483 Vetlidi
+484-484 Gudleifr
+485-485 Gaute
+486-486 Halldora
+487-487 Somerled
+488-488 Eero
+489-489 Rayner
+490-490 Dagr
+491-491 Hallvard
+492-492 Gleb
+493-493 Olivia
+494-494 Oydis
+495-495 Gardr
+496-496 Keir
+497-497 Svana
+498-498 Ivar
+499-499 Balder
+500-500 Rune
+501-501 Hemingr
+502-502 Aile
+503-503 Jarl
+504-504 Gunther
+505-505 Woden
+506-506 Pirkko
+507-507 Ingvildr
+508-508 Dagny
+509-509 Gandralfr
+510-510 Trond
+511-511 Adalbjorg
+512-512 Oden
+513-513 Grimhildr
+514-514 Idonea
+515-515 Oliwier
+516-516 Groa
+517-517 Hella
+518-518 Kriemhild
+519-519 Evander
+520-520 Soini
+521-521 Amund
+522-522 Svanhildr
+523-523 Dagnija
+524-524 Ebbe
+525-525 Oskar
+526-526 Arne
+527-527 Olaug
+528-528 Torbjorn
+529-529 Kjellfrid
+530-530 Inka
+531-531 Oystein
+532-532 Jorunnr
+533-533 Gudleif
+534-534 Frej
+535-535 Piritta
+536-536 Halle
+537-537 Solvej
+538-538 Runa
+539-539 Saga
+540-540 Brand
+541-541 Katla
+542-542 Vigdis
+543-543 Frida
+544-544 Brant
+545-545 Fritjof
+546-546 Elwin
+547-547 Steingrimr
+548-548 Dagfinnr
+549-549 Bodil
+550-550 Magnus
+551-551 Tygo
+552-552 Bjorn
+553-553 Ingegerd
+554-554 Haraldr
+555-555 Raghnaid
+556-556 Tofi
+557-557 Vegard
+558-558 Asta
+559-559 Gerd
+560-560 Gautstafr
+561-561 Torvald
+562-562 Olaf
+563-563 Amhlaidh
+564-564 Osmond
+565-565 Gunnr
+566-566 Eyvindr
+567-567 Saldis
+568-568 Igor
+569-569 Danr
+570-570 Tonje
+571-571 Gote
+572-572 Kjeld
+573-573 Jorsteinn
+574-574 Torkel
+575-575 Eira
+576-576 Baggi
+577-577 Iver
+578-578 Ragnbjorg
+579-579 Asa
+580-580 Wotan
+581-581 Eindride
+582-582 Eberhard
+583-583 Gudmundr
+584-584 Ragnhild
+585-585 Osborn
+586-586 Kalfr
+587-587 Grid
+588-588 Asmund
+589-589 Reidun
+590-590 Helka
+591-591 Jerrik
+592-592 Vigi
+593-593 Steen
+594-594 Sif
+595-595 Ruarc
+596-596 Ase
+597-597 Hama
+598-598 Ragnvald
+599-599 Knutr
+600-600 Oyvind
+
+d300 Elf Names
+1-2 Arsula
+3-4 Naidita
+5-6 Belesunna
+7-8 Vidarna
+9-10 Ninsunu
+11-12 Balathu
+13-14 Dorosi
+15-16 Gezera
+17-18 Zursan
+19-20 Seleeku
+21-22 Utamara
+23-24 Nebakay
+25-26 Dismashk
+27-28 Mitunu
+29-30 Atani
+31-32 Kinzura
+33-34 Sumula
+35-36 Ukames
+37-38 Ahmeshki
+39-40 Ilsit
+41-42 Mayatanay
+43-44 Etana
+45-46 Gamanna
+47-48 Nessana
+49-50 Uralar
+51-52 Tishetu
+53-54 Leucia
+55-56 Sutahe
+57-58 Dotani
+59-60 Uktannu
+61-62 Retenay
+63-64 Kendalanu
+65-66 Tahuta
+67-68 Mattissa
+69-70 Anatu
+71-72 Aralu
+73-74 Arakhi
+75-76 Ibrahem
+77-78 Sinosu
+79-80 Jemshida
+81-82 Visapni
+83-84 Hullata
+85-86 Sidura
+87-88 Kerihu
+89-90 Ereshki
+91-92 Cybela
+93-94 Anunna
+95-96 Otani
+97-98 Ditani
+99-100 Faraza
+101-102 Uktosi
+103-104 Kendeku
+105-106 Ukamuta
+107-108 Jemshalanu
+109-110 Videla
+111-112 Ditera
+113-114 Keralanu
+115-116 Jemshes
+117-118 Ilsashk
+119-120 Kenduri
+121-122 Uktunna
+123-124 Gamarna
+125-126 Seleuri
+127-128 Uktakay
+129-130 Kinzani
+131-132 Zursar
+133-134 Erannu
+135-136 Uralu
+137-138 Uketu
+139-140 Tishula
+141-142 Eria
+143-144 Otita
+145-146 Naidana
+147-148 Ibralu
+149-150 Nebata
+151-152 Uralapni
+153-154 Ahmata
+155-156 Cybanna
+157-158 Inula
+159-160 Erunu
+161-162 Ahmanna
+163-164 Ukalanu
+165-166 Sumucia
+167-168 Etalu
+169-170 Uralissa
+171-172 Kereshki
+173-174 Ibrosu
+175-176 Kendanna
+177-178 Mitani
+179-180 Visela
+181-182 Diteku
+183-184 Viduta
+185-186 Sutihu
+187-188 Ahmani
+189-190 Arsano
+191-192 Farunu
+193-194 Belesapni
+195-196 Ninsahem
+197-198 Arseshki
+199-200 Vidosu
+201-202 Nessuri
+203-204 Dismida
+205-206 Retani
+207-208 Gezarna
+209-210 Anula
+211-212 Uktashk
+213-214 Mattashk
+215-216 Anar
+217-218 Etita
+219-220 Erara
+221-222 Nebathu
+223-224 Nebannu
+225-226 Utamalar
+227-228 Hullit
+229-230 Kinzannu
+231-232 Zursano
+233-234 Gamara
+235-236 Kendura
+237-238 Etusa
+239-240 Erosi
+241-242 Ibranna
+243-244 Seleunu
+245-246 Uktela
+247-248 Kendahe
+249-250 Eriza
+251-252 Nebapni
+253-254 Visusa
+255-256 Arata
+257-258 Naidihu
+259-260 Retata
+261-262 Zursenay
+263-264 Arsana
+265-266 Kerela
+267-268 Vidunu
+269-270 Ahmannu
+271-272 Ninses
+273-274 Ilsahe
+275-276 Zurseku
+277-278 Lematu
+279-280 Balesu
+281-282 Tahan
+283-284 Keres
+285-286 Mayatahem
+287-288 Sumosi
+289-290 Retit
+291-292 Utamannu
+293-294 Dismanay
+295-296 Kereku
+297-298 Ukissa
+299-300 Kinzenay
+
+d300 Giant Names
+1-4 Chony
+5-8 Banda
+9-12 Jochu
+13-16 Kira
+17-20 Khatir
+21-24 Chaidu
+25-28 Atan
+29-32 Buandu
+33-36 Javyn
+37-40 Khashin
+41-44 Bayara
+45-48 Temura
+49-52 Kidha
+53-56 Kathos
+57-60 Tanua
+61-64 Bashtu
+65-68 Jaran
+69-72 Othos
+73-76 Khutan
+77-80 Otaan
+81-84 Martu
+85-88 Baku
+89-92 Tuban
+93-96 Qudan
+97-100 Denua
+101-104 Khutidu
+105-108 Javom
+109-112 Chonadu
+113-116 Temy
+117-120 Kathir
+121-124 Khuton
+125-128 Jarun
+129-132 Chonan
+133-136 Kirochu
+137-140 Othochu
+141-144 Temochu
+145-148 Othon
+149-152 Chonu
+153-156 Bandun
+157-160 Tubandu
+161-164 Bakura
+165-168 Khashun
+169-172 Ottidu
+173-176 Jaros
+177-180 Atir
+181-184 Dena
+185-188 Kidhin
+189-192 Chonon
+193-196 Martun
+197-200 Buando
+201-204 Javua
+205-208 Jochua
+209-212 Bakira
+213-216 Jarira
+217-220 Atua
+221-224 Denara
+225-228 Temida
+229-232 Bayom
+233-236 Tubos
+237-240 Chonoch
+241-244 Kathom
+245-248 Tubura
+249-252 Khutin
+253-256 Teman
+257-260 Bakas
+261-264 Bakin
+265-268 Buu
+269-272 Kathua
+273-276 Bashir
+277-280 Bashara
+281-284 Javida
+285-288 Khashan
+289-292 Bayandu
+293-296 Bayo
+297-300 Tubtu
+
+d300 Varou Names
+1-4 Vata
+5-8 Zora
+9-12 Jasna
+13-16 Charna
+17-20 Tana
+21-24 Soveen
+25-28 Radka
+29-32 Zlata
+33-36 Leesla
+37-40 Byna
+41-44 Meeka
+45-48 Iskra
+49-52 Jarek
+53-56 Darva
+57-60 Neda
+61-64 Keha
+65-68 Zhivka
+69-72 Kvata
+73-76 Staysa
+77-80 Evka
+81-84 Vuksha
+85-88 Muko
+89-92 Dreko
+93-96 Aleko
+97-100 Vojan
+101-104 Sovjan
+105-108 Vatke
+109-112 Tajan
+113-116 Leeske
+117-120 Sovata
+121-124 Zorva
+125-128 Zilta
+129-132 Alerek
+133-136 Radro
+137-140 Isva
+141-144 Evra
+145-148 Sovta
+149-152 Meelak
+153-156 Charrak
+157-160 Kehvo
+161-164 Muro
+165-168 Radlak
+169-172 Vatla
+173-176 Zorjo
+177-180 Zorha
+181-184 Drejan
+185-188 Isek
+189-192 Drero
+193-196 Mutta
+197-200 Taeen
+201-204 Jasvo
+205-208 Dreka
+209-212 Vuvo
+213-216 Keheen
+217-220 Radjan
+221-224 Vojta
+225-228 Isna
+229-232 Taha
+233-236 Leesata
+237-240 Kvaka
+241-244 Darha
+245-248 Dreva
+249-252 Darvo
+253-256 Vueen
+257-260 Vukro
+261-264 Nedek
+265-268 Meea
+269-272 Zhivrak
+273-276 Vukke
+277-280 Zhiveen
+281-284 Dresha
+285-288 Zorata
+289-292 Zokra
+293-296 Nedke
+297-300 Vuta
+
+d300 Troll Names
+1-4 Rattle
+5-8 Scratch
+9-12 Wallow
+13-16 Groak
+17-20 Gimble
+21-24 Scar
+25-28 Cratch
+29-32 Creech
+33-36 Shush
+37-40 Glush
+41-44 Slar
+45-48 Gnash
+49-52 Stoad
+53-56 Grig
+57-60 Bleat
+61-64 Chortle
+65-68 Cluck
+69-72 Slith
+73-76 Mongo
+77-80 Creak
+81-84 Burble
+85-88 Vrusk
+89-92 Snuffle
+93-96 Leech
+97-100 Herk
+101-104 Snarl
+105-108 Gurgle
+109-112 Sniffle
+113-116 Wuffle
+117-120 Mudgo
+121-124 Stomp
+125-128 Bash
+129-132 Crush
+133-136 Snaggle
+137-140 Burp
+141-144 Stamp
+145-148 Foots
+149-152 Wart
+153-156 Guts
+157-160 Gnarl
+161-164 Smash
+165-168 Bump
+169-172 Thump
+173-176 Wump
+177-180 Snigger
+181-184 Gas
+185-188 Lash
+189-192 Spike
+193-196 Pointy
+197-200 Sharp
+201-204 Blig
+205-208 Blongo
+209-212 Screrk
+213-216 Blarg
+217-220 Scarg
+221-224 Scroak
+225-228 Vrig
+229-232 Vrar
+233-236 Vrugle
+237-240 Stig
+241-244 Scrak
+245-248 Hatch
+249-252 Slerk
+253-256 Slatch
+257-260 Grak
+261-264 Crongo
+265-268 Groongo
+269-272 Moad
+273-276 Slurgle
+277-280 Scroad
+281-284 Charl
+285-288 Sturgle
+289-292 Scrongo
+293-296 Stutch
+297-300 Charak
+
+d300 Combat Action
+1-3 Compel a surrender.
+4-6 Coordinate with allies.
+7-9 Gather reinforcements.
+10-13 Seize something or someone.
+14-17 Provoke a reckless response.
+18-21 Intimidate or frighten.
+22-25 Reveal a surprising truth.
+26-29 Shift focus to someone or something else.
+30-33 Destroy something, or render it useless.
+34-39 Take a decisive action.
+40-45 Reinforce defenses.
+46-52 Ready an action.
+53-60 Use the terrain to gain advantage.
+61-68 Leverage the advantage of a weapon or ability.
+69-78 Create an opportunity.
+79-89 Attack with precision.
+90-99 Attack with power.
+100-100 Take a completely unexpected action.
+101-103 Offer a quick and clean kill
+104-106 Command others to fight in their stead
+107-109 Compel to join their side
+110-113 Release someone or something as a distraction
+114-117 Study opponent tactics
+118-121 Taunt or ridicule
+122-125 Tell a convincing falsehood
+126-129 Feint and strike
+130-133 Reveal an item of significance
+134-139 Give a choice of who or what to save (Trolley problem)
+140-145 Guard and defend only
+146-152 Distract from a surprise attack
+153-160 Fight dirty
+161-168 Attempt to disarm opponent
+169-178 Secure an advantage
+179-189 Attempt a killing blow
+190-199 Attack in a wild frenzy
+200-200 Take a completely unexpected action
+201-203 Offer to surrender for a price
+204-206 Panic and flee
+207-209 Disengage and show no further aggression
+210-213 Retreat and move towards cover
+214-217 Take a calculated risk
+218-221 Give an evil monologue
+222-225 Reveal a connection to an ally
+226-229 Sacrifice someone or something else
+230-233 Test an opponent's bond
+234-239 Wait for opponent to make the next move
+240-245 Probe opponent's defenses
+246-252 Drag out the fight to wear the opponent down
+253-260 Use the circumstances of the battle to gain an advantage
+261-268 Use opponent's weapon against them
+269-278 Press a tactical advantage
+279-289 Make several attacks in quick succession
+290-299 Charge boldly
+300-300 Take a completely unexpected action
+
+d300 Mystic Backlash
+1-4 Your ritual has the opposite affect.
+5-8 You are sapped of strength.
+9-12 Your friend, ally, or companion is adversely affected.
+13-16 You destroy an important object.
+17-20 You inadvertently summon a horror.
+21-24 You collapse, and drift into a troubled sleep.
+25-28 You undergo a physical torment which leaves its mark upon you.
+29-32 You hear ghostly voices whispering of dark portents.
+33-36 You are lost in shadow, and find yourself in another place without memory of how you got there.
+37-40 You alert someone or something to your presence.
+41-44 You are not yourself, and act against a friend, ally, or companion.
+45-48 You affect or damage your surroundings, causing a disturbance or potential harm.
+49-52 You waste resources.
+53-56 You suffer the loss of a sense for several hours.
+57-60 You lose your connection to magic for a day or so, and cannot perform rituals.
+61-64 Your ritual affects the target in an unexpected and problematic way.
+65-68 Your ritual reveals a surprising and troubling truth.
+69-72 You are tempted by dark powers.
+73-76 You see a troubling vision of your future.
+77-80 You can't perform this ritual again until you acquire an important component.
+81-84 You develop a strange fear or compulsion.
+85-88 Your ritual causes creatures to exhibit strange or aggressive behavior.
+89-92 You are tormented by an apparition from your past.
+93-96 You are wracked with sudden sickness.
+97-100 Roll twice more on this table. Both results occur. If they are the same result, make it worse.
+101-104 Your ritual affects the wrong target.
+105-108 You become obsessed with performing more and more powerful rituals for a time.
+109-112 A nearby innocent is adversely affected.
+113-116 An important object is damaged.
+117-120 You inadvertently create a horror near a place or person you share a bond with.
+121-124 Your spirit leaves your body and wanders for a time.
+125-128 You undergo a mental torment which leaves its mark upon you.
+129-132 You have a vision of two possible futures: one dark and the other darker still.
+133-136 Your ritual binds you to the target in an unexpected and problematic way.
+137-140 You draw out a nearby beast.
+141-144 You inadvertently cause a friend, ally, or companion to act against you.
+145-148 Your ritual causes a friend, ally, or companion to exhibit strange or aggressive behavior.
+149-152 You waste time.
+153-156 You are overwhelmed by despair.
+157-160 You lose your sense of discernment and become impulsive for several hours.
+161-164 You collapse and awake days later.
+165-168 You are tempted by greed or lust.
+169-172 Your ritual reveals a previously held truth to actually be false.
+173-176 You see a troubling vision of a future for a friend, ally, or companion.
+177-180 You may only perform this ritual and no other for a time.
+181-184 You develop a strange obsession or fascination.
+185-188 You affect your surroundings causing rapid growth of dangerous plants or fungus.
+189-192 You are sent into a state of madness.
+193-196 A friend, ally, or companion is tormented by an apparition from their past.
+197-200 Roll twice more on this table. Both results occur. If they are the same result, make it worse.
+201-204 The ritual has the effect of a different random ritual.
+205-208 This place becomes a site of power that continually draws roaming horrors to it.
+209-212 A bond is tested as a result of this ritual.
+213-216 An important object is lost in shadow and reappears elsewhere.
+217-220 You are overwhelmed by fear.
+221-224 You undergo emotional torment which leaves its mark on you.
+225-228 You are filled with seemingly boundless energy that compels you to run aimlessly and recklessly.
+229-232 You are inhabited by a powerful presence and proclaim a prophecy in an otherworldly voice.
+233-236 You are transformed into an animal and roam the lands for a time giving way to your primitive impulses.
+237-240 The ritual you performed gives an advantage to an adversary.
+241-244 You have lethargy and dim wits for a time.
+245-248 You inadvertently place a curse on the area. Ask the Oracle.
+249-252 You waste good will.
+253-256 Your senses are amplified for hours and can overwhelm you.
+257-260 It causes a friend, ally, or companion to behave passively.
+261-264 Your ritual affects the target hours later.
+265-268 Your ritual reveals a change in the nature of an iron vow you have sworn.
+269-272 You are covered with boils and sores.
+273-276 You see a troubling vision involving a settlement you share a bond with.
+277-280 For the next significant amount of time, you can only perform this ritual at the same time of day you are performing it now.
+281-284 Your sense of direction is muddled for a time causing you to add +1 to all challenge dice when making an adventure move.
+285-288 Your connection to magic weakens for a day or so causing you to add +1 to all challenge dice when performing a ritual.
+289-292 A memory of past failure resurfaces powerfully wracking you with guilt and causing you to hesitate at critical moments.
+293-296 Dark whispers tempt you to forsake a vow.
+297-300 Roll twice more on this table. Both results occur. If they are the same result, make it worse.
+
+d300 Major Plot Twist
+1-5 It was all a diversion.
+6-10 A dark secret is revealed.
+11-15 A trap is sprung.
+16-20 An assumption is revealed to be false.
+21-25 A secret alliance is revealed.
+26-30 Your actions benefit an enemy.
+31-35 Someone returns unexpectedly.
+36-40 A more dangerous foe is revealed.
+41-45 You and an enemy share a common goal.
+46-50 A true identity is revealed.
+51-55 You are betrayed by someone who was trusted.
+56-60 You are too late.
+61-65 The true enemy is revealed.
+66-70 The enemy gains new allies.
+71-75 A new danger appears.
+76-80 Someone or something goes missing.
+81-85 The truth of a relationship is revealed.
+86-90 Two seemingly unrelated situations are shown to be connected.
+91-95 Unexpected powers or abilities are revealed.
+96-100 Roll twice more on this table. Both results occur. If they are the same result, make it more dramatic.
+101-105 Bad news arrives from afar.
+106-110 A fracture forms in a previously solid alliance.
+111-115 An old foe you thought defeated returns.
+116-120 The wrong person shows up at the wrong time.
+121-125 A friend, ally, or companion abandons the quest.
+126-130 An important item is broken or destroyed.
+131-135 A reliable ability is suddenly unreliable.
+136-140 You are tempted by a bribe to abandon your vow.
+141-145 The enemy exploits your weakness.
+146-150 An odd symbol begins to show up in multiple places.  What does it mean?
+151-155 A friend, ally, or companion is captured.
+156-160 The weather or terrain becomes a hindrance.
+161-165 A past action comes back to haunt you.
+166-170 You are faced with a choice of the lesser of two evils.
+171-175 A friend, ally, or companion suddenly becomes hesitant.
+176-180 A trusted authority is shown to be corrupt.
+181-185 A friend, ally, or companion is cursed.
+186-190 It is revealed that the enemy has gathered new information about your plans.
+191-195 Critical information is lost or withheld.
+196-200 Roll twice more on this table. Both results occur. If they are the same result, make it more dramatic.
+201-205 You are accused of a crime and being hunted.
+206-210 An unexpected guardian impedes your progress until appeased, circumvented, or defeated.
+211-215 Innocent lives are now in danger due to your actions.
+216-220 Rumors spread which ruin your reputation.
+221-225 A tactical advantage is lost.
+226-230 Something you thought false is revealed to be true.
+231-235 You are separated from an ally, friend, or companion in a troubling way.
+236-240 A trap or circumstance of the environment forces you to work with the enemy to survive.
+241-245 An action is much more effective than you anticipated which complicates the situation.
+246-250 You discover the next destination on your journey is considered off limits by local custom and travel there could cause friction.
+251-255 You draw attention to yourself in a troubling way.
+256-260 An action takes much more time than anticipated causing you to meet someone or something best avoided.
+261-265 An ally, friend, or companion is unexpectedly injured.
+266-270 You are made to look the fool.
+271-275 You lose significant support for your cause.
+276-280 Something you wanted to remain hidden is revealed.
+281-285 Your actions were witnessed and interpreted in a detrimental way.
+286-290 A new ally appears and forcefully takes charge of the situation doing more harm than good.
+291-295 A friend, ally, or companion is accused of a crime and being hunted.
+296-300 Roll twice more on this table. Both results occur. If they are the same result, make it more dramatic.
+
