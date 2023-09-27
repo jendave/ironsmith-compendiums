@@ -326,7 +326,7 @@ d6 Mystery Vow: Premise
 5-5 Find out who set a curse upon the settlement and reverse it.
 6-6 Find out why a settlement or building was destroyed or abandoned and make sure it won't happen again.
 
-d200 Items of Narrative Significance
+d100 Items of Narrative Significance (1 - 2)
 1-1 Torn scrap of leather
 2-2 Distinctive fur wrap
 3-3 Chain shirt
@@ -427,106 +427,108 @@ d200 Items of Narrative Significance
 98-98 Small nub of a burnt candle of unusual color
 99-99 Broken lute of superior craftsmanship
 100-100 Flute carved of a sacred wood
-101-101 Bloody handprint
-102-102 Glowing crystal shard
-103-103 Quill of a rare bird
-104-104 Humanoid skull with distinctive injury
-105-105 Illustrations of human anatomy
-106-106 Writings of celestial movements
-107-107 Powder of crushed bone
-108-108 Pouch of hallucinatory herbs
-109-109 Small skin of blood
-110-110 Pouch of hard tack
-111-111 Bat guano
-112-112 Crude map of a partially explored site
-113-113 Used and discarded bandages
-114-114 Inventory list for a farmer
-115-115 Woolen armor padding
-116-116 Discarded saddle, reins and bit
-117-117 Crude painting on wooden slab
-118-118 Psychedelic mushrooms
-119-119 Skin of stout ale
-120-120 Patches for a sail
-121-121 Caged rat or mice
-122-122 Chained, emaciated animal
-123-123 Broken piece of chalk
-124-124 Ceremonial robes
-125-125 Small stones arranged in a circle
-126-126 Thick-shoed footprints
-127-127 Charcoal sketching of a beast
-128-128 Journal of strange travels
-129-129 List of names with some scratched off
-130-130 Pouch of spider egg sacks
-131-131 Fossilized tooth
-132-132 Inventory list for a blacksmith
-133-133 Caged snake or frog
-134-134 Figure carved in stone
-135-135 Partially assembled trap
-136-136 Deer pelt
-137-137 Materials for a tent or other temporary shelter
-138-138 Torn and threadbare cloak
-139-139 Inventory list for an alchemist
-140-140 Bound and unconscious human
-141-141 Horse's feed bag
-142-142 Recently unearthed grave
-143-143 Necklace of rune-covered beads
-144-144 Ancient spearhead
-145-145 A strange manifesto
-146-146 Signet ring
-147-147 Map of an island
-148-148 Rags covered in blood
-149-149 Animal tracks
-150-150 Stones from a distant location
-151-151 Signs of a struggle
-152-152 Chart of constellations
-153-153 Personal diary
-154-154 Poem with strange annotations
-155-155 Bite marks of a beast
-156-156 Claw marks of a beast
-157-157 Small skin of venom
-158-158 Ironroot staff
-159-159 Precious gemstone
-160-160 Unburnt, strange smelling candle
-161-161 Shredded bowstring
-162-162 Flask of unknown oil
-163-163 Bloody footprints
-164-164 Notes of a settlement overseer
-165-165 Inventory list for a trader
-166-166 Woodcut depicting a horrid scene
-167-167 Pouch of exotic spices
-168-168 Evidence of secret passage
-169-169 Iron key with a skull head
-170-170 Banner for a nearby clan or settlement
-171-171 Rare flower, dried and pressed
-172-172 Scroll of prayers
-173-173 Incriminating communication
-174-174 A set of iron manacles
-175-175 Fishing tackle
-176-176 Caged cat or dog
-177-177 Weapon cleaning supplies
-178-178 Wandering and injured mount
-179-179 Remains of a mount
-180-180 Fur-lined boots
-181-181 Caged bird or bat
-182-182 Pouch of poisonous herbs
-183-183 Book of mystic rituals
-184-184 Pouch of preserving salt
-185-185 Tally marks scratched in a surface
-186-186 Needle and catgut
-187-187 Small, locked chest
-188-188 Unsprung trap
-189-189 Broken jewelry of gold
-190-190 Vague map of trade routes
-191-191 Woodcut depicting a pleasant scene
-192-192 Dried meat scraps
-193-193 Midden heap
-194-194 Map of fishing routes
-195-195 Bound and unconscious firstborn
-196-196 Chained and vicious animal
-197-197 Fragment of clay tablet
-198-198 Bottle of multi-colored sand
-199-199 Frightening mask
-200-200 Severed finger
+
+d100 Items of Narrative Significance (3 - 4)
+1-1 Bloody handprint
+2-2 Glowing crystal shard
+3-3 Quill of a rare bird
+4-4 Humanoid skull with distinctive injury
+5-5 Illustrations of human anatomy
+6-6 Writings of celestial movements
+7-7 Powder of crushed bone
+8-8 Pouch of hallucinatory herbs
+9-9 Small skin of blood
+10-10 Pouch of hard tack
+11-11 Bat guano
+12-12 Crude map of a partially explored site
+13-13 Used and discarded bandages
+14-14 Inventory list for a farmer
+15-15 Woolen armor padding
+16-16 Discarded saddle, reins and bit
+17-17 Crude painting on wooden slab
+18-18 Psychedelic mushrooms
+19-19 Skin of stout ale
+20-20 Patches for a sail
+21-21 Caged rat or mice
+22-22 Chained, emaciated animal
+23-23 Broken piece of chalk
+24-24 Ceremonial robes
+25-25 Small stones arranged in a circle
+26-26 Thick-shoed footprints
+27-27 Charcoal sketching of a beast
+28-28 Journal of strange travels
+29-29 List of names with some scratched off
+30-30 Pouch of spider egg sacks
+31-31 Fossilized tooth
+32-32 Inventory list for a blacksmith
+33-33 Caged snake or frog
+34-34 Figure carved in stone
+35-35 Partially assembled trap
+36-36 Deer pelt
+37-37 Materials for a tent or other temporary shelter
+38-38 Torn and threadbare cloak
+39-39 Inventory list for an alchemist
+40-40 Bound and unconscious human
+41-41 Horse's feed bag
+42-42 Recently unearthed grave
+43-43 Necklace of rune-covered beads
+44-44 Ancient spearhead
+45-45 A strange manifesto
+46-46 Signet ring
+47-47 Map of an island
+48-48 Rags covered in blood
+49-49 Animal tracks
+50-50 Stones from a distant location
+51-51 Signs of a struggle
+52-52 Chart of constellations
+53-53 Personal diary
+54-54 Poem with strange annotations
+55-55 Bite marks of a beast
+56-56 Claw marks of a beast
+57-57 Small skin of venom
+58-58 Ironroot staff
+59-59 Precious gemstone
+60-60 Unburnt, strange smelling candle
+61-61 Shredded bowstring
+62-62 Flask of unknown oil
+63-63 Bloody footprints
+64-64 Notes of a settlement overseer
+65-65 Inventory list for a trader
+66-66 Woodcut depicting a horrid scene
+67-67 Pouch of exotic spices
+68-68 Evidence of secret passage
+69-69 Iron key with a skull head
+70-70 Banner for a nearby clan or settlement
+71-71 Rare flower, dried and pressed
+72-72 Scroll of prayers
+73-73 Incriminating communication
+74-74 A set of iron manacles
+75-75 Fishing tackle
+76-76 Caged cat or dog
+77-77 Weapon cleaning supplies
+78-78 Wandering and injured mount
+79-79 Remains of a mount
+80-80 Fur-lined boots
+81-81 Caged bird or bat
+82-82 Pouch of poisonous herbs
+83-83 Book of mystic rituals
+84-84 Pouch of preserving salt
+85-85 Tally marks scratched in a surface
+86-86 Needle and catgut
+87-87 Small, locked chest
+88-88 Unsprung trap
+89-89 Broken jewelry of gold
+90-90 Vague map of trade routes
+91-91 Woodcut depicting a pleasant scene
+92-92 Dried meat scraps
+93-93 Midden heap
+94-94 Map of fishing routes
+95-95 Bound and unconscious firstborn
+96-96 Chained and vicious animal
+97-97 Fragment of clay tablet
+98-98 Bottle of multi-colored sand
+99-99 Frightening mask
+100-100 Severed finger
 
 d6 Mystery Vow: Clue Relates To
 1-2 Who committed the crime
@@ -875,7 +877,7 @@ d10 Advance Threat: Undead Uprising Accompanying Sign or Portent
 9-9 Animals flee and stampede
 10-10 Trees ooze black bile
 
-d300 Action
+d100 Action (1 - 2)
 1-1 Scheme
 2-2 Clash
 3-3 Weaken
@@ -1177,7 +1179,7 @@ d300 Action
 299-299 Coerce
 300-300 Awaken
 
-d300 Theme
+d100 Theme (1 - 2)
 1-1 Risk
 2-2 Ability
 3-3 Price
@@ -1479,7 +1481,7 @@ d300 Theme
 299-299 Independence
 300-300 Refusal
 
-d300 Location
+d100 Location (1 - 2)
 1-1 Hideout
 2-2 Ruin
 3-3 Mine
@@ -1634,7 +1636,7 @@ d300 Location
 294-299 Grassland
 300-300 Anomaly
 
-d300 Coastal Waters Location
+d100 Coastal Waters Location (1 - 2)
 1-1 Fleet
 2-2 Sargassum
 3-3 Flotsam
@@ -1687,7 +1689,7 @@ d300 Coastal Waters Location
 286-299 Sand Bars
 300-300 Anomaly
 
-d300 Location Descriptor
+d100 Location Descriptor (1 - 2)
 1-2 High
 3-4 Remote
 5-6 Exposed
@@ -1839,7 +1841,7 @@ d300 Location Descriptor
 297-298 Closed
 299-300 Violent
 
-d300 Quick Settlement Name: Prefix
+d100 Quick Settlement Name: Prefix (1 - 2)
 1-4 Bleak
 5-8 Green
 9-12 Wolf
@@ -1916,7 +1918,7 @@ d300 Quick Settlement Name: Prefix
 293-296 Wilde
 297-300 Elder
 
-d300 Quick Settlement Name: Suffix
+d100 Quick Settlement Name: Suffix (1 - 2)
 1-4 moor
 5-8 ford
 9-12 crag
@@ -1993,7 +1995,7 @@ d300 Quick Settlement Name: Suffix
 293-296 loft
 297-300 vik
 
-d300 Settlement Trouble
+d100 Settlement Trouble (1 - 2)
 1-2 Outsiders rejected
 3-4 Dangerous discovery
 5-6 Dreadful omens
@@ -2133,7 +2135,7 @@ d300 Settlement Trouble
 289-290 Supplies stolen
 291-300 Roll twice
 
-d300 Character Role
+d100 Character Role (1 - 2)
 1-2 Criminal
 3-4 Healer
 5-6 Bandit
@@ -2225,7 +2227,7 @@ d300 Character Role
 295-299 Merchant
 300-300 Unusual
 
-d300 Character Goal
+d100 Character Goal (1 - 2)
 1-3 Obtain an object
 4-6 Make an agreement
 7-9 Build a relationship
@@ -2326,7 +2328,7 @@ d300 Character Goal
 293-295 Seek forgiveness
 296-300 Roll twice
 
-d300 Character Descriptor
+d100 Character Descriptor (1 - 2)
 1-1 Stoic
 2-2 Attractive
 3-3 Passive
@@ -2628,7 +2630,7 @@ d300 Character Descriptor
 299-299 Callous
 300-300 Diplomatic
 
-d300 Character Disposition
+d100 Character Disposition (1 - 2)
 1-6 Helpful
 7-13 Friendly
 14-20 Cooperative
@@ -2666,7 +2668,7 @@ d300 Character Disposition
 286-293 Disapproving
 294-300 Combative
 
-d300 NPC CONVERSATION
+d100 NPC CONVERSATION (1 - 2)
 1-5 Their own heritage
 6-10 The heritage of a PC
 11-15 The heritage of an NPC
@@ -3402,7 +3404,7 @@ d600 Ironlander Names
 599-599 Knutr
 600-600 Oyvind
 
-d300 Elf Names
+d100 Elf Names (1 - 2)
 1-2 Arsula
 3-4 Naidita
 5-6 Belesunna
@@ -3554,7 +3556,7 @@ d300 Elf Names
 297-298 Ukissa
 299-300 Kinzenay
 
-d300 Giant Names
+d100 Giant Names (1 - 2)
 1-4 Chony
 5-8 Banda
 9-12 Jochu
@@ -3631,7 +3633,7 @@ d300 Giant Names
 293-296 Bayo
 297-300 Tubtu
 
-d300 Varou Names
+d100 Varou Names (1 - 2)
 1-4 Vata
 5-8 Zora
 9-12 Jasna
@@ -3708,7 +3710,7 @@ d300 Varou Names
 293-296 Nedke
 297-300 Vuta
 
-d300 Troll Names
+d100 Troll Names (1 - 2)
 1-4 Rattle
 5-8 Scratch
 9-12 Wallow
@@ -3785,7 +3787,7 @@ d300 Troll Names
 293-296 Stutch
 297-300 Charak
 
-d300 Combat Action
+d100 Combat Action (1 - 2)
 1-3 Compel a surrender.
 4-6 Coordinate with allies.
 7-9 Gather reinforcements.
@@ -3841,7 +3843,7 @@ d300 Combat Action
 290-299 Charge boldly
 300-300 Take a completely unexpected action
 
-d300 Mystic Backlash
+d100 Mystic Backlash (1 - 2)
 1-4 Your ritual has the opposite affect.
 5-8 You are sapped of strength.
 9-12 Your friend, ally, or companion is adversely affected.
@@ -3918,7 +3920,7 @@ d300 Mystic Backlash
 293-296 Dark whispers tempt you to forsake a vow.
 297-300 Roll twice more on this table. Both results occur. If they are the same result, make it worse.
 
-d300 Major Plot Twist
+d100 Major Plot Twist (1 - 2)
 1-5 It was all a diversion.
 6-10 A dark secret is revealed.
 11-15 A trap is sprung.
