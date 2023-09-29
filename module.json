@@ -1,6 +1,6 @@
 {
   "id": "ironsmith-expanded-oracles",
-  "title": "Ironsmith Expanded Oracles for Ironsworn:",
+  "title": "Ironsmith Expanded Oracles for Ironsworn",
   "description": "A collection of fan-created oracles for the Ironsworn system.",
   "version": "#{VERSION}#",
   "compatibility": {
@@ -42,9 +42,6 @@
         "ironsmithexpandedoraclesmacros"
       ]
     }
-  ],
-  "esmodules": [
-    "./esmodules/oracles.js"
   ],
   "manifest": "#{MANIFEST}#",
   "url": "#{URL}#",
