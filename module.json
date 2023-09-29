@@ -1,7 +1,7 @@
 {
-  "id": "starsmith-expanded-oracles",
-  "title": "Starsmith Expanded Oracles for Ironsworn: Starforged",
-  "description": "A collection of fan-created oracles for the Ironsworn: Starforged system.",
+  "id": "ironsmith-expanded-oracles",
+  "title": "Ironsmith Expanded Oracles for Ironsworn:",
+  "description": "A collection of fan-created oracles for the Ironsworn system.",
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": 11,
@@ -20,26 +20,26 @@
   ],
   "packs": [
     {
-      "name": "starsmithexpandedoracles",
-      "label": "Starsmith Expanded Oracles",
-      "path": "./packs/starsmith-expanded-oracles",
+      "name": "ironsmithexpandedoracles",
+      "label": "Ironsmith Expanded Oracles",
+      "path": "./packs/ironsmith-expanded-oracles",
       "type": "RollTable",
       "system": "foundry-ironsworn"
     },
     {
-      "name": "starsmithexpandedoraclesmacros",
-      "label": "Starsmith Expanded Oracles Macros",
-      "path": "./packs/starsmith-expanded-oracles-macros",
+      "name": "ironsmithexpandedoraclesmacros",
+      "label": "Ironsmith Expanded Oracles Macros",
+      "path": "./packs/ironsmith-expanded-oracles-macros",
       "type": "Macro",
       "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
     {
-      "name": "Starsmith Expanded Oracles",
+      "name": "Ironsmith Expanded Oracles",
       "packs": [
-        "starsmithexpandedoracles",
-        "starsmithexpandedoraclesmacros"
+        "ironsmithexpandedoracles",
+        "ironsmithexpandedoraclesmacros"
       ]
     }
   ],
@@ -49,10 +49,10 @@
   "manifest": "#{MANIFEST}#",
   "url": "#{URL}#",
   "download": "#{DOWNLOAD}#",
-  "license": "https://raw.githubusercontent.com/jendave/starsmith-expanded-oracles/main/LICENSE",
-  "changelog": "https://raw.githubusercontent.com/jendave/starsmith-expanded-oracles/main/CHANGELOG.md",
-  "readme": "https://raw.githubusercontent.com/jendave/starsmith-expanded-oracles/main/README.md",
-  "bugs": "https://github.com/jendave/starsmith-expanded-oracles/issues",
+  "license": "https://raw.githubusercontent.com/jendave/ironsmith-expanded-oracles/main/LICENSE",
+  "changelog": "https://raw.githubusercontent.com/jendave/ironsmith-expanded-oracles/main/CHANGELOG.md",
+  "readme": "https://raw.githubusercontent.com/jendave/ironsmith-expanded-oracles/main/README.md",
+  "bugs": "https://github.com/jendave/ironsmith-expanded-oracles/issues",
   "relationships": {
     "systems": [
       {
