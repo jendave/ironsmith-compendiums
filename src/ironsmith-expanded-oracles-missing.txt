@@ -1,7 +1,7 @@
 Feature
 
 d100 Aspect (1 - 2)
-01-02 Blocked      
+01-02 Blocked
 03-04 Crafted
 05-06 Ancient
 07-08 Sunken
@@ -25,7 +25,7 @@ d100 Aspect (1 - 2)
 43-44 Active
 45-46 Confined
 47-48 Fortified
-49-50 Collapsed  
+49-50 Collapsed
 51-52 Isolated
 53-54 Destroyed
 55-56 Open
@@ -50,7 +50,7 @@ d100 Aspect (1 - 2)
 93-94 Abandoned
 95-96 Deadly
 97-98 Forgotten
-99-00 Mystical   
+99-00 Mystical
 
 d100 Aspect (3 - 4)
 01-02 Malignant
@@ -77,7 +77,7 @@ d100 Aspect (3 - 4)
 43-44 Dire
 45-46 Buried
 47-48 Unpredictable
-49-50 Cavernous    
+49-50 Cavernous
 51-52 Quaking
 53-54 Entombed
 55-56 Haunted
@@ -102,7 +102,7 @@ d100 Aspect (3 - 4)
 93-94 Barren
 95-96 Devastated
 97-98 Enigmatic
-99-00 Grisly      
+99-00 Grisly
 
 d100 Aspect (5 -6)
 01-02 Chilling
@@ -129,7 +129,7 @@ d100 Aspect (5 -6)
 43-44 Ominous
 45-46 Radiant
 47-48 Contaminated
-49-50 Grim        
+49-50 Grim
 51-52 Protected
 53-54 Condemned
 55-56 Ethereal
@@ -154,7 +154,7 @@ d100 Aspect (5 -6)
 93-94 Lethal
 95-96 Skeletal
 97-98 Limited
-99-00 Volatile   
+99-00 Volatile
 
 d100 Focus (1 - 2)
 01-02 Attack
@@ -181,7 +181,7 @@ d100 Focus (1 - 2)
 43-44 Habitation
 45-46 Debris
 47-48 Creature
-49-50 Lair      
+49-50 Lair
 51-52 Person
 53-54 Enclosure
 55-56 Remains
@@ -206,7 +206,7 @@ d100 Focus (1 - 2)
 93-94 Corruption
 95-96 Death
 97-98 Function
-99-00 Power      
+99-00 Power
 
 d100 Focus (3 - 4)
 01-02 Vision
@@ -233,7 +233,7 @@ d100 Focus (3 - 4)
 43-44 Bane
 45-46 Firstborn
 47-48 Knowledge
-49-50 Wraith     
+49-50 Wraith
 51-52 Nest
 53-54 Pillar
 55-56 Trance
@@ -258,7 +258,7 @@ d100 Focus (3 - 4)
 93-94 Enigma
 95-96 Crypt
 97-98 Protection
-99-00 Mechanism 
+99-00 Mechanism
 
 d100 Focus (5 - 6)
 01-02 Tools
@@ -285,7 +285,7 @@ d100 Focus (5 - 6)
 43-44 Riddle
 45-46 Relic
 47-48 Conduit
-49-50 Horror    
+49-50 Horror
 51-52 Corpse
 53-54 Judgment
 55-56 Necropolis
@@ -310,7 +310,9 @@ d100 Focus (5 - 6)
 93-94 Legacy
 95-96 Curse
 97-98 Ritual
-99-00 Ambush       
+99-00 Ambush
+
+Character
 
 d100 Character Activity (1 - 2)
 01-02 Guarding
@@ -329,7 +331,7 @@ d100 Character Activity (1 - 2)
 27-28 Seizing
 29-30 Bargaining
 31-32 Mimicking
-33-34 Tricking   
+33-34 Tricking
 35-36 Tracking
 37-38 Escorting
 39-40 Hiding
@@ -346,7 +348,7 @@ d100 Character Activity (1 - 2)
 61-62 Defending
 63-64 Recovering
 65-66 Patrolling
-67-68 Resting    
+67-68 Resting
 69-70 Distracting
 71-72 Leaving
 73-74 Fighting
@@ -362,7 +364,7 @@ d100 Character Activity (1 - 2)
 93-94 Consuming
 95-96 Removing
 97-98 Inspecting
-99-00 Summoning  
+99-00 Summoning
 
 d100 Character Activity (3 - 4)
 01-02 Stowing
@@ -381,7 +383,7 @@ d100 Character Activity (3 - 4)
 27-28 Lockpicking
 29-30 Shielding
 31-32 Striking
-33-34 Smoking     
+33-34 Smoking
 35-36 Forging
 37-38 Persevering
 39-40 Singing
@@ -398,7 +400,7 @@ d100 Character Activity (3 - 4)
 61-62 Chasing
 63-64 Scavenging
 65-66 Healing
-67-68 Foraging   
+67-68 Foraging
 69-70 Meditating
 71-72 Swimming
 73-74 Challenging
@@ -414,7 +416,7 @@ d100 Character Activity (3 - 4)
 93-94 Fording
 95-96 Smuggling
 97-98 Sniping
-99-00 Engaging     
+99-00 Engaging
 
 d100 Character Activity (5 - 6)
 01-02 Crafting
@@ -433,7 +435,7 @@ d100 Character Activity (5 - 6)
 27-28 Rebuilding
 29-30 Revolting
 31-32 Feasting
-33-34 Gossiping   
+33-34 Gossiping
 35-36 Roaming
 37-38 Looting
 39-40 Pilgriming
@@ -450,7 +452,7 @@ d100 Character Activity (5 - 6)
 61-62 Dancing
 63-64 Sparring
 65-66 Carving
-67-68 Listening    
+67-68 Listening
 69-70 Disobeying
 71-72 Camping
 73-74 Negotiating
@@ -467,6 +469,8 @@ d100 Character Activity (5 - 6)
 95-96 Taming
 97-98 Grappling
 99-00 Investigating
+
+Combat Event
 
 d100 Combat Method (1 - 2)
 01-02 Defy
@@ -485,7 +489,7 @@ d100 Combat Method (1 - 2)
 27-28 Advance
 29-30 Breach
 31-32 Endure
-33-34 Assault  
+33-34 Assault
 35-36 Charge
 37-38 Escalate
 39-40 Sunder
@@ -502,7 +506,7 @@ d100 Combat Method (1 - 2)
 61-62 Lose
 63-64 Sweep
 65-66 Secure
-67-68 Cover   
+67-68 Cover
 69-70 Withdraw
 71-72 Clash
 73-74 Amplify
@@ -518,7 +522,7 @@ d100 Combat Method (1 - 2)
 93-94 Challenge
 95-96 Brawl
 97-98 Coordinate
-99-00 Overrun   
+99-00 Overrun
 
 d100 Combat Method (3 - 4)
 01-02 Stab
@@ -537,7 +541,7 @@ d100 Combat Method (3 - 4)
 27-28 Strike
 29-30 Parry
 31-32 Trip
-33-34 Surround   
+33-34 Surround
 35-36 Revive
 37-38 Knock down
 39-40 Track
@@ -554,7 +558,7 @@ d100 Combat Method (3 - 4)
 61-62 Disintegrate
 63-64 Mimic
 65-66 Curse
-67-68 Throw       
+67-68 Throw
 69-70 Slide
 71-72 Retaliate
 73-74 Inflict
@@ -570,7 +574,7 @@ d100 Combat Method (3 - 4)
 93-94 Silence
 95-96 Infiltrate
 97-98 Flank
-99-00 Enchant   
+99-00 Enchant
 
 d100 Combat Method (5 - 6)
 01-02 Roar
@@ -589,7 +593,7 @@ d100 Combat Method (5 - 6)
 27-28 Vault
 29-30 Summon
 31-32 Reposition
-33-34 Bless     
+33-34 Bless
 35-36 Push
 37-38 Observe
 39-40 Leap
@@ -606,7 +610,7 @@ d100 Combat Method (5 - 6)
 61-62 Pull
 63-64 Control
 65-66 Rampage
-67-68 Confuse   
+67-68 Confuse
 69-70 Defend
 71-72 Shock
 73-74 Cut
@@ -622,7 +626,7 @@ d100 Combat Method (5 - 6)
 93-94 Poison
 95-96 Impede
 97-98 Back up
-99-00 Dispel  
+99-00 Dispel
 
 d100 Combat Target (1 - 2)
 01-02 Control
@@ -641,7 +645,7 @@ d100 Combat Target (1 - 2)
 27-28 Maneuver
 29-30 Reach
 31-32 Harm
-33-34 Finesse  
+33-34 Finesse
 35-36 Weapon
 37-38 Environment
 39-40 Technique
@@ -658,7 +662,7 @@ d100 Combat Target (1 - 2)
 61-62 Speed
 63-64 Strength
 65-66 Supply
-67-68 Terrain    
+67-68 Terrain
 69-70 Armor
 71-72 Skill
 73-74 Body
@@ -674,7 +678,7 @@ d100 Combat Target (1 - 2)
 93-94 Barrier
 95-96 Strategy
 97-98 Grasp
-99-00 Power      
+99-00 Power
 
 d100 Combat Target (3 - 4)
 01-02 Expertise
@@ -710,7 +714,7 @@ d100 Combat Target (3 - 4)
 61-62 Equipment
 63-64 Offense
 65-66 Shelter
-67-68 Head         
+67-68 Head
 69-70 Legacy
 71-72 Safety
 73-74 Dexterity
@@ -726,7 +730,7 @@ d100 Combat Target (3 - 4)
 93-94 Ideal
 95-96 Leverage
 97-98 Awareness
-99-00 Identity 
+99-00 Identity
 
 d100 Combat Target (5 - 6)
 01-02 Support
@@ -745,7 +749,7 @@ d100 Combat Target (5 - 6)
 27-28 Morals
 29-30 Asset
 31-32 Home
-33-34 Family         
+33-34 Family
 35-36 Freedom
 37-38 Juncture
 39-40 Consciousness
@@ -762,7 +766,7 @@ d100 Combat Target (5 - 6)
 61-62 Core
 63-64 Strike
 65-66 Path
-67-68 Confinement   
+67-68 Confinement
 69-70 Bystander
 71-72 Guard
 73-74 Ward
@@ -778,7 +782,9 @@ d100 Combat Target (5 - 6)
 93-94 Possession
 95-96 Pressure
 97-98 Rear guard
-99-00 Spirit      
+99-00 Spirit
+
+Trap
 
 d100 Trap Event (1 - 2)
 01-04 Block
@@ -789,7 +795,7 @@ d100 Trap Event (1 - 2)
 21-24 Enclose
 25-28 Ambush
 29-32 Snare
-33-36 Change  
+33-36 Change
 37-40 Imitate
 41-44 Crush
 45-48 Drop
@@ -805,7 +811,7 @@ d100 Trap Event (1 - 2)
 85-88 Surprise
 89-92 Divert
 93-96 Attack
-97-00 Trigger 
+97-00 Trigger
 
 d100 Trap Event (3 - 4)
 01-04 Pull
@@ -816,7 +822,7 @@ d100 Trap Event (3 - 4)
 21-24 Chop
 25-28 Unbalance
 29-32 Shroud
-33-36 Confuse  
+33-36 Confuse
 37-40 Slow
 41-44 Hold
 45-48 Corral
@@ -825,14 +831,14 @@ d100 Trap Event (3 - 4)
 57-60 Faint
 61-64 Turn
 65-68 Crumble
-69-72 Feint  
+69-72 Feint
 73-76 Compress
 77-80 Suffocate
 81-84 Shrink
 85-88 Chain
 89-92 Rotate
 93-96 Funnel
-97-00 Blast    
+97-00 Blast
 
 d100 Trap Event (5 - 6)
 01-04 Follow
@@ -843,7 +849,7 @@ d100 Trap Event (5 - 6)
 21-24 Imprison
 25-28 Knock out
 29-32 Enlarge
-33-36 Restrain  
+33-36 Restrain
 37-40 Bludgeon
 41-44 Eviscerate
 45-48 Blind
@@ -852,14 +858,14 @@ d100 Trap Event (5 - 6)
 57-60 Transpose
 61-64 Encircle
 65-68 Deafen
-69-72 Fall      
+69-72 Fall
 73-76 Twist
 77-80 Collapse
 81-84 Slash
 85-88 Shred
 89-92 Repel
 93-96 Disorient
-97-00 Guard    
+97-00 Guard
 
 d100 Trap Component (1 - 2)
 01-04 Pit
@@ -870,7 +876,7 @@ d100 Trap Component (1 - 2)
 21-24 Fall
 25-28 Debris
 29-32 Fear
-33-36 Alarm     
+33-36 Alarm
 37-40 Trigger
 41-44 Cold
 45-48 Weapon
@@ -879,14 +885,14 @@ d100 Trap Component (1 - 2)
 57-60 Path
 61-64 Stone
 65-68 Terrain
-69-72 Poison  
+69-72 Poison
 73-76 Barrier
 77-80 Overhead
 81-84 Magic
 85-88 Toxin
 89-92 Earth
 93-96 Light
-97-00 Denizen 
+97-00 Denizen
 
 d100 Trap Component (3 - 4)
 01-04 Grate
@@ -897,7 +903,7 @@ d100 Trap Component (3 - 4)
 21-24 Wall
 25-28 Hook
 29-32 Oil
-33-36 Slab    
+33-36 Slab
 37-40 Sludge
 41-44 Gap
 45-48 Boulder
@@ -906,14 +912,14 @@ d100 Trap Component (3 - 4)
 57-60 Hole
 61-64 Acid
 65-68 Gear
-69-72 Fence  
+69-72 Fence
 73-76 Ceiling
 77-80 Pump
 81-84 Chains
 85-88 Choice
 89-92 Door
 93-96 Iron
-97-00 Ice    
+97-00 Ice
 
 d100 Trap Component (5 - 6)
 01-04 Piston
@@ -942,33 +948,7 @@ d100 Trap Component (5 - 6)
 93-96 Disc
 97-00 Statue
 
-d100 Monstrosity Size
-01-05 Tiny (rodent-sized)
-06-30 Small (hound-sized)
-31-65 Medium (person-sized)
-66-94 Large (giant-sized)
-95-99 Huge (whale-sized)
-00 Titanic (incomprehensible)
-
-d100 Monstrosity Primary Form
-01-15 Beast / mammal
-16-25 Humanoid
-26-31 Bird
-32-37 Spider
-38-43 Snake
-44-49 Worm / slug
-50-55 Lizard
-56-61 Insect
-62-66 Amorphous
-67-69 Crustacean
-70-71 Fish
-72-73 Octopoid
-74-75 Amphibian
-76-77 Plant
-78    Incorporeal
-79    Mineral
-80    Elemental
-81-00 Hybrid (roll twice)
+Monstrosity
 
 d100 Monstrosity Characteristics (1 - 2)
 01-05 Extra limbs
@@ -998,7 +978,7 @@ d100 Monstrosity Characteristics (1 - 2)
 96-97 Rotting / skeletal
 98    Mummified / desiccated
 99    Multi-headed
-00    Etched with mystic runes
+100    Etched with mystic runes
 
 d100 Monstrosity Characteristics (3 - 4)
 01-05 Long-limbed
@@ -1028,7 +1008,7 @@ d100 Monstrosity Characteristics (3 - 4)
 96-97 Fungal growth
 98    Vaporous
 99    Pseudopods
-00    Embedded weapon
+100    Embedded weapon
 
 d100 Monstrosity Characteristics (5 - 6)
 01-05 Retractable claws
@@ -1058,7 +1038,7 @@ d100 Monstrosity Characteristics (5 - 6)
 96-97 Diseased sores
 98    Ethereal
 99    Detachable limbs
-00    Rider
+100    Rider
 
 d100 Monstrosity Abilities (1 - 2)
 01-04 Keen senses
@@ -1100,7 +1080,7 @@ d100 Monstrosity Abilities (1 - 2)
 97    Mind control / telepathy
 98    Move between realities
 99    Wield weapons
-00    Control elements
+100    Control elements
 
 d100 Monstrosity Abilities (3 - 4)
 01-04 Tracker
@@ -1142,7 +1122,7 @@ d100 Monstrosity Abilities (3 - 4)
 97    Fear projection
 98    Phase through objects
 99    Use tools
-00    Control darkness
+100    Control darkness
 
 d100 Monstrosity Abilities (5 - 6)
 01-04 Stalker
@@ -1184,18 +1164,9 @@ d100 Monstrosity Abilities (5 - 6)
 97    Hive mind
 98    Shadow walk
 99    Implants young / eggs
-00    Elemental aura
+100    Elemental aura
 
 Delve Sites
-
-d100 Site Name Format
-01-25 [Description] [Place]
-26-50 [Place] of [Detail]
-51-70 [Place] of [Description] [Detail]
-71-80 [Place] of [Namesake’s] [Detail]
-81-85 [Namesake’s] [Place]
-86-95 [Description] [Place] of [Namesake]
-96-00 [Place] of [Namesake]
 
 d100 Site Name Description (1 - 2)
 01-02 Deep
@@ -1665,6 +1636,8 @@ d100 Site Name Namesake (5 - 6)
 97-98 Kollbjorn
 99-00 Thrymr-Heidrek
 
+Moves
+
 d100 Pay the Price (1 - 2)
 01-02 Roll again and apply that result but make it worse. If you roll this result yet again, think of something dreadful that changes the course of your quest (Ask the Oracle if unsure) and make it happen.
 03-05 A person or community you trusted loses faith in you, or acts against you.
@@ -1718,6 +1691,8 @@ d100 Pay the Price (5 - 6)
 91-94 An albatross hangs about your neck.
 95-98 Your progress is undone.
 99-00 Roll twice more on this table. Both results occur. If they are the same result, make it worse.
+
+Other
 
 d100 Item of Narrative Significance (5 - 6)
 01 Unusually large plant seed
@@ -1819,5 +1794,5 @@ d100 Item of Narrative Significance (5 - 6)
 97 Key of bone
 98 Straight peen hammer
 99 Large file or chisel
-00 Buried Mace
+100 Buried Mace
 
