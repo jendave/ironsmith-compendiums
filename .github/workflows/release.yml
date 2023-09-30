@@ -113,7 +113,8 @@ jobs:
             LICENSE                              \
             LICENSE-Oracles                      \
             packs/                               
-          
+
+          # esmodules/                           \
           # templates                            \  
           # styles/                              \
           # language/                            \
