@@ -49,6 +49,8 @@ Original oracles by Shawn Tomkin from [Ironsworn](https://preview.drivethrurpg.c
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
 # Acknowledgements
+Oracles were created using [Eric Bright's Ironsworn JSON files](https://github.com/ericbright2002/Forged_in_Obsidian).
+
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
 
 The [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer) was used to import the tables during the development process.
