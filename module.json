@@ -1,7 +1,7 @@
 {
   "id": "ironsmith-expanded-oracles",
   "title": "Ironsmith Expanded Oracles for Ironsworn",
-  "description": "A collection of fan-created oracles for the Ironsworn system.",
+  "description": "This supplement by Eric Bright adds two additional tables for nearly every table for the Ironsworn system.",
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": 11,
