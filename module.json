@@ -43,6 +43,9 @@
       ]
     }
   ],
+  "esmodules": [
+    "./esmodules/oracles.js"
+  ],
   "manifest": "#{MANIFEST}#",
   "url": "#{URL}#",
   "download": "#{DOWNLOAD}#",
