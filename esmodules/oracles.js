@@ -55,7 +55,9 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       tables: [],
       children: []
     });
-    let otherIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Other"));
+
+    let otherFolder = ironswornOracles.children.find(children => children.displayName === "Other");
+    let otherIndex = ironswornOracles.children.indexOf(otherFolder);
 
     ironswornOracles.children.push({
       displayName: 'Vows',
@@ -343,6 +345,34 @@ Hooks.once("ironswornOracleTreesReady", async () => {
     ironswornOracles.children[nameIndex].children[otherNameIndex].children.push({
       displayName: 'Trolls (Ironsmith)',
       tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.YVB9XrzSH23E1ovW', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.4vGEd9VVi9D4hNNh', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.e6yU3tDaOcTxOnQJ'],
+      children: []
+    });
+
+    ironswornOracles.children[otherIndex].children.push(
+      {
+        displayName: 'Items of Narrative Significance',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.5gw54UqRJ4SY6YcS', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.AU81rQndvWGiwS3z', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.pDuUGjRBixDzDaQW'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[otherIndex].children.push({
+      displayName: 'Threat',
+      tables: [],
+      children: []
+    });
+
+    let threatOtherIndex = otherFolder.children.indexOf(otherFolder.children.find(children => children.displayName === "Threat"));
+
+    ironswornOracles.children[otherIndex].children[threatOtherIndex].children.push({
+      displayName: 'Undead Uprising',
+      tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.BP9WsByry6CtzdUl'],
+      children: []
+    });
+
+    ironswornOracles.children[otherIndex].children[threatOtherIndex].children.push({
+      displayName: 'Undead Uprising Accompanying Sign or Portent',
+      tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.c0WAvr6LfO26h8KK'],
       children: []
     });
 
