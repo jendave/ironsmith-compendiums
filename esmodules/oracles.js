@@ -449,6 +449,47 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       }
     );
 
+    ironswornOracles.children[turningPointIndex].children.push(
+      {
+        displayName: 'Combat Action (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.QDA1hAtUCI1fcccc', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.fdT87NOrMKvqGdTe', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.OB9V3EZcGmrv5CTO'],
+        children: []
+      },
+      {
+        displayName: 'Major Plot Twist (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.joTd30CNcNw7ySbA', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.tV0hmp97KlSC1OBo', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.ZodIul2xQQp2haov'],
+        children: []
+      },
+      {
+        displayName: 'Mystic Backlash (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.blvtGNeP5C6Fniqx', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.BuIjwttl9aypuw6u', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.HMgzl0ZuL7mnzYzD'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[vowsIndex].children.push(
+      {
+        displayName: 'Active Opposition',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.0rwlyFID7qof1hrA'],
+        children: []
+      },
+      {
+        displayName: 'Method of Making Headway',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.h5rOpC6d10AhFmU1'],
+        children: []
+      },
+      {
+        displayName: 'Narrative Conflict',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.4DOOXzrcLbExZ12z'],
+        children: []
+      },
+      {
+        displayName: 'Obstacles to Overcome',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.EGGHouKBVSTV9iYR'],
+        children: []
+      }
+    );
+
     CONFIG.IRONSWORN.registerOracleTree('ironsworn', ironswornOracles)
   }
 });
