@@ -19,7 +19,8 @@ Hooks.once("ironswornOracleTreesReady", async () => {
 
     let actionThemeIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Action and Theme"));
     let placeIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Place"));
-    let settlementIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Settlement"));
+    let settlementFolder = ironswornOracles.children.find(children => children.displayName === "Settlement");
+    let settlementIndex = ironswornOracles.children.indexOf(settlementFolder);
     let characterIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Character"));
     let nameFolder = ironswornOracles.children.find(children => children.displayName === "Name");
     let nameIndex = ironswornOracles.children.indexOf(nameFolder);
@@ -363,7 +364,7 @@ Hooks.once("ironswornOracleTreesReady", async () => {
     });
 
     let threatOtherIndex = otherFolder.children.indexOf(otherFolder.children.find(children => children.displayName === "Threat"));
-
+    
     ironswornOracles.children[otherIndex].children[threatOtherIndex].children.push({
       displayName: 'Undead Uprising',
       tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.BP9WsByry6CtzdUl'],
@@ -373,6 +374,52 @@ Hooks.once("ironswornOracleTreesReady", async () => {
     ironswornOracles.children[otherIndex].children[threatOtherIndex].children.push({
       displayName: 'Undead Uprising Accompanying Sign or Portent',
       tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.c0WAvr6LfO26h8KK'],
+      children: []
+    });
+
+    ironswornOracles.children[placeIndex].children.push(
+      {
+        displayName: 'Coastal Waters Location (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.uS3xYNahiV8c1IvM', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.NnYeEA7e3W2VNPRX', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.GevfByTd4FIrfGpb'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[placeIndex].children.push(
+      {
+        displayName: 'Location (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.0SMbpiwJm9DVdAt3', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.HQtRLJQiwZxWdwVe', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.WdXJXroTleYqGCB9'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[placeIndex].children.push(
+      {
+        displayName: 'Location Descriptor (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.OanBZ1XU4wBasNTq', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.Vgvk7NlpFRX6MqeB', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.j2WjbFYOk2lAxTlH'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[settlementIndex].children.push(
+      {
+        displayName: 'Trouble (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.65PrMkMABgeLp38A', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.Ox77HXdyqrgusrgF', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.KNPxDJkiX6910Isy'],
+        children: []
+      }
+    );
+
+    let quickNameSettlementIndex = settlementFolder.children.indexOf(settlementFolder.children.find(children => children.displayName === "Quick Name"));
+   
+    ironswornOracles.children[settlementIndex].children[quickNameSettlementIndex].children.push({
+      displayName: 'Prefix (Ironsmith)',
+      tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.FCgTE2Sf347vIaDH', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.4EKgKcoP8X39ZeCf', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.7Ead251QYGsRgiDW'],
+      children: []
+    });
+
+    ironswornOracles.children[settlementIndex].children[quickNameSettlementIndex].children.push({
+      displayName: 'Suffix (Ironsmith)',
+      tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.e4LpLkGUpbkjqyUf', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.TvEDIwozXApM4OdH', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.KBLFiYJ2c0JdAvaK'],
       children: []
     });
 
