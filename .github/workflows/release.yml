@@ -112,9 +112,9 @@ jobs:
             CHANGELOG.md                         \
             LICENSE                              \
             LICENSE-Oracles                      \
+            esmodules/                           \
             packs/                               
 
-          # esmodules/                           \
           # templates                            \  
           # styles/                              \
           # language/                            \
