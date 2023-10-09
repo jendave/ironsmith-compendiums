@@ -23,11 +23,18 @@ https://github.com/jendave/ironsmith-expanded-oracles/releases/latest/download/m
 ```
 
 # Tabletop Integration
-The Oracles can be added to the character sheet by using the `Custom Folders` method below.
+By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet. 
+![Character Sheet - Oracles Tree](./docs/oracle-tree-character-sheet.jpg)
+
+If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Configure Settings` game settings. 
+![Module Game Settings](./docs/module-game-settings.jpg)
+
+The Oracles can also be added to the character sheet by using the `Custom Folders` method below.
 
 Macros for Dice rolling can be found in the `Ironsmith Expanded Oracles Macros` compendium. Drag and drop any you need into the macro toolbar.
 
-## Use Custom Folders to add Character Sheet Oracles 
+## (Optional Installation) Use Custom Folders to add Character Sheet Oracles 
+* If integrating the Ironsmith Oracles directly into the default Oracle Tree if not desired, then use this method to add the Ironsmith Oracles.
 * If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` tab called:
   * `Custom Oracles` - EN
   * `Oráculos personalizados` - ES
