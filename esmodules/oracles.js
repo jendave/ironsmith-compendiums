@@ -30,7 +30,7 @@ Hooks.once("ironswornOracleTreesReady", async () => {
     let movesIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Moves"));
     let featureIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Feature"));
     let siteNameIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Site Name"));
-    let siteNatureIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Site Nature"));
+    //   let siteNatureIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Site Nature"));
     let monstrosityIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Monstrosity"));
     let trapIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Trap"));
     let combatEventIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Combat Event"));
@@ -66,7 +66,8 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       children: []
     });
 
-    let vowsIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Vows"));
+    let vowsFolder = ironswornOracles.children.find(children => children.displayName === "Vows");
+    let vowsIndex = ironswornOracles.children.indexOf(vowsFolder);
 
     ironswornOracles.children[actionThemeIndex].children.push(
       {
@@ -357,15 +358,7 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       }
     );
 
-    ironswornOracles.children[otherIndex].children.push({
-      displayName: 'Threat',
-      tables: [],
-      children: []
-    });
-
-    let threatOtherIndex = otherFolder.children.indexOf(otherFolder.children.find(children => children.displayName === "Threat"));
-
-    ironswornOracles.children[otherIndex].children[threatOtherIndex].children.push(
+    ironswornOracles.children[threatIndex].children.push(
       {
         displayName: 'Undead Uprising',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.BP9WsByry6CtzdUl'],
@@ -486,6 +479,145 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       {
         displayName: 'Obstacles to Overcome',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.EGGHouKBVSTV9iYR'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[vowsIndex].children.push(
+      {
+        displayName: 'Challenges to Virtue',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'Fantasy Quest',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'Grim Quest',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'Mystery Vow',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'One-Shot',
+        tables: [],
+        children: []
+      }
+    );
+
+    let challengesToVirtueVowsIndex = vowsFolder.children.indexOf(vowsFolder.children.find(children => children.displayName === "Challenges to Virtue"));
+    let fantasyQuestVowsIndex = vowsFolder.children.indexOf(vowsFolder.children.find(children => children.displayName === "Fantasy Quest"));
+    let grimQuestVowsIndex = vowsFolder.children.indexOf(vowsFolder.children.find(children => children.displayName === "Grim Quest"));
+    let mysteryVowVowsIndex = vowsFolder.children.indexOf(vowsFolder.children.find(children => children.displayName === "Mystery Vow"));
+    let oneShotVowsIndex = vowsFolder.children.indexOf(vowsFolder.children.find(children => children.displayName === "One-Shot"));
+
+    ironswornOracles.children[vowsIndex].children[challengesToVirtueVowsIndex].children.push(
+      {
+        displayName: 'Loss',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.WuksvXuuPfyNvHAU'],
+        children: []
+      },
+      {
+        displayName: 'Virtue',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.a97NA6HOLVwX0Wq6'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[vowsIndex].children[fantasyQuestVowsIndex].children.push(
+      {
+        displayName: 'Alternate Fantasy Quests',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.yg7lzwTqrJhcYfaY'],
+        children: []
+      },
+      {
+        displayName: 'Archetype',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.ftSp0SlfBdaZaxNu'],
+        children: []
+      },
+      {
+        displayName: 'Modifier',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.3mYV6Lod9xLwAr8h'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[vowsIndex].children[grimQuestVowsIndex].children.push(
+      {
+        displayName: 'Burden',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.GX9dgD5KrcdxiRIY'],
+        children: []
+      },
+      {
+        displayName: 'Quest',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.DPBG6Gm4kjTlbyI7'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[vowsIndex].children[mysteryVowVowsIndex].children.push(
+      {
+        displayName: 'Clue Relates To',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.PsWvuiS2ivTsDwWC'],
+        children: []
+      },
+      {
+        displayName: 'Culprit\'s Past Location',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.JrGtnc9GFa88OxiO'],
+        children: []
+      },
+      {
+        displayName: 'NPC Info Topic',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.EbBdlUOMz6KbUCe7'],
+        children: []
+      },
+      {
+        displayName: 'NPC Info Type',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.SLF2vKM2ECnyEJOj'],
+        children: []
+      },
+      {
+        displayName: 'Obstacle',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.HmqfAcf8F2IAQnxD'],
+        children: []
+      },
+      {
+        displayName: 'Premise',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.bKGW8eRX551R1Dkz'],
+        children: []
+      },
+      {
+        displayName: 'Who Committed the Crime',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.tuoHH10URIXcc0x2'],
+        children: []
+      },
+      {
+        displayName: 'Why the Crime was Committed',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.R7xxod7I2649AfEO'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[vowsIndex].children[oneShotVowsIndex].children.push(
+      {
+        displayName: 'Added Pressure',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.HbHa69vRs2jVF8Hd'],
+        children: []
+      },
+      {
+        displayName: 'Inciting Incident',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.l3fPYm3lc5BZZZKx'],
+        children: []
+      },
+      {
+        displayName: 'Location',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.2hzG8oEmMbVVMJsZ'],
         children: []
       }
     );
