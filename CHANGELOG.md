@@ -1,6 +1,6 @@
 # Changelog
 
-### [1.1.1](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-11-xx)
+### [1.1.1](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-11-05)
 
 * Small updates to macros.
 
