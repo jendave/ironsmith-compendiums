@@ -65,4 +65,7 @@ Oracles were created using [Eric Bright's Ironsworn JSON files](https://github.c
 
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
 
-The [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer) was used to import the tables during the development process.
+## Modules
+The following modules were used in the development process
+* [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer)
+* [DF Manual Rolls](https://foundryvtt.com/packages/df-manual-rolls)
