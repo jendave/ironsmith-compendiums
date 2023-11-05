@@ -6,7 +6,11 @@
 [![License](https://img.shields.io/github/license/jendave/ironsmith-expanded-oracles)](LICENSE)
 
 # About
-A FoundryVTT compendium of fan-created oracles for the Ironsworn system.
+A FoundryVTT compendium of the supplement by Eric Bright adds two additional tables for nearly every table for the Ironsworn system.
+
+# Contact
+* [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
+* [GitHub Repository](https://github.com/jendave/ironsmith-expanded-oracles)
 
 # Features and Notes
 * Oracle tables from the PDF are included.
