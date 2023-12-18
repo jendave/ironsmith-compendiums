@@ -18,23 +18,25 @@ Hooks.once("ironswornOracleTreesReady", async () => {
     const ironswornOracles = CONFIG.IRONSWORN.getOracleTree('ironsworn')
 
     let actionThemeIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Action and Theme"));
+    let characterIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Character"));
+    let combatEventIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Combat Event"));
+    let featureIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Feature"));
+    let monstrosityIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Monstrosity"));
+    let movesIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Moves"));
+    let nameFolder = ironswornOracles.children.find(children => children.displayName === "Name");
+    let nameIndex = ironswornOracles.children.indexOf(nameFolder);
     let placeIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Place"));
     let settlementFolder = ironswornOracles.children.find(children => children.displayName === "Settlement");
     let settlementIndex = ironswornOracles.children.indexOf(settlementFolder);
-    let characterIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Character"));
-    let nameFolder = ironswornOracles.children.find(children => children.displayName === "Name");
-    let nameIndex = ironswornOracles.children.indexOf(nameFolder);
+    let siteNameIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Site Name"));
+    let siteNatureIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Site Nature"));
+    let threatFolder = ironswornOracles.children.find(children => children.displayName === "Threat");
+    let threatIndex = ironswornOracles.children.indexOf(threatFolder);
+    let trapIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Trap"));
+    let turningPointIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Turning Point"));
+
     let ironlanderNameIndex = nameFolder.children.indexOf(nameFolder.children.find(children => children.displayName === "Ironlander"));
     let otherNameIndex = nameFolder.children.indexOf(nameFolder.children.find(children => children.displayName === "Other"));
-    let turningPointIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Turning Point"));
-    let movesIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Moves"));
-    let featureIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Feature"));
-    let siteNameIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Site Name"));
-    //   let siteNatureIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Site Nature"));
-    let monstrosityIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Monstrosity"));
-    let trapIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Trap"));
-    let combatEventIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Combat Event"));
-    let threatIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Threat"));
 
     ironswornOracles.children.push({
       displayName: 'Corruption',
@@ -49,24 +51,17 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       tables: [],
       children: []
     });
-    let monsterHuntingIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Monster Hunting"));
+
+    let monsterHuntingFolder = ironswornOracles.children.find(children => children.displayName === "Monster Hunting");
+    let monsterHuntingIndex = ironswornOracles.children.indexOf(monsterHuntingFolder);
 
     ironswornOracles.children.push({
-      displayName: 'Other',
+      displayName: 'Vows and Milestones',
       tables: [],
       children: []
     });
 
-    let otherFolder = ironswornOracles.children.find(children => children.displayName === "Other");
-    let otherIndex = ironswornOracles.children.indexOf(otherFolder);
-
-    ironswornOracles.children.push({
-      displayName: 'Vows',
-      tables: [],
-      children: []
-    });
-
-    let vowsFolder = ironswornOracles.children.find(children => children.displayName === "Vows");
+    let vowsFolder = ironswornOracles.children.find(children => children.displayName === "Vows and Milestones");
     let vowsIndex = ironswornOracles.children.indexOf(vowsFolder);
 
     ironswornOracles.children[actionThemeIndex].children.push(
@@ -104,23 +99,23 @@ Hooks.once("ironswornOracleTreesReady", async () => {
         children: []
       },
       {
-        displayName: 'Role (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.THyqvtvnpMAmghzY', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.vVIwIneKy2NoNOQg', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.KZJjCsHBHbejeiUe'],
-        children: []
-      },
-      {
-        displayName: 'Random NPC Conversation (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.HUR4ToDsdKdAGaPz', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.vYA5T9SXEUW7H75S', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.Wx0riTQFaJY4qkpT'],
-        children: []
-      },
-      {
-        displayName: 'NPC Plot Knowledge: Type',
+        displayName: 'NPC Plot Knowledge: Type of Information',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.Pb44yFq76PYRCCRJ'],
         children: []
       },
       {
-        displayName: 'NPC Plot Knowledge: Topic',
+        displayName: 'NPC Plot Knowledge: Topic of Information',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.NStSbQ2gmzTDqo0L'],
+        children: []
+      },
+      {
+        displayName: 'Random NPC Conversation',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.HUR4ToDsdKdAGaPz', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.vYA5T9SXEUW7H75S', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.Wx0riTQFaJY4qkpT'],
+        children: []
+      },
+      {
+        displayName: 'Role (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.THyqvtvnpMAmghzY', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.vVIwIneKy2NoNOQg', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.KZJjCsHBHbejeiUe'],
         children: []
       }
     );
@@ -191,23 +186,38 @@ Hooks.once("ironswornOracleTreesReady", async () => {
 
     ironswornOracles.children[monsterHuntingIndex].children.push(
       {
-        displayName: 'Dominant Attitude of the People',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.QraukbOe9Pfzkc8A'],
+        displayName: 'Design the Monster',
+        tables: [],
         children: []
       },
       {
-        displayName: 'End the Fight Hit',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.cawiYHA3nGux8Vqu'],
+        displayName: 'Ending the Fight',
+        tables: [],
         children: []
       },
       {
-        displayName: 'End the Fight Weak Hit But',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.fkf5NivRTBPEBpAt'],
+        displayName: 'Heed the Call',
+        tables: [],
         children: []
       },
       {
-        displayName: 'How People Tried to Stop It',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.PoWbQ8Uk0Atcv9Vu'],
+        displayName: 'Milestones',
+        tables: [],
+        children: []
+      }
+    );
+
+    let designTheMonsterMonsterHuntingIndex = monsterHuntingFolder.children.indexOf(monsterHuntingFolder.children.find(children => children.displayName === "Design the Monster"));
+    let endingTheFightMonsterHuntingIndex = monsterHuntingFolder.children.indexOf(monsterHuntingFolder.children.find(children => children.displayName === "Ending the Fight"));
+    let heedTheCallMonsterHuntingIndex = monsterHuntingFolder.children.indexOf(monsterHuntingFolder.children.find(children => children.displayName === "Heed the Call"));
+
+    let milestonesMonsterHuntingFolder = monsterHuntingFolder.children.find(children => children.displayName === "Milestones");
+    let milestonesMonsterHuntingIndex = monsterHuntingFolder.children.indexOf(milestonesMonsterHuntingFolder);
+
+    ironswornOracles.children[monsterHuntingIndex].children[designTheMonsterMonsterHuntingIndex].children.push(
+      {
+        displayName: 'Exploitable Weakness',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.T7lgfm3nB9LSdylF'],
         children: []
       },
       {
@@ -231,81 +241,162 @@ Hooks.once("ironswornOracleTreesReady", async () => {
         children: []
       },
       {
-        displayName: 'Monster Weakness',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.T7lgfm3nB9LSdylF'],
+        displayName: 'Primary Ability',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.tV0fK39GFPSzbJnr'],
         children: []
       },
       {
-        displayName: 'Mounting Pressure But',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.tG9ntqjZ7telppCh'],
+        displayName: 'Primary Characteristic',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.WY9gYnCSYXPXPPmR'],
         children: []
       },
       {
-        displayName: 'Mounting Pressure Getting Worse',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.gU6PnSSv4FYOpHoF'],
+        displayName: 'Primary Form',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.EH04r2O57lZEyqBb'],
         children: []
       },
       {
-        displayName: 'Mounting Pressure Monster Desire',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.ZQifTar4YBtXBrVN'],
+        displayName: 'Size',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.wRnuBbEPYHIfxRqz'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[monsterHuntingIndex].children[endingTheFightMonsterHuntingIndex].children.push(
+      {
+        displayName: 'On a Strong Hit The Monster....',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.cawiYHA3nGux8Vqu'],
         children: []
       },
       {
-        displayName: 'Secret Action Anti-Monster',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.PF4xccosi4ygZoGZ'],
+        displayName: 'On a Weak Hit But...',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.fkf5NivRTBPEBpAt'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[monsterHuntingIndex].children[heedTheCallMonsterHuntingIndex].children.push(
+      {
+        displayName: 'How Have People Tried to Stop the Monster?',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.PoWbQ8Uk0Atcv9Vu'],
         children: []
       },
       {
-        displayName: 'Secret Actor Anti-Monster',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.SX6MdGYhmcpgwLcu'],
+        displayName: 'What Has the Monster Done?',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.1jSxbgVP1CWKB1TS'],
         children: []
       },
       {
-        displayName: 'Secret Actor Pro-Monster',
+        displayName: 'What is the Dominant Attitude of the People?',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.QraukbOe9Pfzkc8A'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[monsterHuntingIndex].children[milestonesMonsterHuntingIndex].children.push(
+      {
+        displayName: 'Find an Opposing Viewpoint',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'Find the Mounting Pressure',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'Tracks',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'Uncover a Secret',
+        tables: [],
+        children: []
+      }
+    );
+
+    let findAnOpposingViewpointMonsterHuntingIndex = milestonesMonsterHuntingFolder.children.indexOf(milestonesMonsterHuntingFolder.children.find(children => children.displayName === "Find an Opposing Viewpoint"));
+    let findTheMountingPressureMonsterHuntingIndex = milestonesMonsterHuntingFolder.children.indexOf(milestonesMonsterHuntingFolder.children.find(children => children.displayName === "Find the Mounting Pressure"));
+    let tracksMonsterHuntingIndex = milestonesMonsterHuntingFolder.children.indexOf(milestonesMonsterHuntingFolder.children.find(children => children.displayName === "Tracks"));
+    let uncoverASecretMonsterHuntingIndex = milestonesMonsterHuntingFolder.children.indexOf(milestonesMonsterHuntingFolder.children.find(children => children.displayName === "Uncover a Secret"));
+
+    ironswornOracles.children[monsterHuntingIndex].children[milestonesMonsterHuntingIndex].children[findAnOpposingViewpointMonsterHuntingIndex].children.push(
+      {
+        displayName: 'Actor',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.qwauXBnovP6swUph'],
         children: []
       },
       {
-        displayName: 'Secret Desire Pro-Monster',
+        displayName: 'Wants to...',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.ydnEI1BXu4voqkTr'],
         children: []
       },
       {
-        displayName: 'Secret Reason Anti-Monster',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.0FMRdoHhJnWuBb2M'],
-        children: []
-      },
-      {
-        displayName: 'Secret Reason Pro-Monster',
+        displayName: 'Why?',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.Dfk5R2OodJgGdyrb'],
         children: []
-      },
+      }
+    );
+
+    ironswornOracles.children[monsterHuntingIndex].children[milestonesMonsterHuntingIndex].children[findTheMountingPressureMonsterHuntingIndex].children.push(
       {
-        displayName: 'Tracking Sign',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.4Z1xJ2bVOhvtcdup'],
+        displayName: 'And It\'s Getting Worse Because...',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.gU6PnSSv4FYOpHoF'],
         children: []
       },
       {
-        displayName: 'Tracking Sign Age',
+        displayName: 'But...',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.tG9ntqjZ7telppCh'],
+        children: []
+      },
+      {
+        displayName: 'The Monster Wants to...',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.ZQifTar4YBtXBrVN'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[monsterHuntingIndex].children[milestonesMonsterHuntingIndex].children[tracksMonsterHuntingIndex].children.push(
+      {
+        displayName: 'Age',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.xOiRVGD39AUXmoiI'],
         children: []
       },
       {
-        displayName: 'What the Monster Did',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.1jSxbgVP1CWKB1TS'],
+        displayName: 'Sign',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.4Z1xJ2bVOhvtcdup'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[monsterHuntingIndex].children[milestonesMonsterHuntingIndex].children[uncoverASecretMonsterHuntingIndex].children.push(
+      {
+        displayName: 'Actor',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.SX6MdGYhmcpgwLcu'],
+        children: []
+      },
+      {
+        displayName: 'Secretly Does...',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.PF4xccosi4ygZoGZ'],
+        children: []
+      },
+      {
+        displayName: 'Why?',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.0FMRdoHhJnWuBb2M'],
         children: []
       }
     );
 
     ironswornOracles.children[monstrosityIndex].children.push(
       {
-        displayName: 'Characteristics (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.O4dEGP4ikd9ocEQw', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.AKYmmmlJcclQiZdU', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.C3T2kwpfYIIBDdfM'],
+        displayName: 'Abilities (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.bI1vxrBufRBT4PRj', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.vHLJvnArJTh9225H', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.KrjbJ2tGREqy4OdA'],
         children: []
       },
       {
-        displayName: 'Abilities (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.bI1vxrBufRBT4PRj', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.vHLJvnArJTh9225H', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.KrjbJ2tGREqy4OdA'],
+        displayName: 'Characteristics (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.O4dEGP4ikd9ocEQw', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.AKYmmmlJcclQiZdU', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.C3T2kwpfYIIBDdfM'],
         children: []
       }
     );
@@ -349,26 +440,6 @@ Hooks.once("ironswornOracleTreesReady", async () => {
         children: []
       }
     );
-
-    ironswornOracles.children[otherIndex].children.push(
-      {
-        displayName: 'Items of Narrative Significance',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.5gw54UqRJ4SY6YcS', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.AU81rQndvWGiwS3z', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.pDuUGjRBixDzDaQW'],
-        children: []
-      }
-    );
-
-    ironswornOracles.children[threatIndex].children.push(
-      {
-        displayName: 'Undead Uprising',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.BP9WsByry6CtzdUl'],
-        children: []
-      },
-      {
-        displayName: 'Undead Uprising Accompanying Sign or Portent',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.c0WAvr6LfO26h8KK'],
-        children: []
-      });
 
     ironswornOracles.children[placeIndex].children.push(
       {
@@ -429,6 +500,37 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       }
     );
 
+    ironswornOracles.children[siteNatureIndex].children.push(
+      {
+        displayName: 'Danger Result',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.573pKijUJwXRG7zC'],
+        children: []
+      }
+    );
+
+    ironswornOracles.children[threatIndex].children.push(
+      {
+        displayName: 'Undead Uprising',
+        tables: [],
+        children: []
+      }
+    );
+
+    let undeadUprisingIndex = threatFolder.children.indexOf(threatFolder.children.find(children => children.displayName === "Undead Uprising"));
+
+    ironswornOracles.children[threatIndex].children[undeadUprisingIndex].children.push(
+      {
+        displayName: 'Accompanying Signs or Portents',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.c0WAvr6LfO26h8KK'],
+        children: []
+      },
+      {
+        displayName: 'The Undead...',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.BP9WsByry6CtzdUl'],
+        children: []
+      }
+    );
+
     ironswornOracles.children[trapIndex].children.push(
       {
         displayName: 'Event (Ironsmith)',
@@ -467,6 +569,11 @@ Hooks.once("ironswornOracleTreesReady", async () => {
         children: []
       },
       {
+        displayName: 'Difficulty Level',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.P2iBppnx0884EteE'],
+        children: []
+      },
+      {
         displayName: 'Method of Making Headway',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.h5rOpC6d10AhFmU1'],
         children: []
@@ -485,7 +592,7 @@ Hooks.once("ironswornOracleTreesReady", async () => {
 
     ironswornOracles.children[vowsIndex].children.push(
       {
-        displayName: 'Challenges to Virtue',
+        displayName: 'Challenges to Noble Virtue',
         tables: [],
         children: []
       },
@@ -511,7 +618,7 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       }
     );
 
-    let challengesToVirtueVowsIndex = vowsFolder.children.indexOf(vowsFolder.children.find(children => children.displayName === "Challenges to Virtue"));
+    let challengesToVirtueVowsIndex = vowsFolder.children.indexOf(vowsFolder.children.find(children => children.displayName === "Challenges to Noble Virtue"));
     let fantasyQuestVowsIndex = vowsFolder.children.indexOf(vowsFolder.children.find(children => children.displayName === "Fantasy Quest"));
     let grimQuestVowsIndex = vowsFolder.children.indexOf(vowsFolder.children.find(children => children.displayName === "Grim Quest"));
     let mysteryVowVowsIndex = vowsFolder.children.indexOf(vowsFolder.children.find(children => children.displayName === "Mystery Vow"));
@@ -519,12 +626,12 @@ Hooks.once("ironswornOracleTreesReady", async () => {
 
     ironswornOracles.children[vowsIndex].children[challengesToVirtueVowsIndex].children.push(
       {
-        displayName: 'Loss',
+        displayName: 'Loss of...',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.WuksvXuuPfyNvHAU'],
         children: []
       },
       {
-        displayName: 'Virtue',
+        displayName: 'Challenging the Virtue of...',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.a97NA6HOLVwX0Wq6'],
         children: []
       }
@@ -555,7 +662,7 @@ Hooks.once("ironswornOracleTreesReady", async () => {
         children: []
       },
       {
-        displayName: 'Quest',
+        displayName: 'Grim Quest',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.DPBG6Gm4kjTlbyI7'],
         children: []
       }
@@ -563,7 +670,7 @@ Hooks.once("ironswornOracleTreesReady", async () => {
 
     ironswornOracles.children[vowsIndex].children[mysteryVowVowsIndex].children.push(
       {
-        displayName: 'Clue Relates To',
+        displayName: 'Clue Relates To...',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.PsWvuiS2ivTsDwWC'],
         children: []
       },
@@ -573,13 +680,8 @@ Hooks.once("ironswornOracleTreesReady", async () => {
         children: []
       },
       {
-        displayName: 'NPC Info Topic',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.EbBdlUOMz6KbUCe7'],
-        children: []
-      },
-      {
-        displayName: 'NPC Info Type',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.SLF2vKM2ECnyEJOj'],
+        displayName: 'Item of Narrative Significance',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.5gw54UqRJ4SY6YcS', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.AU81rQndvWGiwS3z', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.pDuUGjRBixDzDaQW'],
         children: []
       },
       {
@@ -590,6 +692,16 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       {
         displayName: 'Premise',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.bKGW8eRX551R1Dkz'],
+        children: []
+      },
+      {
+        displayName: 'Topic of Info',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.EbBdlUOMz6KbUCe7'],
+        children: []
+      },
+      {
+        displayName: 'Type of Info',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.SLF2vKM2ECnyEJOj'],
         children: []
       },
       {

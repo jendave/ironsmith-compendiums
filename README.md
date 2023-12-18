@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/jendave/ironsmith-expanded-oracles)](LICENSE)
 
 # About
-A FoundryVTT compendium of the supplement by Eric Bright adds two additional tables for nearly every table for the Ironsworn system.
+A FoundryVTT compendium of the supplements by Eric Bright that adds two additional tables for nearly every table for the Ironsworn system.
 
 # Contact
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
@@ -18,9 +18,9 @@ A FoundryVTT compendium of the supplement by Eric Bright adds two additional tab
 * Tables that are simply copies of official Ironsworn tables without the array are not included since they would be redundant with the standard Ironsworn System tables.
 
 # Module Installation
-To install the module, search for `Ironsmith` or `Ironsworn` in the `Add-On Modules` tab of Foundry.
+To install the module, search for `Ironsmith` or `Ironsworn` in the `Add-On Modules` tab of of the Foundry VTT game setup screen. Then click on `Install`.
 
-Or use this URL:
+Or use this URL and click on `Install`:
 
 ```
 https://github.com/jendave/ironsmith-expanded-oracles/releases/latest/download/module.json
@@ -54,7 +54,7 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 ![Character Sheet - Custom Oracles](./docs/custom-oracles-character-sheet.jpg)
 
 # Credits
-[Ironsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/333665/Ironsmith-Expanded-Oracles) and [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+[Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) and [Ironsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/333665/Ironsmith-Expanded-Oracles) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
 Original oracles by Shawn Tomkin from [Ironsworn](https://preview.drivethrurpg.com/en/product/238369/ironsworn) and [Ironsworn: Delve](https://preview.drivethrurpg.com/en/product/302260/ironsworn-delve) are used under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
