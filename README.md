@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/jendave/ironsmith-expanded-oracles)](LICENSE)
 
 # About
-A FoundryVTT compendium of the supplements by Eric Bright that adds two additional tables for nearly every table for the Ironsworn system.
+A FoundryVTT compendium of the supplements by Eric Bright that adds many additional tables for the Ironsworn system.
 
 # Contact
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)

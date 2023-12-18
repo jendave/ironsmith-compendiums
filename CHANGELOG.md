@@ -1,6 +1,6 @@
 # Changelog
 
-### [1.2.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-12-xx)
+### [1.2.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-12-18)
 
 * Revamp organization to follow [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) supplement.
 * Add some missing tables (thanks to Sander for pointing out that tables were missing).
