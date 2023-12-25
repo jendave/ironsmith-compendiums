@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/jendave/ironsmith-expanded-oracles)](LICENSE)
 
 # About
-A FoundryVTT compendium of the supplements by Eric Bright that adds many additional tables for the Ironsworn system.
+A FoundryVTT compendium of the [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) and [Ironsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/333665/Ironsmith-Expanded-Oracles) supplements by Eric Bright.
 
 # Contact
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
@@ -27,6 +27,7 @@ https://github.com/jendave/ironsmith-expanded-oracles/releases/latest/download/m
 ```
 
 # Tabletop Integration
+## Oracles
 By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet. 
 ![Character Sheet - Oracles Tree](./docs/oracle-tree-character-sheet.jpg)
 
@@ -52,6 +53,9 @@ Open the `Ironsmith Expanded Oracles` compendium and copy the folders into the `
 The Oracles will be available in the Character sheet under `Custom Oracles`.
 
 ![Character Sheet - Custom Oracles](./docs/custom-oracles-character-sheet.jpg)
+
+## Site Themes and Domains
+Copy the desired themes and domains from the Ironsmith Site compendiums into the `Items` tab in FoundryVTT. 
 
 # Credits
 [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) and [Ironsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/333665/Ironsmith-Expanded-Oracles) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).

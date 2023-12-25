@@ -32,6 +32,20 @@
       "path": "./packs/ironsmith-expanded-oracles-macros",
       "type": "Macro",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithsitedomains",
+      "label": "Ironsmith Site Domains",
+      "path": "./packs/ironsmith-site-domains",
+      "type": "Item",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithsitethemes",
+      "label": "Ironsmith Site Themes",
+      "path": "./packs/ironsmith-site-themes",
+      "type": "Item",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
@@ -39,7 +53,9 @@
       "name": "Ironsmith Expanded Oracles",
       "packs": [
         "ironsmithexpandedoracles",
-        "ironsmithexpandedoraclesmacros"
+        "ironsmithexpandedoraclesmacros",
+        "ironsmithsitedomains",
+        "ironsmithsitethemes"
       ]
     }
   ],
