@@ -1,6 +1,6 @@
 # Changelog
 
-### [1.2.1](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-12-xx)
+### [1.2.1](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-12-26)
 
 * Added Site Themes and Domains from the [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) supplement.
 
