@@ -46,6 +46,7 @@ Macros for Dice rolling can be found in the `Ironsmith Expanded Oracles Macros` 
   * `Oráculos personalizados` - ES
   * `Oracles personnalisés` - FR
   * `Własne Wyrocznie` - PL
+  * `Свои оракулы` - RU
 
 Open the `Ironsmith Expanded Oracles` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
 
