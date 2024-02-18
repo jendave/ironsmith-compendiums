@@ -1,4 +1,4 @@
-# ironsmith-expanded-oracles
+# Ironsmith Expanded Oracles for Ironsworn
 
 ![GitHub all releases](https://img.shields.io/github/downloads/jendave/ironsmith-expanded-oracles/total)
 [![Latest Version](https://img.shields.io/github/v/release/jendave/ironsmith-expanded-oracles?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/ironsmith-expanded-oracles/releases/latest)
@@ -30,10 +30,10 @@ https://github.com/jendave/ironsmith-expanded-oracles/releases/latest/download/m
 # Tabletop Integration
 ## Oracles
 By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet. 
-![Character Sheet - Oracles Tree](./docs/oracle-tree-character-sheet.jpg)
+![Character Sheet - Oracles Tree](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/oracle-tree-character-sheet.jpg?raw=true)
 
 If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Configure Settings` game settings. 
-![Module Game Settings](./docs/module-game-settings.jpg)
+![Module Game Settings](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/module-game-settings.jpg?raw=true)
 
 The Oracles can also be added to the character sheet by using the `Custom Folders` method below.
 
@@ -50,11 +50,11 @@ Macros for Dice rolling can be found in the `Ironsmith Expanded Oracles Macros` 
 
 Open the `Ironsmith Expanded Oracles` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
 
-![Rollable Tables - Custom Oracles](./docs/custom-oracles-rollable-tables.jpg)
+![Rollable Tables - Custom Oracles](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
 
 The Oracles will be available in the Character sheet under `Custom Oracles`.
 
-![Character Sheet - Custom Oracles](./docs/custom-oracles-character-sheet.jpg)
+![Character Sheet - Custom Oracles](https://github.com/jendave/ironsmith-expanded-oracles/blob/main//docs/custom-oracles-character-sheet.jpg?raw=true)
 
 ## Site Themes and Domains
 Copy the desired themes and domains from the Ironsmith Site compendiums into the `Items` tab in FoundryVTT. 
@@ -75,3 +75,19 @@ Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System]
 The following modules were used in the development process
 * [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer)
 * [DF Manual Rolls](https://foundryvtt.com/packages/df-manual-rolls)
+
+# FoundryVTT Modules and Other Resources
+Please check out my other modules and resources for Ironsworn and Ironsworn: Starforged
+
+### [FoundryVTT](https://foundryvtt.com/) Modules
+*   [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles)
+*   [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
+*   [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
+*   [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
+*   [Token Note Hover](https://github.com/jendave/token-note-hover)
+
+### Itch.io Resources
+*   [The City on the Breeze - Cyberpunk-inspired Oracle arrays](https://jendave.itch.io/the-city-on-the-breeze)
+*   [I’ll Be Home for Life Day! - Star Wars Life Day Oracle](https://jendave.itch.io/ill-be-home-for-life-day)
+*   [Critical Success Oracles](https://jendave.itch.io/critical-success-oracles)
+*   [I Owe My Soul to the Corporate Planet - Company Planet Oracles](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet)
