@@ -1,0 +1,258 @@
+COMPANION 
+BEAR
+Name:
+Your bear endures all.
+
+Press On: When you travel through rugged forest terrain following your bear's persistence, you may Undertake a Journey with +iron (instead of +wits) and take +1 momentum on a hit. 
+Nose for Honey: When you Resupply by having your bear track fish, berries or honey, add +1 and take +1 supply or +1 momentum on a strong hit.
+Protective: When you Strike or Clash alongside your bear after you have suffered harm in combat, you may decide before rolling to treat a weak hit as a miss. If you do, inflict +2 harm or take +2 momentum on a strong hit.
+0 +1 +2 +3 +4 +5
+
+COMPANION
+GIANT SNAKE
+Name:
+Your snake is silent and deadly.
+
+Poison: Once per fight, when you Strike or Clash alongside your snake and score a strong hit, inflict 1 harm after resolving the next X moves where X is result of your action die. 
+Hypnotize: When you Secure an Advantage by having your snake weave hypnotically, roll +shadow. On a strong hit, you have the initiative after the next move regardless of the outcome.
+Squeeze: When you Secure an Advantage +iron by having your snake constrict the limbs of a foe of formidable or less, add +2.
+
+Treat a weak hit as a miss on all abilities.
+0 +1 +2 +3 +4 
+
+
+PATH
+BEAST BONDED
+Once you Forge a Bond with your animal or beast companion and unlock every ability of the Animal Kin asset...
+
+When you make the Companion Endure Harm move for your beast or animal companion, you may choose to suffer the -health in place of your companion. If you do, reduce the -health suffered by 1 and add +1 when you Endure Harm.
+Increase your beast or animal companion's maximum health by +1.
+Your beast or animal companion has a higher intellect, stronger bond, and improved communication with you. When you Sojourn with them, add +1 or take +1 more for your chosen action on a hit (decide before rolling).
+
+
+
+PATH
+DWELLER IN THE DARK
+After you ingest Myrkrsyn Nightshade flower and spend a feverish evening to permanently transform your eyes for darkvision giving you sensitivity to bright light...
+When you Gather Information by spying into areas of near total darkness...
+When you Enter the Fray, Face Danger, or Secure an Advantage by using areas of near total darkness...
+When you Undertake a Journey under cover of near total darkness, or when you Delve the Depths using the cover of near total darkness... 
+
+You may roll +shadow. If you do, add +1 and take +1 momentum on a hit.
+
+
+COMBAT TALENT
+RUNIC WARRIOR
+
+Once per fight, you may Secure an Advantage +wits and add +1 by tracing the Sign of Drepa to push your foe with a blast of force. On a weak hit, you have the initiative (instead of losing it).
+You may Strike or Clash+wits (instead of +iron or +edge) by tracing the Sign of Skina to blast your foe with mystic energy (inflicts 2 harm).
+When you burn momentum to improve a result while using this asset, choose one:
+* You have the initiative.
+* Take +1 momentum.
+* Inflict +1 harm.
+
+
+
+
+COMPANION
+BOAR 
+Name:
+Your boar is an aggressive fighter.
+
+Gore: When you Strike or Clash alongside your boar and score a hit, inflict +1 harm and take +1 momentum.
+Charge: When you Secure an Advantage +iron by having your boar knock down your foe of formidable or less, you may reroll any die.
+Truffle Snuffle: When you encourage your boar to follow the scent of truffles, you may Resupply with +heart (instead of +wits). If you do, take +1 supply or +1 momentum on a strong hit.
+0 +1 +2 +3 +4
+
+COMPANION
+ICY CROCODILE
+Name:
+Your croc is cold and calculating.
+
+Aquatic: When you Strike or Clash alongside your croc in a watery environment, add +1 and take +1 momentum on a hit.
+Death Roll: When you End the Fight alongside your croc in a watery environment against a foe of formidable or less, you may reroll any dice.
+Jaws of Iron: When you Strike or Clash alongside your croc, inflict +1 harm on a hit. Once per fight on a strong hit, inflict +2 harm instead.
+0 +1 +2 +3 +4
+
+
+PATH
+DRUIDIC INFLUENCE
+
+You may Gather Information from animals by speaking their language. If you do, roll +heart (instead of +wits) and add +1. Alternately, you may seek the aid of a single animal. If you do, roll +heart. On a strong hit, you gain an animal or beast Companion asset with one unlocked ability until dusk. Treat a weak hit as a miss.
+When you speak the language of air and scatter sacred water to the wind, roll +wits. On a weak hit, you may change the weather moderately for an hour. On a strong hit, you may change it extremely.
+When you speak the language of earth and thrust an iron-tipped staff into the ground, roll +wits. On a hit, take +1 momentum, and for the next week, the plants in the area grow under your basic direction. Alternately, you may Secure an Advantage +wits by having plants grow rapidly to entangle foes, create a barrier, forge a path, etc. but treat a weak hit as a miss.
+
+
+
+PATH
+IRON EATER
+After you Fulfill Your Vow in service to a mystic iron eater and Forge a Bond to train with them: When you Secure an Advantage...
+
+...to ready yourself for a ritual by ingesting iron shavings and draw on its essence, roll +wits and add +1. On a hit, take +1 momentum.
+...in combat by ingesting a pellet of iron and draw on its strength, roll +wits and add +1. On a hit, you may suffer -1 health and take +1 iron. If you do, you suffer -2 iron when the fight ends. Take +1 iron after the pellet leaves your body.
+...by pressing an iron paste to your tongue and draw on its glamor, roll +wits and add +1. On a hit, take +1 momentum if the next move you make is Compel.
+
+
+PATH
+TACTICIAN
+When you Aid an Ally, Battle, Face Danger, or Secure an Advantage +wits by leading a group or army and actively giving tactical commands, add +1 and take +1 momentum on a hit.
+Once per fight, when you miss on a move, you may adjust your strategy on the fly. Envision this change and suffer -X momentum. Then add +X where X is any value up to your wits score. This may change the miss to a hit.
+Once per fight, when you Secure an Advantage +wits by studying your foe for a weakness and score a strong hit, you may immediately make the Strike move. If you do and score a hit, inflict +X harm where X is your wits score.
+
+
+RITUAL
+ANCESTRAL KNOWLEDGE
+When you surround yourself with objects connected to a specific ancestor and implore them for help, roll +heart. On a strong hit, they find you worthy and grant you temporary power. Until the following dawn, you gain the asset associated with that ancestor with all the abilities unlocked. Treat a weak hit as a miss. When you gain each upgrade, name the ancestor and asset.
+Name: Asset:
+Name: Asset:
+Name: Asset:
+
+
+RITUAL
+BLOODLUST
+When you mark your own, an ally's, or companion's arm, head and weapon with ancient sigils of rage made of blood, roll +wits. On a strong hit, mystic rage fuels the target. The next time they...
+Modr: Enter the Fray or Draw the Circle, add +X...
+Sadr: Strike or Clash, add +X...
+Skadi: Inflict harm, inflict +X harm...
+...where X is the result on your action die for this ritual. On a weak hit, as above but X is 1 instead.
+
+
+
+
+PATH
+EARTHBORN
+When you Face Danger, Gather Information, or Secure an Advantage related to your knowledge of underground environments or creatures, add +1 and take +1 momentum on a hit.
+When you Delve the Depths underground, add +1. On a strong hit, also choose one.
+* This is the way: Mark progress twice.
+* Hunker down: You find a secure location in addition to the result of Find an Opportunity. You may Make Camp now and reroll any dice.
+* Lay of the land: The next time you Delve the Depths in this site, you may reroll any dice.
+When you Enter the Fray in an underground environment, reroll any dice.
+
+
+PATH
+SCHOLAR
+After you spend years studying a terrain, foe, or narrow topic, list this as your area of expertise.
+Area of Expertise:
+
+When you rely primarily on this knowledge to aid you as you...
+Face Danger, Gather Information, or Secure an Advantage...
+Compel or Forge a Bond...
+Undertake a Journey, Delve the Depths, or Resupply...
+Add +1 and take +1 momentum on a hit.
+
+
+PATH
+WAY OF SACRIFICE
+When you Swear an Iron Vow to help a community in need without reward or benefit to yourself, you may reroll any dice. When you Fulfill Your Vow and mark experience, take +1 experience and +1 spirit.
+When you Forge a Bond with a community you after you Fulfill Your Vow to aid them, add +1 and take +1 momentum or +1 spirit.
+When you Compel using genuine affection by putting others' needs before your own, add +1 and take +1 momentum or +1 spirit on a hit.
+
+
+RITUAL
+BESTIAL ASPECT
+When you partake of the stalk of a rare Kykvendi plant, wear the ceremonial trappings of an animal listed below, and focus your will for an hour, roll +wits. On a hit, you are filled with the power of that animal on take on its dominant characteristics. Envision this transformation and take +1 to the listed stat until dusk. On a strong hit, also take +1 momentum.
+
+Green Wolf: Heart
+Ironclaw Bear: Iron
+Rock Panther: Edge
+Weaver Fox: Shadow
+Crowned Owl: Wits
+
+
+
+RITUAL
+PROTECTION
+When you perform the Ceremony of Iron and Stone to mark a rune in ash on an ally, companion, or yourself, roll +wits. On a hit, the effect below occurs once before the next dawn. On a strong hit, as above and take +1 momentum.
+From Harm: The next time the target suffers harm, reduce the harm inflicted by X where X is the result of your action die for this ritual.
+From Despair: The next time the target suffers a loss of spirt, reduce the amount suffered by X where X is the result of your action die for this ritual.
+From Danger: The next time the target makes the Face Danger move, they add +X where X is the result of your action die for this ritual.
+
+RITUAL
+TRUE NAMER
+After you spend significant time studying a specific animal, beast, element, or other narrow topic, you learn its true name that holds ancient power.
+True Name:
+True Name:
+True Name:
+You may Secure an Advantage +wits by invoking a target's true name and claiming power over it. On a strong hit, for the rest of the scene or encounter, add +1 to any move where you primarily interact physically or socially with that target. Treat a weak hit as a miss.
+You may only attempt this once per scene or encounter per single target.
+
+
+PATH
+MUTANT PHYSIQUE Your body can be pushed beyond normal human limits.
+When you Endure Harm +iron, add +1. Also, when you Face Death, you may roll +iron (instead of +heart). If you do, add +1 but treat a weak hit as a miss.
+When you Face Danger or Secure an Advantage +iron using brute force or feats of endurance, add +1 and take +1 momentum on a hit.
+When you Face Danger or Secure an Advantage +edge using swift reflexes, speed, or feats of acrobatics, add +1 and take +1 momentum on a hit.
+
+PATH
+STUDENT OF THE BEAST After you have gained significant knowledge and experience with a particular type of monstrous beast or horror and then leverage that specialized knowledge to...
+Face Danger, Gather Information, or Secure an Advantage +wits,...
+Aid an Ally or Compel, you may roll +wits (instead of +heart) and...
+Battle or Enter the Fray, you may roll +wits (instead of another stat) and...
+
+Add +1 and take +1 momentum on a hit.
+
+
+
+RITUAL
+NECROMANCY
+When you speak the forbidden speech to one recently deceased, roll +wits. On a strong hit, you may Gather Information from the spirit of the dead. On a weak hit, as above but Endure Stress (1 stress). 
+When you encounter a horror, using the forbidden speech you may...
+* Face Danger+wits by commanding it "See me not!" On a strong hit, it does not note your presence for a short time.
+* Secure an Advantage +wits in combat by commanding it "Be gone!" On a strong hit, inflict 1 harm and you may immediately End the Fight. If you do and score a strong hit, the horror is banished forever.
+Treat a weak hit on either as a miss. 
+When you chant the forbidden speech and sprinkle your blood over a corpse under a full moon, Endure Harm (2 harm) and roll +wits. On a strong hit, the corpse turns into a horror that you direct with a single command. Treat a weak hit as a miss.
+
+
+RITUAL
+SOUL OF THE BEAST
+When you partake of the rare Wildroot Ferox and spend an hour channeling an animal spirit, roll +wits. On a hit, you transform into an animal form chosen from below for up to an hour (may be ended early). Envision this change to your body. During this time, your stats are replaced with the stats listed below. On a strong hit, also take +1 momentum and increase your animal form's highest stat by +1. These abilities must be learned in order: small, medium, large.
+Small Animal of Stealth:
+E: +1 H:+1 I:+1 S: +3 W: +2
+Medium Animal of Speed:
+E: +3 H:+1 1+1 S: +2 W: +1
+Large Animal of Strength:
+E: +1 H:+2 1:+3 S: +1 W: +1
+
+PATH
+MUTANT SENSES Your body mutates and gains an enhanced sense of...
+Darkvision, like an owl or cat
+Smell, like a hound or elephant
+Hearing, like a bat or moth
+
+Envision how this enhancement changes your body.
+
+When you Face Danger, Gather Information, or Secure an Advantage by relying primarily on this enhanced sense, add +1 and take +1 momentum on a hit.
+
+
+PATH
+SILENT STALKER When you...
+Face Danger or Secure an Advantage+shadow by hiding from...
+Secure an Advantage by making a trap or Check Your Gear to build such a trap for......
+Enter the Fray +shadow against...
+A monstrous beast or horror, add +1 and take +1 momentum on a hit.
+
+
+
+PATH
+THE DARKNESS WITHIN Define the dark power in you
+Define aspects that the darkness controls
+Define weaknesses the darkness gives you
+
+PATH
+INFUSION BREWER
+When you drink a decoction below, roll +wits. On a strong hit, set your infusion track to +6. On a weak hit, make it +3. Then, when you make a move with that stat, add +1 and suffer -1 infusion. If you roll a 1 on the action die for that move, also suffer -1 to the associated track.
+Strength of the Bear: Iron/Health
+Grace of the Panther: Edge/Health
+Cunning of the Fox: Shadow / Spirit
+Wisdom of the Owl: Wits / Spirit
+Each decoction may only be used once per scene.
+0 +1 +2 +3 +4 +5 +6
+
+
+
+PATH
+THE DARKNESS WITHIN
+You gain access to the moves Wield the Darkness, Resist the Darkness, and Succumb to Darkness.
+You gain access to the Cleanse the Darkness move. Envision your method for combating the dark influence inside you.
+When you Wield the Darkness, you may make major alterations instead of minor and also perform minor acts of creation with aspects.
+When you Wield the Darkness, you may perform major acts of creation and also bend reality with aspects. You must have all other upgrades before choosing this one.
