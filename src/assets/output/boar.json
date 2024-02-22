@@ -1,0 +1,49 @@
+{
+    "name": "Boar",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "Your boar is an aggressive fighter.",
+        "category": "Companion",
+        "color": "",
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            }
+        ],
+        "abilities": [
+            {
+                "description": "<p>Gore: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} alongside your boar and score a hit, inflict +1 harm and take +1 momentum.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Charge: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} +iron by having your boar knock down your foe of formidable or less, you may reroll any die.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Truffle Snuffle: When you encourage your boar to follow the scent of truffles, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.8d90dd472856be27]{Resupply} with +heart (instead of +wits). If you do, take +1 supply or +1 momentum on a strong hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Health",
+            "max": 4,
+            "value": 4,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}

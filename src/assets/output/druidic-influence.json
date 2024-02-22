@@ -1,0 +1,44 @@
+{
+    "name": "Druidic Influence",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": null,
+        "category": "Path",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>You may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} from animals by speaking their language. If you do, roll +heart (instead of +wits) and add +1. Alternately, you may seek the aid of a single animal. If you do, roll +heart. On a strong hit, you gain an animal or beast Companion asset with one unlocked ability until dusk. Treat a weak hit as a miss.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you speak the language of air and scatter sacred water to the wind, roll +wits. On a weak hit, you may change the weather moderately for an hour. On a strong hit, you may change it extremely.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you speak the language of earth and thrust an iron-tipped staff into the ground, roll +wits. On a hit, take +1 momentum, and for the next week, the plants in the area grow under your basic direction. Alternately, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} +wits by having plants grow rapidly to entangle foes, create a barrier, forge a path, etc. but treat a weak hit as a miss.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}

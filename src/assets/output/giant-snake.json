@@ -1,0 +1,54 @@
+{
+    "name": "Giant Snake",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "Your snake is silent and deadly.",
+        "category": "Companion",
+        "color": "",
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            }
+        ],
+        "abilities": [
+            {
+                "description": "<p>Poison: Once per fight, when you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} alongside your snake and score a strong hit, inflict 1 harm after resolving the next X moves where X is result of your action die.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Hypnotize: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by having your snake weave hypnotically, roll +shadow. On a strong hit, you have the initiative after the next move regardless of the outcome.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Squeeze: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} +iron by having your snake constrict the limbs of a foe of formidable or less, add +2.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Health",
+            "max": 4,
+            "value": 4,
+            "min": 0
+        },
+        "exclusiveOptions": [
+            {
+                "name": "Treat a weak hit as a miss on all abilities.",
+                "selected": false
+            }
+        ],
+        "conditions": [],
+        "description": ""
+    }
+}

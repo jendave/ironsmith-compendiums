@@ -1,0 +1,47 @@
+{
+    "name": "Ancestral Knowledge",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "When you surround yourself with objects connected to a specific ancestor and implore them for help, roll +heart. On a strong hit, they find you worthy and grant you temporary power. Until the following dawn, you gain the asset associated with that ancestor with all the abilities unlocked. Treat a weak hit as a miss. When you gain each upgrade, name the ancestor and asset.",
+        "category": "Ritual",
+        "color": "",
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            },
+            {
+                "name": "Asset",
+                "value": ""
+            },
+            {
+                "name": "Name",
+                "value": ""
+            },
+            {
+                "name": "Asset",
+                "value": ""
+            },
+            {
+                "name": "Name",
+                "value": ""
+            },
+            {
+                "name": "Asset",
+                "value": ""
+            }
+        ],
+        "abilities": null,
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}

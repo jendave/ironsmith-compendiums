@@ -1,0 +1,51 @@
+{
+    "name": "The Darkness Within",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": null,
+        "category": "Path",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>You gain access to the moves Wield the Darkness, Resist the Darkness, and Succumb to Darkness.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>You gain access to the Cleanse the Darkness move. Envision your method for combating the dark influence inside you.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you Wield the Darkness, you may make major alterations instead of minor and also perform minor acts of creation with aspects.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you Wield the Darkness, you may perform major acts of creation and also bend reality with aspects. You must have all other upgrades before choosing this one.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}

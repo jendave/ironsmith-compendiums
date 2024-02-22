@@ -1,0 +1,49 @@
+{
+    "name": "Student Of The Beast",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "After you have gained significant knowledge and experience with a particular type of monstrous beast or horror and then leverage that specialized knowledge to...",
+        "category": "Path",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information}, or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} +wits,...</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.f762e8f471fe875f]{Aid Your Ally} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.be95ca063ded2b19]{Compel}, you may roll +wits (instead of +heart) and...</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.412156232a6d42bf]{Battle} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ed343c963b08f301]{Enter the Fray}, you may roll +wits (instead of another stat) and...</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [
+            {
+                "name": "Add +1 and take +1 momentum on a hit.",
+                "selected": false
+            }
+        ],
+        "conditions": [],
+        "description": ""
+    }
+}

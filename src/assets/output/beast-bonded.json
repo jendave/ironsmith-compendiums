@@ -1,0 +1,44 @@
+{
+    "name": "Beast Bonded",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "Once you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.b643d9ea53ff8d98]{Forge a Bond} with your animal or beast companion and unlock every ability of the Animal Kin asset...",
+        "category": "Path",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>When you make the Companion @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm} move for your beast or animal companion, you may choose to suffer the -health in place of your companion. If you do, reduce the -health suffered by 1 and add +1 when you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm}.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Increase your beast or animal companion's maximum health by +1.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Your beast or animal companion has a higher intellect, stronger bond, and improved communication with you. When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.25421995c803340e]{Sojourn} with them, add +1 or take +1 more for your chosen action on a hit (decide before rolling).</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}

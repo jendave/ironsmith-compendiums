@@ -1,0 +1,35 @@
+{
+    "name": "Define The Darkness Within",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": null,
+        "category": "Path",
+        "color": "",
+        "fields": [
+            {
+                "name": "Define the dark power in you",
+                "value": ""
+            },
+            {
+                "name": "Define aspects that the darkness controls",
+                "value": ""
+            },
+            {
+                "name": "Define weaknesses the darkness gives you",
+                "value": ""
+            }
+        ],
+        "abilities": null,
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}

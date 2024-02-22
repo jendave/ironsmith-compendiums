@@ -1,0 +1,40 @@
+{
+    "name": "True Namer",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "After you spend significant time studying a specific animal, beast, element, or other narrow topic, you learn its true name that holds ancient power.",
+        "category": "Ritual",
+        "color": "",
+        "fields": [
+            {
+                "name": "True Name",
+                "value": ""
+            },
+            {
+                "name": "True Name",
+                "value": ""
+            },
+            {
+                "name": "True Name",
+                "value": ""
+            }
+        ],
+        "abilities": null,
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [
+            {
+                "name": "You may Secure an Advantage +wits by invoking a target's true name and claiming power over it. On a strong hit, for the rest of the scene or encounter, add +1 to any move where you primarily interact physically or socially with that target. Treat a weak hit as a miss. You may only attempt this once per scene or encounter per single target.",
+                "selected": false
+            }
+        ],
+        "conditions": [],
+        "description": ""
+    }
+}

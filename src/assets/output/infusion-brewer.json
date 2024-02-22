@@ -1,0 +1,56 @@
+{
+    "name": "Infusion Brewer",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "When you drink a decoction below, roll +wits. On a strong hit, set your infusion track to +6. On a weak hit, make it +3. Then, when you make a move with that stat, add +1 and suffer -1 infusion. If you roll a 1 on the action die for that move, also suffer -1 to the associated track.",
+        "category": "Path",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>Strength of the Bear: Iron/Health</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Grace of the Panther: Edge/Health</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Cunning of the Fox: Shadow / Spirit</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Wisdom of the Owl: Wits / Spirit</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Infusion",
+            "max": 6,
+            "value": 6,
+            "min": 0
+        },
+        "exclusiveOptions": [
+            {
+                "name": "Each decoction may only be used once per scene.",
+                "selected": false
+            }
+        ],
+        "conditions": [],
+        "description": ""
+    }
+}

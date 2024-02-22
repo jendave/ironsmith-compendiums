@@ -1,0 +1,44 @@
+{
+    "name": "Necromancy",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": null,
+        "category": "Ritual",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>When you speak the forbidden speech to one recently deceased, roll +wits. On a strong hit, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} from the spirit of the dead. On a weak hit, as above but @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.e09e2fc8bb709320]{Endure Stress} (1 stress).</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you encounter a horror, using the forbidden speech you may...<ul><li>@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger}+wits by commanding it 'See me not!' On a strong hit, it does not note your presence for a short time.</li><li>@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} +wits in combat by commanding it 'Be gone!' On a strong hit, inflict 1 harm and you may immediately @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aac3783710ad7499]{End the Fight}. If you do and score a strong hit, the horror is banished forever.</li></ul>Treat a weak hit on either as a miss.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you chant the forbidden speech and sprinkle your blood over a corpse under a full moon, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm} (2 harm) and roll +wits. On a strong hit, the corpse turns into a horror that you direct with a single command. Treat a weak hit as a miss.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}

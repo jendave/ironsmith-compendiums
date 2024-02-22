@@ -1,0 +1,44 @@
+{
+    "name": "Earthborn",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": null,
+        "category": "Path",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information}, or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} related to your knowledge of underground environments or creatures, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.36c6cbe556fbb639]{Delve the Depths} underground, add +1. On a strong hit, also choose one.<ul><li>This is the way: Mark progress twice.</li><li>Hunker down: You find a secure location in addition to the result of @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4da87fd54eaa1b89]{Find an Opportunity}. You may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.30046577bc83f2f0]{Make Camp} now and reroll any dice.</li><li>Lay of the land: The next time you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.36c6cbe556fbb639]{Delve the Depths} in this site, you may reroll any dice.</li></ul></p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ed343c963b08f301]{Enter the Fray} in an underground environment, reroll any dice.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}

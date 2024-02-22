@@ -1,0 +1,49 @@
+{
+    "name": "Bear",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "Your bear endures all.",
+        "category": "Companion",
+        "color": "",
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            }
+        ],
+        "abilities": [
+            {
+                "description": "<p>Press On: When you travel through rugged forest terrain following your bear's persistence, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ac19f4c7f3fe31be]{Undertake a Journey} with +iron (instead of +wits) and take +1 momentum on a hit.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Nose for Honey: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.8d90dd472856be27]{Resupply} by having your bear track fish, berries or honey, add +1 and take +1 supply or +1 momentum on a strong hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Protective: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} alongside your bear after you have suffered harm in combat, you may decide before rolling to treat a weak hit as a miss. If you do, inflict +2 harm or take +2 momentum on a strong hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Health",
+            "max": 5,
+            "value": 5,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Dweller In The Dark",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "After you ingest Myrkrsyn Nightshade flower and spend a feverish evening to permanently transform your eyes for darkvision giving you sensitivity to bright light...",
+        "category": "Path",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} by spying into areas of near total darkness...</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ed343c963b08f301]{Enter the Fray}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger}, or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by using areas of near total darkness...</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ac19f4c7f3fe31be]{Undertake a Journey} under cover of near total darkness, or when you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.36c6cbe556fbb639]{Delve the Depths} using the cover of near total darkness...</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [
+            {
+                "name": "You may roll +shadow. If you do, add +1 and take +1 momentum on a hit.",
+                "selected": false
+            }
+        ],
+        "conditions": [],
+        "description": ""
+    }
+}

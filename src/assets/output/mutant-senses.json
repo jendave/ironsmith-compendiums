@@ -1,29 +1,29 @@
 {
-    "name": "Silent Stalker",
+    "name": "Mutant Senses",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "When you...",
+        "requirement": "Your body mutates and gains an enhanced sense of...",
         "category": "Path",
         "color": "",
         "fields": null,
         "abilities": [
             {
-                "description": "<p>@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage}+shadow by hiding from...</p>",
+                "description": "<p>Darkvision, like an owl or cat</p>",
                 "enabled": "true",
                 "hasClock": "false",
                 "clockMax": "4",
                 "clockTicks": 0
             },
             {
-                "description": "<p>@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by making a trap or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.48f642fd361e9c03]{Check Your Gear} to build such a trap for...</p>",
+                "description": "<p>Smell, like a hound or elephant</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
                 "clockTicks": 0
             },
             {
-                "description": "<p>@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ed343c963b08f301]{Enter the Fray} +shadow against...</p>",
+                "description": "<p>Hearing, like a bat or moth</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
@@ -39,7 +39,7 @@
         },
         "exclusiveOptions": [
             {
-                "name": "A monstrous beast or horror, add +1 and take +1 momentum on a hit.",
+                "name": "Envision how this enhancement changes your body. When you Face Danger, Gather Information, or Secure an Advantage by relying primarily on this enhanced sense, add +1 and take +1 momentum on a hit.",
                 "selected": false
             }
         ],
