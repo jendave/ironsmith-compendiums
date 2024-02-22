@@ -50,6 +50,7 @@ with open(original_data_file,"r") as file:
 
 for asset in ironsmith_assets['Assets']:
     asset_name = asset.get('Name')
+    category = asset.get('Category')
     ability_1 = update_ability(asset.get('Ability1'))
     ability_2 = update_ability(asset.get('Ability2'))
     ability_3 = update_ability(asset.get('Ability3'))
@@ -61,6 +62,7 @@ for asset in ironsmith_assets['Assets']:
         ability_1_enabled = "false"
     elif (ability_4 and asset_name == "Infusion Brewer"):
         ability_1_enabled = "false"
+        
     
     has_clock_1 = "true" if asset_name == "Traveler" else "false"
     clock_max_1 = 6 if asset_name == "Traveler" else 4
@@ -124,7 +126,7 @@ for asset in ironsmith_assets['Assets']:
 
     asset_foundry = json.dumps({"name": asset_name, "type": "asset", "img": "icons/svg/item-bag.svg", "system": { "requirement": forward, "category": category, "color": "", "fields": fields,  "abilities": ability_final, "track": { "enabled": track_enabled, "name": track_name, "max": track_max, "value": track_value, "min": 0 }, "exclusiveOptions": exclusive_options, "conditions": track_condition, "description": "" }}, indent=4)
 
-    file_asset = open("output/" + asset_name.lower().replace(' ', '-') + ".json", "w")
+    file_asset = open("output/" + asset_name.lower().replace(' ', '-').replace('(', '').replace(')', '') + ".json", "w")
 
     print(asset_foundry)
     file_asset.write(asset_foundry)
