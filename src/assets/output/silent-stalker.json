@@ -1,0 +1,70 @@
+{
+  "name": "Silent Stalker",
+  "type": "asset",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "requirement": "When you...",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "Face Danger or Secure an Advantage +shadow by hiding from...",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "Secure an Advantage by making a trap or Check Your Gear to build such a trap for......",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "Enter the Fray +shadow against...",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "A monstrous beast or horror, add +1 and take +1 momentum on a hit.",
+        "selected": true
+      }
+    ],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    },
+    "exportSource": {
+      "world": "ironsworn-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "11.315",
+      "systemVersion": "1.22.11"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708480412332,
+    "modifiedTime": 1708480690522,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  }
+}
