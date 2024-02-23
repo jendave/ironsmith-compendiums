@@ -10,7 +10,7 @@
         "abilities": [
             {
                 "description": "<p>Darkvision, like an owl or cat</p>",
-                "enabled": "true",
+                "enabled": "false",
                 "hasClock": "false",
                 "clockMax": "4",
                 "clockTicks": 0
