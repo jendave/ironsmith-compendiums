@@ -1,6 +1,6 @@
 # Changelog
 
-### [1.2.2](https://github.com/jendave/ironsmith-expanded-oracles/commits/main) (2024-02-23)
+### [1.2.3](https://github.com/jendave/ironsmith-expanded-oracles/commits/main) (2024-02-23)
 * Added Moves from the [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) supplement.
 
 ### [1.2.2](https://github.com/jendave/ironsmith-expanded-oracles/commits/main) (2024-02-22)
