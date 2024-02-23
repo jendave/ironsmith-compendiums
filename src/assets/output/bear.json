@@ -15,7 +15,7 @@
         "abilities": [
             {
                 "description": "<p>Press On: When you travel through rugged forest terrain following your bear's persistence, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ac19f4c7f3fe31be]{Undertake a Journey} with +iron (instead of +wits) and take +1 momentum on a hit.</p>",
-                "enabled": "true",
+                "enabled": "false",
                 "hasClock": "false",
                 "clockMax": "4",
                 "clockTicks": 0

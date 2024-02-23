@@ -15,7 +15,7 @@
         "abilities": [
             {
                 "description": "<p>Poison: Once per fight, when you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} alongside your snake and score a strong hit, inflict 1 harm after resolving the next X moves where X is result of your action die.</p>",
-                "enabled": "true",
+                "enabled": "false",
                 "hasClock": "false",
                 "clockMax": "4",
                 "clockTicks": 0

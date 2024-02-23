@@ -2,7 +2,7 @@
 
 ### [1.2.2](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2024-02-xx)
 * Added Assets from the [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) supplement.
-  * The Ironsmith assets that have text after the abilities look a bit strange since that is a non-standard asset card format.
+  * The Ironsmith assets that have text after the abilities look a bit strange since that is a non-standard asset card format. e.g. `Dweller in the Dark`.
 
 ### [1.2.1](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-12-26)
 * Added Site Themes and Domains from the [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) supplement.

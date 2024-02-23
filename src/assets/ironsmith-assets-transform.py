@@ -62,7 +62,10 @@ for asset in ironsmith_assets['Assets']:
         ability_1_enabled = "false"
     elif (ability_4 and asset_name == "Infusion Brewer"):
         ability_1_enabled = "false"
-        
+    elif (asset_name == "Mutant Senses"):
+        ability_1_enabled = "false"
+    elif (category == "Companion"):
+        ability_1_enabled = "false"
     
     has_clock_1 = "true" if asset_name == "Traveler" else "false"
     clock_max_1 = 6 if asset_name == "Traveler" else 4
