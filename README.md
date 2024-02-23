@@ -82,9 +82,9 @@ Copy the desired themes and domains from the Ironsmith Site compendiums into the
     * `Actions personnalisées` - FR
     * `Własne Ruchy` - PL
   * Open the `Ironsmith Moves` compendium and copy the Items into the `Items` `Custom Moves` folder.
-    * ![Items - Custom Moves](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/custom-moves-items.jpg?raw=true)
+    * ![Items - Custom Moves](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-moves-items.jpg?raw=true)
   * The Moves will be available in the Character sheet under `Custom Moves`.
-    * ![Character Sheet - Custom Moves](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/custom-moves-character-sheet.jpg?raw=true)
+    * ![Character Sheet - Custom Moves](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-moves-character-sheet.jpg?raw=true)
 
 # Credits
 [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) and [Ironsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/333665/Ironsmith-Expanded-Oracles) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
