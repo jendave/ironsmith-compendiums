@@ -1,7 +1,7 @@
 {
   "id": "ironsmith-expanded-oracles",
   "title": "Ironsmith Expanded Oracles for Ironsworn",
-  "description": "This supplement by Eric Bright adds two additional tables for nearly every table for the Ironsworn system.",
+  "description": "FoundryVTT compendiums of the Ironsmith supplements for Ironsworn by Eric Bright.",
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": 11,
@@ -46,6 +46,13 @@
       "path": "./packs/ironsmith-site-themes",
       "type": "Item",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithassets",
+      "label": "Ironsmith Assets",
+      "path": "./packs/ironsmith-assets",
+      "type": "Item",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
@@ -55,7 +62,8 @@
         "ironsmithexpandedoracles",
         "ironsmithexpandedoraclesmacros",
         "ironsmithsitedomains",
-        "ironsmithsitethemes"
+        "ironsmithsitethemes",
+        "ironsmithassets"
       ]
     }
   ],
@@ -76,7 +84,7 @@
         "type": "system",
         "manifest": "https://github.com/ben/foundry-ironsworn/releases/latest/download/system.json",
         "compatibility": {
-          "minimum": "1.22.4",
+          "minimum": "1.22.13",
           "verified": "1.22"
         }
       }

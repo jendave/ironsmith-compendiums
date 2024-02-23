@@ -11,10 +11,12 @@ A FoundryVTT compendium of the [Ironsmith](https://preview.drivethrurpg.com/en/p
 # Contact
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
 * [GitHub Repository](https://github.com/jendave/ironsmith-expanded-oracles)
+* [Itch.io](https://jendave.itch.io/)
 
 # Features and Notes
 * Oracle tables from the PDF are included.
 * Site/Delve Theme and Domain tables from the PDF are included.
+* Assets from the PDF are included.
 * Tables that are copies of the Ironsworn official tables are included if they are part of Ironsmith 1-2, 3-4, 5-6 array.
 * Tables that are simply copies of official Ironsworn tables without the array are not included since they would be redundant with the standard Ironsworn System tables.
 
@@ -59,7 +61,20 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 ![Character Sheet - Custom Oracles](https://github.com/jendave/ironsmith-expanded-oracles/blob/main//docs/custom-oracles-character-sheet.jpg?raw=true)
 
 ## Site Themes and Domains
+
 Copy the desired themes and domains from the Ironsmith Site compendiums into the `Items` tab in FoundryVTT. 
+
+## Assets
+* Use the following method to integrate the `Ironsmith Assets` into the character sheet.
+  * Create a `Custom Assets` folder in the `Items` tab called:
+    * `Custom Assets` - EN
+    * `Recursos Personalizados` - ES
+    * `Ressources personnalisées` - FR
+    * `Własne Aspekty` - PL
+  * Open the `Ironsmith Assets` compendium and copy the Items into the `Items` `Custom Assets` folder.
+    * ![Items - Custom Assets](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-assets-items.jpg?raw=true)
+  * The Assets will be available in the Character sheet under `Custom Assets`.
+    * ![Character Sheet - Custom Assets](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-assets-character-sheet.jpg?raw=true)
 
 # Credits
 [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) and [Ironsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/333665/Ironsmith-Expanded-Oracles) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
