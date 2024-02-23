@@ -53,6 +53,13 @@
       "path": "./packs/ironsmith-assets",
       "type": "Item",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithmoves",
+      "label": "Ironsmith Moves",
+      "path": "./packs/ironsmith-moves",
+      "type": "Item",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
@@ -63,7 +70,8 @@
         "ironsmithexpandedoraclesmacros",
         "ironsmithsitedomains",
         "ironsmithsitethemes",
-        "ironsmithassets"
+        "ironsmithassets",
+        "ironsmithmoves"
       ]
     }
   ],

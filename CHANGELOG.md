@@ -1,5 +1,8 @@
 # Changelog
 
+### [1.2.2](https://github.com/jendave/ironsmith-expanded-oracles/commits/main) (2024-02-23)
+* Added Moves from the [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) supplement.
+
 ### [1.2.2](https://github.com/jendave/ironsmith-expanded-oracles/commits/main) (2024-02-22)
 * Added Assets from the [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) supplement.
   * The Ironsmith assets that have text after the abilities look a bit strange since that is a non-standard asset card format. e.g. `Dweller in the Dark`.

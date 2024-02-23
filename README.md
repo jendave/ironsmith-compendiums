@@ -64,7 +64,7 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 
 Copy the desired themes and domains from the Ironsmith Site compendiums into the `Items` tab in FoundryVTT. 
 
-## Assets
+## Assets and Moves
 * Use the following method to integrate the `Ironsmith Assets` into the character sheet.
   * Create a `Custom Assets` folder in the `Items` tab called:
     * `Custom Assets` - EN
@@ -75,6 +75,16 @@ Copy the desired themes and domains from the Ironsmith Site compendiums into the
     * ![Items - Custom Assets](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-assets-items.jpg?raw=true)
   * The Assets will be available in the Character sheet under `Custom Assets`.
     * ![Character Sheet - Custom Assets](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-assets-character-sheet.jpg?raw=true)
+* Use the following method to integrate the `Ironsmith Moves` into the character sheet.
+  * Create a `Custom Moves` folder in the `Items` tab called:
+    * `Custom Moves` - EN
+    * `Movimientos personalizados` - ES
+    * `Actions personnalisées` - FR
+    * `Własne Ruchy` - PL
+  * Open the `Ironsmith Moves` compendium and copy the Items into the `Items` `Custom Moves` folder.
+    * ![Items - Custom Moves](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/custom-moves-items.jpg?raw=true)
+  * The Moves will be available in the Character sheet under `Custom Moves`.
+    * ![Character Sheet - Custom Moves](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/custom-moves-character-sheet.jpg?raw=true)
 
 # Credits
 [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) and [Ironsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/333665/Ironsmith-Expanded-Oracles) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
