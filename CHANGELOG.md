@@ -1,7 +1,9 @@
 # Changelog
 
-### [1.2.4](https://github.com/jendave/ironsmith-expanded-oracles/commits/main) (2024-02-23)
+### [1.2.4](https://github.com/jendave/ironsmith-expanded-oracles/commits/main) (2024-02-24)
 * Added Foes from the [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) supplement.
+  * That should complete the resources from the main Ironsmith supplement.
+  * Feel free to contact me if there are any items missing.
 
 ### [1.2.3](https://github.com/jendave/ironsmith-expanded-oracles/commits/main) (2024-02-23)
 * Added Moves from the [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) supplement.
