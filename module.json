@@ -65,7 +65,7 @@
       "name": "ironsmithfoeactors",
       "label": "Ironsmith Foe Actors",
       "path": "./packs/ironsmith-foe-actors",
-      "type": "Item",
+      "type": "Actor",
       "system": "foundry-ironsworn"
     }
   ],
