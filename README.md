@@ -14,9 +14,7 @@ A FoundryVTT compendium of the [Ironsmith](https://preview.drivethrurpg.com/en/p
 * [Itch.io](https://jendave.itch.io/)
 
 # Features and Notes
-* Oracle tables from the PDF are included.
-* Site/Delve Theme and Domain tables from the PDF are included.
-* Assets from the PDF are included.
+* Oracles, Site/Delve Themes and Domains, Assets, Moves and Foes from the PDF are included.
 * Tables that are copies of the Ironsworn official tables are included if they are part of Ironsmith 1-2, 3-4, 5-6 array.
 * Tables that are simply copies of official Ironsworn tables without the array are not included since they would be redundant with the standard Ironsworn System tables.
 

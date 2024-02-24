@@ -60,6 +60,13 @@
       "path": "./packs/ironsmith-moves",
       "type": "Item",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithfoeactors",
+      "label": "Ironsmith Foe Actors",
+      "path": "./packs/ironsmith-foe-actors",
+      "type": "Item",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
@@ -71,7 +78,8 @@
         "ironsmithsitedomains",
         "ironsmithsitethemes",
         "ironsmithassets",
-        "ironsmithmoves"
+        "ironsmithmoves",
+        "ironsmithfoeactors"
       ]
     }
   ],
