@@ -1,0 +1,44 @@
+{
+    "name": "KATANA MASTER",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "If you wield a katana with grace, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} and @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} +edge (instead of iron). If you do...",
+        "category": "COMBAT TALENT: SWORD",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>When you score a strong hit on a @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike}, you may cede the initiative. If you do, add +2 to your next move.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you score a weak hit on a @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash}, you may choose to inflict no harm. If you do, you have the initiative.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you score a strong hit on a @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash}, add +1 to your next move.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "NINJUTSU",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": null,
+        "category": "PATH: INFILTRATION SPECIALIST",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} within an enemy area to discover their positions, plans, or methods, you may roll+shadow (instead of +wits). If you do, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} by disguising yourself, confusing the opposition through misdirection, hiding in shadows, or vanishing without a trace, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Before you Fulfill Your low, you may meditate upon missteps you made and commit to some significant change. If you do, either add +2 or take +1 experience on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}

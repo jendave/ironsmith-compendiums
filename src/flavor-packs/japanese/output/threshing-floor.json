@@ -1,0 +1,44 @@
+{
+    "name": "THRESHING FLOOR",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "If you wield a chigiriki....",
+        "category": "COMBAT TALENT: FLAIL",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} +edge using your flail to disarm, trip, or stun your opponent, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} +edge by deflecting an oncoming attack or keeping your attacker at a distance, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage}, or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.be95ca063ded2b19]{Compel} +iron by hitting or breaking an inanimate object, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}

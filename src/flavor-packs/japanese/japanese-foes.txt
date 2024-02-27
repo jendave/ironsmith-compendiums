@@ -1,0 +1,763 @@
+IRONSMITH: FLAVOR PACKS                                                         26
+    NEW FOES
+    The foes of the Firelands are as varied as the cultures of the Firelands. You
+    may find yourself pitted against animals, beasts, horrors, and even other
+    Firelanders. Steel yourself, for these foes lack not for strength or wit.
+    As mentioned earlier, these foes were taken from many different time
+    periods of myths in Japanese history. As such, they normally would not all
+    be found together, but I've endeavored to make them all fit into the world
+    of the Firelands coherently.
+    Additionally, these foes are not the exact same as their namesakes, but that
+    was the starting place for creating a foe that fit the Ironsworn system and
+    Firelands setting. For example, some foes take their name from yokai or
+    other more powerful beings but have been adjusted into fantasy animals or
+    beasts to round out the types of foes you can encounter.
+27            THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+BYAKKO                                                         ANIMAL
+Rank:     Formidable (1 progress per harm; inflicts 3 harm)
+            White or gray, striped coat
+Features:   Agility and speed
+            Mark of the king on their forehead
+            Hunt
+Drives:     Mate
+            Roam their territory
+            Silently stalk prey from within the gray grasses
+Tactics:    Pounce, bite, and rend
+            Make a show of dominance
+The gray tigers of the Hai No Kawa grasslands are said to be descended
+from the Great White Tiger, Byakko himself. As such, we have taken to
+calling them by that name and give these tigers the respect they deserve and
+demand with their deadly skills.
+The tigers make their dens in sink holes or ancient lava tubes within the
+ground. Sometimes the tigers need not hunt because their prey falls into
+their den by taking a careless step forward without checking the ground
+ahead first. You have heard the phrase, "Look before you leap," but in the
+Hai No Kawa we say, "Search before you step."
+The byakko have superb senses of sight, smell, and hearing that allow them
+to pinpoint prey within the grasses ahead. They then leap forward and
+pounce atop the back of their prey in an effort to snap their neck. If that
+doesn't lead to an instant kill, they bite the prey on the neck to hold them
+in place while their sharp claws rake and rend.
+Quest: A strange shaman with a byakko cloak claims to be able to traverse
+the Hai No Kawa without being accosted by the tigers. Wherever the
+shaman goes, the byakko are mysteriously absent. How did the shaman
+come by such knowledge, and where do you need the shaman to take you
+that no one else has been able to find?
+YOUR TRUTH
+Do the byakko tigers have any supernatural abilities that were
+passed on to them by the Great White Tiger? If so, what are
+they?
+IRONSMITH: FLAVOR PACKS                                                       28
+    ISONADE                                                             ANIMAL
+    Rank:     Dangerous (2 progress per harm; inflicts 2         harm)
+                Large shark with hooked tail
+    Features:   Serrated teeth
+                Impossibly fast
+    Drives:     Hunt
+                Follow storms
+                Drag prey underwater with tail hooks
+    Tactics:    Bite
+                Cut small boats in half
+    Crossing the sea from the Old World to the Firelands was a battle we
+    thought unwinnable. The distance we needed to sail was unknown, fresh
+    water and food supplies were scant, and we were hunted by the isonade.
+    The isonade are sharks nearly the size of a longboat whose tail is covered
+    with several bony hooks with barbed ends. They use the hooks to snag
+    their prey and drag them underwater rapidly changing depths so that the
+    prey passes out. Once they free their prey from their tails, they feast with
+    a frenzy so that no other fish can benefit from their kill.
+    During our crossing, the isonade would lash their tails over the sides of the
+    ship to hook us and drag us from our vessels. Failing that, two would work
+    in concert to latch their tails onto the side of our ships and split the bow in
+    twain. As a whole ship would begin floundering, we could do nothing but
+    watch and listen in horror as our family and friends were silenced one by
+    one. It is said that the isonade developed a taste for our blood those long
+    years ago and can now smell us when travel the seas.
+    Quest: Within the Chisana Hi roams a legendary isonade known as the
+    Hari Ken, the Hooked Sword. It has grown cartilage like a suit of armor
+    and threatens all trade and travel in the area. Can this beast be stopped?
+    YOUR TRUTH
+    The isonade travel and attack most often during violent storms
+    at sea. Do they hold some power to control or call the storms,
+    or are they merely instinctively following the storms?
+29               THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+KAMAITACHI                                                         ANIMAL
+Rank:      Troublesome (3 progress per harm; inflicts  1  harm)
+             Large weasel-like body
+Features:    Bladed paws
+             Numbing agent on blades
+             Attacks males of other species
+Drives:      Forage for food
+             Defend territory
+             Ride on whirlwinds
+Tactics:     Knockdown and rake
+             Slash ankles to numb feet of victim
+Upon arriving in the Firelands, one of the first creatures we noticed was the
+kamaitachi, an usual weasel with bony blades instead of paws. These
+creatures run circles around their prey slashing as they go. The blades have
+a secretion on them that act as a numbing or paralyzing agent that is
+particularly effective against the small to medium animals that the
+carnivorous creatures hunt.
+When they attack, kamaitachi have been known to move so fast as to stir
+up tiny dust devils which is where the story of riding on whirlwinds came
+from. As far as we can tell, they hold no true mystical power over the air,
+but they can propel themselves at great speed and even spin their bodies
+about balancing on one blade while slashing with the other three.
+The creatures are also very territorial particularly when it comes to mating.
+The male kamaitachi are known to attack males of almost any other
+mammalian species including Firelanders.
+Quest: A storied ronin is hunting kamaitachi to create tekko-kagi claws
+from their blades, but the locals know that the creatures are merely part of
+the ecosystem and don't want to offend the kami or stir up any yokai. Can
+the ronin's quest be stopped in a manner that is agreeable to all sides?
+YOUR TRUTH
+Are kamaitachi supernatural creatures or animals of unusual
+heritage?
+IRONSMITH: FLAVOR PACKS                                                        30
+    JOROGUMO                                                             BEAST
+    Rank:          Dangerous (2 progress per harm; inflicts 2 harm)
+                     Giant spiders who begin prowling at 400 years old
+    Features:        Can mimic human sounds with human-like face
+                     Orb weaver with large spiraling webs
+                     Gorge themselves on prey
+    Drives:          Stay hidden unless necessary
+                     Build larger and larger webs for better hunting
+                     Cry out for help to lure in prey
+    Tactics:         Release a blood-curdling scream
+                     Trap in web and bite with poison
+    The jorogumo spiders are as large as harrow spiders but much stranger. As
+    near as we can tell, the first several hundred years of a jorogumo's life is
+    spent inside a cocoon webbed so tightly that it may as well be armor of the
+    thickest iron, but somehow it keeps expanding. Once the giant spiders
+    break free, their abdomens are warped and twisted with age, their heads
+    have the look of a maiden's head only misshapen, and their chelicerea
+    (fangs) begin rubbing together making the scream of a demon.
+    As these spiders gain more experience outside of their cocoons, they can
+    rub their fangs in such a way as to mimic basic sounds. Many miners have
+    lost their lives delving to find what sounds like a lost comrade only to come
+    face to face with a jorogumo.
+    Once they escape the deep places of the world, they move into thick woods
+    and spin web after web in huge spiral patterns. Some of the largest webs
+    when viewed from a distant hilltop resemble a giant sea shell spiraling ever
+    outward.
+    Quest: An ancient jorogumo has taken a great warrior captive but is not
+    feasting on the flesh. Instead, the warriors screams and cries for help can
+    be heard for miles. The speech is too intelligible to be the spider mimicking
+    the sounds. Who is this warrior to you, and why would you risk your life
+    to save them?
+    YOUR TRUTH
+    Some say the first jorogumo was truly a woman cursed by a
+    powerful mystic. Who believes this is true and what are they
+    doing to try to reverse the curse?
+31                    THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+NURE       ONNA                                                    BEAST
+Rank:      Dangerous (2 progress per harm; inflicts 2 harm)
+             Giant snake with the girth of a human
+Features:    Feminine human-like face
+             Arm-like appendages just below the jaw
+             Feast on human flesh
+Drives:      Defend its territory
+             Sun on giant rocks
+             Surprise strike from hiding
+Tactics:     Blend in with driftwood
+             Paralyzing bite
+On the coasts of Kokuyoseki No Ha, vampiric sea serpents lie in wait
+among the obsidian shards for unsuspecting Firelanders to feast upon. But
+these aren't normal sea serpents. Like the jorogumo, these creatures have
+a vaguely feminine humanoid face, but their mouth is lined with fangs that
+they use to drain the blood from victims.
+Worse yet there are two varieties of nure onna, and the second kind has
+fledgling arm-like appendages just below its jaw that it uses to hold down
+its prey. Both varieties have muddy brown colored scales and are excellent
+swimmers.
+Quest: The merchant ship Hi Uku was shipwrecked on one of the Chisana
+Hi islands, and the vessel carried the local daimyo's spouse as well as
+goods needed for survival. Unfortunately, the vessel ran aground in an
+area known to be infested with nure onna. If the passengers survived the
+sea snakes, the volcano would be the next immediate danger. Who or what
+else was on the ship that makes you want to help with the rescue?
+YOUR TRUTH
+Are the nure onna faces truly human?       If so, how did this
+amalgamation of a beast come about?
+IRONSMITH: FLAVOR PACKS                                                     32
+    KAPPA                                                       FIRSTBORN
+    Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
+                       Turtle-like humanoid
+    Features:          Short and scaly with beak mouths
+                       Indentation on top of their heads that holds magic water
+                       Trap souls in gems
+    Drives:            Drink the blood of victims
+                       Eat cucumbers
+                       Drown victims underwater
+    Tactics:           Pounce and claw
+                       Retreat from powerful foes
+    The people known as the Kappa are reptilian humanoids with a penchant
+    for mischief and murder. They live in bogs and swamps using the
+    landscape to their advantage when hunting Firelanders. Their claws are
+    sharp as well as their beaks making them fierce fighters, particularly when
+    they are cornered.
+    The Kappa also have some innate waterbending powers that we think
+    stems from the water inside the depression at the top of their skull. Once
+    they have drained blood from a victim, they then use a dark ritual to force
+    the person's soul into a tiny gem that they let soak in their head water.
+    There are three ways to defeat the Kappa. First, travel in large groups as
+    they readily retreat from a battle they know they will lose. Second, trick
+    them into dumping out the water on their head causing them to freeze in
+    place until the water naturally refills. Third, believe it or not, throw them
+    a cucumber. They can't resist them.
+    Quest: A survivor of a Kappa attack was found with only minimal amounts
+    of blood drained, but they are completely unresponsive leading the local
+    mystic to believe their soul has already been trapped inside the Kappa's
+    gem. Who is this person to you that you would undertake the quest to find
+    their soul and return it to their body?
+    YOUR TRUTH
+    Do the Kappa live in large communities, or are they a solitary
+    people?
+    What do the Kappa use their soul gems for?
+33                      THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+KITSUNE                                                     FIRSTBORN
+Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
+            Fox-like humanoid
+Features:   Up to nine tails
+            Clever, magical shapechangers
+            Act as a messenger of primordial gods
+Drives:     Play clever tricks
+            Protect the plains and woods
+            Run away in fox form
+Tactics:    Use tails in battle
+            Trip and pounce
+Running into the Kitsune people is considered a sign of good fortune.
+They rarely involve themselves in the affairs of Firelanders unless we
+threaten their homelands in some way. More often we encounter them as
+we find ourselves the object of their practical jokes. They are not malicious
+in any way, but they do enjoy a good laugh at someone else's expense.
+The Kitsune also have the ability to change shape from their humanoid
+form to a fully fox form. We believe there is a correlation between how
+many tails they have and how powerful their magic is. Not only do their
+tails tie into their magic, but they also use them when fighting in their
+humanoid form to pummel and confuse their foe.
+We don't know much about the religion of the Kitsune people other than to
+know that they take it very seriously. There is a deep spiritual connection
+between the Kitsune and the plains and woods of the Firelands. Stories
+abound of Firelanders catching fleeting glimpses of elaborate Kitsune
+ceremonies before they fall asleep as if by magic. And magic it surely is
+because every witness also claims to see the Kitsune's tails begin dancing
+in arcane gestures before they fall asleep.
+Quest: A Kitsune stood outside of a local settlement and demanded the
+Firelanders stop planting so many crops as it was ruining the land. They
+were reasonable knowing that the people need food, but insisted the farms
+be scaled back. Why is brokering a peaceful solution here so important?
+YOUR TRUTH
+Do the Kitsune grow more tails as they age, as they gain
+magical power, or are they born with a specific number of tails
+that never changes?
+Why is nine the maximum? What does the number represent?
+IRONSMITH: FLAVOR PACKS                                                        34
+    KODAMA                                                          FIRSTBORN
+    Rank:     Troublesome (3 progress per harm;  inflicts  1  harm)
+                Primordial tree spirit
+    Features:   Appear as ghostly lights
+                Act mostly on instinct
+                Protect specific trees
+    Drives:     Observe nature at work
+                Drive out non-Firstborn
+                Lead travelers astray
+    Tactics:    Overwhelm with sadness
+                Cannot be physically attacked
+    If the Kodama truly are a people, they are unlike anything we've seen
+    before. They primarily manifest as ghostly lights flickering in the distance
+    to lead Firelanders away from their sacred spaces, but at times they
+    manifest as vaguely humanoid with cloudy ovals for body and head along
+    with cylindrical appendages.
+    Our mystics have worked in concert with druids to divine what they can
+    about the Kodama, and they believe the Kodama are either non-sentient or
+    have some sort of collective consciousness shared between them. At first
+    we thought they protected all the deep forests of the Firelands, but it seems
+    more likely that they protect specific trees or groves. However, we don't
+    know how they are assigned those trees or if they choose them.
+    Travelers who have refused to follow the ghostly lights away from sacred
+    spaces are quickly surrounded by the Kodama who then manifest more
+    fully. In the presence of these more fully formed Kodama, our people
+    report feeling overwhelming sadness and grief to the point that they
+    willingly flee the area.
+    Quest: A woodsperson from a local settlement went missing nearly a week
+    ago and was just spotted in the middle of a ring of Kodama at the bottom
+    of large hollow. The woodsperson is still alive but writhing and moaning
+    in pain and grief. What relationship does this woodsperson have with one
+    of your allies, friends, or companions that you are willing to attempt the
+    quest to save them?
+    YOUR TRUTH
+    Are the Kodama sentient?      If so, is it an individual sentience or
+    a collective one?
+35               THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+TANUKI                                                   FIRSTBORN
+Rank:     Dangerous (2 progress per harm; inflicts    2  harm)
+            Raccoon dog humanoids
+Features:   Can elongate appendages
+            Tricksters and shapeshifters
+            Cause mischief
+Drives:     Enjoy a life of relative plenty
+            Jokes at the expense of others
+            Claw and bite
+Tactics:    Enlarge body parts to smother foe
+            Double hanbo strike
+At first glance, the Tanuki people are similar to the Kitsune. From our
+perspective, they are both animal-type people, they both can shapechange,
+and they both love jokes. However, where the Kitsune have a positive
+connotation, the Tanuki have a negative one. Without a guiding principle
+like the Kitsune's religion, the Tanuki people have a society based more
+around greed, gluttony, and guffaws.
+The Tanuki also don't really shapechange but shapeshift. They can
+elongate, or shift, their body parts like great sails of ships unfurling.
+Perhaps as a consequence of their society or perhaps a consequence of
+biology, the male Tanuki favor enlarging their scrotums to smother and
+suffocate their foes. Needless to say, this is a humiliating way to die and
+brings dishonor on the whole family and clan.
+While their preference is to use their shapeshifting abilities, when faced
+with a truly formidable foe, mostTanuki are skilled in the use of the hanbo,
+a small wooden shaft slightly longer than a Firelanders forearm. Their
+favorite victory celebration is drumming on the buttocks of a defeated foe.
+Again, they enjoy bringing shame to others.
+Quest: A group of Tanuki were floating down river on a boat of their own
+elongated body part when they decided to enlarge their body parts even
+more to block the path of the river. Now the water flows toward a low-lying
+settlement. Can the river be restored to its normal course before its too
+late? Who do you know that lives in this settlement?
+YOUR TRUTH
+What is the relationship between the Tanuki and the Kitsune
+like? Apathetic? Oppositional? Affable?
+IRONSMITH: FLAVOR PACKS                                                       36
+    TENGU                                                              FIRSTBORN
+    Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
+                Avian humanoid
+    Features:   Long red nose
+                Corvid feathering (crow, raven, jay) over red skin
+                Protect the mountains
+    Drives:     Collect trinkets and treasure
+                Keep outsiders away
+                Clawed attacks from above
+    Tactics:    Drop rocks on victims
+                Flock together to overwhelm
+    The Tengu people are avian in nature, but their bodies are not covered
+    entirely in feathers. If it weren't for their red skin, wings, and comically
+    long noses that may be an evolution from a beak, they could almost pass as
+    a Firelander. Their feathering comes down from the top of their head to the
+    back of their neck and shoulders before joining with their wings.
+    Tengu are an ancient people who see it as their sacred duty to protect the
+    mountains. As such, they dwell mainly in the Geppu Kyojin region and
+    very much frown upon outsiders. They view us Firelanders as invaders and
+    usurpers to the natural order. Miners and travelers are often met with a hail
+    of arrows or rocks from above rather than a cordial greeting.
+    One weakness or point of negotiation we can use with the Tengu is their
+    love of treasure. Their self-imposed exile to the mountains limits their
+    resources, so trade goods or items from the southern reaches of the
+    Firelands are desirable gifts for them.
+    Quest: A group of Tengu warriors have disrupted a mining camp just as
+    they struck a vein of the precious nie iron. Is there any way to negotiate a
+    truce, even if temporary, to be able to access the valuable ore?
+    YOUR TRUTH
+    Are the Tengu truly avian in nature, or are do they have more
+    demonic origins?
+37               THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+ONI                                                       FIRSTBORN
+Rank:      Formidable (1 progress per harm;  inflicts  3  harm)
+             Red skin and hulking body
+Features:    Two horns and wild hair
+             Wearing animal pelts
+             Torment sinners
+Drives:      Enact vicious schemes
+             Act as mountain wardens
+             Wield great iron clubs
+Tactics:     Slash with sharp claws
+             Bull rush using size
+The Oni may or may not be related to the Tengu as they both have red skin
+and protect the mountains, but the similarities stop there. Where the Tengu
+view protecting the mountains as a sacred duty, the Oni seem to
+accidentally protect mountain regions because they attack nearly anything
+that gets close to them.
+It said by our mystics that the Oni are either demons themselves or direct
+descendants of demons. Their towering size and immense strength are
+impressive enough, but some also have some rudimentary firebending
+magic skill that seems to be evidence of their connection to their demonic
+origins.
+A rampaging Oni is nearly a death sentence for a group of traveling
+Firelanders. They view all other life as subservient to them and even a
+version of heresy that needs punished. They believe the greatest good they
+can do is cause others to suffer.
+Quest: One particular Oni in a nearby region is calmer and more
+thoughtful than most. It does not attack randomly or without cause and
+seems to be guarding some hidden treasure in a mountainous cave. What
+item do you suspect to be in this cave system thought lost to time? Why are
+you willing to risk the Oni's wrath to get it? Is this Oni truly an Oni at all?
+YOUR TRUTH
+What ultimate goal do the Oni have? Which organization has
+dedicated themselves to stopping the Oni?
+IRONSMITH: FLAVOR PACKS                                                          38
+    HONE       ONNA                                                           HORROR
+    Rank:      Troublesome (3 progress per harm;          inflicts  1  harm)
+                 Skeletal remains of a lover
+    Features:    Appears alive to former lover
+                 Carries a paper lantern
+                 Reunite with loved one
+    Drives:      Kill competition for their love
+                 Vanity
+                 Life-draining kiss
+    Tactics:     Scorch with ghostly lantern
+                 Disheartening glare
+    Perhaps one of the cruelest horrors of the Firelands is the hone onna. It is
+    said that when one of a pair of soulmates dies before their time, one year
+    from the date of their death they claw their way back out of the ground as
+    a hone onna. Their only thought is to be reunited with their lost loved one.
+    This story almost sounds heartwarming except that the hone onna are
+    decayed and desiccated remains that slowly drain the life from their former
+    lovers. Worse yet, the living soulmate sees the hone onna not as an
+    animated corpse but as the love they remember best. They willingly fall
+    into the arms of what they view as their loved one returned to them alive.
+    Then over the course of days or weeks, they are slowly drained of their life
+    and soul one kiss at a time.
+    The only reliable way to be rid of a hone onna is to wait for their soulmate
+    to die as well. However, that is not an acceptable solution, so we fight
+    when we find them, but the hone onna fight back with fire magic that stems
+    from their paper lanterns. Since they have physical bodies, a hone onna
+    can be destroyed, but the living soulmate is rarely thankful as they would
+    have preferred death in the arms of their loved one.
+    Quest: A daimyo's daughter has returned as a hone onna, but the daimyo
+    has forbidden anyone from striking the horror. The daimyo was disgraced
+    when his daughter absconded with a lowly peasant's son and would rather
+    see the son die than his daughter's ghostly remains harmed. The family of
+    the boy has put out a call for help. How do you know this family, and why
+    are you willing to help them?
+    YOUR TRUTH
+    Some remaining soulmates stand at their lover's grave on the
+    one year anniversary in hopes of dying when they return as a
+    hone onna. In what culture is this practice accepted?
+39                THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+NUPPEPPO                                                           HORROR
+Rank:     Troublesome (3 progress per harm; inflicts     1  harm)
+            Blob creature that smells of death
+Features:   Giant face for a body with stubby legs
+            If its flesh is eaten, it may cure disease
+            Dance in graveyards and temples
+Drives:     Absorb more flesh
+            Wander and dance mindlessly
+            Jump on and smother
+Tactics:    Overwhelm with smell
+            Melt into the ground
+Nuppeppo are in essence the left over fats and body fluids from the dead
+congealed into a bulbous body that resembles a giant face. They are gross
+and a mindless nuisance more than a true threat. If our mystics could
+discover how they are created, we would do what we could as a
+preventative measure much as we do with mice in the grain bin.
+Particularly when the moon is in a specific phase, nuppeppo will ooze forth
+from graves and congeal into bodies so that they may dance throughout the
+night and continue to grow as they absorb more and more organic material.
+We have taken to putting fences around our graveyards to keep the
+nuppeppo in while they frolic the night away.
+Some mystics believe that the "flesh" of a nuppeppo has curative
+properties, but few are willing to test this hypothesis. Of the many strange
+and horrible things in the Firelands, the nuppeppo are easy enough to
+ignore and so, often are.
+Quest: The site of a large battle has a mass grave that is now a place where
+several nuppeppo appear nightly. However, these nuppeppo are much
+more violent than normal. Someone you knew and cared about fell at this
+battle. What secret did they take with them to the grave that you hope to
+unravel by stopping these nuppeppo?
+YOUR TRUTH
+What causes some graveyards to have nuppeppo and others to
+not? Is there a difference in the way the people died or the way
+they were buried?
+IRONSMITH: FLAVOR PACKS                                                       40
+    NURIBOTOKE                                                       HORROR
+    Rank:         Formidable (1 progress per harm; inflicts 3 harm)
+                    Human torso and head with catfish tail
+    Features:       Eyes dangling out of sockets
+                    Chubby, bloated flesh that smells of death
+                    Enter through thin places
+    Drives:         Terrorize people
+                    Give false prophesies
+                    Project an aura of fear
+    Tactics:        Wrestle and squeeze to death
+                    Retreat to an ethereal realm
+    The first nuribotoke showed up in the region of the Obsidian Blades coast,
+    and we thought the near obsidian skin of these horrors was related to that.
+    Alas, we were wrong as the nuribotoke have been spotted throughout the
+    Firelands. They can enter the mortal realm through collective shrines left
+    unattended or open cabinets of personal shrines within a home.
+    The pungent odor is the first sign of the approaching nuribotoke usually
+    followed by whispers of dark prophecies meant to plague the minds of
+    Firelanders.     Once we are reduced to a pile of quivering fear, the
+    nuribotoke reveal themselves fully with dangling eyeballs and flabby skin
+    touching their scaly catfish tail. That's when they physically attack by
+    squeezing with the might of a giant python.
+    We don't know how nuribotoke are created nor their ultimate purpose, but
+    as physical horrors, they can be killed if their fear can be resisted.
+    However, once they see they may lose a fight, they begin frantically
+    looking for a way back to the realm from whence they came.
+    Quest: One particular shrine was cursed by a zealot to bring out
+    nuribotoke every night, but the mystic caretaker of the shrine was able to
+    enact a powerful counter ritual. As long as the shrine has at least a single
+    lit candle, the nuribotoke can't get through. A tornado just ripped through
+    the area, and the locals are afraid to check on the shrine. What else is
+    housed at this shrine that you need?
+    YOUR TRUTH
+    What circumstance creates a nuribotoke?
+41                   THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+OKIKU                                                          HORROR
+Rank:      Dangerous (2 progress per harm; inflicts  2  harm)
+             Ghost of innocent murdered
+Features:    Wailing of lack of guilt
+             Uncontrollable sobbing
+             Drive their killer mad
+Drives:      Convince others of their innocence
+             Torment other tormentors
+             Induce madness
+Tactics:     Phase through objects
+             Ear-piercing blasts of sound
+When an innocent person is tormented and then killed, there is a chance
+that their spirit returns to the Firelands as a horror. The okiku horrors
+would be sympathetic for this reason except for their penchant for visiting
+torment on others. Usually an okiku will hunt down their own killer and
+visit madness upon them rather than kill them, but if the okiku thinks that
+anyone else they cross paths with is in any way guilty of causing pain, they
+are happy to visit torment upon them as well.
+In addition to the madness they can induce in others, they also can emit ear-
+shattering wails of their own grief. Often these cries are the first indication
+that an okiku is nearby.
+The ethereal form of an okiku cannot be touched with normal physical
+objects. They can phase through sword attacks as easily as they phase
+through walls. However, some of our mystics have found particular
+blessings that they can bestow upon weapons that for a time will allow a
+warrior to drive off okiku. Yes, drive off, for they cannot be killed. Only
+when they finish tormenting their own killer will the okiku fade from this
+world and finally find rest in the next.
+Quest: A particularly ruthless ronin has created a number of okiku
+throughout the years and always managed to stay a step ahead of them by
+roaming the Firelands far and wide. Unfortunately, the ronin was killed in
+a simple climbing accident, and now the okiku are furious that they have
+lost the object of their torment. Who do you know that may have a way to
+stop these okiku and put them to rest?
+YOUR TRUTH
+Is it true that the okiku tell their victims they will finish
+tormenting them after they count to ten? If so, why?
+IRONSMITH: FLAVOR PACKS                                                          42
+    ONRYO                                                           HORROR
+    Rank:      Formidable (1 progress per harm; inflicts  3  harm)
+                 Vengeful spirit that can't die
+    Features:    Long, unkempt hair, blue skin
+                 Exudes feeling of fear
+                 Spread suffering
+    Drives:      Harass the living
+                 Avenge their death for peace
+                 Cause disease with touch
+    Tactics:     Disappear and reappear
+                 Frighten by looks alone
+    The onryo are very similar to the okiku in that they are both vengeful spirits
+    that spend their time harassing the living. However, the onryo are known
+    to spread disease rather than madness. Those inflicted by the onryo's touch
+    have little chance to live, and if they do survive, it will only be after many
+    nights of feverish nightmares.
+    Additionally, where the okiku silently glide, the onryo simply appear from
+    one place to the next. We don't know exactly how far an onryo can use this
+    teleportation ability, but it is not as far as one can see. Despite this
+    limitation, the fact that they can pop into existence directly behind
+    someone and touch them with the curse of disease make them nearly
+    impossible for a lone warrior to drive off.
+    Quest: A rare herb known as ryu ketsueki, dragon's blood, is thought to be
+    able to cure the onryo disease. However, this rare flower only blooms in
+    the discarded egg shells of azure dragons. Who do you know that is
+    suffering from the onryo sickness so that you are willing to undertake the
+    quest to find the dragon's blood flower?
+    YOUR TRUTH
+    The onryo are known to be able to frighten with their horrific
+    visage. Is this a function of their grotesque nature, or does
+    their face morph and change to prey upon individual fears?
+43                THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+TSUKUMOGAMI                                                         HORROR
+Rank:     Troublesome (3 progress per harm; inflicts  1      harm)
+            100 year old sentient item
+Features:   Abused and discarded tool
+            Vengeful to previous owner's family
+            Avenge their abuse
+Drives:     Free other similar items
+            Drain life energy
+            Pose as a normal item
+Tactics:    Surprise attack
+            Only attacks living, organic matter
+Also known the smith's bane, tsukumogami are any item that was treated
+with constant abuse and disrespect that then returns 100 years later to seek
+revenge on the descendants of its previous master. Whether or not these
+bloodthirsty items actually exist or not is a matter of debate, but no one can
+deny the peculiar circumstances of some deaths: a person who died falling
+on a hammer, one who died with a pair of rusted tongs in the eye, or
+another found with a horseshoe wrapped around their neck. Were these
+items come to life? Doubtful, but some still believe the stories.
+Quest: A fourth generation blacksmith is renowned for the quality of
+katana they make, but recently their blades have been snapping
+prematurely or detaching the tang from the handle. The smith claims that
+he is still using his great-grandmother's tools and that they are turning into
+tsukumogami. He seeks someone who can help him reverse the curse on
+his tools. While the story sounds outrageous, what special knowledge do
+you have that may lend some credence to this smith's story?
+YOUR TRUTH
+Are tsukumogami truly alive and sentient, or are they simply
+animated by another more malevolent spirit?
+IRONSMITH: FLAVOR PACKS                                                         44
+    KUCHISAKE                                              FIRELANDER
+    Rank:     Dangerous (2 progress per harm; inflicts  2  harm)
+                Zealous, unhinged assassin
+    Features:   Self-mutilated face
+                Bladed fans
+                Serve their daimyo
+    Drives:     Destroy the vain and beautiful
+                Enjoy the pain of others
+                Dance and slice with their fans
+    Tactics:    Reveal their face for shock
+                Seduce and kill
+    The very first kuchisake was a deranged serial killer, but she started a fad.
+    Some female assassins now follow in her footsteps by slitting their own
+    mouths out into wide and gruesome smiles and fanatically spouting the
+    hate of vanity and beauty that the original did.
+    While many viewed this as a psychological trauma that needed addressed,
+    some enterprising daimyo saw this as an opportunity. The daimyo took in
+    these fledgling copycats and trained them to be killing machines that they
+    could point in any direction they saw fit.
+    If a woman with a fan covering her jaw asks you, "Am I beautiful?", you
+    should run away. It is likely a kuchisake assassin on the way to a kill who
+    wants to use you as the warm-up act.
+    Quest: A kuchisake has been killing frequently in one of the largest
+    settlements, but none of the nearby daimyo or shogun are claiming control
+    of the assassin. Why do you need to find out who is responsible for
+    unleashing the killer?
+    YOUR TRUTH
+    Is the kuchisake merely a name given to these copycat killers,
+    or is there an actual organization or school of assassins behind
+    the fierce killers?
+45               THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+NINJA                                                          FIRELANDER
+Rank:           Dangerous (2 progress per harm;   inflicts  2  harm)
+                  Martial arts master
+Features:         Stealthy, cunning, and swift
+                  Saboteur and spy
+                  Gather info for victory
+Drives:           Fight the oppressors covertly
+                  Train in specialized schools
+                  Strike from shadows
+Tactics:          Misdirection and subterfuge
+                  Deflect and redirect strikes
+Ninja are equally derided and lauded depending on who you speak with.
+Most samurai consider them to be without honor due to their willingness
+to deceive and work in the shadows, but the common people view them as
+folk heroes fighting against oppressive shogun in the only way they can.
+Whatever your view of the ninja, it is hard to dispute their effectiveness. A
+sole ninja can wage irregular warfare against a squad of samurai in such a
+way as to be a significant threat. They are masters at finding out valuable
+information and then using that information to their best advantage.
+Some claim that secretive schools of ninja exist where they learn varied
+skills based on their clan such as turning invisible, walking on water, or
+even bending the elements. However, no such school has ever been found.
+This much is true: if you are confronted by a ninja, you are already deep
+into intrigue whether you mean to be or not. Moreover, you're in grave
+danger because if the ninja is allowing you to see them, they are either
+desperate or the stakes are higher than you can imagine.
+Quest: A daimyo suspects an area deep within a thick forest to house a
+ninja school and wants it investigated. Why are you willing to seek out this
+school, and what connection do you have with this particular school if it
+exists at all?
+YOUR TRUTH
+What symbol has shown up with enough regularity to be
+considered the symbol of a ninja clan?
+IRONSMITH: FLAVOR PACKS                                                        46
+    SAMURAI                                                FIRELANDER
+    Rank:     Dangerous (2 progress per harm; inflicts  2  harm)
+                Trained warrior
+    Features:   Weapon and armor expert
+                Loyalty and honor above all
+                Follow the daimyo's orders
+    Drives:     Follow the way of Bushido
+                Bring honor to their family and clan
+                Draw the circle
+    Tactics:    Blades of strongest iron
+                Never run from a battle
+    The samurai are held in the highest respect in the Firelands. Unfortunately,
+    they are not always viewed positively as their code forces them to
+    obedience to their lord over their own judgments of right or wrong. At
+    times they are saviors, and at times they are executioners. While there are
+    some corrupt samurai, most are honorable but find that honor at times binds
+    too tightly, forcing their hand.
+    To become a samurai, one must train for years with a lord as their sponsor.
+    At the end of their training, they reaffirm their fealty and are gifted with a
+    suit of armor in the daimyo's motif. At that point, their word is nearly
+    equivalent to law in the daimyo's domain.
+    Quest: A samurai recently turned rogue against a corrupt daimyo. The
+    people love the samurai and are thankful to be rid of the daimyo, but the
+    samurai deeply feels their betrayal of their daimyo makes them no longer
+    worthy of life. The samurai has declared that once a new leader is
+    installed for the settlement, they will leave and rid the world of their own
+    presence. How do you know this samurai, and what would it take to
+    convince them of their purity and heroism?
+    YOUR TRUTH
+    What clan of samurai is known, respected, and fear throughout
+    the Firelands?
+47                  THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+SHIKI         ADEPT                                        FIRELANDER
+Rank:         Dangerous (2 progress per harm; inflicts  2  harm)
+                Summon origami-like spirits
+Features:       Shiki spirits serve their creator
+                Spirits have no will
+                Spy and steal
+Drives:         Operate in secrecy
+                Find sites of power
+                Swarm of paper cranes
+Tactics:        Death by a thousand cuts
+                Bury in mounds of paper
+The shiki adepts are a strange group of mystics who hold power over
+mindless spirits that manifest themselves as constructs of a paper,
+parchment, or vellum-like material. They can direct these spirits at their
+whim to use as weapons or as spies.
+While the shiki adepts zealously guard the secrets of their magic, it is
+assumed that these spirits have some form of intelligence and
+communication ability since they can use them as spies. This has led to the
+practice of daimyos having no paper in their council rooms so that nothing
+can be gleaned by a shiki adept.
+No one knows the nature of the shiki spirits. Are they related to ancestral
+spirits? Are they primordial in nature? We do not know, but what we do
+know is that a shiki adept can be dangerous and is rarely guided by a code
+of honor. You have been warned.
+Quest: A daimyo's child always made paper cranes and other origami with
+great proficiency as they grew up. Now that they have reached the age of
+responsibility, they have been accused of being a shiki adept. The accused
+once said something to you that you can't forget and can't understand.
+What was it?
+YOUR TRUTH
+Is there a place where the shiki adepts are revered rather than
+feared? If so, why?
+IRONSMITH: FLAVOR PACKS                                                      48
+    YOKI MAGERU                                                          BEAST
+    Rank:     Dangerous (2 progress per harm; inflicts   2 harm)
+                Ice and snow ritualist
+    Features:   Adept at reading weather
+                Immune to cold
+                Respect the power of nature
+    Drives:     Find sites of power
+                Adapt plants to cold weather
+                Encase in blocks of ice
+    Tactics:    Induce hypothermia
+                Drive back foes with blizzard winds     and then        retreat
+    The yoki mageru are also called icebenders. While they don't have a
+    versatile enough control to be called waterbenders, they do have
+    unbelievable control and power over snow and ice. These mystics tend to
+    be academic in nature as they search for ever more mysterious magics and
+    powers.
+    Yoki mageru also have a deep respect for nature and seek to help all life
+    thrive in the cold. They are known to keep exotic plants and herbs that
+    grow on the slopes of volcanoes in their gardens where they experiment
+    and subject them to ice and cold in order to make them a hardier species.
+    They tend to focus on herbs that can be used medicinally so that the plants
+    can prosper in more areas.
+    Generally speaking, a yoki mageru is a good friend to have, but woe to
+    those that cross them. They can ice the fire out of any Firelander.
+    Quest: One yoki mageru is particularly obsessed with an herb known as
+    the flaming lotus. What special properties is this plant rumored to have,
+    and what reason do you have for getting some of it?
+    YOUR TRUTH
+    Are the yoki mageru always female? If so , why?

@@ -1,0 +1,44 @@
+{
+    "name": "SCORPION STORM",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "If you wield a kusarigama...",
+        "category": "COMBAT TALENT: CHAINED SICKLE",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} edge using your chain to disarm, trip, stun, or push back your opponent, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} by first entangling your opponent then slashing, choose one (decide before rolling).<ul><li>Get over here: Roll +edge. On a weak hit, you retain initiative.</li><li>Finish them: Roll +iron. A weak hit counts as a miss. On a strong hit, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aac3783710ad7499]{End the Fight} and reroll any challenge dice.</li></ul></p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} against multiple opponents, you may add +1. If you do and score a hit, inflict I harm (instead of 2 harm) and you have the initiative.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}

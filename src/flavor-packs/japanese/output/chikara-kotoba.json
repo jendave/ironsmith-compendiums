@@ -1,0 +1,44 @@
+{
+    "name": "CHIKARA KOTOBA",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "When you take time to center yourself and chant the resonant and rhythmic sounds of...",
+        "category": "RITUAL: POWER WORDS",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>Healing, roll +heart. On a strong hit, take both +1 health and +1 momentum. On a weak hit, choose only one to take.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Clarity, roll +heart. On a hit, you may immediately @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information}. If you do, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Friendship with another person or community, roll +heart. On a hit, you may immediately @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.b643d9ea53ff8d98]{Forge a Bond}. If you do, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}

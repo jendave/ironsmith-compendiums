@@ -1,0 +1,101 @@
+COMBAT TALENT: SWORD
+KATANA MASTER
+If you wield a katana with grace, you may Strike and Clash +edge (instead of iron). If you do...
+• When you score a strong hit on a Strike, you may cede the initiative. If you do, add +2 to your next
+move.
+• When you score a weak hit on a Clash, you may choose to inflict no harm. If you do, you have the initiative.
+• When you score a strong hit on a Clash, add +1 to your next move.
+
+COMBAT TALENT: NO HARM AIKIDO
+When you Face Danger +edge by evading an attack without fighting back and score a weak hit, inflict 1 harm. On a strong hit, inflict 2 harm instead. This does not represent physical damage, but fatigue or frustration on the foe's part as they struggle to engage in combat with you.
+Same as above, but add +1 and take +1 momentum on a hit.
+When you attempt to End the Fight without having used Strike or Clash in the battle, subtract -1 from each challenge die.
+
+COMBAT TALENT: NUNCHAKU
+OAKEN WHIRLWIND
+If you wield nunchaku or tonfa... In your hands, these wooden weapons are deadly (2 harm). When you instead use it as a simple weapon (1 harm), you may Strike or Clash edge (instead of +iron). If you do, add +1 and take +1 momentum on a hit.
+When you Secure an Advantage +edge using your nunchaku to disarm, intimidate, or force back your opponent, add +1 and take +1 momentum on a hit.
+When you Face Danger +edge to precisely block or deflect an incoming attack, add +1 and take
++1 momentum on a hit.
+
+COMBAT TALENT: CLAWS LEAPING DRAGON
+If you wield tekko-kagi... When you Strike or Clash with a savage double claw, you may add +2. If you do (decide before rolling), inflict +1 harm on a strong hit and count a weak hit as a miss.
+When you Secure an Advantage +edge using your claws to disarm or intimidate your opponent, add +1 and take +1 momentum on a hit.
+When you Face Danger or Secure an Advantage+iron by climbing a treacherous surface or clinging in a precarious position using your claws to gain purchase, add +1 and take +1 momentum on a hit.
+COMBAT TALENT: FLAIL THRESHING FLOOR If you wield a chigiriki.... When you Secure an Advantage +edge using your flail to disarm, trip, or stun your opponent, add +1 and take +1 momentum on a hit.
+When you Face Danger +edge by deflecting an oncoming attack or keeping your attacker at a distance, add +1 and take +1 momentum on a hit.
+When you Face Danger, Secure an Advantage, or Compel +iron by hitting or breaking an inanimate object, add +1 and take +1 momentum on a hit.
+
+COMBAT TALENT: CHAINED SICKLE
+SCORPION STORM
+If you wield a kusarigama...
+When you Secure an Advantage edge using your chain to disarm, trip, stun, or push back your opponent, add +1 and take +1 momentum on a hit. When you Strike by first entangling your opponent then slashing, choose one (decide before rolling).
+Get over here: Roll +edge. On a weak hit, you retain initiative. Finish them: Roll +iron. A weak hit counts as a miss. On a strong
+hit, you may End the Fight and reroll any challenge dice.
+When you Clash against multiple opponents, you may add +1. If you do and score a hit, inflict I harm (instead of 2 harm) and you have the initiative.
+
+COMPANION: PHOENIX SUZAKU
+Name:
+Your young phoenix is determined. Rebirth: If your phoenix misses on Companion Endure Harm when at 0 health, roll +heart. On a strong hit, the phoenix bursts into flame dealing 3 harm to foes and returns to life with 3 health. On a weak hit, the flame deals only I harm and the phoenix returns with only I health.
+◇ Phoenix Down: When you Face Death with your phoenix by your side, add +2 and take +1 momentum on a strong hit.
+Heart of Fire: When you Undertake a Journey through the bitter cold with your phoenix burning brightly, add +1 and take +1 momentum on a hit.
+0
++2 +3 +4
+
+COMPANION: AZURE DRAGON SEIRYUU
+Name:
+Your young azure dragon is loyal.
+Of the Heavens: When you Secure an Advantage by requesting your dragon to mystically manipulate rain or wood, roll +heart and add +1. On a hit, take +1 momentum.
+Remember the Old Ways: When you Compel or Gather Information using your dragon's connection to kami or symbolic status in tradition, you may roll +heart (instead of +wits). Add +1 and take +1 momentum on a hit. O Divine Strike: When you Strike by asking your dragon to attack, roll +heart. If the foe has shown itself to be dishonorable or not a creature of natural origins, add +1. On a hit, your dragon inflicts 3 harm.
+0
++2+3+4 +5
+
+
+
+PATH: FORGER OF BLADES
+MASAMUNE
+●When you gift a blade you have forged to commemorate an important event or
+any dice when you
+v
+only) reroll
+you Compel, Forge a Bond, Sojourn, or Test Your Bond. a forge or repair an exquisite
+della Strike with it.
+On a strong hit, choose
+Balanced: Add +1. Honed: Inflict +1 harm on a bit
+ànic iron to imbue it with mystic power, roll +wits. On a strong hit, choose one. A weak hit or miss ruins the blade. If you break or discard one of these blades, Endure Stress (2 stress). Baneful: Name a specific foe. When you Strike or Clash with this blade against that foe, add +1. On a hit, inflict +1 harm and take +1 momentum Arcane: The blade becomes a rarity.
+When you on a hit
+the day before then
+
+PATH: CODE OF HONOR BUSHIDO
+When you Compel or Secure an Advantage by telling a hard truth with compassion, add +1 and take +1 momentum on a hit. On a weak hit, envision how the hearer may take offense and complicate your situation.
+• When you Face Danger or Secure an Advantage with heroic courage or exceptional loyalty, add +1 and take +1 momentum on a hit.
+When you Endure Harm in direct pursuit of fulfilling an iron vow, add +1. Additionally, you may roll +heart instead of +health or +iron.
+
+RITUAL: POWER WORDS CHIKARA KOTOBA
+When you take time to center yourself and chant the resonant and rhythmic sounds of...
+Healing, roll +heart. On a strong hit, take both +1 health and +1 momentum. On a weak hit, choose only one to take.
+Clarity, roll +heart. On a hit, you may immediately Gather Information. If you do, add +1 and take +1 momentum on a hit.
+Friendship with another person or community, roll +heart. On a hit, you may immediately Forge a Bond. If you do, add +1 and take +1 momentum on a hit.
+
+PATH: INFILTRATION SPECIALIST
+NINJUTSU
+When you Gather Information within an enemy area to discover their positions, plans, or methods, you may roll+shadow (instead of +wits). If you do, add +1 and take +1 momentum on a hit.
+When you Secure an Advantage or Face Danger by disguising yourself, confusing the opposition through misdirection, hiding in shadows, or vanishing without a trace, add +1 and take +1 momentum on a hit.
+Before you Fulfill Your low, you may meditate upon missteps you made and commit to some significant change. If you do, either add +2 or take +1 experience on a hit.
+
+RITUAL: KAMI WHISPERER
+KAMI SASAYAKU
+• When you take time to attune yourself with the kami of an area, roll heart. On a strong hit, you connect with them favorably. Choose one
+•Comforted: Take +1 spirit.
+•Emboldened: Take +2 momentum. •Bonded: Forge a Bond with a specific kami and add +1.
+As above, but on a hit you may Gather Information from the spirits. If you do, roll+heart (instead of wits).
+As above, but on a strong hit, the kami offer to guide you to a destination in the area. If you accept and Undertake a Journey, you may roll +heart or +spirit (instead of wits). When you Reach Your Destination, take +2 momentum on a strong hit. Your kami guide leaves you if you Undertake a Journey to a new place, Face Desolation or Face Death.
+
+RITUAL: FIREBENDER
+HI MAGARU
+When you draw mystical energy from a large fire, roll +wits. On a strong hit, add the value of your action die to your energy track. On a weak hit, as above but drawing in the flames is painful. Endure Harm (1 harm). You may Strike +energy with gouts of flame that inflict 3 harm. If you do, suffer-1 energy and
+take +1 momentum on a hit.
+You may Clash +energy with a fiery shield that inflicts 3 harm. If you do, suffer-1 energy and take +1
+momentum on a hit.
+You may Secure an Advantage or Face Danger+energy to create small fires that you can mentally direct. If you do, suffer-2 energy and take +1 momentum on a hit.
+0 +1 +2 +3 +4 +5 +6

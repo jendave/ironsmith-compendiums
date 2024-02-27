@@ -1,0 +1,377 @@
+Location
+Use both the regular Ironsworn oracle and the additional one provided here by rolling your action die with the 2d10. If your action die shows 1-3, use the regular Ironsworn oracle. If your action die shows 4-6, use the oracle provided here.
+
+d100 Location
+01    Watch Tower
+02    Ground Fissure
+03    Bonsai Nursery
+04    Tea House
+05    Pagado
+06    Boardwalk Over Water
+07    Raised Floor Building
+08    Pit Dwelling House
+09    Grain Storehouse
+10    Karesansui (Zen Garden)
+11    Temple
+12    Dojo
+13    Shinden Zukuri (Inner Garden)
+14    Minka House (A-Frame)
+15    Machiya (Townhouse)
+16    Castle
+17-18 Shrine
+19-20 Yokai Statue
+21-22 Cherry Trees
+23-24 Orchard
+25-26 Prunus Mume (Flowering Apricot)
+27-28 Tumuli (Burial Mound)
+29-30 Game Trail
+31-32 Stone Path
+33-34 Bog
+35-36 Quagmire
+37-38 Tar Pit
+39-40 Farm House
+41-42 Creek
+43-44 Half Wall
+45-46 Defensive Wood Spikes
+47-48 Pahoehoe (Lava Crust)
+49-50 Aa (Jagged Lava Rubble)
+51-52 Lava Lake
+53-54 Blocky Lava (Smooth Rocks)
+55-56 Pillow Lava (Glassy Rocks)
+57-58 Columnar Lava
+59-60 Lava Tunnel
+61-62 Quarry
+63-64 Boulders
+65-66 Pond
+67-68 Stand of Pine
+69-70 Scrubland
+71-72 Arched Bridge
+73-75 Bamboo Forest
+76-79 Rocky Hills
+80-83 Jungle
+84-88 Woodland
+89-93 Summit
+94-99 Mountain
+100    Anomaly
+
+Coastal Location
+Use both the regular Ironsworn oracle and the additional one provided here by rolling your action die with the 2d10. If your action die shows 1-3, use the regular Ironsworn oracle. If your action die shows 4-6, use the oracle provided here.
+
+d100 Coastal Location
+01     Sand Bar
+02     Volcano Tip
+03     Underwater Lava Vents
+04     Kawabune (River Boat)
+05     Beka (Seaweed Gathering Boat)
+6-10  Amibune (Net Fishing Boat)
+11-15  Dock
+16-23  Bezaisen (Trade Boat)
+24-30  Crag
+31-38  Cliffs
+39-46  River Delta
+47-54  Inlet
+55-62  Peninsula
+63-70  Rocky Beach
+71-85  Archipelago
+86-99  Turbulent Waters
+100    Anomaly
+
+d100 Region
+01-12  Chisana Hi <i>Tiny Fires</i>
+13-24  Kokuyoseki no Ha <i>Obsidian Blades</i>
+25-34  Kyoki no Mori <i>orest of Madness</i>
+35-46  Yurei Numachi <i>Ghostly Swamps</i>
+47-60  Sakura Tani <i>Cherry Valley</i>
+61-72  Hai no Kawa <i>River of Ash</i>
+73-84  Madoromi Oka <i>Slumbering Hills</i>
+85-94  Geppu Kyojin <i>Belching Giants</i>
+95-99  Aka Umi <i>Red Sea</i>
+100    Elsewhere
+
+Quick Settlement Name Generator
+Use the oracle provided here. The English meaning of each Japanese word is provided so that you can combine the words for the settlement in either language. (i.e. the town Washioka could also be called Eagle Hill).
+
+Feel free to embellish the names as it can lead to more world building.
+
+For example, if you roll and get 18 and 52 to get Washiasase or Eagle's
+Ford, you might decide to name the settlement Ford of the Walking Eagle.
+I thought of adding "walking" because why would an eagle need to ford a
+river? Next I start developing a Firelander myth of a great eagle yokai that
+wanted to learn what it meant to be human and so gave up their wings for
+a year and a day. On the day that the eagle was to get back its wings, the
+river flooded and the eagle jumped in to save the person it had fallen in love
+with during the last year. The person survived, but the eagle yokai did not.
+Now the people living in the Ford of the Walking Eagle honor its sacrifice
+each year in the spring.
+
+Quick Settlement Name Generator
+
+d100 Prefix      (Meaning)
+01-04 Ryu-       Dragon-
+05-08 Seshin-    Spirit-
+09-12 Hebi-      Serpent-
+13-16 Tora-      Tiger-
+17-20 Washi-     Eagle-
+21-24 Hana-      Flower-
+25-28 Haka-      Tomb-
+29-32 Ken-       Sword-
+33-36 Meiyo-     Honor-
+37-40 Tengoku-   Heaven-
+41-44 Tentai-    Celestial-
+45-48 Jigoku-    Infernal-
+49-52 Sabishi-   Lonely-
+53-56 Tsuyoi-    Strong-
+57-60 Saru-      Monkey-
+61-64 Kamakiri-  Mantis-
+65-68 Tate-      Shield-
+69-72 Kari-      Hunting-
+73-76 Gama-      Frog-
+77-80 Sugoi-     Great-
+81-84 Jindai-    Huge-
+85-88 Hatsu-     New-
+89-92 Okami-     Wolf-
+93-96 Inki-      Bleak-
+97-00 Hitan-     Grief-
+
+d100   Suffix    (Meaning)
+01-04  -machi    -town
+05-08  -ichi     -city
+09-12  -ie       -home
+13-16  -oka      -hill
+17-20  -toride   -fort
+21-24  -tochi    -land
+25-28  -ana      -mine
+29-32  -teien    -garden
+33-36  -mura     -village
+37-40  -hinan    -refuge
+41-44  -nokori   -rest
+45-48  -tani     -valley
+49-52  -asase    -ford
+53-56  -kawa     -river
+57-60  -wan      -gulf
+61-64  -jinja    -shrine
+65-68  -saidan   -altar
+69-72  -kesseki  -stone
+73-76  -mizumi   -lake
+77-80  -numa     -bog
+81-84  -shinrin  -forest
+85-88  -kabe     -wall
+89-92  -kudo     -hollow
+93-96  -shinden  -sacred place
+97-00  -hogo     -shelter
+
+
+Firelander Names
+Use the Firelander names provided here which came from a list of common male and female names from the Edo period of Japan.
+
+You may use Elf or Varou names to fit the Kitsune, Tanuki, and others.  If you prefer more traditional Japanese names, use the Firelander name oracles.
+
+d100 Firelander Names: Traditional  Male
+01 Akifusa
+02 Anjin
+03 Chohichi
+04 Chokei
+05 Dokan
+06 Eishin
+07 Ekei
+08 Fujitake
+09 Fujunaga
+10 Fusahide
+11 Gensai
+12 Hakuseki
+13 Hanzo
+14 Haruhisa
+15 Hideaki
+16 Hirobumi
+17 Hiroie
+18 Hisamasa
+19 Ienao
+20 Ietada
+21 Izo
+22 Jinsuke
+23 Kagekatsu
+24 Kagemori
+25 Kageyu
+26 Kanbei
+27 Kanehira
+28 Kanetsugu
+29 Katamori
+30 Kazuhide
+31 Kazushige
+32 Keiki
+33 Kihei
+34 Kiyomasa
+35 Kiyotsuna
+36 Kojuro
+37 Kotaro
+38 Kunichika
+39 Masaga
+40 Masahige
+41 Masakatsu
+42 Masako
+43 Masanori
+44 Mitsuhide
+45 Mitsumasa
+46 Morichika
+47 Morinari
+48 Motochika
+49 Motokiyo
+50 Mototsuna
+51 Nagaharu
+52 Nagamasa
+53 Nagayasu
+54 Naomasa
+55 Naotaka
+56 Naotsune
+57 Naoyuki
+58 Naozane
+59 Narimasa
+60 Nishiki
+61 Nobuchika
+62 Nobufusa
+63 Nobukata
+64 Nobutomo
+65 Noriyori
+66 Okimoto
+67 Ooka
+68 Ranmaru
+69  Shigenaga
+70  Shigetsuna
+71  Shigezane
+72  Shinpei
+73  Soji
+74  Sukemasa
+75  Tadakatsu
+76  Tadaoki
+77  Tadatomo
+78  Takaakira
+79  Takashi
+80  Takayoshi
+81  Tarozaemon
+82  Teru
+83  Terukage
+84  Tokimune
+85  Tomomichi
+86  Tonse
+87  Toshimune
+88  Toshinaga
+89  Toshizo
+90  Toyoharu
+91  Tsunenaga
+92  Tsuneoki
+93  Ujimasa
+94  Ujisato
+95  Ujiyasu
+96  Ujizane
+97  Yasumori
+98  Yoshihisa
+99  Yoshimoto
+100 Yukinaga
+
+
+Firelander Names
+Use the Firelander names provided here which came from a list of common male and female names from the Edo period of Japan.
+
+You may use Elf or Varou names to fit the Kitsune, Tanuki, and others.  If you prefer more traditional Japanese names, use the Firelander name oracles.
+
+d100 Firelander Names: Traditional Female
+01 Aguri
+02 Aka
+03 Ama
+04 Ane
+05 Asa
+06 Baba
+07 Bo
+08 Chiki
+09 Chima
+10 Chiyo
+11 Cho
+12 Den
+13 Fude
+14 Fuji
+15 Fuku
+16 Fume
+17 Furi
+18 Fusa
+19 Fuso
+20 Futsu
+21 Hama
+22 Haru
+23 Heya
+24 Hiko
+25 Hime
+26 Hitsu
+27 Hiwa
+28 Hoso
+29 Hotsu
+30 Iku
+31 Ima
+32 Ine
+33 Iri
+34 Isa
+35 Iso
+36 Iwa
+37 Jo
+38 Kachi
+39 Kaku
+40 Kame
+41 Kana
+42 Karu
+43 Kase
+44 Katsu
+45 Kawa
+46 Kayo
+47 Kesai
+48 Kichi
+49 Kiku
+50 Kiri
+51 Kiyo
+52 Koku
+53 Koma
+54 Koro
+55 Koyo
+56 Kuchi
+57 Kuma
+58 Machi
+59 Magi
+60 Mari
+61 Mata
+62 Mego
+63 Mine
+64 Moku
+65 Momo
+66 Muma
+67 Mume
+68 Nagu
+69  Naka
+70  Natsu
+71  Neko
+72  Niwa
+73  Oma
+74  Oshi
+75  Riyo
+76  Rusu
+77  Sago
+78  Saka
+79  Saku
+80  Saru
+81  Sawa
+82  Seki
+83  Shimo
+84  Sho
+85  Suki
+86  Sumi
+87  Take
+88  Tama
+89  Tatsu
+90  Toku
+91  Tome
+92  Tora
+93  Tori
+94  Toyo
+95  Tsubo
+96  Tsuka
+97  Uba
+98  Ushi
+99  Yama
+100 Yuki

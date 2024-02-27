@@ -1,0 +1,4079 @@
+IRONSMITH:
+FLAVOR PACK
+
+INSPIRED BY
+
+JAPANESE MYTHOLOGY
+
+A FAN MADE SUPPLEMENT FOR
+
+THE IRONSWORN RPG SYSTEM
+Copyright (c) 2021 Eric Bright of Play Every Role
+
+LICENSING INFO
+
+This work is based on Ironsworn (found at www.ironswornrpg.com),
+
+created by Shawn Tomkin, and licensed for our use under the Creative
+
+CommonsAttribution 4.0 International License.
+
+(https://creativecommons.org/licenses/by/4.0/).
+
+The text of this work is created by Eric Bright and licensed for use under
+
+the Creative CommonsAttribution 4.0 International License (CC-BY).
+
+You may transfer the contents of this book to another medium (such as The
+
+Augur or Roll20) or create derivative works based on this content. The
+
+only thing I ask is that you let me know how you are using it in your design
+
+so I can follow along! You can contact me most reliably by email at
+
+ericbright2002@yahoo.com. If you have any questions or would like to
+
+collaborate on future designs, please drop me a line!
+
+WRITING AND DESIGN
+
+All writing and design by Eric Bright.
+
+ACKNOWLEDGMENTS
+
+NOTE: This is NOT OFFICIALIronsworn content! It is fan-made content
+
+made available through the generous licensing of Shawn Tomkin, creator
+
+of Ironsworn. Please support him by purchasing the original Ironsworn
+
+products as well as Starforged, the sci-fi follow-up game to Ironsworn.
+
+IMAGE CREDITS
+
+Cover image by kostolom licensed from iStock by Getty Images
+
+All other photos are in the public domain taken from The Metropolitan
+
+Museum of Art, Unsplash, Pixabay and Pexels. Select Icons by Lorc,
+
+Delapouite, Cathelineau, Skoll, and DarkZaitzev from game-icons.net
+
+under CC-BY 3.0. Yoga by Perlisima Shoeder from the Noun Project.
+
+Other icons by www.flaticon.com.
+TABLE OF CONTENTS
+
+THE FIRELANDS                                                                                                   1
+
+NEW REGIONS..................................................................................2
+
+Chisana Hi................................................................................................3
+
+Kokuyoseki no Ha....................................................................................4
+
+Kyoki No Mori.........................................................................................5
+
+Yurei Numachi.........................................................................................6
+
+Sakura Tani ..............................................................................................7
+
+Hai No Kawa............................................................................................8
+
+Madoromi Oka.........................................................................................9
+
+Geppu Kyojin.........................................................................................10
+
+Aka Umi.................................................................................................11
+
+NEW ASSETS ...................................................................................12
+
+Combat Talents ......................................................................................12
+
+· Aikido..........................................................................................13
+
+· Katana Master..............................................................................14
+
+· Leaping Dragon...........................................................................15
+
+· Oaken Whirlwind ........................................................................16
+
+· Scorpion Storm............................................................................17
+
+· Threshing Floor...........................................................................18
+
+Companions ...........................................................................................19
+
+· Suzaku .........................................................................................19
+
+· Seiryuu.........................................................................................20
+
+Paths.......................................................................................................21
+
+· Bushido........................................................................................21
+
+· Masamune....................................................................................22
+
+· Ninjutsu .......................................................................................23
+
+Rituals ....................................................................................................24
+
+· Chikara Kotoba ...........................................................................24
+
+· Hi Magaru....................................................................................25
+
+· Kami Sasayaku............................................................................26
+
+NEW FOES........................................................................................27
+
+Animals..................................................................................................28
+
+· Byakko.........................................................................................28
+
+· Isonade.........................................................................................29
+
+· Kamaitachi...................................................................................30
+
+Beasts.....................................................................................................31
+
+· Jorogumo.....................................................................................31
+
+· Nure Onna ...................................................................................32
+
+Firstborn.................................................................................................33
+
+· Kappa...........................................................................................33
+
+· Kitsune.........................................................................................34
+
+· Kodama........................................................................................35
+
+· Tanuki..........................................................................................36
+
+· Tengu...........................................................................................37
+
+· Oni...............................................................................................38
+Horrors...................................................................................................39
+
+· Hone Onna...................................................................................39
+
+· Nuppeppo ....................................................................................40
+
+· Nuribotoke...................................................................................41
+
+· Okiku...........................................................................................42
+
+· Onryo...........................................................................................43
+
+· Tsukumogami ..............................................................................44
+
+Firelanders..............................................................................................45
+
+· Kuchisake....................................................................................45
+
+· Ninja............................................................................................46
+
+· Samurai........................................................................................47
+
+· ShikiAdept..................................................................................48
+
+· Yoki Mageru................................................................................49
+
+NEW ORACLES...............................................................................50
+
+Locations................................................................................................51
+
+Coastal Locations...................................................................................52
+
+Regions ..................................................................................................52
+
+Quick Settlement Name Generator........................................................53
+
+· Using Names to World Build.......................................................53
+
+Firelander Names: Traditional Male......................................................54
+
+Firelander Names: Traditional Female...................................................55
+
+PRONUNCIATION...........................................................................56
+
+SETTLEMENT TRACKERS............................................................57
+THE FIRELANDS
+
+Inspired by Japanese Mythology
+   THE FIRELANDS
+
+   Each Flavor Pack for the Ironsworn RPG is inspired by some culture's
+
+   mythology. The ideas presented are not exact duplicates of myths,
+
+   cultures, or creatures from those cultures, but rather are general ideas
+
+   meant to evoke a slightly different feeling rather than the viking-like
+
+   setting of the Ironsworn core setting.
+
+   The Firelands Flavor Pack was inspired mainly by the Edo Period in the
+
+   history of Japan. However, some of the foes were inspired by more
+
+   modern myths, but I did try to change them to fit in with a more medieval
+
+   time period. I've done my best to treat the Edo culture of Japan with
+
+   respect and hope that this supplement is seen as my admiration of the
+
+   culture. Before using any of this content, please make sure that your
+
+   players are in agreement with the type of game and setting you want to
+
+   build together.
+
+   Forced to flee the Old World, a group of desperate refugees made
+
+   the dangerous trek north across the storm-wracked seas only to
+
+   land on the shores of a new and equally harsh world formed by
+
+   several still active volcanoes: the Firelands. This is a realm of
+
+   flame and shadow, a realm where Old World myths come to life. It
+
+   is unforgiving and cruel.
+
+   Amidst this punishing environment, the refugees toiled to establish
+
+   a new home, a place free of the problems of the Old World. They
+
+   are now in their third generation and call themselves Firelanders.
+
+   Every season, every day, is a struggle to survive, but the
+
+   Firelanders have souls of iron and resolutely press on.
+
+   Separate clans, usually headed by a daimyo or shogun, rule each
+
+   small settlement or handful of settlements. The clans interact
+
+   through a complex web of honor and intrigue while trying to
+
+   advance their own agendas. Outside the law, bands of ronin roam
+
+   and take advantage of the weak.
+
+   Each clan mixes some of the traditions of the Old World with new
+
+   traditions making protocol and ceremony vastly different from
+
+   region to region. Only a handful of the ancestral spirits that
+
+   typically helped guide society in the Old World have found their
+
+   way to the Firelands, but they are still worshiped in some areas.
+
+   Complicating matters are the new yokai surfacing here.
+
+   Those who swear iron vows in the Firelands are sometimes called
+
+   samurai. Failing to complete an iron vow means not only dishonor
+
+   for the samurai but also for their clan.
+
+1                   THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+NEW REGIONS
+
+Each region in the Firelands corresponds to a region on the normal
+
+Ironsworn map. In this way, you can continue to use the same map while
+
+still getting a new flavor for the setting.
+
+Within the Firelands, I gave each region a hopefully somewhat accurate
+
+name using Japanese words, but I used Google translate, so please forgive
+
+me for any language butchering! I only had a couple of years of Japanese
+
+in high school! Also given are the English equivalent that I was aiming for.
+
+The new region names are:
+
+1. Barrier Islands  Chisana Hi (Tiny Fires)
+
+2. Ragged Coast  Kokuyoseki No Ha (Obsidian Blades)
+
+3. Deep Wilds  Kyoki No Mori (Forest of Madness)
+
+4. Flooded Lands  Yurei Numachi (Ghostly Swamps)
+
+5. Havens  Sakura Tani (Cherry Valley)
+
+6. Hinterlands  Hai No Kawa (River ofAsh)
+
+7. Tempest Hills  Madoromi Oka (Slumbering Hills)
+
+8. Veiled Mountains  Geppu Kyojin (Belching Giants)
+
+9. Shattered Wastes  Aka Umi (Red Sea)
+
+IRONSMITH: FLAVOR PACKS                                                       2
+   CHISANA HI                                                      TINY FIRES
+
+   Replaces: Barrier Islands (Region 1)     
+
+   Features:
+
+   ·  Tumultuous waves                   ·  Hardy fisher-folk
+
+   ·  Powerful currents                  ·  Daring pirates
+
+   ·  Unending lava flows                ·  Heat loving creatures
+
+   ·  Billowing clouds of steam  and     ·  Shipwrecks that burn in the
+
+      ash obscuring vision                  lava or languish in open sea
+
+   ·  Frequent tropical storms           ·  Rough cliffs of lava rock
+
+   Meaning Tiny Fires, the region known as Chisana Hi is a group of islands
+
+   off the western coast of the Firelands. Nearly all of the islands have small
+
+   active volcanoes or lava vents that can be seen from the mainland.
+
+   Together, they light up the night sky with a myriad of red dots chained from
+
+   the furthest southern tip of the Firelands all the way to mountainous region
+
+   of Geppu Kyojin.
+
+   The islands are populated mostly by brave fisher-folk who live atop the
+
+   highest areas of cooled igneous rock where the active lava can't reach. The
+
+   people of this region are said to have an almost spiritual connection with
+
+   the volcanoes and have developed the mystical art known as Firebending.
+
+   Those who practice this art have the ability to shape bits of cooling lava
+
+   into defensive structures, beautiful totems, and even deadly weapons.
+
+   Quest:Alegendary pirate crew is said to have hidden their treasure behind
+
+   a waterfall of lava. They must have had a way to divert the lava flow to
+
+   access such a location, but that knowledge was lost when their ship was
+
+   lost at sea during a tsunami. The ghostly outline of one of the pirate crew
+
+   has appeared on your ship offering to guide you to the treasure as long as
+
+   it will be used to make restitution for their evil deeds. Do you dare trust
+
+   this spectral vagabond?
+
+3                    THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+KOKUYOSEKI NO HA                                           OBSIDIAN BLADES
+
+Replaces: Ragged Coast (Region 2)         
+
+Features:
+
+·  Sheer cliff faces of pitch black    ·  Pirate ships outfitted with fuse-
+
+·  Depths beyond sounding                 lit rockets
+
+·  Pods of nure onna hunting the       ·  Sightings of the mythical
+
+   shores                                 Takarabune ship of the gods
+
+·  Isonade, hook-tailed sharks,        ·  Precariously perched
+
+   prowling the waters                    settlements
+
+Meaning Obsidian Blades, Kokuyoseki No Ha, the western coast of the
+
+Firelands, is filled with obsidian cliffs forming jagged fractals down the
+
+coast that are sharp enough to cut through leather armor. The waters just
+
+off shore plunge to unimaginable depths where it is believed the islands
+
+of Chisana Hi were torn from the coast by a terrible earthquake leaving
+
+behind the deepest trench in the sea full of unknown creatures.
+
+The Firelanders who live in this region make their homes near
+
+obsidian staircases leading down to the waters for easy access
+
+to fishing and travel. The condition of these staircases is a
+
+point of pride among the settlements. The more precise
+
+and safe the razor-edged stairs are, the higher the honor
+
+given to that settlement.
+
+Producing the perfect staircase
+
+takes years as the Enkei Ko, or
+
+Rounders, dull, grind and polish
+
+the obsidian steps. Each youth in
+
+a settlement is mandated to spend
+
+at least two years as an Enkei Ko
+
+under the tutelage of a master. The
+
+scars gained during these years are
+
+viewed as a badge of honor, but lost
+
+fingers or worse injuries are said to
+
+indicate a misguided youth who is
+
+forever cursed.
+
+Quest: A trade settlement had two
+
+separate ships surrounded by isonade
+
+sharks who hooked the vessels and
+
+towed them to an unknown location.
+
+What was on the last ship taken that
+
+you desperately need?
+
+IRONSMITH: FLAVOR PACKS                                                      4
+   KYOKI NO MORI                                        FOREST OF MADNESS
+
+   Replaces: Deep Wilds (Region 3)                      
+
+   Features:
+
+   ·  Dark forests nearly untouched           ·  Ghostly forms gliding between
+
+      by humans                                  trees
+
+   ·  Shadowy floor veiled by fog             ·  Patter of rain
+
+   ·  Constant laughter of the trees          ·  Places where pine trees should
+
+   ·  Evidence of firstborn                      grow but don't
+
+   Kyoki No Mori is usually avoided by all but the bravest or most desperate
+
+   Firelanders. It is known as the Forest of Madness because the ancestral
+
+   spirits that inhabit this place are said to have gone mad on their journey to
+
+   Firelands. Kitsune, Tanuki, and Kodama, if they truly exist, are said to
+
+   have been here since the dawn of time and did not welcome the ancestors
+
+   of the Old World.
+
+   The trees here grow as if tortured in some way, all twisted, gnarled, and
+
+   hollow on the inside. Their thin branches grow in such a way that they rub
+
+   together in the wind making the sound of maniacal, staccato, wooden and
+
+   unending laughter. "Ah...Ah...Ah.Ah.Ah.Ah." wafts eerily on the winds.
+
+   Lingering fog, constant rain, and a shadowy interior make this place
+
+   difficult and frightening to explore.
+
+   Quest: Two children from a settlement on Kyoki No Mori's edge ran into
+
+   the woods to play despite their parents'warning. Whenever a rescue party
+
+   sets out, the forest's laughter intensifies so that they afraid to venture in lest
+
+   they offend the spirits. Why are you willing to face the hidden fears of the
+
+   Forest of Madness to find these children?
+
+5                     THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+YUREI NUMACHI                           GHOSTLY SWAMPS
+
+Replaces: Flooded Lands (Region 4)      
+
+Features:
+
+·  Stagnant and fetid wetlands       ·  Dangers under every log
+
+·  Rivers of mud and tar             ·  Swarms of insects with
+
+·  Ponds with a thick layer of oily     hallucinogenic bites
+
+   mud on top                        ·  Clouds of green gas bubbling
+
+·  Salt water poisoning all             up through the muck
+
+Meaning the Ghostly Swamps,Yurei Numachi is a bleak and desolate land
+
+full of tar pits and suu doro (sucking mud) that have claimed many a
+
+Firelander's life. Neon green gas clouds waft through the lands from vents
+
+that are said to connect all the way up to the mountains of Geppu Kyojin.
+
+No one knows what the gas is, but animals flee as soon as they see a cloud
+
+headed their way.
+
+It is taken as fact among the living that the dead roam these swamps. Small
+
+shrines located throughout the area act as offerings to appease the dead and
+
+also as landmarks to safely navigate the murky bogs and marshes. But be
+
+careful: sometimes what is first assumed to be the light of a shrine ahead is
+
+really a kodama leading you astray.
+
+Quest: A hummock containing a shrine and marking a safe path through
+
+the swamp has recently been flooded. A new path must be found for the
+
+local settlement to maintain contact with the world at large. Straying into
+
+unknown territory is always dangerous, but certain supplies can only be
+
+traded for and are running out soon. Which way do you go?
+
+IRONSMITH: FLAVOR PACKS                                                        6
+   SAKURA TANI                                         CHERRY VALLEY
+
+   Replaces: Havens (Region 5)                         
+
+   Features:
+
+   ·  Long, humid summers             ·  Large sections of bamboo
+
+   ·  Lazy creeks and brooks that     ·  The smell of cherry blossoms
+
+      feed into wide rivers           ·  Wary clans holding uneasy
+
+   ·  Hills, valleys, hollows, and       truces
+
+      forests provide many resources
+
+   The Cherry Valley, or Sakura Tani, was thought to be our salvation when
+
+   we first arrived. Cherry trees dotted the valley and bloomed in grandeur,
+
+   but we have found that their season of beauty is far too short. While water
+
+   and wood are readily available here, squabbles with ronin and the harsh
+
+   heat of deep summer take their toll on each clan making their home here.
+
+   Despite these difficulties, a handful of large wooden temples have been
+
+   erected that many Firelanders will make a pilgrimage to in order to ask the
+
+   ancestral spirits for protection throughout the year. It is said that if you can
+
+   commune with one of your ancestral spirits here in Sakura Tani, the valley
+
+   will be a place of relative safety for you and your family unto three
+
+   generations.
+
+   Quest: A huge swath of bamboo forest has been cleared and is being used
+
+   to fortify a growing settlement. What makes you uneasy about the leader
+
+   of this settlement? What about the other smaller settlements who also use
+
+   the bamboo? Will peaceful relations be maintained?
+
+7                THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+HAI NO KAWA                                          RIVER OF ASH
+
+Replaces: Hinterlands (Region 6)                     
+
+Features:
+
+· Thick, gray grasses reaching       ·  No line of sight over the grasses
+
+over your head                       ·  Sink holes to lava tubes
+
+· Sparse and spindly trees           ·  Prowling gray tigers descended
+
+· Isolated settlements                  from Byakko
+
+Hai No Kawa, the River of Ash, is an ancient riverbed where lava once
+
+flowed wider than any river of water ever seen. Legend says that theTengu
+
+flew buckets of water from the seas over the lava flow for generations
+
+before it cooled enough to become the bleak plains that it is today. Tall
+
+gray grasses with shallow root systems now cover the area and hide a
+
+delicate ecosystem within their blades with the gray byakko tigers at the
+
+top of the food chain.
+
+Traversing the region is difficult as travelers cannot see landmarks over the
+
+grass. The animals of the region have worn dedicated trails through the
+
+grass, but they crisscross each other to the point of being dangerous to
+
+follow.
+
+The few Firelanders who settle here labor for months to drag large tree
+
+trunks to the area in order to build a home. They erect towers that stand
+
+above the grasses from which they can hunt small game, and each tower
+
+has its own shrine of carved igneous rock at its base. The most enterprising
+
+people have cleared large areas of grass in order to plant the few crops that
+
+can grow in such shallow soil.
+
+Quest:Aparticularly large byakko tiger began to harass a small settlement
+
+of a few families, and the adults went out on the tiger trails to hunt the
+
+animal. When you arrived at the settlement to find only children, the adults
+
+had already been gone two days. Do you leave the children to continue
+
+fending for themselves in order to find their parents, or do you help the
+
+children relocate to a safer place?
+
+IRONSMITH: FLAVOR PACKS                                                        8
+   MADOROMI OKA                              SLUMBERING HILLS
+
+   Replaces: Tempest Hills (Region 7)        
+
+   Features:
+
+   ·  Small deciduous trees giving        ·  Rut-filled roads worn deep by
+
+      way to smaller conifers                mining caravans
+
+   ·  Abandoned mines in the              ·  Remains of ancient structures
+
+      hillside                               that never dug their foundations
+
+   ·  Frequent minor earthquakes             into the ground
+
+      said to be the rock giants rolling  ·  Hilltops with perfect circles of
+
+      over in their sleep                    flowering trees
+
+   The Madoromi Oka, or Slumbering Hills, initially grew from the active
+
+   volcanoes in the northern mountains. Covered in small growth forests,
+
+   Madoromi Oka can is a slightly more hospitable environment than the
+
+   grasslands to the south or mountains to the north, but this also means there
+
+   are more people and creatures vying for the same resources. Oni and
+
+   Tengu occasionally roam this far south, but more dangerous are the giant
+
+   jorogumo spiders that make their home here weaving great orb webs
+
+   between tree trunks that are said to be invisible until you are already stuck.
+
+   Firelanders living here operate the deep mines providing the rest of the
+
+   continent with iron and the ever-valuable nie iron. The hills themselves are
+
+   said to be sleeping rock giants that will awaken one day if the mines are
+
+   dug too greedily. Some claim to have seen giant skeletons known as
+
+   gashadokuro that stalk the nights and are said to be the bones of one of the
+
+   sleeping rock giants whose hill was mined to the point of their death.
+
+   Quest: You come across a mining settlement with food stores still fresh but
+
+   no Firelanders. There is no sign of struggle nor danger. None would
+
+   abandon a working mine like this, so where did the population go?
+
+9               THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+GEPPU KYOJIN                                        BELCHING GIANTS
+
+Replaces: Veiled Mountains (Region  8)     
+
+Features:
+
+·  Towering peaks topped with           ·  Shrieks of azure dragons and
+
+   smoking craters                         phoenix
+
+·  Impossible landscape changes         ·  Acidic lakes from noxious
+
+·  Lava flowing freely                     mountain streams
+
+·  Choking gas
+
+Meaning the Belching Giants, Geppu Kyojin is a vast mountain range
+
+housing a staggering number of active volcanoes that are said to hold the
+
+nests of the rare fire birds known as kaen tori, the phoenix. Despite the heat
+
+from the volcanoes, the area is plagued by perpetual arctic winds that make
+
+this a region of both fire and ice. Thriving ecosystems live halfway
+
+between a volcano's heat and the frozen, exposed mountain slopes.
+
+Afew mining clans move into these peaks each summer, but run the risk of
+
+freezing to death as it approaches winter or dying of heat exposure when a
+
+mine passes too closely to a lava tunnel. Some clans, thinking themselves
+
+clever, have built settlements dug directly into the mountainside to avoid
+
+the icy winds and just close enough to lava tubes to benefit from their heat.
+
+However, this is a dangerous position when a volcano erupts.
+
+Quest: One of the Belching Giants has been quiet for so long that a
+
+secluded jungle has grown within its sizable crater. What are you tracking
+
+that seems to have gone into the crater? What have you heard is within the
+
+jungle that makes you wary to follow your quarry?
+
+IRONSMITH: FLAVOR PACKS                                                         10
+    AKA UMI                                                              RED SEA
+
+    Replaces: Shattered Wastes (Region  9)                               
+
+    Features:
+
+    ·  Pockmarked and wounded               ·  Constant blizzards and sleet add
+
+       landscape                               a perpetual haze of steam
+
+    ·  Broken shards of lava glass          ·  Gargantuan creatures bursting
+
+       taller than a Firelander                from the lava
+
+    ·  Seas and rivers of lava              ·  Desolation
+
+    The lands north of the Geppu Kyojin are calledAka Umi, the Red Sea, and
+
+    have layers of thick, broken glass covering the ground that reflect the light
+
+    of lava lakes and rivers. Regular earthquakes rip great gashes into the
+
+    terrain allowing seas of lava to bubble up that take weeks to cool.
+
+    No Firelanders live here, but the few who have seen these lands tell stories
+
+    of great beasts rising up from the lava pools and constant blizzards that turn
+
+    to torrential rains near the heated ground. The land is said to be at war with
+
+    itself, the ice of the air versus the fire of the earth, in a never-ending battle.
+
+    Quest: Someone you care about set off to see the Aka Umi for themselves.
+
+    Who are they, and why are you willing to follow them?
+
+11                THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+NEW ASSETS
+
+Just as the terrain and regions are different in the Firelands, so too are the
+
+people and their skills. Here are some assets unique to the Firelands.
+
+COMBAT TALENTS
+
+Combat within the Firelands is usually a ritualistic affair, fierce yet
+
+controlled. Honor must be upheld at all times. Deception, dirty tricks, or
+
+taking advantage of an opponent of unequal ability or preparation is
+
+considered dishonorable. Skill and precision are held in higher esteem
+
+than simply winning a duel. Any savage brute can win a battle, but only
+
+the greatest can win with poise, grace, and honor.
+
+Note that not every weapon must have a combat talent. For example, you
+
+might use shuriken (throwing stars), tessen (a fighting fan), or tekkan
+
+(thick, blunt iron sword) as a weapon. While they may not have special
+
+abilities, they can still be wielded by a character.
+
+Additionally, you may want to rename some of the original Ironsworn
+
+assets to fit into the Firelands better. Consider the following name changes
+
+to weapons:
+
+·  Dagger - Tanto
+
+·  Staff - Bo staff
+
+·  Dual Daggers - Sais
+
+·  Axe - Ono, a Japanese stone axe
+
+·  Long Bow - Yumi, the long bow held two-thirds of the way down
+
+   the shaft instead of in the middle
+
+·  Hammer - Otsuchi
+
+·  Armor - Do-maru for light armor (perhaps bamboo); Gosoku for
+
+   heavy armor (full samurai regalia)
+
+·  Spear - Naginata, a curved spear; Sasumata, a pole-arm with a U
+
+   shape at the end for disabling and incapacitating an opponent
+
+IRONSMITH: FLAVOR PACKS                                                         12
+    AIKIDO
+
+    Students of aikido believe first
+
+    and foremost in doing no harm.
+
+    They know that violence only
+
+    begets more violence and seek to
+
+    resolve conflict in other ways.
+
+    As such, they hone their bodies
+
+    to be in the finest physical
+
+    condition so that their speed and
+
+    agility can avoid any attack. It is
+
+    said that they can unbalance an
+
+    opponent with but the touch of a
+
+    single finger and deflect any
+
+    blow back onto the attacker.
+
+    Design Notes: One of the
+
+    struggles I had with creating this
+
+    asset is that when you mark
+
+    progress in a combat, you are
+
+    inflicting "harm" giving the
+
+    mental imagery of damage, but I
+
+    wanted some way to win a
+
+    physical fight without physical
+
+    damage. Sure, you could Compel       or something similar,  but  I   wanted   a
+
+    mechanic that would work with the    progress track.
+
+    Thus, the first ability here lets you make progress in a combat with a
+
+    different narrative flavor than physical damage. Instead of dealing bodily
+
+    harm, you are wearing out your opponent, frustrating them, and turning
+
+    their blows back on themself to the point that they finally give up in
+
+    exhaustion. Alternately, you could envision this as using several small
+
+    precision strikes to pressure points in order to disable or incapacitate the
+
+    foe without doing any true damage.
+
+    Quest: A daimyo has challenged you to a duel. To refuse would mean
+
+    dishonor, but striking a daimyo is punishable by death. What happened in
+
+    the past that made this daimyo want you to be in a no-win scenario?
+
+13          THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+KATANA MASTER
+
+The katana is the most widely
+
+used blade of the Firelands. Its
+
+balance coupled with its strength
+
+make it the perfect weapon for
+
+swift and precise strikes.
+
+Those who train with a katana
+
+not only train their body but also
+
+their mind. They learn to be
+
+patient in battle, waiting for the
+
+right moment to strike a killing
+
+blow. Their movements are not
+
+rushed or haphazard but smooth,
+
+calculated and efficient.
+
+Design Notes: All three of these
+
+abilities lead towards a powerful
+
+combo of back and forth Strike
+
+and Clash to gain the add +2 or
+
++1. Giving up the initiative on
+
+a strong hit with Strike makes a
+
+strong hit on the follow-up
+
+Clash that much more likely.
+
+Paired with the second ability, you are usually going to gain back the
+
+initiative. This is meant to represent the idea that the katana master is
+
+always in control of the situation. They think ahead and act with patience
+
+and wisdom. They may even give up dealing harm to maintain that control.
+
+Quest: The village of Takekabe sits on the edge of one of the largest
+
+bamboo forests in the Firelands and is home to grand master Yatsuki, the
+
+one who stopped an army single-handedly. Outside the main gate of
+
+Takekabe is an obstacle course of sorts made up of several bamboo posts
+
+and attached bamboo arms. When an opposing force showed up to siege
+
+the village, Yatsuki challenged their general to one-on-one combat to
+
+decide the fate of the Takekabe. Yatsuki vowed to only use a bamboo
+
+katana while the general could use any weapon he desired. The combat
+
+took place in the arena-like area of the bamboo obstacle course. Weaving
+
+in and out of the posts with blinding speed, Yatsuki delivered blow after
+
+blow to the ever more frustrated general who eventually yielded. Since
+
+then, Yatsuki has been sought out as a teacher for aspiring samurai.
+
+Now, Yatsuki has sent out a call far and wide seeking someone to replace
+
+him as a teacher for he says he has a spiritual journey to set out upon. Why
+
+do you need to reach Yatsuki before he leaves? Is there some secret
+
+teaching you wish him to pass on to you, or do you feel called for a
+
+personal reason to escort him on his upcoming journey?
+
+IRONSMITH: FLAVOR PACKS                                                       14
+    LEAPING DRAGON
+
+    Some Firelanders use a set of
+
+    razor-sharp claws to both fight
+
+    and climb.      These tekko-kagi
+
+    have a handle to grip and usually
+
+    four claws that sit on top of the
+
+    hand. Each claw ends with two
+
+    blades: one pointed out and a
+
+    smaller one (about an inch long)
+
+    pointed down. Both blades can
+
+    be used for slashing, but the
+
+    smaller blades are used to help
+
+    climb and also can be used when
+
+    disarming a foe with a sword.
+
+    The final piece of these weapons
+
+    are the small diamond-shaped
+
+    protrusions above the knuckles
+
+    that function as a crossguard
+
+    when blocking sword attacks
+
+    and also allow the wielder to
+
+    backhand attack foes.
+
+    Design Notes:The first ability is
+
+    same as the Duelist where you commit yourself to big hit, but it's less
+
+    likely to succeed thereby leaving you in a vulnerable position.
+
+    The second ability gives you a cool way to disarm a foe by catching their
+
+    weapon within your claws. In the narrative, you can twist and break a
+
+    blade or simply pull back with the downward tips of your claws to yank the
+
+    weapon out of their hand.
+
+    The third ability is when you climb up the cliff face or dig your claws into
+
+    the wooden beams on a ceiling to suspend yourself in a hidden nook. This
+
+    can be used in combination with the first ability to first climb up to gain the
+
+    high ground and then leap down with a powerful Strike from above.
+
+    Quest: The samurai known only as Kuzuri, the Wolverine, takes the law
+
+    into his own hands as he travels the Firelands. While he serves a just cause
+
+    and helps those who can't help themselves, the collateral damage in
+
+    property and lives is often large. The shogun Ikeme Nawotsu has decreed
+
+    that Kuzuri will either temper his justice with compassion or be sentenced
+
+    to death. Now Kuzuri is on the run from both ronin and samurai. What
+
+    side do you take in this showdown and why? What relationship do you
+
+    have that is being strained by this?
+
+15                  THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+OAKEN WHIRLWIND
+
+While the nunchaku (two wood
+
+rods connected by a short chain)
+
+differ from the tonfa (a wooden
+
+baton with a perpendicular
+
+handle), they both are used
+
+similarly in the Firelands as
+
+blunt weapons with a flair for the
+
+dramatic. The fast whirling and
+
+spinning of these weapons ends
+
+in one of two ways: your
+
+opponent being impressed with
+
+your control or your opponent
+
+mocking you as you damage
+
+yourself.
+
+Design Notes: The first ability
+
+allows you to use these weapons
+
+in a deadly manner, but rewards
+
+you for using them as a simple
+
+weapon instead.      This is the
+
+same as for a wooden staff.
+
+The second ability allows you to knock a weapon out of an opponent's
+
+hand or entangle it in the nunchaku chain. Alternately, you can spin the
+
+weapons with such frenzy and gusto that the opponent is impressed or at
+
+least held at bay for a moment allowing you to capitalize on their
+
+hesitation.
+
+The third ability is the classic spinning of the weapon to block an incoming
+
+arrow or holding the nunchaku taut to absorb the energy of a katana strike.
+
+The tonfa in the Firelands may even have a secondary perpendicular handle
+
+on the opposite side allowing it to act as a crossguard of sorts.
+
+Quest: Ruse Li, known as The Dragon, was a samurai master of the
+
+nunchaku who roamed the lands dealing out justice fairly and against
+
+great odds. His legendary weapons are said to have been blessed when he
+
+spent time meditating in a hidden shrine to the dragon spirit from whence
+
+he took his name. Why do you seek this shrine? What do you desperately
+
+need to find there?
+
+IRONSMITH: FLAVOR PACKS                                                       16
+    SCORPION STORM
+
+    A kusarigama is a kama (sickle)
+
+    with a manriki-kusari (weighted
+
+    chain) attached. When first seen
+
+    in the Firelands, an observer of
+
+    the battle described the chain as
+
+    the tail of a scorpion and the
+
+    sickle as the pincers.  Thus,
+
+    users of this weapon learn a style
+
+    known as the Scorpion Storm.
+
+    Design Notes:The first ability is
+
+    when you use the weighted
+
+    chain portion of the weapon to
+
+    wrapped around an opponent's
+
+    weapon and pull it from their
+
+    grasp.
+
+    The second ability gives you a
+
+    flexible use of Strike. You first
+
+    swing out your chain and then
+
+    follow it with a sickle attack, but
+
+    it can be done in two ways.
+
+    Rolling +edge is trying to get your foe in a favorable position which allows
+
+    you to keep the initiative even on a weak hit. Rolling +iron is about ending
+
+    the fight. You try to immobilize the foe to deal a finishing blow which
+
+    allows you to reroll any challenge dice to End the Fight. (These moves
+
+    should be familiar to any Mortal Kombat fans!)
+
+    The third ability gives you a way to frame the fiction when fighting
+
+    multiple opponents. Since you are using Clash, you've already lost the
+
+    initiative meaning the foes are probably surrounding you. Swinging your
+
+    chain out wide, you drive them back. In the process, you deal less harm,
+
+    but it gives you the split second you need to regain your footing and go on
+
+    the offensive.
+
+    Quest: A sinister and powerful shogun with bands of vicious ronin is
+
+    hosting a tournament for seven nearby settlements. Each settlement is to
+
+    send a champion to compete in duels to the death, and the winner of the
+
+    tournament earns the right to not have their settlement invaded by the
+
+    shogun. What makes this shogun particularly dangerous so that the
+
+    settlements agree to the tournament rather than fight back?
+
+17                  THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+THRESHING FLOOR
+
+The chigiriki started as a simple
+
+flail used in harvesting grain but
+
+evolved into a sophisticated
+
+weapon by extending the length
+
+of the chain and replacing the
+
+outer wooden rod with a small
+
+iron ball.  The chain is long
+
+enough to wrap around arms,
+
+legs, or weapons.
+
+It is said that the Firelanders
+
+who developed this weapon
+
+were from a village where
+
+having deadly weapons was
+
+banned by a paranoid and
+
+oppressive daimyo. An honored
+
+blacksmith       of  the  village
+
+claimed the iron ball at the end
+
+helped with the threshing, and
+
+the daimyo agreed to the
+
+blacksmith creating many more
+
+chigiriki for use in the general
+
+population. After months of using the chigiriki for only grain, the people
+
+became highly competent in wielding them and thus were able to lead a
+
+successful rebellion against the daimyo. Since that time, the chigiriki has
+
+spread widely across the Firelands.
+
+Design Notes: The first ability is very similar to the Long-Arm asset's
+
+second ability except that you won't be able to shove your opponent with
+
+the chain.
+
+In my mind's eye, I see the second ability as whirling the chain as fast as
+
+possible to deflect arrows or entangle a foe's melee weapon. You may
+
+chain (pun intended) the first two abilities together by first blocking an
+
+attack with Face Danger and then disarming with Secure an Advantage.
+
+The third ability is the same as the Thunder-Bringer asset for hammers.
+
+While the chigiriki does not have the same mass as a hammer, the chain
+
+and weighted iron ball give it extra momentum concentrating the impact on
+
+a smaller surface area. In other words, it's designed to break stuff!
+
+Quest: An oni with a huge flaming chigiriki has been ravaging a nearby
+
+area. The oni seems to love destruction simply for the sake of chaos, and
+
+no samurai as yet have been able to defeat it in combat. Someone you care
+
+about lives in the next nearest settlement to the oni attacks and may be the
+
+next target for the oni. Who is this person, and what do they mean to you?
+
+IRONSMITH: FLAVOR PACKS                                                       18
+    COMPANIONS
+
+    While there are many amazing creatures within Japanese mythology that
+
+    could be used as companions, I decided to focus on two: the dragon and the
+
+    phoenix. The dragon presented here is different enough from the wyvern
+
+    as described in the Ironsworn core rules that I wanted it to be separate.
+
+    SUZAKU
+
+    Also known as Ho-o or phoenix,
+
+    the flame birds of the Firelands
+
+    were quickly regarded as beings
+
+    of near divine status descended
+
+    from the great Vermilion Bird
+
+    from whence they take their
+
+    name. Their ability to consume
+
+    themselves in a conflagration
+
+    only to be reborn from the ash is
+
+    legendary. Though they possess
+
+    this great power, the flame birds
+
+    of the Firelands are rare, and it is
+
+    even rarer that one would bond
+
+    itself to a Firelander as a
+
+    companion.
+
+    Design Notes: The first ability
+
+    encourages you to use your
+
+    companion to fight. They are
+
+    like a ticking time bomb that
+
+    explodes on death only to be
+
+    reborn. However, on a miss they       may be dead    for  good,  so  think  carefully
+
+    before allowing your companion        to take harm.
+
+    The second ability bolsters your own fortitude when near death, and the
+
+    third ability has your phoenix "flame on" during those icy cold journeys.
+
+    Quest: A pair of suzaku were seen streaking across the sky between two
+
+    mountain peaks in a complicated mating flight.            Now every hardy
+
+    Firelander is out to find the eggs sure to be laid from this union. Who do
+
+    you know that is dying and needs the down of a phoenix feather to survive?
+
+19              THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+SEIRYUU
+
+The Azure Dragon was a divine
+
+spirit worshiped in the Old
+
+World that had a long snake-like
+
+body with four legs but no
+
+wings. This being had control
+
+over the rain and was attuned to
+
+the season of Spring giving it an
+
+ability to manipulate the energy
+
+and      form  of   plant  life,
+
+particularly wood.  When we
+
+arrived in the Firelands, we were
+
+shocked to find actual draconic
+
+beings resembling the great
+
+Azure Dragon of legend.
+
+Like     its   ancestral   spirit
+
+namesake, the seiryuu dragons
+
+of the Firelands have exhibited
+
+mystic abilities. They have been
+
+known to call forth rain storms
+
+to elude pursuers or thicken
+
+bamboo stalks to impede a
+
+violent creature. Being in touch with the spiritual realm, they can speak
+
+with kami and have a particular disdain for horrors or any other creature
+
+they see as an affront to the natural order.
+
+Seiryuu are sapient, exceptional judges of character, and not aggressive by
+
+nature. To befriend one is a sign of great honor to a Firelander, their family,
+
+and their whole clan. The most powerful seiryuu can also form a mystic
+
+bond with a person thereby allowing them to communicate mentally.
+
+Design Notes: The first ability is intentionally vague so as to leave you
+
+narrative room when using your dragon's mystic ability. Notice that the
+
+language says "request" instead of "command" because having a dragon
+
+companion is more of a relationship between equals.
+
+The second ability is about using your azure dragon as proof that the old
+
+ways still have power. Your connection to the dragon denotes a connection
+
+to the world of kami (spiritual beings) and is a powerful symbol of the
+
+honor you hold.
+
+The third ability is a divine strike more successful against villainous foes.
+
+Would your dragon refuse to Strike an honorable foe? You decide.
+
+Quest: A rare seiryuu was captured by a cruel daimyo who forces it to fight
+
+others in an arena for entertainment after the dragon spurned becoming
+
+the diamyo's companion. Why is saving this majestic beast a particular
+
+point of pride for your family or clan?
+
+IRONSMITH: FLAVOR PACKS                                                          20
+    PATHS
+
+    Path assets in the Firelands often are associated with a specific teacher or
+
+    school. When you take one of these assets, also envision how your
+
+    character learned these techniques, who their teacher was, and the current
+
+    circumstances of the school or teacher.
+
+    BUSHIDO
+
+    The path of the Bushido is not an
+
+    easy one.      Firelanders who
+
+    commit themselves to this life
+
+    know that their word and their
+
+    honor must guide all their
+
+    decisions, great and small.
+
+    While    most  Bushido            are
+
+    excellent warriors, the heart of
+
+    their training is the philosophy
+
+    and discipline necessary to live a
+
+    life bound by a code of honor.
+
+    Some Bushido take up the
+
+    lifestyle of traveling monks
+
+    doing what good they can while
+
+    others start their own schools for
+
+    correcting and training the
+
+    wayward    youths             of  the
+
+    Firelands. The Bushido don't
+
+    need powerful weapons to win
+
+    physical battles. Instead, they
+
+    first win the battle for the heart.
+
+    Design Notes: The first ability is very similar to the Honorbound asset in
+
+    the Ironsworn core rules, but this balances truth with compassion. There
+
+    is also the nuance of a weak hit allowing a way for mild offense to be taken,
+
+    usually unintentionally due to the complexities and variety of traditions
+
+    throughout the Firelands.
+
+    The second ability is when you face a nearly impossible situation because
+
+    it is the right thing to do. To borrow from superhero tropes, it's when the
+
+    Flash sees the black hole knowing he can't run fast enough to reverse it but
+
+    still says, "I have to try."
+
+    The third ability is you digging deep within yourself for that extra source
+
+    of strength when attempting to fulfill a vow. What counts as "in direct
+
+    pursuit" is intentionally vague so that you can define it in the narrative.
+
+    Quest: A beloved Bushido monk has gone missing, and a handful of new
+
+    students at the school are suspected of foul play. Why do you have a
+
+    personal stake in finding the truth of the matter?
+
+21                 THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+MASAMUNE
+
+The art of forging the finest
+
+blades is a highly esteemed and
+
+competitive occupation. In the
+
+Old World, none was more
+
+famous for his exquisite blades
+
+than    Masamune.  In    the
+
+Firelands, his name is attached
+
+to those who choose the path of
+
+the forge to enhance their
+
+combat prowess, success, and
+
+honor.
+
+Design Notes: Tiny writing.
+
+Sorry! The first ability is similar
+
+to the Wright ability, but since it
+
+is narrowed down to only
+
+blades, it also gives you a bonus
+
+to Sojourn.
+
+The second ability allows you to
+
+permanently enhance a blade
+
+with a bonus when it uses Strike.
+
+Whether or not you're able to enhance a blade with multiple of these
+
+bonuses is up to you in your fiction, but that's what I planned to do with my
+
+story using this asset. I want to call special attention to the third option of
+
+being named. I picture the +1 momentum as the blade gaining more
+
+renown as it is used more successfully. I hope that leads to cool RPscenes!
+
+The third ability, which must be taken last, gives your blade some imbued
+
+mystical power. First, you can forge this weapon to take down a specific
+
+foe not a category or type of foe. In other words, you can't forge a blade
+
+to work against all horrors or all wolves. It would have to be forged with
+
+a specific horror, like the banshee haunting Eagle's Ford, or a specific wolf,
+
+like the dire wolf of the Haunted Forest of Kaizuki.
+
+Alternately, the third ability allows you to create a rarity. For the full rules
+
+on rarities, you'll need to have Ironsworn: Delve, but it's a great
+
+supplement well worth the investment. The power you imbue the blade
+
+with is up to you. It might be a flame blade, a blade of divine light, or even
+
+a blade that glows blue in the presence of orcs.
+
+Quest: A family claims to have had a true Masamune blade that survived
+
+the passage from the Old World and was passed down through the
+
+generations. However, that blade has now been stolen, and the family is
+
+seeking assistance in tracking down the thief to recover the priceless
+
+heirloom. What makes you think that all is not as it seems here?
+
+IRONSMITH: FLAVOR PACKS                                                           22
+    NINJUTSU
+
+    Those who practice the art of
+
+    ninjutsu are skilled at deceit and
+
+    misdirection      making  them
+
+    master    spies.  While   the
+
+    Firelander mytthos of the ninja
+
+    are black-robed assassins, the
+
+    true practitioners of ninjutsu are
+
+    much more subtle. They know
+
+    how to be so bland, nondescript
+
+    and unassuming as to go
+
+    unnoticed. They blend into the
+
+    background as unimportant and
+
+    insignificant, hence their great
+
+    power.
+
+    Design Notes:The first ability is
+
+    much like the second ability on
+
+    the Infiltrator asset in the
+
+    Ironsworn core rules except only
+
+    about     spying  to      Gather
+
+    Information. This represents the
+
+    ninja ability to go unnoticed
+
+    while performing recon.
+
+    The second ability is all about the intelligent application of misdirection.
+
+    You can hide in plain sight, pass yourself off as a nobody, make a
+
+    seemingly impossible getaway, or even start a chaotic mob by making sure
+
+    that people see what you want them to see and not notice your actions.
+
+    The third ability represents one of the main tenets of the mindset of those
+
+    who practice ninjutsu: learning from mistakes. When in cloak and dagger
+
+    type situations, there is usually little margin for error. Therefore, if
+
+    mistakes are made and survived, it is vital to reflect and learn. I hope this
+
+    is an incentive to have some character growth in your stories.
+
+    Quest: A harsh but fair shogun has a mole. While the people fear their
+
+    shogun, they fear outsiders even more, and now outsider "liberators" are
+
+    causing problems by intercepting supplies or patrols. The shogun will
+
+    bestow great honor upon the one who ferrets out the infiltrator as the
+
+    "liberators" have shown themselves to be violent at times. Which side is
+
+    in the right, and can the conflict be ended without further bloodshed?
+
+23                    THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+RITUALS
+
+Ritual magic and mysticism in the Firelands has the trappings of elaborate
+
+ceremony and tradition. Enacting a ritual is as much about performance as
+
+it is about purpose. It is widely believed that the kami empower rituals and
+
+that if the specific details of a ritual are not followed precisely, the kami
+
+will bring about a more mischievous or even disastrous effect.
+
+CHIKARA KOTOBA
+
+Some of the Firelander mystics
+
+have mastered the technique of
+
+channeling their kiryoku, or
+
+inner strength, with a ceremony
+
+of deep meditation and resonant
+
+chanting. This ability and those
+
+who use it are universally looked
+
+upon with favor.
+
+Design Notes: For each ability,
+
+it takes time (purposefully
+
+vague) for the ceremonial chants
+
+to be performed. The first chant
+
+brings out the healing power of
+
+mind over body. If you prefer,
+
+as a variant you may use this to
+
+heal  an  ally,   friend,  or
+
+companion. My thought was the
+
+time component would prevent
+
+players from spamming the heal.
+
+The second ability is like meditating and clearing your thoughts to
+
+understand a situation better. Much like Gandalf taking a break in the
+
+Mines of Moria before finally noticing the difference in the smell of the air
+
+to point the fellowship in the right direction.
+
+To have the third ability used as a blessing to a community is considered
+
+an extreme honor. It is a declaration of honest friendship and pure
+
+intentions on the part of the mystic and a reciprocal opening of hearts on
+
+the part of the community. None would dare undertake this ritual in jest.
+
+Quest: A grandparent-like monk was sought out for advice on building
+
+peaceful relationships between several small settlements.       The monk
+
+entered into a Chant of Clarity and has not emerged from their meditative
+
+state in several days. The monk still breathes every few minutes, but many
+
+believe the monk's spirit is traveling on an ethereal plane and got lost while
+
+searching for answers. Is there a way to bring this venerated monk back
+
+to the real world, and why did their spirit linger so long in the other realm?
+
+IRONSMITH: FLAVOR PACKS                                                         24
+    HI MAGARU
+
+    The firebenders have an innate,
+
+    spiritual connection to the very
+
+    essence of fire. They can mold it
+
+    and shape it in the same way a
+
+    blacksmith lovingly crafts a
+
+    blade. For a blade is definitely
+
+    what the firebenders wield, a
+
+    weapon of flame.
+
+    It is rumored that there are other
+
+    elemental benders out in the
+
+    wilds of the Firelands. Each one
+
+    of the waterbenders, airbenders,
+
+    and  earthbenders.have   been
+
+    reported at one time or another,
+
+    but only time will tell if they are
+
+    truly part of this world as much
+
+    as the fires that make up the
+
+    heart of the Firelands.
+
+    Design Notes: The first ability
+
+    lets you bring in the essence of
+
+    fire into yourself and powers your Strike. Note that it does 3 harm, more
+
+    than a typical deadly weapon, but it is limited by the amount of energy you
+
+    draw into yourself when you first utilize this ritual.
+
+    The second ability adds Clash to your arsenal, but again it's limited by the
+
+    amount of energy you have. Also, both abilities roll using +energy, so the
+
+    more you use it, the less likely it is to work. If you miss using either of
+
+    these abilities, it may make sense to take some harm yourself which can be
+
+    another balancing tool at your disposal.
+
+    The third ability lets you conjure fire from nothing. Hence, the large -2
+
+    energy cost instead of only a -1. The way this fire is used to Secure an
+
+    Advantage or Face Danger is left intentionally vague. It could be a flash
+
+    of fire that distracts or momentarily blinds foes, a thin shield of heat to
+
+    shelter from a blizzard, or a small fire that burns through the rope to launch
+
+    you from a catapult to escape the walled city of the shogun who wants you
+
+    dead. The possibilities are endless.
+
+    Quest: A cult has sprung up around a supposed waterbender with the goal
+
+    of dousing all the fires powering the volcanoes of the Firelands. While this
+
+    seems a ludicrous undertaking, a small volcano in the southern Geppu
+
+    Kyojin was just extinguished causing great earthquakes and flurries of
+
+    frozen ash that blot out the sun. Can this cult be stopped? What is their
+
+    ultimate purpose for deactivating volcanoes?
+
+25                    THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+KAMI SASAYAKU
+
+Kami whisperers are held in
+
+both honor and fear.        Honor
+
+because they can communicate
+
+with the divine spirits but fear
+
+because those communications
+
+do not always go so well. The
+
+kami can be fickle and at times
+
+seem to provide guidance or
+
+mischief randomly. The wise
+
+kami whisperers endeavor to
+
+learn all they can about the
+
+spirits in a region before
+
+attempting communication in an
+
+effort to pacify their whims and
+
+honor their willingness to speak
+
+with mere mortals.
+
+Design Note: I envision the
+
+kami of the Firelands more as
+
+divine spirits than as the gods of
+
+the Shinto religion. Please be
+
+respectful of your players using
+
+this asset as their vision may not  be  the  same.
+
+The first ability is meant as a way for mystics to recharge their energy
+
+through communion with the kami. As a kami whisperer, just being in their
+
+presence brings some comfort. My intention was that this could be not
+
+repeated over and over again in the same region as that would anger the
+
+kami for wasting their time.
+
+The second ability allows a deeper communication rather than just basking
+
+in the presence of kami. Vital information can be gleaned from a kami
+
+spirit, but it can be difficult to interpret at times. A spirit of the air may
+
+communicate quickly with emotion and color rather than words while a
+
+spirit of the earth may not understand the concept of time. While useful,
+
+the potential for misunderstanding this communication is always a danger
+
+that kami whisperers risk.
+
+The third ability is like having a personal guide through a region, but again,
+
+that guide may not think the way Firelanders do. For example, a water
+
+spirit may expect you to cross a river of raging rapids the same way that
+
+they do by merely walking atop the waves.
+
+Quest: The kami in a nearby region were always venerated and had a
+
+positive symbiotic relationship with the people. However, the kami are now
+
+becoming weaker and weaker and can't explain why. What has happened
+
+to the kami, and can it be reversed?
+
+IRONSMITH: FLAVOR PACKS                                                         26
+    NEW FOES
+
+    The foes of the Firelands are as varied as the cultures of the Firelands. You
+
+    may find yourself pitted against animals, beasts, horrors, and even other
+
+    Firelanders. Steel yourself, for these foes lack not for strength or wit.
+
+    As mentioned earlier, these foes were taken from many different time
+
+    periods of myths in Japanese history. As such, they normally would not all
+
+    be found together, but I've endeavored to make them all fit into the world
+
+    of the Firelands coherently.
+
+    Additionally, these foes are not the exact same as their namesakes, but that
+
+    was the starting place for creating a foe that fit the Ironsworn system and
+
+    Firelands setting. For example, some foes take their name from yokai or
+
+    other more powerful beings but have been adjusted into fantasy animals or
+
+    beasts to round out the types of foes you can encounter.
+
+27            THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+BYAKKO                                                         ANIMAL
+
+Rank:     Formidable (1 progress per harm; inflicts 3 harm)
+
+          ·  White or gray, striped coat
+
+Features: ·  Agility and speed
+
+          ·  Mark of the king on their forehead
+
+          ·  Hunt
+
+Drives:   ·  Mate
+
+          ·  Roam their territory
+
+          ·  Silently stalk prey from within the gray grasses
+
+Tactics:  ·  Pounce, bite, and rend
+
+          ·  Make a show of dominance
+
+The gray tigers of the Hai No Kawa grasslands are said to be descended
+
+from the Great White Tiger, Byakko himself. As such, we have taken to
+
+calling them by that name and give these tigers the respect they deserve and
+
+demand with their deadly skills.
+
+The tigers make their dens in sink holes or ancient lava tubes within the
+
+ground. Sometimes the tigers need not hunt because their prey falls into
+
+their den by taking a careless step forward without checking the ground
+
+ahead first. You have heard the phrase, "Look before you leap," but in the
+
+Hai No Kawa we say, "Search before you step."
+
+The byakko have superb senses of sight, smell, and hearing that allow them
+
+to pinpoint prey within the grasses ahead. They then leap forward and
+
+pounce atop the back of their prey in an effort to snap their neck. If that
+
+doesn't lead to an instant kill, they bite the prey on the neck to hold them
+
+in place while their sharp claws rake and rend.
+
+Quest: A strange shaman with a byakko cloak claims to be able to traverse
+
+the Hai No Kawa without being accosted by the tigers. Wherever the
+
+shaman goes, the byakko are mysteriously absent. How did the shaman
+
+come by such knowledge, and where do you need the shaman to take you
+
+that no one else has been able to find?
+
+YOUR TRUTH
+
+Do the byakko tigers have any supernatural abilities that were
+
+passed on to them by the Great White Tiger? If so, what are
+
+they?
+
+IRONSMITH: FLAVOR PACKS                                                       28
+    ISONADE                                                             ANIMAL
+
+    Rank:     Dangerous (2 progress per harm; inflicts 2         harm)
+
+              ·  Large shark with hooked tail
+
+    Features: ·  Serrated teeth
+
+              ·  Impossibly fast
+
+    Drives:   ·  Hunt
+
+              ·  Follow storms
+
+              ·  Drag prey underwater with tail hooks
+
+    Tactics:  ·  Bite
+
+              ·  Cut small boats in half
+
+    Crossing the sea from the Old World to the Firelands was a battle we
+
+    thought unwinnable. The distance we needed to sail was unknown, fresh
+
+    water and food supplies were scant, and we were hunted by the isonade.
+
+    The isonade are sharks nearly the size of a longboat whose tail is covered
+
+    with several bony hooks with barbed ends. They use the hooks to snag
+
+    their prey and drag them underwater rapidly changing depths so that the
+
+    prey passes out. Once they free their prey from their tails, they feast with
+
+    a frenzy so that no other fish can benefit from their kill.
+
+    During our crossing, the isonade would lash their tails over the sides of the
+
+    ship to hook us and drag us from our vessels. Failing that, two would work
+
+    in concert to latch their tails onto the side of our ships and split the bow in
+
+    twain. As a whole ship would begin floundering, we could do nothing but
+
+    watch and listen in horror as our family and friends were silenced one by
+
+    one. It is said that the isonade developed a taste for our blood those long
+
+    years ago and can now smell us when travel the seas.
+
+    Quest: Within the Chisana Hi roams a legendary isonade known as the
+
+    Hari Ken, the Hooked Sword. It has grown cartilage like a suit of armor
+
+    and threatens all trade and travel in the area. Can this beast be stopped?
+
+    YOUR TRUTH
+
+    The isonade travel and attack most often during violent storms
+
+    at sea. Do they hold some power to control or call the storms,
+
+    or are they merely instinctively following the storms?
+
+29               THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+KAMAITACHI                                                         ANIMAL
+
+Rank:      Troublesome (3 progress per harm; inflicts  1  harm)
+
+           ·  Large weasel-like body
+
+Features: ·   Bladed paws
+
+           ·  Numbing agent on blades
+
+           ·  Attacks males of other species
+
+Drives:    ·  Forage for food
+
+           ·  Defend territory
+
+           ·  Ride on whirlwinds
+
+Tactics:   ·  Knockdown and rake
+
+           ·  Slash ankles to numb feet of victim
+
+Upon arriving in the Firelands, one of the first creatures we noticed was the
+
+kamaitachi, an usual weasel with bony blades instead of paws. These
+
+creatures run circles around their prey slashing as they go. The blades have
+
+a secretion on them that act as a numbing or paralyzing agent that is
+
+particularly effective against the small to medium animals that the
+
+carnivorous creatures hunt.
+
+When they attack, kamaitachi have been known to move so fast as to stir
+
+up tiny dust devils which is where the story of riding on whirlwinds came
+
+from. As far as we can tell, they hold no true mystical power over the air,
+
+but they can propel themselves at great speed and even spin their bodies
+
+about balancing on one blade while slashing with the other three.
+
+The creatures are also very territorial particularly when it comes to mating.
+
+The male kamaitachi are known to attack males of almost any other
+
+mammalian species including Firelanders.
+
+Quest: A storied ronin is hunting kamaitachi to create tekko-kagi claws
+
+from their blades, but the locals know that the creatures are merely part of
+
+the ecosystem and don't want to offend the kami or stir up any yokai. Can
+
+the ronin's quest be stopped in a manner that is agreeable to all sides?
+
+YOUR TRUTH
+
+Are kamaitachi supernatural creatures or animals of unusual
+
+heritage?
+
+IRONSMITH: FLAVOR PACKS                                                        30
+    JOROGUMO                                                             BEAST
+
+    Rank:          Dangerous (2 progress per harm; inflicts 2 harm)
+
+                   ·  Giant spiders who begin prowling at 400 years old
+
+    Features: ·       Can mimic human sounds with human-like face
+
+                   ·  Orb weaver with large spiraling webs
+
+                   ·  Gorge themselves on prey
+
+    Drives:        ·  Stay hidden unless necessary
+
+                   ·  Build larger and larger webs for better hunting
+
+                   ·  Cry out for help to lure in prey
+
+    Tactics:       ·  Release a blood-curdling scream
+
+                   ·  Trap in web and bite with poison
+
+    The jorogumo spiders are as large as harrow spiders but much stranger. As
+
+    near as we can tell, the first several hundred years of a jorogumo's life is
+
+    spent inside a cocoon webbed so tightly that it may as well be armor of the
+
+    thickest iron, but somehow it keeps expanding. Once the giant spiders
+
+    break free, their abdomens are warped and twisted with age, their heads
+
+    have the look of a maiden's head only misshapen, and their chelicerea
+
+    (fangs) begin rubbing together making the scream of a demon.
+
+    As these spiders gain more experience outside of their cocoons, they can
+
+    rub their fangs in such a way as to mimic basic sounds. Many miners have
+
+    lost their lives delving to find what sounds like a lost comrade only to come
+
+    face to face with a jorogumo.
+
+    Once they escape the deep places of the world, they move into thick woods
+
+    and spin web after web in huge spiral patterns. Some of the largest webs
+
+    when viewed from a distant hilltop resemble a giant sea shell spiraling ever
+
+    outward.
+
+    Quest: An ancient jorogumo has taken a great warrior captive but is not
+
+    feasting on the flesh. Instead, the warriors screams and cries for help can
+
+    be heard for miles. The speech is too intelligible to be the spider mimicking
+
+    the sounds. Who is this warrior to you, and why would you risk your life
+
+    to save them?
+
+    YOUR TRUTH
+
+    Some say the first jorogumo was truly a woman cursed by a
+
+    powerful mystic. Who believes this is true and what are they
+
+    doing to try to reverse the curse?
+
+31                    THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+NURE       ONNA                                                    BEAST
+
+Rank:      Dangerous (2 progress per harm; inflicts 2 harm)
+
+           ·  Giant snake with the girth of a human
+
+Features:  ·  Feminine human-like face
+
+           ·  Arm-like appendages just below the jaw
+
+           ·  Feast on human flesh
+
+Drives:    ·  Defend its territory
+
+           ·  Sun on giant rocks
+
+           ·  Surprise strike from hiding
+
+Tactics:   ·  Blend in with driftwood
+
+           ·  Paralyzing bite
+
+On the coasts of Kokuyoseki No Ha, vampiric sea serpents lie in wait
+
+among the obsidian shards for unsuspecting Firelanders to feast upon. But
+
+these aren't normal sea serpents. Like the jorogumo, these creatures have
+
+a vaguely feminine humanoid face, but their mouth is lined with fangs that
+
+they use to drain the blood from victims.
+
+Worse yet there are two varieties of nure onna, and the second kind has
+
+fledgling arm-like appendages just below its jaw that it uses to hold down
+
+its prey. Both varieties have muddy brown colored scales and are excellent
+
+swimmers.
+
+Quest: The merchant ship Hi Uku was shipwrecked on one of the Chisana
+
+Hi islands, and the vessel carried the local daimyo's spouse as well as
+
+goods needed for survival. Unfortunately, the vessel ran aground in an
+
+area known to be infested with nure onna. If the passengers survived the
+
+sea snakes, the volcano would be the next immediate danger. Who or what
+
+else was on the ship that makes you want to help with the rescue?
+
+YOUR TRUTH
+
+Are the nure onna faces truly human?       If so, how did this
+
+amalgamation of a beast come about?
+
+IRONSMITH: FLAVOR PACKS                                                     32
+    KAPPA                                                       FIRSTBORN
+
+    Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
+
+              ·         Turtle-like humanoid
+
+    Features: ·         Short and scaly with beak mouths
+
+              ·         Indentation on top of their heads that holds magic water
+
+              ·         Trap souls in gems
+
+    Drives:   ·         Drink the blood of victims
+
+              ·         Eat cucumbers
+
+              ·         Drown victims underwater
+
+    Tactics:  ·         Pounce and claw
+
+              ·         Retreat from powerful foes
+
+    The people known as the Kappa are reptilian humanoids with a penchant
+
+    for mischief and murder. They live in bogs and swamps using the
+
+    landscape to their advantage when hunting Firelanders. Their claws are
+
+    sharp as well as their beaks making them fierce fighters, particularly when
+
+    they are cornered.
+
+    The Kappa also have some innate waterbending powers that we think
+
+    stems from the water inside the depression at the top of their skull. Once
+
+    they have drained blood from a victim, they then use a dark ritual to force
+
+    the person's soul into a tiny gem that they let soak in their head water.
+
+    There are three ways to defeat the Kappa. First, travel in large groups as
+
+    they readily retreat from a battle they know they will lose. Second, trick
+
+    them into dumping out the water on their head causing them to freeze in
+
+    place until the water naturally refills. Third, believe it or not, throw them
+
+    a cucumber. They can't resist them.
+
+    Quest: A survivor of a Kappa attack was found with only minimal amounts
+
+    of blood drained, but they are completely unresponsive leading the local
+
+    mystic to believe their soul has already been trapped inside the Kappa's
+
+    gem. Who is this person to you that you would undertake the quest to find
+
+    their soul and return it to their body?
+
+    YOUR TRUTH
+
+    Do the Kappa live in large communities, or are they a solitary
+
+    people?
+
+    What do the Kappa use their soul gems for?
+
+33                      THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+KITSUNE                                                     FIRSTBORN
+
+Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
+
+          ·  Fox-like humanoid
+
+Features: ·  Up to nine tails
+
+          ·  Clever, magical shapechangers
+
+          ·  Act as a messenger of primordial gods
+
+Drives:   ·  Play clever tricks
+
+          ·  Protect the plains and woods
+
+          ·  Run away in fox form
+
+Tactics:  ·  Use tails in battle
+
+          ·  Trip and pounce
+
+Running into the Kitsune people is considered a sign of good fortune.
+
+They rarely involve themselves in the affairs of Firelanders unless we
+
+threaten their homelands in some way. More often we encounter them as
+
+we find ourselves the object of their practical jokes. They are not malicious
+
+in any way, but they do enjoy a good laugh at someone else's expense.
+
+The Kitsune also have the ability to change shape from their humanoid
+
+form to a fully fox form. We believe there is a correlation between how
+
+many tails they have and how powerful their magic is. Not only do their
+
+tails tie into their magic, but they also use them when fighting in their
+
+humanoid form to pummel and confuse their foe.
+
+We don't know much about the religion of the Kitsune people other than to
+
+know that they take it very seriously. There is a deep spiritual connection
+
+between the Kitsune and the plains and woods of the Firelands. Stories
+
+abound of Firelanders catching fleeting glimpses of elaborate Kitsune
+
+ceremonies before they fall asleep as if by magic. And magic it surely is
+
+because every witness also claims to see the Kitsune's tails begin dancing
+
+in arcane gestures before they fall asleep.
+
+Quest: A Kitsune stood outside of a local settlement and demanded the
+
+Firelanders stop planting so many crops as it was ruining the land. They
+
+were reasonable knowing that the people need food, but insisted the farms
+
+be scaled back. Why is brokering a peaceful solution here so important?
+
+YOUR TRUTH
+
+Do the Kitsune grow more tails as they age, as they gain
+
+magical power, or are they born with a specific number of tails
+
+that never changes?
+
+Why is nine the maximum? What does the number represent?
+
+IRONSMITH: FLAVOR PACKS                                                        34
+    KODAMA                                                          FIRSTBORN
+
+    Rank:     Troublesome (3 progress per harm;  inflicts  1  harm)
+
+              ·  Primordial tree spirit
+
+    Features: ·  Appear as ghostly lights
+
+              ·  Act mostly on instinct
+
+              ·  Protect specific trees
+
+    Drives:   ·  Observe nature at work
+
+              ·  Drive out non-Firstborn
+
+              ·  Lead travelers astray
+
+    Tactics:  ·  Overwhelm with sadness
+
+              ·  Cannot be physically attacked
+
+    If the Kodama truly are a people, they are unlike anything we've seen
+
+    before. They primarily manifest as ghostly lights flickering in the distance
+
+    to lead Firelanders away from their sacred spaces, but at times they
+
+    manifest as vaguely humanoid with cloudy ovals for body and head along
+
+    with cylindrical appendages.
+
+    Our mystics have worked in concert with druids to divine what they can
+
+    about the Kodama, and they believe the Kodama are either non-sentient or
+
+    have some sort of collective consciousness shared between them. At first
+
+    we thought they protected all the deep forests of the Firelands, but it seems
+
+    more likely that they protect specific trees or groves. However, we don't
+
+    know how they are assigned those trees or if they choose them.
+
+    Travelers who have refused to follow the ghostly lights away from sacred
+
+    spaces are quickly surrounded by the Kodama who then manifest more
+
+    fully. In the presence of these more fully formed Kodama, our people
+
+    report feeling overwhelming sadness and grief to the point that they
+
+    willingly flee the area.
+
+    Quest: A woodsperson from a local settlement went missing nearly a week
+
+    ago and was just spotted in the middle of a ring of Kodama at the bottom
+
+    of large hollow. The woodsperson is still alive but writhing and moaning
+
+    in pain and grief. What relationship does this woodsperson have with one
+
+    of your allies, friends, or companions that you are willing to attempt the
+
+    quest to save them?
+
+    YOUR TRUTH
+
+    Are the Kodama sentient?      If so, is it an individual sentience or
+
+    a collective one?
+
+35               THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+TANUKI                                                   FIRSTBORN
+
+Rank:     Dangerous (2 progress per harm; inflicts    2  harm)
+
+          ·  Raccoon dog humanoids
+
+Features: ·  Can elongate appendages
+
+          ·  Tricksters and shapeshifters
+
+          ·  Cause mischief
+
+Drives:   ·  Enjoy a life of relative plenty
+
+          ·  Jokes at the expense of others
+
+          ·  Claw and bite
+
+Tactics:  ·  Enlarge body parts to smother foe
+
+          ·  Double hanbo strike
+
+At first glance, the Tanuki people are similar to the Kitsune. From our
+
+perspective, they are both animal-type people, they both can shapechange,
+
+and they both love jokes. However, where the Kitsune have a positive
+
+connotation, the Tanuki have a negative one. Without a guiding principle
+
+like the Kitsune's religion, the Tanuki people have a society based more
+
+around greed, gluttony, and guffaws.
+
+The Tanuki also don't really shapechange but shapeshift. They can
+
+elongate, or shift, their body parts like great sails of ships unfurling.
+
+Perhaps as a consequence of their society or perhaps a consequence of
+
+biology, the male Tanuki favor enlarging their scrotums to smother and
+
+suffocate their foes. Needless to say, this is a humiliating way to die and
+
+brings dishonor on the whole family and clan.
+
+While their preference is to use their shapeshifting abilities, when faced
+
+with a truly formidable foe, mostTanuki are skilled in the use of the hanbo,
+
+a small wooden shaft slightly longer than a Firelanders forearm. Their
+
+favorite victory celebration is drumming on the buttocks of a defeated foe.
+
+Again, they enjoy bringing shame to others.
+
+Quest: A group of Tanuki were floating down river on a boat of their own
+
+elongated body part when they decided to enlarge their body parts even
+
+more to block the path of the river. Now the water flows toward a low-lying
+
+settlement. Can the river be restored to its normal course before its too
+
+late? Who do you know that lives in this settlement?
+
+YOUR TRUTH
+
+What is the relationship between the Tanuki and the Kitsune
+
+like? Apathetic? Oppositional? Affable?
+
+IRONSMITH: FLAVOR PACKS                                                       36
+    TENGU                                                              FIRSTBORN
+
+    Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
+
+              ·  Avian humanoid
+
+    Features: ·  Long red nose
+
+              ·  Corvid feathering (crow, raven, jay) over red skin
+
+              ·  Protect the mountains
+
+    Drives:   ·  Collect trinkets and treasure
+
+              ·  Keep outsiders away
+
+              ·  Clawed attacks from above
+
+    Tactics:  ·  Drop rocks on victims
+
+              ·  Flock together to overwhelm
+
+    The Tengu people are avian in nature, but their bodies are not covered
+
+    entirely in feathers. If it weren't for their red skin, wings, and comically
+
+    long noses that may be an evolution from a beak, they could almost pass as
+
+    a Firelander. Their feathering comes down from the top of their head to the
+
+    back of their neck and shoulders before joining with their wings.
+
+    Tengu are an ancient people who see it as their sacred duty to protect the
+
+    mountains. As such, they dwell mainly in the Geppu Kyojin region and
+
+    very much frown upon outsiders. They view us Firelanders as invaders and
+
+    usurpers to the natural order. Miners and travelers are often met with a hail
+
+    of arrows or rocks from above rather than a cordial greeting.
+
+    One weakness or point of negotiation we can use with the Tengu is their
+
+    love of treasure. Their self-imposed exile to the mountains limits their
+
+    resources, so trade goods or items from the southern reaches of the
+
+    Firelands are desirable gifts for them.
+
+    Quest: A group of Tengu warriors have disrupted a mining camp just as
+
+    they struck a vein of the precious nie iron. Is there any way to negotiate a
+
+    truce, even if temporary, to be able to access the valuable ore?
+
+    YOUR TRUTH
+
+    Are the Tengu truly avian in nature, or are do they have more
+
+    demonic origins?
+
+37               THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+ONI                                                       FIRSTBORN
+
+Rank:      Formidable (1 progress per harm;  inflicts  3  harm)
+
+           ·  Red skin and hulking body
+
+Features:  ·  Two horns and wild hair
+
+           ·  Wearing animal pelts
+
+           ·  Torment sinners
+
+Drives:    ·  Enact vicious schemes
+
+           ·  Act as mountain wardens
+
+           ·  Wield great iron clubs
+
+Tactics:   ·  Slash with sharp claws
+
+           ·  Bull rush using size
+
+The Oni may or may not be related to the Tengu as they both have red skin
+
+and protect the mountains, but the similarities stop there. Where the Tengu
+
+view protecting the mountains as a sacred duty, the Oni seem to
+
+accidentally protect mountain regions because they attack nearly anything
+
+that gets close to them.
+
+It said by our mystics that the Oni are either demons themselves or direct
+
+descendants of demons. Their towering size and immense strength are
+
+impressive enough, but some also have some rudimentary firebending
+
+magic skill that seems to be evidence of their connection to their demonic
+
+origins.
+
+A rampaging Oni is nearly a death sentence for a group of traveling
+
+Firelanders. They view all other life as subservient to them and even a
+
+version of heresy that needs punished. They believe the greatest good they
+
+can do is cause others to suffer.
+
+Quest: One particular Oni in a nearby region is calmer and more
+
+thoughtful than most. It does not attack randomly or without cause and
+
+seems to be guarding some hidden treasure in a mountainous cave. What
+
+item do you suspect to be in this cave system thought lost to time? Why are
+
+you willing to risk the Oni's wrath to get it? Is this Oni truly an Oni at all?
+
+YOUR TRUTH
+
+What ultimate goal do the Oni have? Which organization has
+
+dedicated themselves to stopping the Oni?
+
+IRONSMITH: FLAVOR PACKS                                                          38
+    HONE       ONNA                                                           HORROR
+
+    Rank:      Troublesome (3 progress per harm;          inflicts  1  harm)
+
+               ·  Skeletal remains of a lover
+
+    Features:  ·  Appears alive to former lover
+
+               ·  Carries a paper lantern
+
+               ·  Reunite with loved one
+
+    Drives:    ·  Kill competition for their love
+
+               ·  Vanity
+
+               ·  Life-draining kiss
+
+    Tactics:   ·  Scorch with ghostly lantern
+
+               ·  Disheartening glare
+
+    Perhaps one of the cruelest horrors of the Firelands is the hone onna. It is
+
+    said that when one of a pair of soulmates dies before their time, one year
+
+    from the date of their death they claw their way back out of the ground as
+
+    a hone onna. Their only thought is to be reunited with their lost loved one.
+
+    This story almost sounds heartwarming except that the hone onna are
+
+    decayed and desiccated remains that slowly drain the life from their former
+
+    lovers. Worse yet, the living soulmate sees the hone onna not as an
+
+    animated corpse but as the love they remember best. They willingly fall
+
+    into the arms of what they view as their loved one returned to them alive.
+
+    Then over the course of days or weeks, they are slowly drained of their life
+
+    and soul one kiss at a time.
+
+    The only reliable way to be rid of a hone onna is to wait for their soulmate
+
+    to die as well. However, that is not an acceptable solution, so we fight
+
+    when we find them, but the hone onna fight back with fire magic that stems
+
+    from their paper lanterns. Since they have physical bodies, a hone onna
+
+    can be destroyed, but the living soulmate is rarely thankful as they would
+
+    have preferred death in the arms of their loved one.
+
+    Quest: A daimyo's daughter has returned as a hone onna, but the daimyo
+
+    has forbidden anyone from striking the horror. The daimyo was disgraced
+
+    when his daughter absconded with a lowly peasant's son and would rather
+
+    see the son die than his daughter's ghostly remains harmed. The family of
+
+    the boy has put out a call for help. How do you know this family, and why
+
+    are you willing to help them?
+
+    YOUR TRUTH
+
+    Some remaining soulmates stand at their lover's grave on the
+
+    one year anniversary in hopes of dying when they return as a
+
+    hone onna. In what culture is this practice accepted?
+
+39                THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+NUPPEPPO                                                           HORROR
+
+Rank:     Troublesome (3 progress per harm; inflicts     1  harm)
+
+          ·  Blob creature that smells of death
+
+Features: ·  Giant face for a body with stubby legs
+
+          ·  If its flesh is eaten, it may cure disease
+
+          ·  Dance in graveyards and temples
+
+Drives:   ·  Absorb more flesh
+
+          ·  Wander and dance mindlessly
+
+          ·  Jump on and smother
+
+Tactics:  ·  Overwhelm with smell
+
+          ·  Melt into the ground
+
+Nuppeppo are in essence the left over fats and body fluids from the dead
+
+congealed into a bulbous body that resembles a giant face. They are gross
+
+and a mindless nuisance more than a true threat. If our mystics could
+
+discover how they are created, we would do what we could as a
+
+preventative measure much as we do with mice in the grain bin.
+
+Particularly when the moon is in a specific phase, nuppeppo will ooze forth
+
+from graves and congeal into bodies so that they may dance throughout the
+
+night and continue to grow as they absorb more and more organic material.
+
+We have taken to putting fences around our graveyards to keep the
+
+nuppeppo in while they frolic the night away.
+
+Some mystics believe that the "flesh" of a nuppeppo has curative
+
+properties, but few are willing to test this hypothesis. Of the many strange
+
+and horrible things in the Firelands, the nuppeppo are easy enough to
+
+ignore and so, often are.
+
+Quest: The site of a large battle has a mass grave that is now a place where
+
+several nuppeppo appear nightly. However, these nuppeppo are much
+
+more violent than normal. Someone you knew and cared about fell at this
+
+battle. What secret did they take with them to the grave that you hope to
+
+unravel by stopping these nuppeppo?
+
+YOUR TRUTH
+
+What causes some graveyards to have nuppeppo and others to
+
+not? Is there a difference in the way the people died or the way
+
+they were buried?
+
+IRONSMITH: FLAVOR PACKS                                                       40
+    NURIBOTOKE                                                       HORROR
+
+    Rank:         Formidable (1 progress per harm; inflicts 3 harm)
+
+                  ·  Human torso and head with catfish tail
+
+    Features: ·      Eyes dangling out of sockets
+
+                  ·  Chubby, bloated flesh that smells of death
+
+                  ·  Enter through thin places
+
+    Drives:       ·  Terrorize people
+
+                  ·  Give false prophesies
+
+                  ·  Project an aura of fear
+
+    Tactics:      ·  Wrestle and squeeze to death
+
+                  ·  Retreat to an ethereal realm
+
+    The first nuribotoke showed up in the region of the Obsidian Blades coast,
+
+    and we thought the near obsidian skin of these horrors was related to that.
+
+    Alas, we were wrong as the nuribotoke have been spotted throughout the
+
+    Firelands. They can enter the mortal realm through collective shrines left
+
+    unattended or open cabinets of personal shrines within a home.
+
+    The pungent odor is the first sign of the approaching nuribotoke usually
+
+    followed by whispers of dark prophecies meant to plague the minds of
+
+    Firelanders.     Once we are reduced to a pile of quivering fear, the
+
+    nuribotoke reveal themselves fully with dangling eyeballs and flabby skin
+
+    touching their scaly catfish tail. That's when they physically attack by
+
+    squeezing with the might of a giant python.
+
+    We don't know how nuribotoke are created nor their ultimate purpose, but
+
+    as physical horrors, they can be killed if their fear can be resisted.
+
+    However, once they see they may lose a fight, they begin frantically
+
+    looking for a way back to the realm from whence they came.
+
+    Quest: One particular shrine was cursed by a zealot to bring out
+
+    nuribotoke every night, but the mystic caretaker of the shrine was able to
+
+    enact a powerful counter ritual. As long as the shrine has at least a single
+
+    lit candle, the nuribotoke can't get through. A tornado just ripped through
+
+    the area, and the locals are afraid to check on the shrine. What else is
+
+    housed at this shrine that you need?
+
+    YOUR TRUTH
+
+    What circumstance creates a nuribotoke?
+
+41                   THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+OKIKU                                                          HORROR
+
+Rank:      Dangerous (2 progress per harm; inflicts  2  harm)
+
+           ·  Ghost of innocent murdered
+
+Features:  ·  Wailing of lack of guilt
+
+           ·  Uncontrollable sobbing
+
+           ·  Drive their killer mad
+
+Drives:    ·  Convince others of their innocence
+
+           ·  Torment other tormentors
+
+           ·  Induce madness
+
+Tactics:   ·  Phase through objects
+
+           ·  Ear-piercing blasts of sound
+
+When an innocent person is tormented and then killed, there is a chance
+
+that their spirit returns to the Firelands as a horror. The okiku horrors
+
+would be sympathetic for this reason except for their penchant for visiting
+
+torment on others. Usually an okiku will hunt down their own killer and
+
+visit madness upon them rather than kill them, but if the okiku thinks that
+
+anyone else they cross paths with is in any way guilty of causing pain, they
+
+are happy to visit torment upon them as well.
+
+In addition to the madness they can induce in others, they also can emit ear-
+
+shattering wails of their own grief. Often these cries are the first indication
+
+that an okiku is nearby.
+
+The ethereal form of an okiku cannot be touched with normal physical
+
+objects. They can phase through sword attacks as easily as they phase
+
+through walls. However, some of our mystics have found particular
+
+blessings that they can bestow upon weapons that for a time will allow a
+
+warrior to drive off okiku. Yes, drive off, for they cannot be killed. Only
+
+when they finish tormenting their own killer will the okiku fade from this
+
+world and finally find rest in the next.
+
+Quest: A particularly ruthless ronin has created a number of okiku
+
+throughout the years and always managed to stay a step ahead of them by
+
+roaming the Firelands far and wide. Unfortunately, the ronin was killed in
+
+a simple climbing accident, and now the okiku are furious that they have
+
+lost the object of their torment. Who do you know that may have a way to
+
+stop these okiku and put them to rest?
+
+YOUR TRUTH
+
+Is it true that the okiku tell their victims they will finish
+
+tormenting them after they count to ten? If so, why?
+
+IRONSMITH: FLAVOR PACKS                                                          42
+    ONRYO                                                           HORROR
+
+    Rank:      Formidable (1 progress per harm; inflicts  3  harm)
+
+               ·  Vengeful spirit that can't die
+
+    Features:  ·  Long, unkempt hair, blue skin
+
+               ·  Exudes feeling of fear
+
+               ·  Spread suffering
+
+    Drives:    ·  Harass the living
+
+               ·  Avenge their death for peace
+
+               ·  Cause disease with touch
+
+    Tactics:   ·  Disappear and reappear
+
+               ·  Frighten by looks alone
+
+    The onryo are very similar to the okiku in that they are both vengeful spirits
+
+    that spend their time harassing the living. However, the onryo are known
+
+    to spread disease rather than madness. Those inflicted by the onryo's touch
+
+    have little chance to live, and if they do survive, it will only be after many
+
+    nights of feverish nightmares.
+
+    Additionally, where the okiku silently glide, the onryo simply appear from
+
+    one place to the next. We don't know exactly how far an onryo can use this
+
+    teleportation ability, but it is not as far as one can see. Despite this
+
+    limitation, the fact that they can pop into existence directly behind
+
+    someone and touch them with the curse of disease make them nearly
+
+    impossible for a lone warrior to drive off.
+
+    Quest: A rare herb known as ryu ketsueki, dragon's blood, is thought to be
+
+    able to cure the onryo disease. However, this rare flower only blooms in
+
+    the discarded egg shells of azure dragons. Who do you know that is
+
+    suffering from the onryo sickness so that you are willing to undertake the
+
+    quest to find the dragon's blood flower?
+
+    YOUR TRUTH
+
+    The onryo are known to be able to frighten with their horrific
+
+    visage. Is this a function of their grotesque nature, or does
+
+    their face morph and change to prey upon individual fears?
+
+43                THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+TSUKUMOGAMI                                                         HORROR
+
+Rank:     Troublesome (3 progress per harm; inflicts  1      harm)
+
+          ·  100 year old sentient item
+
+Features: ·  Abused and discarded tool
+
+          ·  Vengeful to previous owner's family
+
+          ·  Avenge their abuse
+
+Drives:   ·  Free other similar items
+
+          ·  Drain life energy
+
+          ·  Pose as a normal item
+
+Tactics:  ·  Surprise attack
+
+          ·  Only attacks living, organic matter
+
+Also known the smith's bane, tsukumogami are any item that was treated
+
+with constant abuse and disrespect that then returns 100 years later to seek
+
+revenge on the descendants of its previous master. Whether or not these
+
+bloodthirsty items actually exist or not is a matter of debate, but no one can
+
+deny the peculiar circumstances of some deaths: a person who died falling
+
+on a hammer, one who died with a pair of rusted tongs in the eye, or
+
+another found with a horseshoe wrapped around their neck. Were these
+
+items come to life? Doubtful, but some still believe the stories.
+
+Quest: A fourth generation blacksmith is renowned for the quality of
+
+katana they make, but recently their blades have been snapping
+
+prematurely or detaching the tang from the handle. The smith claims that
+
+he is still using his great-grandmother's tools and that they are turning into
+
+tsukumogami. He seeks someone who can help him reverse the curse on
+
+his tools. While the story sounds outrageous, what special knowledge do
+
+you have that may lend some credence to this smith's story?
+
+YOUR TRUTH
+
+Are tsukumogami truly alive and sentient, or are they simply
+
+animated by another more malevolent spirit?
+
+IRONSMITH: FLAVOR PACKS                                                         44
+    KUCHISAKE                                              FIRELANDER
+
+    Rank:     Dangerous (2 progress per harm; inflicts  2  harm)
+
+              ·  Zealous, unhinged assassin
+
+    Features: ·  Self-mutilated face
+
+              ·  Bladed fans
+
+              ·  Serve their daimyo
+
+    Drives:   ·  Destroy the vain and beautiful
+
+              ·  Enjoy the pain of others
+
+              ·  Dance and slice with their fans
+
+    Tactics:  ·  Reveal their face for shock
+
+              ·  Seduce and kill
+
+    The very first kuchisake was a deranged serial killer, but she started a fad.
+
+    Some female assassins now follow in her footsteps by slitting their own
+
+    mouths out into wide and gruesome smiles and fanatically spouting the
+
+    hate of vanity and beauty that the original did.
+
+    While many viewed this as a psychological trauma that needed addressed,
+
+    some enterprising daimyo saw this as an opportunity. The daimyo took in
+
+    these fledgling copycats and trained them to be killing machines that they
+
+    could point in any direction they saw fit.
+
+    If a woman with a fan covering her jaw asks you, "Am I beautiful?", you
+
+    should run away. It is likely a kuchisake assassin on the way to a kill who
+
+    wants to use you as the warm-up act.
+
+    Quest: A kuchisake has been killing frequently in one of the largest
+
+    settlements, but none of the nearby daimyo or shogun are claiming control
+
+    of the assassin. Why do you need to find out who is responsible for
+
+    unleashing the killer?
+
+    YOUR TRUTH
+
+    Is the kuchisake merely a name given to these copycat killers,
+
+    or is there an actual organization or school of assassins behind
+
+    the fierce killers?
+
+45               THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+NINJA                                                          FIRELANDER
+
+Rank:           Dangerous (2 progress per harm;   inflicts  2  harm)
+
+                ·  Martial arts master
+
+Features:       ·  Stealthy, cunning, and swift
+
+                ·  Saboteur and spy
+
+                ·  Gather info for victory
+
+Drives:         ·  Fight the oppressors covertly
+
+                ·  Train in specialized schools
+
+                ·  Strike from shadows
+
+Tactics:        ·  Misdirection and subterfuge
+
+                ·  Deflect and redirect strikes
+
+Ninja are equally derided and lauded depending on who you speak with.
+
+Most samurai consider them to be without honor due to their willingness
+
+to deceive and work in the shadows, but the common people view them as
+
+folk heroes fighting against oppressive shogun in the only way they can.
+
+Whatever your view of the ninja, it is hard to dispute their effectiveness. A
+
+sole ninja can wage irregular warfare against a squad of samurai in such a
+
+way as to be a significant threat. They are masters at finding out valuable
+
+information and then using that information to their best advantage.
+
+Some claim that secretive schools of ninja exist where they learn varied
+
+skills based on their clan such as turning invisible, walking on water, or
+
+even bending the elements. However, no such school has ever been found.
+
+This much is true: if you are confronted by a ninja, you are already deep
+
+into intrigue whether you mean to be or not. Moreover, you're in grave
+
+danger because if the ninja is allowing you to see them, they are either
+
+desperate or the stakes are higher than you can imagine.
+
+Quest: A daimyo suspects an area deep within a thick forest to house a
+
+ninja school and wants it investigated. Why are you willing to seek out this
+
+school, and what connection do you have with this particular school if it
+
+exists at all?
+
+YOUR TRUTH
+
+What symbol has shown up with enough regularity to be
+
+considered the symbol of a ninja clan?
+
+IRONSMITH: FLAVOR PACKS                                                        46
+    SAMURAI                                                FIRELANDER
+
+    Rank:     Dangerous (2 progress per harm; inflicts  2  harm)
+
+              ·  Trained warrior
+
+    Features: ·  Weapon and armor expert
+
+              ·  Loyalty and honor above all
+
+              ·  Follow the daimyo's orders
+
+    Drives:   ·  Follow the way of Bushido
+
+              ·  Bring honor to their family and clan
+
+              ·  Draw the circle
+
+    Tactics:  ·  Blades of strongest iron
+
+              ·  Never run from a battle
+
+    The samurai are held in the highest respect in the Firelands. Unfortunately,
+
+    they are not always viewed positively as their code forces them to
+
+    obedience to their lord over their own judgments of right or wrong. At
+
+    times they are saviors, and at times they are executioners. While there are
+
+    some corrupt samurai, most are honorable but find that honor at times binds
+
+    too tightly, forcing their hand.
+
+    To become a samurai, one must train for years with a lord as their sponsor.
+
+    At the end of their training, they reaffirm their fealty and are gifted with a
+
+    suit of armor in the daimyo's motif. At that point, their word is nearly
+
+    equivalent to law in the daimyo's domain.
+
+    Quest: A samurai recently turned rogue against a corrupt daimyo. The
+
+    people love the samurai and are thankful to be rid of the daimyo, but the
+
+    samurai deeply feels their betrayal of their daimyo makes them no longer
+
+    worthy of life. The samurai has declared that once a new leader is
+
+    installed for the settlement, they will leave and rid the world of their own
+
+    presence. How do you know this samurai, and what would it take to
+
+    convince them of their purity and heroism?
+
+    YOUR TRUTH
+
+    What clan of samurai is known, respected, and fear throughout
+
+    the Firelands?
+
+47                  THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+SHIKI         ADEPT                                        FIRELANDER
+
+Rank:         Dangerous (2 progress per harm; inflicts  2  harm)
+
+              ·  Summon origami-like spirits
+
+Features:     ·  Shiki spirits serve their creator
+
+              ·  Spirits have no will
+
+              ·  Spy and steal
+
+Drives:       ·  Operate in secrecy
+
+              ·  Find sites of power
+
+              ·  Swarm of paper cranes
+
+Tactics:      ·  Death by a thousand cuts
+
+              ·  Bury in mounds of paper
+
+The shiki adepts are a strange group of mystics who hold power over
+
+mindless spirits that manifest themselves as constructs of a paper,
+
+parchment, or vellum-like material. They can direct these spirits at their
+
+whim to use as weapons or as spies.
+
+While the shiki adepts zealously guard the secrets of their magic, it is
+
+assumed that these spirits have some form of intelligence and
+
+communication ability since they can use them as spies. This has led to the
+
+practice of daimyos having no paper in their council rooms so that nothing
+
+can be gleaned by a shiki adept.
+
+No one knows the nature of the shiki spirits. Are they related to ancestral
+
+spirits? Are they primordial in nature? We do not know, but what we do
+
+know is that a shiki adept can be dangerous and is rarely guided by a code
+
+of honor. You have been warned.
+
+Quest: A daimyo's child always made paper cranes and other origami with
+
+great proficiency as they grew up. Now that they have reached the age of
+
+responsibility, they have been accused of being a shiki adept. The accused
+
+once said something to you that you can't forget and can't understand.
+
+What was it?
+
+YOUR TRUTH
+
+Is there a place where the shiki adepts are revered rather than
+
+feared? If so, why?
+
+IRONSMITH: FLAVOR PACKS                                                      48
+    YOKI MAGERU                                                          BEAST
+
+    Rank:     Dangerous (2 progress per harm; inflicts   2 harm)
+
+              ·  Ice and snow ritualist
+
+    Features: ·  Adept at reading weather
+
+              ·  Immune to cold
+
+              ·  Respect the power of nature
+
+    Drives:   ·  Find sites of power
+
+              ·  Adapt plants to cold weather
+
+              ·  Encase in blocks of ice
+
+    Tactics:  ·  Induce hypothermia
+
+              ·  Drive back foes with blizzard winds     and then        retreat
+
+    The yoki mageru are also called icebenders. While they don't have a
+
+    versatile enough control to be called waterbenders, they do have
+
+    unbelievable control and power over snow and ice. These mystics tend to
+
+    be academic in nature as they search for ever more mysterious magics and
+
+    powers.
+
+    Yoki mageru also have a deep respect for nature and seek to help all life
+
+    thrive in the cold. They are known to keep exotic plants and herbs that
+
+    grow on the slopes of volcanoes in their gardens where they experiment
+
+    and subject them to ice and cold in order to make them a hardier species.
+
+    They tend to focus on herbs that can be used medicinally so that the plants
+
+    can prosper in more areas.
+
+    Generally speaking, a yoki mageru is a good friend to have, but woe to
+
+    those that cross them. They can ice the fire out of any Firelander.
+
+    Quest: One yoki mageru is particularly obsessed with an herb known as
+
+    the flaming lotus. What special properties is this plant rumored to have,
+
+    and what reason do you have for getting some of it?
+
+    YOUR TRUTH
+
+    Are the yoki mageru always female? If so , why?
+
+49               THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+NEW ORACLES
+
+Most of the regular Ironsworn oracles will work well to use in the
+
+Firelands, but there are a couple of oracles worth adding to or making
+
+minor changes to.
+
+1. Region - Use the oracle provided here.
+
+2.  Location - Use both the regular Ironsworn oracle and the additional
+
+    one provided here by rolling your action die with the 2d10. If your
+
+    action die shows 1-3, use the regular Ironsworn oracle. If your
+
+    action die shows 4-6, use the oracle provided here.
+
+3. Coastal Water Location - Same as above.
+
+4.  Quick Settlement Name Generator - Use the oracle provided
+
+    here. The English meaning of each Japanese word is provided so
+
+    that you can combine the words for the settlement in either
+
+    language. (i.e. the town Washioka could also be called Eagle Hill)
+
+5.  Ironlander Names - Use the Firelander names provided here
+
+    which came from a list of common male and female names from the
+
+    Edo period of Japan.
+
+6.  Elf and Other Names - You may use Elf or Varou names to fit the
+
+    Kitsune, Tanuki, and others.  If you prefer more traditional
+
+    Japanese names, use the Firelander name oracles.
+
+No other oracles need adjusted (or at least were not worth changing just for
+
+a couple of extra words).
+
+IRONSMITH: FLAVOR PACKS                                                       50
+    Location
+
+    01        Watch Tower            37-38  Tar Pit
+
+    02        Ground Fissure         39-40  Farm House
+
+    03        Bonsai Nursery         41-42  Creek
+
+    04        Tea House              43-44  Half Wall
+
+    05        Pagado                 45-46  Defensive Wood Spikes
+
+    06        Boardwalk Over Water   47-48  Pahoehoe (Lava Crust)
+
+    07        Raised Floor Building  49-50  Aa (Jagged Lava Rubble)
+
+    08        Pit Dwelling House     51-52  Lava Lake
+
+    09        Grain Storehouse       53-54  Blocky Lava (Smooth Rocks)
+
+    10        Karesansui             55-56  Pillow Lava (Glassy Rocks)
+
+              (Zen Garden)
+
+    11        Temple                 57-58  Columnar Lava
+
+    12        Dojo                   59-60  Lava Tunnel
+
+    13        Shinden Zukuri         61-62  Quarry
+
+              (Inner Garden)
+
+    14        Minka House            63-64  Boulders
+
+              (A-Frame)
+
+    15        Machiya (Townhouse)    65-66  Pond
+
+    16        Castle                 67-68  Stand of Pine
+
+    17-18 Shrine                     69-70  Scrubland
+
+    19-20 Yokai Statue               71-72  Arched Bridge
+
+    21-22 Cherry Trees               73-75  Bamboo Forest
+
+    23-24 Orchard                    76-79  Rocky Hills
+
+    25-26     Prunus Mume            80-83  Jungle
+
+              (Flowering Apricot)
+
+    27-28 Tumuli (Burial Mound)      84-88  Woodland
+
+    29-30 Game Trail                 89-93  Summit
+
+    31-32 Stone Path                 94-99  Mountain
+
+    33-34 Bog                        00     Anomaly
+
+    35-36 Quagmire
+
+51                    THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+Coastal  Location
+
+01       Sand Bar               31-38  Cliffs
+
+02       Volcano Tip            39-46  River Delta
+
+03       Underwater Lava Vents  47-54  Inlet
+
+04       Kawabune               55-62  Peninsula
+
+         (River Boat)
+
+05       Beka (Seaweed          63-70  Rocky Beach
+
+         Gathering Boat)
+
+06-10    Amibune                71-85  Archipelago
+
+         (Net Fishing Boat)
+
+11-15    Dock                   86-99  Turbulent Waters
+
+16-23    Bezaisen (Trade Boat)  00     Anomaly
+
+24-30    Crag
+
+Region
+
+01-12    Chisana Hi             61-72  Hai no Kawa
+
+         Tiny Fires                    River of Ash
+
+13-24    Kokuyoseki no Ha       73-84  Madoromi Oka
+
+         Obsidian Blades               Slumbering Hills
+
+25-34    Kyoki no Mori          85-94  Geppu Kyojin
+
+         Forest of Madness             Belching Giants
+
+35-46    Yurei Numachi          95-99  Aka Umi
+
+         Ghostly Swamps                Red Sea
+
+47-60    Sakura Tani            00     Elsewhere
+
+         Cherry Valley
+
+IRONSMITH: FLAVOR PACKS                                  52
+    Quick Settlement Name     Generator
+
+    Prefix                    Meaning            Suffix    Meaning
+
+    01-04 Ryu-                Dragon-     01-04  -machi    -town
+
+    05-08 Seshin-             Spirit-     05-08  -ichi     -city
+
+    09-12 Hebi-               Serpent-    09-12  -ie       -home
+
+    13-16 Tora-               Tiger-      13-16  -oka      -hill
+
+    17-20 Washi-              Eagle-      17-20  -toride   -fort
+
+    21-24 Hana-               Flower-     21-24  -tochi    -land
+
+    25-28 Haka-               Tomb-       25-28  -ana      -mine
+
+    29-32 Ken-                Sword-      29-32  -teien    -garden
+
+    33-36 Meiyo-              Honor-      33-36  -mura     -village
+
+    37-40 Tengoku-            Heaven-     37-40  -hinan    -refuge
+
+    41-44 Tentai-             Celestial-  41-44  -nokori   -rest
+
+    45-48 Jigoku-             Infernal-   45-48  -tani     -valley
+
+    49-52 Sabishi-            Lonely-     49-52  -asase    -ford
+
+    53-56 Tsuyoi-             Strong-     53-56  -kawa     -river
+
+    57-60 Saru-               Monkey-     57-60  -wan      -gulf
+
+    61-64 Kamakiri-           Mantis-     61-64  -jinja    -shrine
+
+    65-68 Tate-               Shield-     65-68  -saidan   -altar
+
+    69-72 Kari-               Hunting-    69-72  -kesseki  -stone
+
+    73-76 Gama-               Frog-       73-76  -mizumi   -lake
+
+    77-80 Sugoi-              Great-      77-80  -numa     -bog
+
+    81-84 Jindai-             Huge-       81-84  -shinrin  -forest
+
+    85-88 Hatsu-              New-        85-88  -kabe     -wall
+
+    89-92 Okami-              Wolf-       89-92  -kudo     -hollow
+
+    93-96 Inki-               Bleak-      93-96  -shinden  -sacred place
+
+    97-00 Hitan-              Grief-      97-00  -hogo     -shelter
+
+    Feel free to embellish the names as it can lead to more world building.
+
+    For example, if you roll and get 18 and 52 to get Washiasase or Eagle's
+
+    Ford, you might decide to name the settlement Ford of the Walking Eagle.
+
+    I thought of adding "walking" because why would an eagle need to ford a
+
+    river? Next I start developing a Firelander myth of a great eagle yokai that
+
+    wanted to learn what it meant to be human and so gave up their wings for
+
+    a year and a day. On the day that the eagle was to get back its wings, the
+
+    river flooded and the eagle jumped in to save the person it had fallen in love
+
+    with during the last year. The person survived, but the eagle yokai did not.
+
+    Now the people living in the Ford of the Walking Eagle honor its sacrifice
+
+    each year in the spring.
+
+53                   THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+Firelander Names:  Traditional  Male
+
+01 Akifusa         35           Kiyotsuna  69   Shigenaga
+
+02 Anjin           36           Kojuro     70   Shigetsuna
+
+03 Chohichi        37           Kotaro     71   Shigezane
+
+04 Chokei          38           Kunichika  72   Shinpei
+
+05 Dokan           39           Masaga     73   Soji
+
+06 Eishin          40           Masahige   74   Sukemasa
+
+07 Ekei            41           Masakatsu  75   Tadakatsu
+
+08 Fujitake        42           Masako     76   Tadaoki
+
+09 Fujunaga        43           Masanori   77   Tadatomo
+
+10 Fusahide        44           Mitsuhide  78   Takaakira
+
+11 Gensai          45           Mitsumasa  79   Takashi
+
+12 Hakuseki        46           Morichika  80   Takayoshi
+
+13 Hanzo           47           Morinari   81   Tarozaemon
+
+14 Haruhisa        48           Motochika  82   Teru
+
+15 Hideaki         49           Motokiyo   83   Terukage
+
+16 Hirobumi        50           Mototsuna  84   Tokimune
+
+17 Hiroie          51           Nagaharu   85   Tomomichi
+
+18 Hisamasa        52           Nagamasa   86   Tonse
+
+19 Ienao           53           Nagayasu   87   Toshimune
+
+20 Ietada          54           Naomasa    88   Toshinaga
+
+21 Izo             55           Naotaka    89   Toshizo
+
+22 Jinsuke         56           Naotsune   90   Toyoharu
+
+23 Kagekatsu       57           Naoyuki    91   Tsunenaga
+
+24 Kagemori        58           Naozane    92   Tsuneoki
+
+25 Kageyu          59           Narimasa   93   Ujimasa
+
+26 Kanbei          60           Nishiki    94   Ujisato
+
+27 Kanehira        61           Nobuchika  95   Ujiyasu
+
+28 Kanetsugu       62           Nobufusa   96   Ujizane
+
+29 Katamori        63           Nobukata   97   Yasumori
+
+30 Kazuhide        64           Nobutomo   98   Yoshihisa
+
+31 Kazushige       65           Noriyori   99   Yoshimoto
+
+32 Keiki           66           Okimoto    100  Yukinaga
+
+33 Kihei           67           Ooka
+
+34 Kiyomasa        68           Ranmaru
+
+IRONSMITH: FLAVOR PACKS                                     54
+    Firelander Names:  Traditional Female
+
+    01 Aguri           35 Iso                     69   Naka
+
+    02 Aka             36 Iwa                     70   Natsu
+
+    03 Ama             37 Jo                      71   Neko
+
+    04 Ane             38 Kachi                   72   Niwa
+
+    05 Asa             39 Kaku                    73   Oma
+
+    06 Baba            40 Kame                    74   Oshi
+
+    07 Bo              41 Kana                    75   Riyo
+
+    08 Chiki           42 Karu                    76   Rusu
+
+    09 Chima           43 Kase                    77   Sago
+
+    10 Chiyo           44 Katsu                   78   Saka
+
+    11 Cho             45 Kawa                    79   Saku
+
+    12 Den             46 Kayo                    80   Saru
+
+    13 Fude            47 Kesai                   81   Sawa
+
+    14 Fuji            48 Kichi                   82   Seki
+
+    15 Fuku            49 Kiku                    83   Shimo
+
+    16 Fume            50 Kiri                    84   Sho
+
+    17 Furi            51 Kiyo                    85   Suki
+
+    18 Fusa            52 Koku                    86   Sumi
+
+    19 Fuso            53 Koma                    87   Take
+
+    20 Futsu           54 Koro                    88   Tama
+
+    21 Hama            55 Koyo                    89   Tatsu
+
+    22 Haru            56 Kuchi                   90   Toku
+
+    23 Heya            57 Kuma                    91   Tome
+
+    24 Hiko            58 Machi                   92   Tora
+
+    25 Hime            59 Magi                    93   Tori
+
+    26 Hitsu           60 Mari                    94   Toyo
+
+    27 Hiwa            61 Mata                    95   Tsubo
+
+    28 Hoso            62 Mego                    96   Tsuka
+
+    29 Hotsu           63 Mine                    97   Uba
+
+    30 Iku             64 Moku                    98   Ushi
+
+    31 Ima             65 Momo                    99   Yama
+
+    32 Ine             66 Muma                    100  Yuki
+
+    33 Iri             67 Mume
+
+    34 Isa             68 Nagu
+
+55                     THE FIRELANDS |     BASED  ON JAPANESE MYTHOLOGY
+PRONUNCIATION
+
+I actually took Japanese in high school, so I have the tiniest bit of
+
+knowledge that I can share to help you get more immersion in your games.
+
+Japan uses three alphabets: hiragana, katakana, and kanji. Hiragana are the
+
+base "letters" of the Japanese language that are actually full sounds instead
+
+of letters as we think of them in English. There are a limited number of
+
+basic sounds that every Japanese word is made with just like there are only
+
+26 letters in the English alphabet.
+
+Katakana are the same sounds, but with different symbols meant to show
+
+that the words have a foreign origin (at least that's how it was explained to
+
+me in the courses I took).
+
+Kanji are symbols that represent full words, and as such, there are tons of
+
+different kanji that can be used.
+
+In this supplement, I used a mixture of hiragana and kanji for the symbols
+
+of the regions, but all the Japanese words written in English use the basic
+
+pronunciation of hiragana.
+
+The Japanese hiragana start with five basic vowel sounds:
+
+Hiragana                                                         
+
+In English  a                      i          u            e     o
+
+Sound       Short a;        Long e;     /u:/ or oo;  Long a;     Long o;
+
+            as in water     as in reed  as in igloo  as in day   as in wrote
+
+There are then 40 distinct consonant-vowel unions that are the same sounds
+
+as above but with a consonant sound in front such as these five with "k":
+
+Hiragana                                                         
+
+In English  ka                     ki         ku     ke          ko
+
+Sound       kah;            key;        koo; as in   kay;        ko;
+
+            as in cop       as in key      cuckoo    as in okay  as in coke
+
+Finally, there is the lone "n" sound () that can be put at the end of any of
+
+the other sounds like "kan" or "kin".
+
+Therefore, when you pronounce one of these words, it should go syllable
+
+by syllable. For example, consider these:
+
+·      Kagekatsu is pronounced "Kah-gay-kah-tsu" with the "ts" running
+
+       together like a "T" in front of "Sue"
+
+·      Kawabune is pronounced "Kah-wah-boo-nay"
+
+·      Modoromi Oka is pronounced "Mah-doe-roe-mee Oh-kah"
+
+IRONSMITH: FLAVOR PACKS                                                        56
+    SETTLEMENT TRACKERS
+
+    On the following pages you will find a blank template you can fill out to
+
+    help you build any settlement you encounter. The template includes:
+
+    ·  Settlement Name: You may use the Settlement Name oracle.
+
+    ·  Region/Location: Give the settlement a number and description of
+
+       where it is in the region like "3: North eastern corner of Havens".
+
+       Mark this spot on your map with the number.
+
+    ·  First Look/Descriptors: What does this settlement look like? Is it
+
+       run down? Are there new buildings going up? Do they have a
+
+       meeting hall? You may use the Location Descriptor oracle.
+
+    ·  Geography: What is the land like in this area? Are they on a river?
+
+       Is there flat ground for agriculture? Are there hills being used as a
+
+       natural defense? You may use the Location oracle.
+
+    ·  Population/Size: How many people or families live here? You
+
+       may use the Challenge Rank oracle with the following results:
+
+         Troublesome = Homestead, up to 10 people and up to 2
+
+         standing structures
+
+         Dangerous = Steading, up to 20 people and up to 7 standing
+
+         structures
+
+         Formidable = Village, up to 50 people and up to 15 standing
+
+         structures
+
+         Extreme = Town, up to 100 people and up to 30 standing
+
+         structures
+
+         Epic = City, up to 500 people and up to 100 standing structures
+
+    ·  Resources: How does this settlement mainly provide                      for
+
+       themselves?Agriculture? Fishing? Hunting? Trade of crafts?
+
+    ·  Leadership: What type of leadership structure does this settlement
+
+       have? Overseer? Council of elders? Religious leader? War chief?
+
+    ·  Disposition: How does the settlement (and particularly the
+
+       leadership) view your character?
+
+    ·  Notable Events: What significant events have taken place here?
+
+       Did you interact with this place during a vow?
+
+    ·  Notable NPCs: Who lives here that your character knows by
+
+       name?
+
+    ·  Nearby Opportunities/Dangers:Are there ways that you can help
+
+       the settlement? Is there a threat on the horizon? Is there an
+
+       unexplored area with potential resources? You may use the
+
+       Settlement Trouble oracle.
+
+    ·  Bond?: Check the box if you Forge a Bond with this settlement.
+
+57            THE FIRELANDS | BASED ON JAPANESE MYTHOLOGY
+Settlement Name                Region/Location
+
+First Look/Descriptors         Geography
+
+Population/Size                Resources
+
+Leadership                     Disposition
+
+Notable Events
+
+Notable NPCs
+
+Nearby Opportunities
+
+Nearby Dangers
+
+BOND?
+
+IRONSMITH: FLAVOR       PACKS                   58
+    Settlement Name                    Region/Location
+
+    First Look/Descriptors             Geography
+
+    Population/Size                    Resources
+
+    Leadership                         Disposition
+
+    Notable Events
+
+    Notable NPCs
+
+    Nearby Opportunities
+
+    Nearby Dangers
+
+    BOND?
+
+59                   THE    FIRELANDS  | BASED ON JAPANESE  MYTHOLOGY
+Settlement Name                Region/Location
+
+First Look/Descriptors         Geography
+
+Population/Size                Resources
+
+Leadership                     Disposition
+
+Notable Events
+
+Notable NPCs
+
+Nearby Opportunities
+
+Nearby Dangers
+
+BOND?
+
+IRONSMITH: FLAVOR       PACKS                   60
+
