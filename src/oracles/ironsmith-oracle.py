@@ -2,8 +2,8 @@
 
 import json
 
-original_data_file="ironsmith-expanded-oracles.json"
-# output_data_file="ironsmith-expanded-oracles.txt"
+original_data_file="ironsmith-compendiums.json"
+# output_data_file="ironsmith-compendiums.txt"
 table_2 = ["(1 - 3)", "(4 - 6)"]
 table_3 = ["(1 - 2)", "(3 - 4)", "(5 - 6)"]
 table_6 = ["(1)", "(2)", "(3)", "(4)","(5)", "(6)"]

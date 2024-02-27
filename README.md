@@ -1,16 +1,16 @@
 # Ironsmith Compendiums for Ironsworn
 
-![GitHub all releases](https://img.shields.io/github/downloads/jendave/ironsmith-expanded-oracles/total)
-[![Latest Version](https://img.shields.io/github/v/release/jendave/ironsmith-expanded-oracles?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/ironsmith-expanded-oracles/releases/latest)
-![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Fironsmith-expanded-oracles%2Fmain%2Fmodule.json)
-[![License](https://img.shields.io/github/license/jendave/ironsmith-expanded-oracles)](LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/jendave/ironsmith-compendiums/total)
+[![Latest Version](https://img.shields.io/github/v/release/jendave/ironsmith-compendiums?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/ironsmith-compendiums/releases/latest)
+![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Fironsmith-compendiums%2Fmain%2Fmodule.json)
+[![License](https://img.shields.io/github/license/jendave/ironsmith-compendiums)](LICENSE)
 
 # About
 A FoundryVTT compendium of the Ironsmith supplements for [Ironsworn](https://preview.drivethrurpg.com/en/product/238369/ironsworn) by Eric Bright.
 
 # Contact
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
-* [GitHub Repository](https://github.com/jendave/ironsmith-expanded-oracles)
+* [GitHub Repository](https://github.com/jendave/ironsmith-compendiums)
 * [Itch.io](https://jendave.itch.io/)
 
 # Features and Notes
@@ -27,18 +27,18 @@ To install the module, search for `Ironsmith` or `Ironsworn` in the `Add-On Modu
 Or use this URL and click on `Install`:
 
 ```
-https://github.com/jendave/ironsmith-expanded-oracles/releases/latest/download/module.json
+https://github.com/jendave/ironsmith-compendiums/releases/latest/download/module.json
 ```
 
 # Tabletop Integration
 ## Oracles
 By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet.
 
-![Character Sheet - Oracles Tree](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/oracle-tree-character-sheet.jpg?raw=true)
+![Character Sheet - Oracles Tree](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/oracle-tree-character-sheet.jpg?raw=true)
 
 If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Configure Settings` game settings.
 
-![Module Game Settings](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/module-game-settings.jpg?raw=true)
+![Module Game Settings](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/module-game-settings.jpg?raw=true)
 
 The Oracles can also be added to the character sheet by using the `Custom Folders` method below.
 
@@ -55,11 +55,11 @@ Macros for Dice rolling can be found in the `Ironsmith Expanded Oracles Macros` 
 
 Open the `Ironsmith Expanded Oracles` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
 
-![Rollable Tables - Custom Oracles](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
+![Rollable Tables - Custom Oracles](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
 
 The Oracles will be available in the Character sheet under `Custom Oracles`.
 
-![Character Sheet - Custom Oracles](https://github.com/jendave/ironsmith-expanded-oracles/blob/main//docs/custom-oracles-character-sheet.jpg?raw=true)
+![Character Sheet - Custom Oracles](https://github.com/jendave/ironsmith-compendiums/blob/main//docs/custom-oracles-character-sheet.jpg?raw=true)
 
 ## Site Themes and Domains
 
@@ -73,9 +73,9 @@ Copy the desired themes and domains from the Ironsmith Site compendiums into the
     * `Ressources personnalisées` - FR
     * `Własne Aspekty` - PL
   * Open the `Ironsmith Assets` or `Pack Assets` compendiums and copy the Items into the `Items` `Custom Assets` folder.
-    * ![Items - Custom Assets](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-assets-items.jpg?raw=true)
+    * ![Items - Custom Assets](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/custom-assets-items.jpg?raw=true)
   * The Assets will be available in the Character sheet under `Custom Assets`.
-    * ![Character Sheet - Custom Assets](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-assets-character-sheet.jpg?raw=true)
+    * ![Character Sheet - Custom Assets](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/custom-assets-character-sheet.jpg?raw=true)
 * Use the following method to integrate the `Ironsmith Moves` into the character sheet.
   * Create a `Custom Moves` folder in the `Items` tab called:
     * `Custom Moves` - EN
@@ -83,9 +83,9 @@ Copy the desired themes and domains from the Ironsmith Site compendiums into the
     * `Actions personnalisées` - FR
     * `Własne Ruchy` - PL
   * Open the `Ironsmith Moves` compendium and copy the Items into the `Items` `Custom Moves` folder.
-    * ![Items - Custom Moves](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-moves-items.jpg?raw=true)
+    * ![Items - Custom Moves](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/custom-moves-items.jpg?raw=true)
   * The Moves will be available in the Character sheet under `Custom Moves`.
-    * ![Character Sheet - Custom Moves](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-moves-character-sheet.jpg?raw=true)
+    * ![Character Sheet - Custom Moves](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/custom-moves-character-sheet.jpg?raw=true)
 
 # Troubleshooting
 * Due to changes in version `2.0.0`, uninstalling and re-installing the module may be needed.
@@ -112,8 +112,8 @@ Please check out my other modules and resources for Ironsworn and Ironsworn: Sta
 
 ### [FoundryVTT](https://foundryvtt.com/) Modules
 *   [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles)
-*   [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
-*   [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
+*   [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-compendiums)
+*   [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-compendiums)
 *   [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
 *   [Token Note Hover](https://github.com/jendave/token-note-hover)
 

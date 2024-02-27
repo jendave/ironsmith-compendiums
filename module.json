@@ -124,10 +124,10 @@
   "manifest": "#{MANIFEST}#",
   "url": "#{URL}#",
   "download": "#{DOWNLOAD}#",
-  "license": "https://raw.githubusercontent.com/jendave/ironsmith-expanded-oracles/main/LICENSE",
-  "changelog": "https://raw.githubusercontent.com/jendave/ironsmith-expanded-oracles/main/CHANGELOG.md",
-  "readme": "https://raw.githubusercontent.com/jendave/ironsmith-expanded-oracles/main/README.md",
-  "bugs": "https://github.com/jendave/ironsmith-expanded-oracles/issues",
+  "license": "https://raw.githubusercontent.com/jendave/ironsmith-compendiums/main/LICENSE",
+  "changelog": "https://raw.githubusercontent.com/jendave/ironsmith-compendiums/main/CHANGELOG.md",
+  "readme": "https://raw.githubusercontent.com/jendave/ironsmith-compendiums/main/README.md",
+  "bugs": "https://github.com/jendave/ironsmith-compendiums/issues",
   "relationships": {
     "systems": [
       {
