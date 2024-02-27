@@ -37,6 +37,7 @@ def update_ability(ability):
     ability_updated = ability_updated.replace("[Companion Takes a Hit](Moves/Suffer/Companion_Takes_a_Hit)", "@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.d34cdf2408cd22b6]{Companion Takes a Hit}")
     ability_updated = ability_updated.replace("[Check Your Gear](Moves/Adventure/Check_Your_Gear)", "@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.8d9830fb825057b0]{Check Your Gear}")
     ability_updated = ability_updated.replace("[Pay the Price](Moves/Fate/Pay_the_Price)", "@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price}")
+    ability_updated = ability_updated.replace("Test Your Bond" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.421b379cb40b6ab7]{Test Your Bond}")
 
     return ability_updated
 

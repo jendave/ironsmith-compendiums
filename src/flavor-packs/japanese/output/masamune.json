@@ -9,7 +9,7 @@
         "fields": null,
         "abilities": [
             {
-                "description": "<p>When you gift a blade you have forged to commemorate an important event or relationship, you may (one time only) reroll any dice when you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.be95ca063ded2b19]{Compel}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.b643d9ea53ff8d98]{Forge a Bond}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.25421995c803340e]{Sojourn}, or Test Your Bond.</p>",
+                "description": "<p>When you gift a blade you have forged to commemorate an important event or relationship, you may (one time only) reroll any dice when you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.be95ca063ded2b19]{Compel}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.b643d9ea53ff8d98]{Forge a Bond}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.25421995c803340e]{Sojourn}, or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.421b379cb40b6ab7]{Test Your Bond}.</p>",
                 "enabled": "true",
                 "hasClock": "false",
                 "clockMax": "4",
