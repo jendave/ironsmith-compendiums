@@ -4,6 +4,7 @@ import json
 
 original_data_file="japanese-assets.json"
 
+# Suzaku and Seiryuu require some Move modification after import. The `Companion Endure Harm` and `Divine Strike` strings cause issues.
 def update_ability(ability):
     if ability is None:
         return None
