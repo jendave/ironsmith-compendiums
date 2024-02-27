@@ -4,7 +4,7 @@
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": null,
-        "category": "Combat Talent: No Harm",
+        "category": "Combat Talent",
         "color": "",
         "fields": null,
         "abilities": [
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": ""
+        "description": "No Harm"
     }
 }

@@ -4,7 +4,7 @@
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "Your young azure dragon is loyal.",
-        "category": "Companion: Azure Dragon",
+        "category": "Companion",
         "color": "",
         "fields": [
             {
@@ -15,7 +15,7 @@
         "abilities": [
             {
                 "description": "<p>Of the Heavens: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by requesting your dragon to mystically manipulate rain or wood, roll +heart and add +1. On a hit, take +1 momentum.</p>",
-                "enabled": "true",
+                "enabled": "false",
                 "hasClock": "false",
                 "clockMax": "4",
                 "clockTicks": 0
@@ -44,6 +44,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": ""
+        "description": "Azure Dragon"
     }
 }

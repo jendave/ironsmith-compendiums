@@ -88,12 +88,14 @@ for asset in ironsmith_assets['Assets']:
     track_name = asset.get('TrackLabel')
     track_max = asset.get('TrackMax')
     track_value = 0 if asset_name == "Holodeck" else track_max
+    track_value = 0 if asset_name == "Hi Magaru" else track_max
     track_condition_temp = asset.get('TrackCondition')
     track_condition_string = """[{ "name" : "%s", "ticked" : "false"}]""" % (track_condition_temp) if (track_condition_temp is not None and asset_name != "Traveler") else None
    # print("track_condition_string: %s" % (track_condition_string))
     track_condition = json.loads(track_condition_string) if (track_condition_temp is not None and asset_name != "Traveler") else []
     track_enabled = "true" if (track_max or track_name) and asset_name != "Traveler" else "false"
-    forward = update_ability(asset.get('Foreword'))
+    foreward = update_ability(asset.get('Foreword'))
+    description = update_ability(asset.get('Description'))
     input1 = asset.get('Input1')
     input2 = asset.get('Input2')
     input3 = asset.get('Input3')
@@ -127,7 +129,7 @@ for asset in ironsmith_assets['Assets']:
     appendix = asset.get('Appendix')
     exclusive_options = json.loads("""[{"name": "%s","selected": false}]""" % (appendix)) if appendix else json.loads("""[]""")
 
-    asset_foundry = json.dumps({"name": asset_name, "type": "asset", "img": "icons/svg/item-bag.svg", "system": { "requirement": forward, "category": category, "color": "", "fields": fields,  "abilities": ability_final, "track": { "enabled": track_enabled, "name": track_name, "max": track_max, "value": track_value, "min": 0 }, "exclusiveOptions": exclusive_options, "conditions": track_condition, "description": "" }}, indent=4)
+    asset_foundry = json.dumps({"name": asset_name, "type": "asset", "img": "icons/svg/item-bag.svg", "system": { "requirement": foreward, "category": category, "color": "", "fields": fields,  "abilities": ability_final, "track": { "enabled": track_enabled, "name": track_name, "max": track_max, "value": track_value, "min": 0 }, "exclusiveOptions": exclusive_options, "conditions": track_condition, "description": description }}, indent=4)
 
     file_asset = open("output/" + asset_name.lower().replace(' ', '-').replace('(', '').replace(')', '') + ".json", "w")
 

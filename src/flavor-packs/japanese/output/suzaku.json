@@ -4,7 +4,7 @@
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "Your young phoenix is determined.",
-        "category": "Companion: Phoenix",
+        "category": "Companion",
         "color": "",
         "fields": [
             {
@@ -15,7 +15,7 @@
         "abilities": [
             {
                 "description": "<p>Rebirth: If your phoenix misses on Companion @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm} when at 0 health, roll +heart. On a strong hit, the phoenix bursts into flame dealing 3 harm to foes and returns to life with 3 health. On a weak hit, the flame deals only I harm and the phoenix returns with only 1 health.</p>",
-                "enabled": "true",
+                "enabled": "false",
                 "hasClock": "false",
                 "clockMax": "4",
                 "clockTicks": 0
@@ -44,6 +44,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": ""
+        "description": "Phoenix"
     }
 }

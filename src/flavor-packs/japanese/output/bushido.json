@@ -4,7 +4,7 @@
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": null,
-        "category": "Path: Code Of Honor",
+        "category": "Path",
         "color": "",
         "fields": null,
         "abilities": [
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": ""
+        "description": "Code Of Honor"
     }
 }

@@ -4,7 +4,7 @@
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "If you wield a chigiriki....",
-        "category": "Combat Talent: Flail",
+        "category": "Combat Talent",
         "color": "",
         "fields": null,
         "abilities": [
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": ""
+        "description": "Flail"
     }
 }

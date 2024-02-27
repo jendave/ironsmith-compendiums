@@ -4,7 +4,7 @@
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "When you take time to center yourself and chant the resonant and rhythmic sounds of...",
-        "category": "Ritual: Power Words",
+        "category": "Ritual",
         "color": "",
         "fields": null,
         "abilities": [
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": ""
+        "description": "Power Words"
     }
 }

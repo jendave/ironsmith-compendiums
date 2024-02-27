@@ -4,26 +4,26 @@
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": null,
-        "category": "Ritual: Kami Whisperer",
+        "category": "Ritual",
         "color": "",
         "fields": null,
         "abilities": [
             {
-                "description": "<p>When you take time to attune yourself with the kami of an area, roll heart. On a strong hit, you connect with them favorably. Choose one <ul><li>Comforted: Take +1 spirit.</li><li>Emboldened: Take +2 momentum.</li><li>Bonded: @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.b643d9ea53ff8d98]{Forge a Bond} with a specific kami and add +1.</li></ul></p>",
+                "description": "<p>When you take time to attune yourself with the kami of an area, roll +heart. On a strong hit, you connect with them favorably. Choose one <ul><li>Comforted: Take +1 spirit.</li><li>Emboldened: Take +2 momentum.</li><li>Bonded: @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.b643d9ea53ff8d98]{Forge a Bond} with a specific kami and add +1.</li></ul></p>",
                 "enabled": "true",
                 "hasClock": "false",
                 "clockMax": "4",
                 "clockTicks": 0
             },
             {
-                "description": "<p>As above, but on a hit you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} from the spirits. If you do, roll+heart (instead of wits).</p>",
+                "description": "<p>As above, but on a hit you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} from the spirits. If you do, roll +heart (instead of +wits).</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
                 "clockTicks": 0
             },
             {
-                "description": "<p>As above, but on a strong hit, the kami offer to guide you to a destination in the area. If you accept and @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ac19f4c7f3fe31be]{Undertake a Journey}, you may roll +heart or +spirit (instead of wits). When you Reach Your Destination, take +2 momentum on a strong hit. Your kami guide leaves you if you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ac19f4c7f3fe31be]{Undertake a Journey} to a new place, Face Desolation or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.92b85c33a17ab487]{Face Death}.</p>",
+                "description": "<p>As above, but on a strong hit, the kami offer to guide you to a destination in the area. If you accept and @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ac19f4c7f3fe31be]{Undertake a Journey}, you may roll +heart or +spirit (instead of +wits). When you Reach Your Destination, take +2 momentum on a strong hit. Your kami guide leaves you if you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ac19f4c7f3fe31be]{Undertake a Journey} to a new place, Face Desolation or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.92b85c33a17ab487]{Face Death}.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": ""
+        "description": "Kami Whisperer"
     }
 }

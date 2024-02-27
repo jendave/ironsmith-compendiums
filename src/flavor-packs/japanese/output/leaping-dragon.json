@@ -4,7 +4,7 @@
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "If you wield tekko-kagi...",
-        "category": "Combat Talent: Claws",
+        "category": "Combat Talent",
         "color": "",
         "fields": null,
         "abilities": [
@@ -23,7 +23,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage}+iron by climbing a treacherous surface or clinging in a precarious position using your claws to gain purchase, add +1 and take +1 momentum on a hit.</p>",
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} +iron by climbing a treacherous surface or clinging in a precarious position using your claws to gain purchase, add +1 and take +1 momentum on a hit.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": ""
+        "description": "Claws"
     }
 }
