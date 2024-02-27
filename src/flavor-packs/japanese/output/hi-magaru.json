@@ -1,10 +1,10 @@
 {
-    "name": "HI MAGARU",
+    "name": "Hi Magaru",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": null,
-        "category": "RITUAL: FIREBENDER",
+        "category": "Ritual: Firebender",
         "color": "",
         "fields": null,
         "abilities": [

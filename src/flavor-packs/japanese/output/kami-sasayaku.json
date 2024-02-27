@@ -1,10 +1,10 @@
 {
-    "name": "KAMI SASAYAKU",
+    "name": "Kami Sasayaku",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": null,
-        "category": "RITUAL: KAMI WHISPERER",
+        "category": "Ritual: Kami Whisperer",
         "color": "",
         "fields": null,
         "abilities": [

@@ -1,10 +1,10 @@
 {
-    "name": "NINJUTSU",
+    "name": "Ninjutsu",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": null,
-        "category": "PATH: INFILTRATION SPECIALIST",
+        "category": "Path: Infiltration Specialist",
         "color": "",
         "fields": null,
         "abilities": [

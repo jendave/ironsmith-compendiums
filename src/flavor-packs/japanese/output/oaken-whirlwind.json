@@ -1,10 +1,10 @@
 {
-    "name": "OAKEN WHIRLWIND",
+    "name": "Oaken Whirlwind",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "If you wield nunchaku or tonfa...",
-        "category": "COMBAT TALENT: NUNCHAKU",
+        "category": "Combat Talent: Nunchaku",
         "color": "",
         "fields": null,
         "abilities": [

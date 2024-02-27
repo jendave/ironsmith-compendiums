@@ -1,10 +1,10 @@
 {
-    "name": "SCORPION STORM",
+    "name": "Scorpion Storm",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "If you wield a kusarigama...",
-        "category": "COMBAT TALENT: CHAINED SICKLE",
+        "category": "Combat Talent: Chained Sickle",
         "color": "",
         "fields": null,
         "abilities": [

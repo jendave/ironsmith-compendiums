@@ -1,10 +1,10 @@
 {
-    "name": "KATANA MASTER",
+    "name": "Katana Master",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "If you wield a katana with grace, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} and @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} +edge (instead of iron). If you do...",
-        "category": "COMBAT TALENT: SWORD",
+        "category": "Combat Talent: Sword",
         "color": "",
         "fields": null,
         "abilities": [

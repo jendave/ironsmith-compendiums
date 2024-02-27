@@ -1,10 +1,10 @@
 {
-    "name": "THRESHING FLOOR",
+    "name": "Threshing Floor",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "If you wield a chigiriki....",
-        "category": "COMBAT TALENT: FLAIL",
+        "category": "Combat Talent: Flail",
         "color": "",
         "fields": null,
         "abilities": [

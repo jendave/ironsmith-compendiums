@@ -1,10 +1,10 @@
 {
-    "name": "AIKIDO",
+    "name": "Aikido",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": null,
-        "category": "COMBAT TALENT: NO HARM",
+        "category": "Combat Talent: No Harm",
         "color": "",
         "fields": null,
         "abilities": [

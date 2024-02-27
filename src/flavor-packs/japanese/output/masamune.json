@@ -1,10 +1,10 @@
 {
-    "name": "MASAMUNE",
+    "name": "Masamune",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": null,
-        "category": "PATH: FORGER OF BLADES",
+        "category": "Path: Forger Of Blades",
         "color": "",
         "fields": null,
         "abilities": [

@@ -1,10 +1,10 @@
 {
-    "name": "SUZAKU",
+    "name": "Suzaku",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "Your young phoenix is determined.",
-        "category": "COMPANION: PHOENIX",
+        "category": "Companion: Phoenix",
         "color": "",
         "fields": [
             {

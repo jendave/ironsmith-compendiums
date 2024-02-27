@@ -1,10 +1,10 @@
 {
-    "name": "BUSHIDO",
+    "name": "Bushido",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": null,
-        "category": "PATH: CODE OF HONOR",
+        "category": "Path: Code Of Honor",
         "color": "",
         "fields": null,
         "abilities": [

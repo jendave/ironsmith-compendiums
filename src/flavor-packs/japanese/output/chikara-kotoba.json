@@ -1,10 +1,10 @@
 {
-    "name": "CHIKARA KOTOBA",
+    "name": "Chikara Kotoba",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "When you take time to center yourself and chant the resonant and rhythmic sounds of...",
-        "category": "RITUAL: POWER WORDS",
+        "category": "Ritual: Power Words",
         "color": "",
         "fields": null,
         "abilities": [

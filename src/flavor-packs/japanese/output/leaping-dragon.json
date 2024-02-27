@@ -1,10 +1,10 @@
 {
-    "name": "LEAPING DRAGON",
+    "name": "Leaping Dragon",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "If you wield tekko-kagi...",
-        "category": "COMBAT TALENT: CLAWS",
+        "category": "Combat Talent: Claws",
         "color": "",
         "fields": null,
         "abilities": [

@@ -1,10 +1,10 @@
 {
-    "name": "SEIRYUU",
+    "name": "Seiryuu",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "Your young azure dragon is loyal.",
-        "category": "COMPANION: AZURE DRAGON",
+        "category": "Companion: Azure Dragon",
         "color": "",
         "fields": [
             {
