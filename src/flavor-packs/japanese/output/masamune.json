@@ -23,7 +23,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>When you reforge a blade with nie iron to imbue it with mystic power, roll +wits. On a strong hit, choose one. A weak hit or miss ruins the blade. If you break or discard one of these blades, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.e09e2fc8bb709320]{Endure Stress} (2 stress).<ul><li>Baneful: Name a specific foe. When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} with this blade against that foe, add +1. On a hit, inflict +1 harm and take +1 momentum</li><li>Arcane: The blade becomes a rarity.>/li</ul></p>",
+                "description": "<p>When you reforge a blade with nie iron to imbue it with mystic power, roll +wits. On a strong hit, choose one. A weak hit or miss ruins the blade. If you break or discard one of these blades, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.e09e2fc8bb709320]{Endure Stress} (2 stress).<ul><li>Baneful: Name a specific foe. When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} with this blade against that foe, add +1. On a hit, inflict +1 harm and take +1 momentum</li><li>Arcane: The blade becomes a rarity. Envision its power.</li></ul></p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
@@ -37,7 +37,12 @@
             "value": null,
             "min": 0
         },
-        "exclusiveOptions": [],
+        "exclusiveOptions": [
+            {
+                "name": "You must unlock the 2nd abiility before the 3rd.",
+                "selected": false
+            }
+        ],
         "conditions": [],
         "description": "Forger Of Blades"
     }

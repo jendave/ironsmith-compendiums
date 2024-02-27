@@ -83,7 +83,8 @@
             "Name": "Masamune",
             "Ability1": "When you gift a blade you have forged to commemorate an important event or relationship, you may (one time only) reroll any dice when you Compel, Forge a Bond, Sojourn, or Test Your Bond.",
             "Ability2": "When you forge or repair an exquisite blade, roll +wits. On a strong hit, choose one to apply when you Strike with it.<ul><li>Balanced: Add +1.</li><li>Honed: Inflict +1 harm on a bit</li><li>Named: Take +1 momentum on a hit</li></ul>",
-            "Ability3": "When you reforge a blade with nie iron to imbue it with mystic power, roll +wits. On a strong hit, choose one. A weak hit or miss ruins the blade. If you break or discard one of these blades, Endure Stress (2 stress).<ul><li>Baneful: Name a specific foe. When you Strike or Clash with this blade against that foe, add +1. On a hit, inflict +1 harm and take +1 momentum</li><li>Arcane: The blade becomes a rarity.>/li</ul>"
+            "Ability3": "When you reforge a blade with nie iron to imbue it with mystic power, roll +wits. On a strong hit, choose one. A weak hit or miss ruins the blade. If you break or discard one of these blades, Endure Stress (2 stress).<ul><li>Baneful: Name a specific foe. When you Strike or Clash with this blade against that foe, add +1. On a hit, inflict +1 harm and take +1 momentum</li><li>Arcane: The blade becomes a rarity. Envision its power.</li></ul>",
+            "Appendix": "You must unlock the 2nd abiility before the 3rd."
         },
         {
             "Category": "Path",
@@ -108,7 +109,7 @@
             "Name": "Ninjutsu",
             "Ability1": "When you Gather Information within an enemy area to discover their positions, plans, or methods, you may roll +shadow (instead of +wits). If you do, add +1 and take +1 momentum on a hit.",
             "Ability2": "When you Secure an Advantage or Face Danger by disguising yourself, confusing the opposition through misdirection, hiding in shadows, or vanishing without a trace, add +1 and take +1 momentum on a hit.",
-            "Ability3": "Before you Fulfill Your low, you may meditate upon missteps you made and commit to some significant change. If you do, either add +2 or take +1 experience on a hit."
+            "Ability3": "Before you Fulfill Your Vow, you may meditate upon missteps you made and commit to some significant change. If you do, either add +2 or take +1 experience on a hit."
         },
         {
             "Category": "Ritual",

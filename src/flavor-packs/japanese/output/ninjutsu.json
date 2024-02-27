@@ -23,7 +23,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>Before you Fulfill Your low, you may meditate upon missteps you made and commit to some significant change. If you do, either add +2 or take +1 experience on a hit.</p>",
+                "description": "<p>Before you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.725a21e2f02d7e12]{Fulfill Your Vow}, you may meditate upon missteps you made and commit to some significant change. If you do, either add +2 or take +1 experience on a hit.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
