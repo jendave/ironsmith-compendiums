@@ -1,5 +1,10 @@
 # Changelog
 
+### [2.0.0](https://github.com/jendave/ironsmith-expanded-oracles/commits/main) (2024-02-27)
+* Added oracles, foes and assets from  [Ironsmith Japanese Flavor Pack](https://preview.drivethrurpg.com/en/product/372140/ironsmith-japanese-mythology-flavor-pack-softcover) supplement.
+  * New compendiums and folder structure.
+  * Name of module has changed and may require uninstalling/reinstalling the module.
+
 ### [1.2.4](https://github.com/jendave/ironsmith-expanded-oracles/commits/main) (2024-02-24)
 * Added Foes from the [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) supplement.
   * That should complete the resources from the main Ironsmith supplement.

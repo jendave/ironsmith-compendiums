@@ -1,4 +1,4 @@
-# Ironsmith Expanded Oracles for Ironsworn
+# Ironsmith Compendiums for Ironsworn
 
 ![GitHub all releases](https://img.shields.io/github/downloads/jendave/ironsmith-expanded-oracles/total)
 [![Latest Version](https://img.shields.io/github/v/release/jendave/ironsmith-expanded-oracles?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/ironsmith-expanded-oracles/releases/latest)
@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/jendave/ironsmith-expanded-oracles)](LICENSE)
 
 # About
-A FoundryVTT compendium of the [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) and [Ironsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/333665/Ironsmith-Expanded-Oracles) supplements by Eric Bright.
+A FoundryVTT compendium of the Ironsmith supplements for [Ironsworn](https://preview.drivethrurpg.com/en/product/238369/ironsworn) by Eric Bright.
 
 # Contact
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
@@ -14,7 +14,10 @@ A FoundryVTT compendium of the [Ironsmith](https://preview.drivethrurpg.com/en/p
 * [Itch.io](https://jendave.itch.io/)
 
 # Features and Notes
-* Oracles, Site/Delve Themes and Domains, Assets, Moves and Foes from the PDF are included.
+* Oracles, Assets, Moves, Site/Delve Themes and Domains and Foes from the PDFs are included.
+  * [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith)
+  * [Ironsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/333665/Ironsmith-Expanded-Oracles)
+  * [Ironsmith Japanese Flavor Pack](https://preview.drivethrurpg.com/en/product/372140/ironsmith-japanese-mythology-flavor-pack-softcover)
 * Tables that are copies of the Ironsworn official tables are included if they are part of Ironsmith 1-2, 3-4, 5-6 array.
 * Tables that are simply copies of official Ironsworn tables without the array are not included since they would be redundant with the standard Ironsworn System tables.
 
@@ -69,7 +72,7 @@ Copy the desired themes and domains from the Ironsmith Site compendiums into the
     * `Recursos Personalizados` - ES
     * `Ressources personnalisées` - FR
     * `Własne Aspekty` - PL
-  * Open the `Ironsmith Assets` compendium and copy the Items into the `Items` `Custom Assets` folder.
+  * Open the `Ironsmith Assets` or `Pack Assets` compendiums and copy the Items into the `Items` `Custom Assets` folder.
     * ![Items - Custom Assets](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-assets-items.jpg?raw=true)
   * The Assets will be available in the Character sheet under `Custom Assets`.
     * ![Character Sheet - Custom Assets](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-assets-character-sheet.jpg?raw=true)
@@ -83,6 +86,9 @@ Copy the desired themes and domains from the Ironsmith Site compendiums into the
     * ![Items - Custom Moves](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-moves-items.jpg?raw=true)
   * The Moves will be available in the Character sheet under `Custom Moves`.
     * ![Character Sheet - Custom Moves](https://github.com/jendave/ironsmith-expanded-oracles/blob/main/docs/custom-moves-character-sheet.jpg?raw=true)
+
+# Troubleshooting
+* Due to changes in version `2.0.0`, uninstalling and re-installing the module may be needed.
 
 # Credits
 [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) and [Ironsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/333665/Ironsmith-Expanded-Oracles) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).

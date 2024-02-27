@@ -1,6 +1,6 @@
 {
   "id": "ironsmith-expanded-oracles",
-  "title": "Ironsmith Expanded Oracles for Ironsworn",
+  "title": "Ironsmith Compendiums for Ironsworn",
   "description": "FoundryVTT compendiums of the Ironsmith supplements for Ironsworn by Eric Bright.",
   "version": "#{VERSION}#",
   "compatibility": {
@@ -67,19 +67,54 @@
       "path": "./packs/ironsmith-foe-actors",
       "type": "Actor",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithjapanesefoeactors",
+      "label": "Ironsmith Japanese Foe Actors",
+      "path": "./packs/ironsmith-japanese-foe-actors",
+      "type": "Actor",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithjapaneseassets",
+      "label": "Ironsmith Japanese Assets",
+      "path": "./packs/ironsmith-japanese-assets",
+      "type": "Item",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithjapaneseoracles",
+      "label": "Ironsmith Japanese Oracles",
+      "path": "./packs/ironsmith-japanese-oracles",
+      "type": "Rolltable",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
     {
-      "name": "Ironsmith Expanded Oracles",
-      "packs": [
-        "ironsmithexpandedoracles",
-        "ironsmithexpandedoraclesmacros",
-        "ironsmithsitedomains",
-        "ironsmithsitethemes",
-        "ironsmithassets",
-        "ironsmithmoves",
-        "ironsmithfoeactors"
+      "name": "Ironsmith",
+      "packs": [],
+      "folders": [
+        {
+          "name": "Ironsmith",
+          "packs": [
+            "ironsmithexpandedoracles",
+            "ironsmithexpandedoraclesmacros",
+            "ironsmithsitedomains",
+            "ironsmithsitethemes",
+            "ironsmithassets",
+            "ironsmithmoves",
+            "ironsmithfoeactors"
+          ]
+        },
+        {
+          "name": "Ironsmith Japanese Pack",
+          "packs": [
+            "ironsmithjapanesefoeactors",
+            "ironsmithjapaneseassets",
+            "ironsmithjapaneseoracles"
+          ]
+        }
       ]
     }
   ],
