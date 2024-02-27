@@ -86,7 +86,7 @@
       "name": "ironsmithjapaneseoracles",
       "label": "Ironsmith Japanese Oracles",
       "path": "./packs/ironsmith-japanese-oracles",
-      "type": "Rolltable",
+      "type": "RollTable",
       "system": "foundry-ironsworn"
     }
   ],
