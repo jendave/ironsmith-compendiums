@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/jendave/ironsmith-compendiums)](LICENSE)
 
 # About
-A FoundryVTT compendium of the Ironsmith supplements for [Ironsworn](https://preview.drivethrurpg.com/en/product/238369/ironsworn) by Eric Bright.
+A FoundryVTT compendium of the Ironsmith supplements by [Eric Bright](https://preview.drivethrurpg.com/en/browse?keyword=eric%20bright) for [Ironsworn](https://www.ironswornrpg.com/).
 
 # Contact
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
@@ -14,7 +14,7 @@ A FoundryVTT compendium of the Ironsmith supplements for [Ironsworn](https://pre
 * [Itch.io](https://jendave.itch.io/)
 
 # Features and Notes
-* Oracles, Assets, Moves, Site/Delve Themes and Domains and Foes from the PDFs are included.
+* Oracles, Assets, Moves, Site/Delve Themes, Domains and Foes from the PDFs are included.
   * [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith)
   * [Ironsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/333665/Ironsmith-Expanded-Oracles)
   * [Ironsmith Japanese Flavor Pack](https://preview.drivethrurpg.com/en/product/372140/ironsmith-japanese-mythology-flavor-pack-softcover)
@@ -53,7 +53,7 @@ Macros for Dice rolling can be found in the `Ironsmith Expanded Oracles Macros` 
   * `Własne Wyrocznie` - PL
   * `Свои оракулы` - RU
 
-Open the `Ironsmith Expanded Oracles` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
+Open the `Ironsmith Expanded Oracles` or `Pack Oracles` compendiums and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
 
 ![Rollable Tables - Custom Oracles](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
 
@@ -62,8 +62,10 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 ![Character Sheet - Custom Oracles](https://github.com/jendave/ironsmith-compendiums/blob/main//docs/custom-oracles-character-sheet.jpg?raw=true)
 
 ## Site Themes and Domains
+Copy the desired themes and domains from the Ironsmith Site compendiums into the `Items` tab in FoundryVTT.
 
-Copy the desired themes and domains from the Ironsmith Site compendiums into the `Items` tab in FoundryVTT. 
+## Foes
+Copy the desired foes from the `Ironsmith Foes` or `Pack Foes` compendiums into the `Actors` tab in FoundryVTT. 
 
 ## Assets and Moves
 * Use the following method to integrate the `Ironsmith Assets` into the character sheet.
