@@ -115,7 +115,7 @@ Please check out my other modules and resources for Ironsworn and Ironsworn: Sta
 ### [FoundryVTT](https://foundryvtt.com/) Modules
 *   [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles)
 *   [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-compendiums)
-*   [Ironsmith Compendiums for Ironsworn](https://foundryvtt.com/packages/ironsmith-compendiums)
+*   [Ironsmith Compendiums for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
 *   [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
 *   [Token Note Hover](https://github.com/jendave/token-note-hover)
 
