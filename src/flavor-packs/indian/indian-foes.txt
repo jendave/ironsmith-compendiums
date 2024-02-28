@@ -1,0 +1,961 @@
+NEW FOES
+The Tigerlands are riddled with small pockets of the firstborn. The stories
+and myths that we took as fiction in the Old World have turned out to be
+based in fact here on this continent. As such, we must be very careful when
+we seek out new resources for survival because those resources are very
+often already claimed by someone else.
+Not only must we be careful to respect the firstborn boundaries and
+cultures, but the animal life in the Tigerlands is diverse, dangerous, and
+plentiful. Tigers and lions are in a constant battle for territory. Bears and
+leopards both patrol the same territories that are free from the tigers or
+lions. Crocodiles have adapted to salt water and will attack canoes or rafts.
+Wild elephants go mad and trample whole settlements. Cobras can be
+found in every nook and cranny despite the mongooses'best efforts.
+This is a dangerous world, but it is our home now. We must press on.
+Design Notes: Many of the mythological creatures I found while
+researching were humanoid in nature with some animal hybridization
+mixed in. I decided to make all of those type of creatures be firstborn for
+this setting, but that may present a problem for players who utilize a
+human-only version. To allow for this issue, I dug a little deeper into the
+research and added a few more foes than I normally do so that there are
+now at least a few in each category.
+
+    AJAKAVA                                                     ANIMAL
+    Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
+                Scorpion that can grow to the size of a bear
+    Features:   Orange and green armored plates
+                Blade-like appendages near the mouth
+                Hunt food
+    Drives:     Search for water sources
+                Drive off other arachnids
+                Sting with venomous tail
+    Tactics:    Slash and grip with pincers
+                Impale with mouth blades
+    When the ajakava scorpion are born, they are only about the size of your
+    little finger, but they grow quickly into a giant hunter of the jungles. With
+    a lifespan of decades if not centuries, we think that they never really stop
+    growing. We have found molted scorpion shells the size of wolves, bears,
+    and one the size of an elephant.
+    Even the tigers will give these creatures a wide berth as their sting is
+    enough to incapacitate an elephant. Couple that with their deadly pincers,
+    and you can see why this creature is deadly for Tigerlanders. Moreover,
+    the ajakava can easily attack multiple targets because they have evolved a
+    secondary set of blade-like appendages near their mouth that they use to
+    impale prey in place while they use their pincers or tail to attack others.
+    The only effective strategy we have found to defeat an ajakava is to sneak
+    attack it from the rear. Their stinger is jointed in such a way that it can only
+    strike in a narrow arc in front of it. If you can begin a battle with an ajakava
+    by severing its tail, you may have a moderate chance of surviving, but the
+    best advice is to never engage in the first place.
+    Quest: Ajakava, like all scorpions, have live birth, and each litter birthed
+    usually contains anywhere from ten to forty young who swarm whatever is
+    nearby for food. A bloated and likely pregnant ajakava bigger than any
+    seen before attacked a small group of travelers stinging one of the people
+    and dragging them off as the others fled. It is probable that the captured
+    person will be used as food for the ajakava's soon to be born young. Who
+    is the captured person? What makes the area of the scorpion's nest
+    particularly dangerous?
+    YOUR TRUTH
+    Can ajakava burrow and tunnel underground?
+
+BAAGH                                                                ANIMAL
+Rank:     Formidable (1 progress per harm; inflicts  3        harm)
+            Muscled feline body
+Features:   Agile movements
+            Orange and black stripes
+            Hunt
+Drives:     Sleep
+            Breed
+            Stalk prey from the shadows
+Tactics:    Claw and bite
+            Leap and snap the neck of prey
+The baagh is dominant species of tiger in the Tigerlands. It is the largest
+cat on the continent, slightly larger than lions, and also has the largest
+canine teeth of any type of cat. Between their fangs and claws, the baagh
+tigers are the royalty of the jungles.
+Despite their size, the baagh is an adept tree climber. From their hiding
+spot in low branches, they can pounce down on prey with enough force to
+immediately snap the neck of their prey. Baaghs also are known to sleep
+in trees to avoid being targeted by a stray ajakava or naag.
+While they primarily prey upon boar, deer, antelope, ox or water buffalo,
+the baagh has also earned the reputation of being a man-eater. This may be
+related to their obvious similarities with the rakshasa firstborn, but there
+have been many instances of Tigerlanders falling prey to a baagh.
+Further cementing their status as the apex predator of the region, the baagh
+tigers are very capable swimmers. They are comfortable attacking prey at
+the water hole, and crocodiles usually will not attempt attacking a baagh
+swimming in their river territory because even in water the tiger is deadly.
+Quest: An aged baagh lives near a settlement who views the animal as a
+guardian spirit. The elder tiger has gotten to the point that it can't hunt for
+itself and survives only with the help of the Tigerlanders. The overseer is
+seeking a group of hunter who will ceremonially lay the baagh to rest.
+Despite it's infirmity, this is still a dangerous proposition. What happened
+in your past that you owe a debt to the overseer forcing you to take on this
+task?
+YOUR TRUTH
+Baagh have developed an unusual ability or characteristic.
+What is it?
+
+    CROCOTTA                                                     ANIMAL
+    Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
+                Large cross between wolf and lion
+    Features:   Jaw made of a single serrated bone
+                Canine-like head with a lion's mane
+                Track and hunt with the pack
+    Drives:     Scavenge buried corpses
+                Howl at the moon, roar at the sun
+                Pounce, rake, bite the jugular
+    Tactics:    Imitate sounds of prey to lure them in
+                Herd the prey to advantageous ground
+    The crocotta has thin fur that is an ever-shifting gradient from gray to tan
+    which allows them to better hunt both at night and during the day. They
+    sleep in short periods throughout a full day so that they can maintain their
+    lifestyle as both diurnal and nocturnal creatures.
+    One of the most frightening abilities of the crocotta is their skill at
+    mimicking sounds of prey they have encountered. Much like a lyre bird, a
+    crocotta can convincingly sound like a crying child, a Tigerlander in pain,
+    or another wounded animal in order to draw in their prey.
+    They tend to hunt in small packs by herding their prey into an area where
+    the pack can easily surround multiple prey and kill them all. Despite their
+    pack nature, the crocotta have also been known to hunt alone. In that case,
+    they often strike swiftly and without warning rather than herding prey.
+    Quest: A pack of crocotta were spotted fleeing through the plains. What
+    did the crocotta fear so much that they were willing to abandon their
+    territory without a fight? How will this threat impact the local community?
+    YOUR TRUTH
+    Are the crocotta natural creatures, or were they originally
+    made through the mystic arts?
+
+NAAG                                                               ANIMAL
+Rank:      Troublesome (3 progress per harm; inflicts 1 harm)
+             Cobra the size of a python
+Features:    Light green expandable hood with two dark circles
+             Variety of coloration patterns on the body
+             Sun and sleep
+Drives:      Opportunistically hunt
+             Mate
+             Hooding, hissing, and raising upper body erect
+Tactics:     Lull into a false sense of security before striking
+             Strike once with venom and wait for prey to die
+The naag is a very large hooded cobra with highly lethal venom. Their
+front fangs are hollow to allow for swift injection of their venom because
+they are unable to keep their fangs embedded in their prey. Naags have an
+excellent sense of smell and night vision making them most dangerous at
+night.
+They rarely go out of their way to hunt since they can go days or even
+weeks without eating, but they will opportunistically prey on any creature
+who passes by. Their preferred tactic is to announce their presence with a
+defensive posture of hissing and hooding. When the prey notice them and
+start to back off, the naag will also back away slowly. This makes the prey
+think they can skirt around the naag which is when it strikes. Amotivated
+naag can cover two Tigerlander arm spans of distance in the time it takes
+lightning to flash. Slower prey have no chance against such a predator.
+Other than the shyena, lions and tigers are the best hunters of the naag
+because they aggressively move in closer to the snake instead of backing
+away. They then present a front paw for the snake to strike, jump up
+slightly when the snake does attack, and swipe the back of the naags head
+with their other front paw. A great cat can decapitate a naag with a few
+iterations of this tactic.
+Quest: A skilled snake charmer had an extremely large naag companion
+that they traveled with to perform. In the last settlement, the naag turned
+on the charmer before disappearing into the jungle. It now returns each
+night to terrorize the settlement. What caused the swift change in the
+naag's behavior to make it so much more aggressive?
+YOUR TRUTH
+Is there a species of naag that is a spitting cobra?
+
+    SHYENA                                                               ANIMAL
+    Rank:     Troublesome (3 progress per harm; inflicts       1  harm)
+                High flying hawk
+    Features:   Bright red and orange feathers
+                Razor-sharp talons
+                Soar through the skies
+    Drives:     Hunt naag
+                Fortify their spherical nests
+                Swift dive and stab deeply with talons
+    Tactics:    Fly-by rake with talons
+                Peck at the eyes
+    Theshyenais aspecies of hawk said to haveoriginally spawned as servants
+    to Agni, the god of fire. Legend says that in order to survive in close
+    proximity to the god, their bodies developed a secretion with powers of
+    rejuvenation. As they neared Agni, their feathers would burn off, but the
+    oily secretion would rapidly regrow their feathers before they hit the
+    ground.
+    Whether the origin legend is true or not, this healing balm produced by the
+    shyena makes them a highly sought after species for priests and healers.
+    Moreover, it gives them the ability to prey on naags since they can be bitten
+    but not feel the effects of the venom due to the revitalizing oil covering the
+    wound.
+    To produce the secretion, the shyena must fly to extreme altitudes. Some
+    say this is the bird's attempt at reconnecting withAgni, but it is more likely
+    that the changes in temperature or pressure trigger the production of the
+    shyena oil. Additionally, the extreme heights give their attacks much more
+    force as they dive bomb a prey and stab them with talons.
+    Quest: A flock of shyena are known to nest in the nearby jungle and are
+    protected by the local Tigerlander settlement. The birds have been trained
+    to recognize a small group of falconers who can coax them to the ground
+    for the shyena oil to be gathered without harming the birds. The last time
+    the falconers went to the shyena nesting grounds, they never returned.
+    Upon investigation, the falconers were found dead and the shyena nest
+    abandoned. Who or what did this? How will the settlement survive now
+    that their main trade good has been taken from them?
+    YOUR TRUTH
+    Are the shyena merely large hawks, or do they also possess
+    supernatural or divine fire abilities?
+
+FARASI BAHARI                                                 BEAST
+Rank:     Troublesome (3 progress per harm; inflicts 1 harm)
+            Horse head and torso
+Features:   Fishes tail
+            Emerald scales and skin with azure mane
+            Graze on coastal algae
+Drives:     Swim in the depths of the ocean
+            Perform complicated mating displays
+            Slap with their tail
+Tactics:    Slash with front hooves
+            Coil foe in their tail to drown
+The farasi bahari, also known as water horses, spend most of their time
+along the depths of the ocean floors making sightings rare. During a few
+weeks throughout the year, water horses will surface and head towards the
+coast to graze on great blooms of algae. It is commonly believed that if you
+can entice a farasi bahari to breed with a normal horse during these times,
+the resulting foal will have enhanced strength and speed as well as a
+shimmering green coat.
+While not extremely aggressive by nature, water horses are easily spooked
+and respond by attacking rather than running away. Their first line of
+attack is to use their front hooves to slash or their tail to bash their foe. If
+their opponent persists in the battle, they have special bones in their tail
+allowing them to extend it long enough to coil around a medium to large
+sized creature. After capturing a land-based foe, they drag it into the
+deeper ocean waters to drown it.
+Quest: A horse breeder claims to have successfully bred his mare with a
+farasi bahari, and the foal did indeed have an emerald coat. However, the
+foal was stolen a few nights ago. Who do you suspect the thief is, and why
+do you think it's not a simple case of theft?
+YOUR TRUTH
+Do the farasi bahari in your world act more aggressively?     If
+so, why?
+
+    REACHISEY                                                                BEAST
+    Rank:     Formidable (1 progress per harm; inflicts 3 harm)
+                      Head of a lion with a short elephant trunk
+    Features:         Body of a dragon with armor-like scales
+                      Bright green scales
+                      Hunt and gorge
+    Drives:           Defend its territory
+                      Make a den for hibernation
+                      Stand on its hind legs in a show of power
+    Tactics:          Slash or impale with claws
+                      Bite legs of prey
+    The reachisey is a form of dragon that was long ago imbued with the
+    characteristics of the lion and elephant. It's lion-like head and mane seem
+    oddly out of place on the reptilian body but no more out of place than the
+    short elephant snout the reachisey uses to drink the blood of its victims
+    while it gorges on their flesh.
+    At the size of a wyvern or large bear, the reachisey is a dominant predator
+    in any region. However, their lack of cunning and stealth means that they
+    can be killed by a large baagh on the prowl. We also exploit this lack of
+    intelligence to lead reachiseys into traps or pitfalls where we can more
+    easily kill them.
+    It is said that the reachisey was once a pure dragon but was warped by an
+    encounter with wayward arcane energies. If they were related to dragons
+    or wyverns, the wings are no longer part of their anatomy, but the armor-
+    like scales remain making this a difficult foe to take down.
+    Quest: An arrogant warrior wants a suit of armor made the bodies of slain
+    reachisey. They have hunted and killed three already, enough to make two
+    suits of armor, but they want each piece of the armor to be taken from a
+    single reachisey. While it is good that the reachisey population is being
+    culled, something else is taking its place in the food chain. What is this
+    new creature, and what dire threat does it pose?
+    YOUR TRUTH
+    Are there different colors of reachisey?          If so, what does each
+    color signify?
+
+SHARABHA                                                                BEAST
+Rank:     Extreme (2 ticks per harm; inflicts 4 harm)
+             Lion's body and head
+Features:    Wings of a large falcon
+             Eight legs
+             Hunt and feast
+Drives:      Defend its territory
+             Find the high places of the world
+             Jump and land on prey with their full body    weight
+Tactics:     Run down and trample prey
+             Slash and rake with front claws
+Sharabha are enormous, solitary beasts that are the size of the largest
+elephant. Despite their bulk, they are able to fly with their feathered wings
+albeit not very gracefully. It is doubtful that they could get enough altitude
+to fly with just their wings, but they use six of their powerful legs to jump
+into the air and begin gliding. Some claim to have seen a sharabha jump
+high enough to clear a whole valley just by gliding to the other side.
+This skill at jumping is also useful to them as they hunt. Their eyesight is
+as good as an eagle or owl, and they can spot prey from afar as they are
+gliding down after a vertical jump into the air.            They then propel
+themselves straight down towards their prey crashing into them with
+tremendous force. They spread out all eight legs as they land to distribute
+the force evenly across their body so that the prey takes the majority of the
+damage and not themselves. Still, it is common to see a sharabha with one
+or two injured legs as the hunt is more important to them than safety.
+We have learned to shy away from the mountainous areas of the Tigerlands
+which is where the sharabha roost. They seem to have a penchant for
+climbing to the highest peaks they can find, and thus, we avoid them.
+Quest: A shunned and dishonored warrior has vowed to kill a rampaging
+sharabha. On their own, this warrior stands no chance. How do you know
+this person, and why do you support them despite their dishonor? What
+will it take to convince them to accept help in their vow?
+YOUR TRUTH
+Do sharabha have a more humanoid upper torso with a lion's
+head on top?
+
+    VRITRA                                                                      BEAST
+    Rank:     Epic (1 tick per harm; inflicts 5 harm)
+                    Gigantic, serpentine dragon
+    Features:       Obsidian armor-like scales
+                    Great leathery wings
+                    Consume all water
+    Drives:         Desolate the land
+                    Desiccate bodies
+                    Consume the rain before it can fall
+    Tactics:        Build earthen fortresses around river  sources
+                    Overpower with size and might
+    There is only oneVritra, the great water dragon. It is more a force of nature
+    than a beast, but none-the-less, it is a physical being. Its gargantuan size
+    and ability to fly make it the most feared creature in all the Tigerlands.
+    The only respite we get from attacks by Vritra are when it sleeps for years
+    at a time after consuming great quantities of water. It can drink whole
+    lakes in a few moments and will stop up rivers with earthen fortifications
+    so it can drink all the water straight from the source. Settlements that one
+    day are near a life-giving river may find themselves in a desert by week's
+    end after one of Vritra's attacks.
+    A cult of Vritra worshippers has sprung up in the Tigerlands claiming that
+    once Vritra's thrist is satiated, it will take its rightful place in the pantheon
+    and reward those who helped slake its thirst. The Vritran cult will spend
+    years building great reservoirs of water as an enticing target for Vritra
+    when it awakes.
+    Quest: A priest of the Vritran cult claims to have found the place of Vritra's
+    slumber and is now diverting whole rivers to create an enormous lake for
+    it when it awakens. A group of overseers met and decided to send a party
+    of warriors to sneak past the Vritrans and kill Vritra while it sleeps.
+    However, a powerful artifact must first be found that will enable the
+    warriors to pierce the dragon's armor. What is this artifact? What tie does
+    it have to your family history?
+    YOUR TRUTH
+    Does Vritra really have wings and fly, or is it a burrowing
+    dragon who can tunnel across a region in minutes? If it
+    burrows, what significant structure did it topple the last time it
+    moved across the land?
+
+ASURA                                                        FIRSTBORN
+Rank:           Dangerous (2 progress per harm; inflicts  2  harm)
+                  Yellow-hued skin tones
+Features:         Clothing adorned with iconography
+                  Angelic wings
+                  Worship the sun gods
+Drives:           Oppose the devas
+                  Protect the Patala Dvaar region
+                  Attack with weapons of light
+Tactics:          Blind and stun
+                  Create illusions
+Some say the asura are demons who escaped from the underworld. Others
+say they are divine beings trying to seal off the underworld. However, they
+may both be wrong. It is possible that the asura are descendants of an
+ancient people who were the first inhabitants of the Tigerlands, the first of
+the firstborn.
+Whatever their ancestral roots, the asura have an affinity for controlling
+and manipulating light through mystic arts. To them, wielding a sword of
+pure light is nothing more complicated than wielding a sword of steel, and
+perhaps even less complicated in their mind. They can call forth powerful
+motes of pure light, wreathe a shield in a protective layer of light, or alter
+hues of ambient light so precisely that a person sees something that is not
+truly there, merely an illusion.
+Since we first became aware of the existence of the asura, they have been
+at war with the devas in Patala Dvaar. As far as we can tell, this war has
+been perpetually waging seen time out of mind.
+It is rare that an asura will make their way south, but when they do, they
+often tuck their wings tightly to their back or cover them with a cloak so
+that they can pass as a Tigerlander. It is true that they are similar in
+anatomy to us, but as we understand it, there are four genders of asura and
+all four are necessary for procreation. They are nar, pun, mahila, and stan.
+Quest: The fourth member of an asura parental group has gone missing.
+Without the stan's contribution soon, the developing embryo may die.
+What dangerous place was this asura going to? Why do you offer to help?
+YOUR TRUTH
+Are the asura attuned to light or fire?
+
+    DEVA                                                         FIRSTBORN
+    Rank:      Dangerous (2 progress per harm; inflicts 2 harm)
+                       Blue-hued humanoid
+    Features:          Small gills on the neck
+                       Wide, webbed feet and hands
+                       Worship the water gods
+    Drives:            Oppose the asura
+                       Keep outsiders away from Patala Dvaar
+                       Crossbows and harpoons
+    Tactics:           Attack from underwater
+                       Manipulate the weather
+    Much like the asura, devas are at times called demons or divine but are
+    likely descendants of an ancient people like the asura. Devas are especially
+    attuned to water and can control or manipulate it even in the weather. They
+    may call forth a rain storm to ground the flying asura during a fight and
+    then flood the battlefield to drown the asura.
+    While it would be foolhardy to label an entire people group as malevolent,
+    there is a subset of devan society that worships Vritra as the greatest of the
+    water gods who will reshape the world soon. The devan sect of the Vritran
+    cult is happy to destroy parts of the world with the fervent belief that it
+    doesn't matter since the world will all be reshaped and reborn in Vritra's
+    waters anyway.
+    From the little we have gathered about the devas, they are a single gender
+    society that reproduces asexually. Their bodies go through cycles of
+    needing to breathe more water and then needing more air with each cycle
+    lasting months. During the water phase, the devan body produces the egg
+    of their young, and during the air phase, they can choose whether or not to
+    fertilize the egg.
+    Quest: A wounded deva shows up at a settlement seeking asylum and
+    protection from a band of asura hunting it. What object of power does the
+    deva have in their possession that makes you wary of helping them? What
+    would happen if that object fell into the wrong hands?
+    YOUR TRUTH
+    Do devas have tails that help them swim better?
+
+GANESHAN                                                        FIRSTBORN
+Rank:        Formidable (1 progress per harm; inflicts 3 harm)
+               Large humanoid with an elephant's head
+Features:      Tusks adorned with beads
+               Thick gray skin
+               Understand how and why the world functions
+Drives:        Collect the lore of the realms
+               Stay neutral in conflict
+               Diplomacy
+Tactics:       Spears and staves
+               Wall of shields
+The elephant folk known as ganeshans are the self-proclaimed high gurus
+of all the Tigerlands.  Their society prides itself on their wisdom,
+knowledge and ability to apply logic over emotion to a troubling situation.
+They are also known for their devotion to the arts, particularly that of
+written epics. Their writing is widely recognized as some of the most
+beautiful script in the lands.
+It is possible that the ganeshans continue to thrive in such a harsh
+environment as the Tigerlands due to their stance on maintaining neutrality
+in all disputes. While their people are relatively few in number compared
+to other firstborn or us Tigerlanders, they have nonetheless been able to
+avoid tragedy in their communities through rational discourse and
+compromise.
+Those who test the ganeshans quickly find out that they are not only wise
+but also strong and capable warriors when the need arises. Their warriors
+are first trained with a spear and large shield, but many ganeshans quickly
+trade the spear out for a staff in order to deal less lethal damage. Despite
+this, being hit with a ganeshan staff is still exactly like being hit by an
+elephant: not good.
+Quest:Aremote and hidden ganeshan community is said to house a library
+with a wondrous tome of knowledge among the normal lore. What is the
+subject of this powerful tome, and what do you need it for?
+YOUR TRUTH
+What do the patterns or colors of the beads on ganeshan trunks
+signify?
+
+    KIMPURUSHA                                                   FIRSTBORN
+    Rank:     Formidable (1 progress per harm; inflicts 3 harm)
+                Lion-headed humanoid
+    Features:   Flowing beards/manes
+                Elegant sherwani jackets and pagri turbans
+                Loyalty to the pride
+    Drives:     Defend their territory
+                Following the social hierarchy
+                Urumi strikes
+    Tactics:    Roaring frontal charge
+                Draw the circle
+    Our name for kimpurusha comes from the phrase, "Is it human?" When
+    we first saw them from afar, we thought their manes were bushy beards, but
+    we could also see the coloration of their fur and feline heads. We continue
+    to refer to them as kimpurusha because they are unwilling to share their
+    own language or culture with us.
+    We do know that they are fiercely loyal to each other. The surest way to
+    die in battle against these lion folk is to injure one of them which then
+    enrages the others making them fight doubly hard. It is easier to set your
+    weapons down and admit defeat before the battle even begins. At least that
+    way you have a chance of being allowed to live and let go.
+    The other thing we know is that there appears to be a strict pecking order,
+    at least among their warrior groups. The apparent leader of a squad is
+    obeyed without question, but a series of commands are then made by other
+    kimpurusha in an orderly fashion that descend through the ranks.
+    Quest: A kimpurusha settlement was discovered relatively near to a lake
+    that the Tigerlanders are eager to fish. With other food supplies running
+    low due to the inability to grow crops, the overseer wants to make contact
+    with the lion folk and negotiate for use of the lake. What happened the last
+    time you crossed paths with the kimpurusha?
+    YOUR TRUTH
+    The kimpurusha culture is highly honor driven. Does this
+    manifest as a noble, respectful society or as a defensive, easily
+    offended society?
+    (Design Note: Think Arthurian knights versus Klingons)
+
+KINNARA                                                     FIRSTBORN
+Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
+            Horse-headed humanoids
+Features:   Hands protected by gauntlet-like hooves
+            Extreme speed on the open plains
+            Travel the lands with their herds
+Drives:     Live in balance with nature
+            Isolate from other cultures
+            Charge with halberds
+Tactics:    Out maneuver foes
+            Flank
+The kinnara look similar to the mythical minotaur except with equine
+features rather than bovine. Their legs have a similar musculature as a
+normal horse which makes their stride length tremendous. On an open
+plain, they can match a normal horse's gallop and maintain that speed for
+nearly as long as their animal counterpart.
+Kinnara usually live in small nomadic herds on the western plains where
+they travel from place to place so that they don't reduce the natural
+resources in one area too much. They set up colorful tents made from the
+stalks of a wild grain that only grows in the west and can pack up their
+whole camp on a few small wagons they hitch to their belts to pull.
+While most kinnara herds are not aggressive, they swiftly become so if we
+get too close to them. They wield wicked looking halberd and other pole
+arms with deadly efficiency. Thus, we have yet to establish any formal
+contact with their people, and we're quite sure that's the way they like it.
+Quest: A traveling kinnara herd has been leaving behind sick and dying
+horse folk, and some of the diseased corpses made their way into the water
+supply of a nearby Tigerlander settlement. Having never been exposed to
+this disease before, it is running like wildfire through the settlement. Who
+is a powerful healer that you know who may be able to help? Would the
+kinnara have more information about this disease that you need?
+YOUR TRUTH
+Are the kinnara in your world more like centaurs? If not, are
+they able to bend down to use their arms as another pair of legs
+allowing them to run on four legs?
+
+    NAGA                                                         FIRSTBORN
+    Rank:      Dangerous (2 progress per harm; inflicts 2 harm)
+                 Torso and head of a human
+    Features:    Long snake tail instead of legs
+                 Colorful body paint with intricate patterns
+                 Gain power from the underworld
+    Drives:      Dominate other cultures
+                 Move up the social ladder by pushing others down
+                 Powerful bows that shoot multiple arrows
+    Tactics:     Tail slap
+                 Mystic arts
+    Our current belief is that the snake folk known as nagas originated in the
+    underworld. We don't know if they came to this realm to conquer it, or if
+    they are stuck in this realm trying to get back to the underworld and need
+    more power or resources to do so. Either way, encountering nagas is
+    usually dangerous.
+    They have developed a powerful longbow with slots to shoot multiple
+    arrows at once. We're not sure how they have the strength to pull back
+    these bows. It's possible that they have tendons that run through their arms
+    all the way down their tails because they usually coil their tails as they fire
+    the bows. Because of the extreme distance these bows have and their
+    accuracy when using them, we often don't know that nagas are nearby until
+    some of our Tigerlanders fall dead to their arrows.
+    Very rarely we spot a naga who has smaller snake heads growing out of
+    their necks. These naga seem to be treated with special deference and also
+    seem to be their most gifted mystics.
+    Quest: A group of nagas seem to be on the hunt for something. They are
+    killing and pillaging their way through the area, but their battles seem
+    secondary to them as they spend the majority of their time searching and
+    sifting through wreckage. What powerful item is rumored to be in the area
+    that they may be looking for? What could the nagas accomplish if they had
+    control of this item?
+    YOUR TRUTH
+    What powers does a naga gain if they have snake heads
+    growing from their neck? What does the number of snake
+    heads growing there signify?
+
+RAKSHASA                                                      FIRSTBORN
+Rank:      Formidable (1 progress per harm; inflicts 3 harm)
+             Tiger-headed humanoid
+Features:    Heights typically larger than the tallest Tigerlander
+             Strength of a giant with feline grace to match
+             Hunt
+Drives:      Feast and drink
+             Battle for supremacy
+             Swift claw attacks
+Tactics:     Vicious bite
+             Martial arts styles
+The rakshasa earned a reputation as "man eaters" early on in our
+exploration of the Tigerlands. They love a good battle and often eat their
+foes after a victory. Some say this is because they view burying the bodies
+as wasting resources, and others claim its because the rakshasa gains some
+power or wisdom by ingesting their enemies.
+Tiger folk love a good competition whether it is who can kill the boar on a
+hunt, who has the most kills in battle, or who can leap the furthest across a
+mountain passage. While not foolproof, capitalizing on this need to always
+be the best has saved the life of more than one Tigerlander captured by the
+rakshasa.
+During a fight, the rakshasa typically like to toy with their foe. Due to their
+overwhelming size and strength, they feel confident that their foes will
+usually go down with a single strike, and due to their agility and mastery
+of martial arts, they are confident that no foe can strike them.
+Unfortunately, their confidence is not unwarranted.
+Quest: An aged rakshasa has abandoned their people and is offering to
+teach Tigerlanders the secrets of their martial arts. What ulterior motive
+might this rakshasa have? What series of unusual events has befallen the
+last several pupils the rakshasa had?
+YOUR TRUTH
+Are the rakshasa actually a form of demon?
+
+    RIKSHA                                                       FIRSTBORN
+    Rank:     Formidable (1 progress per harm; inflicts   3  harm)
+                     Humanoid bears
+    Features:        Thick fur of various colors
+                     Kiln-hardened wooden armor
+                     Defend their dens
+    Drives:          Gather and fortify for hibernation
+                     Be masters of the mountains
+                     Deadly chakram throw
+    Tactics:         Stout hammer blows
+                     Overwhelming brute force
+    The riksha consist of several different groups of bear folk. While it's not
+    uncommon to see brown and black bear folk mixed in groups, the white-
+    furred riksha rarely mingle with others. There are also tribes of bear folk
+    with a bright sun burst on their chests and tribes with bear folk that
+    resemble sloths.
+    While each tribe favors different weapons, the adoption of the chakram
+    seems to be near universal. With the strength the riksha possess, they can
+    deeply embed the bladed discs into their foes and sometimes even cut a
+    Tigerlander in two with a single throw. We believe their reliance on these
+    weapons is due to their large claws interfering with the use of a more
+    traditional bow and arrow.
+    During our first few winters in the Tigerlands, we noticed that the riksha
+    were never spotted during the depths of winter. We believe that they
+    hibernate during this time, but we cannot confirm it because they often
+    collapse entrances to their dens for the winter.
+    Quest: One riksha tribe appears to have exquisitely crafted weapons
+    including hammers made from an iron unlike any other previously seen in
+    the Tigerlands. What is this new iron ore, and what properties does it
+    have? What secrets to smithing iron do these riksha posses?
+    YOUR TRUTH
+    Aselect few riksha are chosen to not hibernate and assigned to
+    guard the den during the winter. Is this position considered a
+    great honor? If so, how are the guardians chosen? What are
+    the effects on a riksha who does not hibernate?
+
+VANARA                                                      FIRSTBORN
+Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
+              Simian humanoids
+Features:     Long strong tails
+              Loose fitting clothing to maximize movement
+              Explore ancient ruins
+Drives:       Defend their treetop homes
+              Expand their jungle territory
+              Strike with their tail patar
+Tactics:      Use the trees to their advantage
+              Swarm their foes
+The vanaran people are masters of the jungles who build extravagant
+homes in the canopy of the trees. They can travel long distances through
+the upper branches of the jungle faster than others can travel by foot on the
+ground below.
+This style of swinging from the branches extends to their approach to battle
+as well. They will crisscross the battlefield attacking with the patar held in
+their tails, and if they end up on the ground, they juggle two patars between
+their hands and their tail so that their opponent never knows where a strike
+will be coming from.
+It may be true that not all the vanaran people are competent explorers, but
+many of them are. They seem to have some special knowledge as to where
+the hidden ruins of the world are located and mount regular expeditions to
+these locations. In fact, we will often track and follow their groups to find
+these ancient ruins ourselves. While there is never anything powerful left
+after the vanara leave a site, we can sometimes use the crumbling stone to
+build with rather than trying to quarry new rock.
+Quest: A vanaran expedition uncovered yet another site of ancient ruins,
+but this time they didn't come back out. It has been weeks since we saw
+them enter the place, and our scouts now assume the expeditionary force
+perished inside. What sigil or iconography can be seen at this site that
+points to dangers inside? What do you hope to find within the ruins?
+YOUR TRUTH
+Are there vanarans without a tail?
+
+    ALEYA                                                              HORROR
+    Rank:      Troublesome (3 progress per harm; inflicts 1 harm)
+                 Ethereal green orb floating over swamps
+    Features:    Thin tendrils writhing out of the center
+                 Slowly pulsing light as if breathing
+                 Consume the spirits of the living
+    Drives:      Confound the living
+                 Protect sacred places
+                 Lead people astray so they become hopelessly lost
+    Tactics:     Touch with tendrils causing memory loss and confusion
+                 Embed themselves in the chest of victim
+    The ghostly lights of aleya are found in many of the swamps and marshes
+    of the Tigerlands, particularly in the ghost swamps of Nadiyon Kee Maut.
+    Legend says that these are the souls of fishermen drowned in the swamps
+    whose only desire is to see others befall the same fate.
+    Usually an aleya will simply try to confuse a victim's sense of direction in
+    the hopes of getting them lost as eventually the victim will succumb to one
+    of the myriad dangers of the swamp. However, sometimes an aleya will
+    take more aggressive actions. If the light approaches close enough that it
+    can brush its tendrils across your head, you are likely to be filled with
+    confusion. You won't remember where you are or where you are going,
+    and you'll likely allow the aleya to lead you to your death.
+    The worst attack an aleya can make is to directly enter your body in an
+    attempt to possess you. If this happens, your only hope is singing one of
+    the sacred hymns until the aleya leaves your body.
+    Design Note: You may treat an aleya like an anomaly instead of a
+    traditional foe if you prefer.
+    Quest: Aleya lights are known to haunt a nearby swamp, but recently five
+    aleya each of different color have been seen working in concert. What do
+    the different colors signify? Why are the aleya working together?
+    YOUR TRUTH
+    Is there a physical center to aleya, or are they completely
+    ethereal?
+
+HAYA       SIRAS                                             HORROR
+Rank:      Dangerous (2 progress per harm; inflicts 2 harm)
+             Blazing flame for a body
+Features:    Top of the flame takes the shape of a horse
+             Uncanny speed
+Drives:      Burn the living
+             Free working animals
+             Flaming charge
+Tactics:     Surround in a circle of fire
+             Separate individual victims from the group
+The haya siras are said be either tears ofAgni that fell to the earth and were
+corrupted by contact with mortals or conjured servants of Keshi the horse
+demon. Whatever their origins, these horrors are particularly dangerous
+because of their speed. If they are not spotted in time, it is nearly
+impossible to escape them.
+Luckily, the haya siras can be temporarily removed from our plane of
+existence. There is a physical core at the center of their flames that can be
+attacked with normal weapons, but the mystic arts are a much more reliable
+means of exorcising these demons. They fear the ritual retelling of the tale
+of how Keshi was defeated, cower before the sacred hymns, and are most
+vulnerable to water blessed by an enlightened guru.
+Whether out of a sense of companionship or the desire to make life harder
+for Tigerlanders, we have noticed that the haya siras often try to free our
+horses, cattle, goats and other livestock. They will burn through any
+restraints and then chase off the animals before turning back to deal with
+us. For this reason, when traversing the swamps, we always blindfold our
+horses at night so they are not as easily spooked.
+Quest: A settlement was recently destroyed in a great conflagration set by
+several haya siras. Another nearby settlement has decided to set out on a
+mission to rescue the now free roaming livestock before they die in the
+jungles. They have charms supposedly blessed with holy water to protect
+them, but what makes you think the charms are fake? Who is going on this
+mission that you desperately need to keep safe?
+YOUR TRUTH
+Was Keshi the horse demon truly defeated, or has the demon
+returned for revenge?
+
+    KALA       BHAKSHAK                                              HORROR
+    Rank:      Epic (1 tick per harm; inflicts 5 harm)
+                 Body consisting only of a large canine-like        head
+    Features:    Pitch black skin
+                 Surrounded by spectral tentacles
+    Drives:      Devour living things
+                 Instantly age a captured victim
+    Tactics:     Swallow whole
+                 Multi-tentacle strike
+    Kala Bhakshak, the Time Eater, was said to be the one who would end the
+    world. After all, time devours all things. Unfortunately, this legend is
+    demonstrably true and evident in the Tigerlands.
+    We do not know if there are multiple creatures that resemble the true Kala
+    Bhakshak or if there is only the one that we continue to drive away from
+    the material plane of existence at great cost. All that we know is that with
+    many stout warriors, devout priests, master mystics, and wise gurus, we are
+    able to defeat this horror at least temporarily.
+    However, we know it is a losing battle. Each time a Kala Bhakshak
+    appears, it is more and more difficult to drive away. It grows in power with
+    each life it snuffs out. And dear gods, the screams. The screams of those
+    who are ravaged by time in mere seconds while entangled in the creatures
+    ghostly purple tentacles are sounds that haunt your nightmares.
+    How or why Kala Bhakshak appears is a mystery, as are most things about
+    the creature, but all Tigerlanders know that any feuds or battles are
+    secondary to the need to defeat the Time Eater. When the call goes out, we
+    all respond lest we all perish.
+    Quest:Amystic claims to have a sample of phantasmal material taken from
+    Kala Bhakshak the last time it appeared. When asked to destroy it, the
+    mystic refused and fled. Several settlements have pulled together to put a
+    bounty on this mystic and the sample before any experimentation can be
+    done with the material. What doomsday cult is seeking to find the mystic
+    for themselves in order to facilitate their research? What motivation do
+    you think the mystic has to risk meddling with such a powerful substance?
+    YOUR TRUTH
+    Is Kala Bhakshak a single entity or a category of epic horror?
+    What rare material is Kala Bhakshak vulnerable to?
+
+PISHACHA                                                         HORROR
+Rank:     Formidable (1 progress per harm; inflicts     3 harm)
+            Pitch black humanoid
+Features:   Violent red eyes
+            Bulging veins covering the body
+Drives:     Cause the living to suffer
+            Drink the spirits of the living
+            Inflict rapid onset disease
+Tactics:    Spray others with their own diseased       blood
+            Raking claws of pestilence
+A pishacha is a terrible foe to face in battle. They have no regard for their
+own body and in fact are quite happy to be torn apart as it spreads their
+sickness that much faster. Their only desire is to see the living suffer and
+die the slow painful death of disease. All it takes is a single touch from a
+pishacha to develop painful boils or a shriveled hand.
+Not only can a pishacha incapacitate you with their supernatural diseases,
+but their size and bulk make them a physical threat as well. They have
+lanky arms with dagger-like claws on their hands that they wield
+effectively in battle.
+While we can cut down pishachas with blades, their ichor oozes back
+towards the main body portion and slowly stitches the pishacha back
+together again over time. They can never be truly defeated except with fire.
+Their body is highly flammable and even explosive when exposed to too
+much fire too quickly.
+There are medicine men, mystics and gurus who have discovered effective
+treatments for a pishacha disease, but the treatment involves rare and
+exotic materials that must first be gathered. Additionally, the course of
+treatment is painful in and of itself so that not all survive the healing
+process.
+Quest:Adark mystic claims to have a pishacha in their thrall and threatens
+to unleash it on a settlement unless their demands are met.      What
+dangerous or unavailable thing does the mystic desire? How do you know
+this mystic from your past?
+YOUR TRUTH
+Can the ichor and torn parts of multiple pishacha reform into a
+single larger demon? If so, what is this demon known as, and
+what are its unique abilities?
+
+    YAKSHA                                                                HORROR
+    Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
+                Humanoid and ghostly body
+    Features:   Distinctive leaf patterns writhing on their skin
+                Dark oaken staffs
+                Protect the forests
+    Drives:     Lead the worthy
+                Slaughter the unworthy
+                Teleport from tree to tree
+    Tactics:    Summon entangling vines
+                Staff strike
+    The yakshi are considered to be guardians of the forests, but each yaksha
+    is unique from the next. It would be wrong to claim that all yakshi are evil
+    forest spirits because a few yakshi have been known to help lost travelers.
+    However, any individual yaksha can turn aggressive the moment it thinks
+    you are an unworthy interloper.
+    Most yakshi we have encountered patrol a small section of a forest. We
+    don't know if they are tied to an individual tree or other aspect of the forest
+    or if they are capable of leaving the area but choose not to. They do
+    communicate in a rudimentary way, but we have found the longer we
+    interact with them, the more likely we are to be found unworthy.
+    When in battle with a yaksha, it can attack from any direction because it
+    has the ability to "tree walk." The spirit walks into one tree and then walks
+    out of a different tree that may be on the other side of a clearing.
+    While the yakshi are non-corporeal in nature, it seems that weapons of iron
+    have an effect on them. Additionally, their staves are made of true,
+    physical wood. If they tree walk, they drop their staff. Many have tried to
+    sunder a yakshi's staff, but this only enrages them more. It's best to drive
+    them away with direct attacks or escape quickly.
+    Quest: An ancient tree grows in the middle of the jungle and produces
+    hallucinogenic fruit that is sought after for its uses in meditation towards
+    enlightenment. However, the tree is diseased, and a yaksha has appeared
+    asking for help healing it. What is needed to cure this elder tree? Why
+    does the yaksha look familiar to you?
+    YOUR TRUTH
+    Are yakshi more benevolent in your world?
+
+ASTOMI                                                         TIGERLANDER
+Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
+                 Thoughtful questions
+Features:        Flowing and precise movements
+                 Glowing aura of light
+                 Seek further enlightenment
+Drives:          Enlighten others even if against their will
+                 Live in balance with the world
+Tactics:         Subtle and sudden disabling attacks
+                 Appeal to reason
+Some of the great gurus reach a higher level of enlightenment that
+produces physical changes in their bodies. They no longer need food or
+drink but can gain nourishment simply from smelling the fragrance of a
+fruit tree or the freshness of a mountain stream. Their body ages much
+more slowly, and they isolate themselves from most in society. We call
+them the astomi.
+Unfortunately, the strain of enlightenment takes a toll on the mind as the
+body and spirit begin to disconnect from that which anchors them to this
+world. As they strive for higher and higher enlightenment, they seek to
+impart their wisdom to others in more and more forceful ways. We excuse
+this behavior because we know the astomi are close to nirvana, but this
+does not make them any less dangerous when crossed.
+Quest: One of the astomi has wandered into the settlement and begun to
+meditate in the center of the village. Many gathered to pay respects to the
+enlightened guru and waited patiently for teachings filled with wisdom.
+After two days and two nights, still without speaking, the astomi
+approached one villager after another and sketched a symbol on their
+forehead that glowed for a time before disappearing. Once the symbol
+absorbed into their bodies, the villagers began committing violence to
+themselves and each other as the astomi watched. What is this enlightened
+one trying to teach the people? Is the astomi still aware of the mortal realm
+or has their mind already passed on?
+YOUR TRUTH
+Are astomi feared instead of respected? If so, do people openly
+acknowledge the necessity of becoming astomi and accept the
+chaos this can cause for others?
+
+    RISHYASRINGA                                                  TIGERLANDER
+    Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
+                       Human with deer antlers
+    Features:          Ability to seer possible futures
+                       Engulfed in flame when overwhelmed
+    Drives:            Guide others to avoid horrible fates
+                       Search for patterns in the chaos of fate
+    Tactics:           Disable with a vision of the future
+                       Burn with a touch
+    The rishyasringas are those who have been touched by Yama, god of the
+    dead and the first of those to die. Those who experience an encounter with
+    the god often go into a fevered dream state for several days during which
+    time a pair of antlers grow on their head. From that point forward, they are
+    no longer fully human and gain the ability to look into the chaotic swirls of
+    the river of fate.
+    A rishyasringa may be sought out before making significant decisions, but
+    many times the message the rishyasringa delivers is cryptic and not what
+    one expects. Through a mystic ritual, they can pull visions out of their own
+    mind and place them into the mind of one who seeks answers. Thisinduces
+    a vision in the person and incapacitates them until the vision is finished.
+    Unfortunately, the chaos that rishyasringas navigate can also drive them
+    mad. The closer they get to breaking, the warmer their body gets, and a
+    spectral flame begins to surround their body and grow. At some point, the
+    rishyasringa can contain the chaos no longer, and their mind breaks. The
+    energy of pure chaos then manifests as a blazing inferno around them as
+    they destroy themselves and those around them.
+    You may seek the wisdom a rishyasringa can give, but is it worth the
+    potential cost?
+    Quest: A messenger approaches you claiming that a rishyasringa has
+    summoned you. They have a vision to share with you of dire importance.
+    The messenger says the rishyasringa is near the point of conflagration, but
+    is attempting to hold on until you can see the vision. What have you seen
+    in your dreams of late that give a clue to this vision? How did you know
+    this rishyasringa before they gained their power?
+    YOUR TRUTH
+    Are the antlers the only manifestation of a rishyasringa's
+    power? If not, what other physical changes take place?
+
+WERETIGER                                                 TIGERLANDER
+Rank:         Formidable (1 progress per harm; inflicts 3 harm)
+                  Bulging muscles covered with sweat soaked fur
+Features:         Stripes like a tiger but purple on sickly gray
+                  Salivating jaw and elongated hands with claws
+                  Stop the pain
+Drives:           Destroy
+                  Satiate bloodlust
+                  Claw and bite
+Tactics:          Pounce and rake
+                  Ambush from hiding
+Weretigers are a grotesque distortion of a Tigerlander who has been bitten
+by a rakshasa or was twisted by a powerful mystic ritual gone wrong. The
+person's body rapidly stretches and twists into a humanoid with the
+strength and appearance of a grisly tiger.
+Not every person bitten by a rakshasa turns into a weretiger, but we know
+that it occurs with some frequency. If we knew exactly what the rakshasas
+were doing to cause this reaction, we could put some protections in place,
+but alas, we are powerless against this attack thus far.
+When a Tigerlander turns into a weretiger after using a mystic ritual, it is
+usually a ritual that has to do with imbuing strength. We think it possible
+that these rituals are sabotaged by some unknown entity because the
+transformation into a weretiger when these rituals go wrong also does not
+occur every time.
+Regardless of how it happens, one who has been transformed into a
+weretiger becomes a killing machine roaring in pain and rage. They attack
+whoever they can and at times run aimlessly through the jungles screaming
+and roaring.
+Quest: A weretiger was spawned after the last rakshasa attack, and now a
+mystic in the settlement thinks they have a way to transform the weretiger
+back into a human if only they can get the necessary ingredients and
+capture the weretiger alive. Who was this weretiger to you before they
+transformed that you are willing to risk your life to help them?
+YOUR TRUTH
+Are there other werebeasts, or are they always tigers?
