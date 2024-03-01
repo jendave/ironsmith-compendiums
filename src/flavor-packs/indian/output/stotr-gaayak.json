@@ -3,20 +3,20 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "When you sing an ancient hymn to a god below, roll wits",
+        "requirement": "When you sing an ancient hymn to a god below, roll +wits",
         "category": "Ritual",
         "color": "",
         "fields": null,
         "abilities": [
             {
-                "description": "<p>Star (Chandra): Ask a single question. On a strong hit, you read a helpful omen in the stars. Envision what you learn (ask the Oracle if unsure) and take +2 momentum. On a weak hit, the omen contains a warning. Envision this warning and take only +1 momentum</p>",
+                "description": "<p>Star (Chandra): Ask a single question. On a strong hit, you read a helpful omen in the stars. Envision what you learn (ask the Oracle if unsure) and take +2 momentum. On a weak hit, the omen contains a warning. Envision this warning and take only +1 momentum.</p>",
                 "enabled": "true",
                 "hasClock": "false",
                 "clockMax": "4",
                 "clockTicks": 0
             },
             {
-                "description": "<p>Fire (Agni): On a strong hit, an object you hold alights with ghostly flame dispeling the darkness in a large area. On a weak hit, the flame dispels the darkness in your immediate area</p>",
+                "description": "<p>Fire (Agni): On a strong hit, an object you hold alights with ghostly flame dispeling the darkness in a large area. On a weak hit, the flame dispels the darkness in your immediate area.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,

@@ -28,7 +28,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>Rampage: After you have intoxicated your elephant and order it to @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash}, inflict +2 harm on a hit. On a weak hit or miss, there is collateral damage. Pay the Price and make it worse</p>",
+                "description": "<p>Rampage: After you have intoxicated your elephant and order it to @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash}, inflict +2 harm on a hit. On a weak hit or miss, there is collateral damage. Pay the Price and make it worse.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,

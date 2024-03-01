@@ -3,7 +3,7 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "When you sing an ancient hymn to a god below, roll wits.",
+        "requirement": "When you sing an ancient hymn to a god below, roll +wits.",
         "category": "Ritual",
         "color": "",
         "fields": [

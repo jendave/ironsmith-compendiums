@@ -14,16 +14,16 @@
             "Description": "Bladed Discs",
             "Name": "Chakram",
             "Foreword": "If you wield chakram...",
-            "Ability1": "When you Strike edge, you may choose one before rolling.<ul><li>Barrage: Retain initiative on a weak hit but inflict only 1 harm.</li><li>Sever limb: Inflict +1 harm on a hit but suffer -1 momentum.</li><li>Follow up: On a strong hit, you may Strike now and add +1.</li></ul>",
+            "Ability1": "When you Strike +edge, you may choose one before rolling.<ul><li>Barrage: Retain initiative on a weak hit but inflict only 1 harm.</li><li>Sever limb: Inflict +1 harm on a hit but suffer -1 momentum.</li><li>Follow up: On a strong hit, you may Strike now and add +1.</li></ul>",
             "Ability2": "When you Face Danger to recover thrown chakram, add +1 and take +1 momentum on a hit.",
-            "Ability3": "When you use your chakram as a simple weapon (1 harm), you may Strike or Clash iron (instead of +edge). If you do, add +1 and take +1 momentum on a hit."
+            "Ability3": "When you use your chakram as a simple weapon (1 harm), you may Strike or Clash +iron (instead of +edge). If you do, add +1 and take +1 momentum on a hit."
         },
         {
             "Category": "Combat Talent",
             "Description": "Whip Sword",
             "Name": "Urumi",
             "Foreword": "If you wield an urumi...",
-            "Ability1": "When you Face Danger edge by pushing your foe or foes back with wide arcs of the urumi, choose your approach (decide before rolling).<ul><li>Lashing cobra: On a strong hit, inflict 1 harm.</li><li>Grinning tiger: On a hit, take +1 momentum.</li><li>Mauling bear: On a hit, Strike (if you have initiative) or Clash now and add +1.</li></ul>",
+            "Ability1": "When you Face Danger +edge by pushing your foe or foes back with wide arcs of the urumi, choose your approach (decide before rolling).<ul><li>Lashing cobra: On a strong hit, inflict 1 harm.</li><li>Grinning tiger: On a hit, take +1 momentum.</li><li>Mauling bear: On a hit, Strike (if you have initiative) or Clash now and add +1.</li></ul>",
             "Ability2": "As above, but when you Face Danger in this way, add +1 and take +1 momentum on a hit.",
             "Ability3": "You may choose to add +1 when you Strike or Clash. If you do, inflict 1 harm (instead of 2)."
         },
@@ -44,7 +44,7 @@
             "Foreword": "Your elephant is unstoppable.",
             "Ability1": "Charge: When you Enter the Fray +heart atop your elephant, add +1 and take +1 momentum on a hit.",
             "Ability2": "Siege Engine: When you Secure an Advantage by tearing down defensive structures or Face Danger within the howdah atop your elephant, add +1 and take +1 momentum on a hit.",
-            "Ability3": "Rampage: After you have intoxicated your elephant and order it to Strike or Clash, inflict +2 harm on a hit. On a weak hit or miss, there is collateral damage. Pay the Price and make it worse",
+            "Ability3": "Rampage: After you have intoxicated your elephant and order it to Strike or Clash, inflict +2 harm on a hit. On a weak hit or miss, there is collateral damage. Pay the Price and make it worse.",
             "TrackLabel": "Health",
             "TrackMax": 5
         },
@@ -80,16 +80,16 @@
             "Category": "Ritual",
             "Description": "Hymn Singer",
             "Name": "Stotr Gaayak",
-            "Foreword": "When you sing an ancient hymn to a god below, roll wits",
-            "Ability1": "Star (Chandra): Ask a single question. On a strong hit, you read a helpful omen in the stars. Envision what you learn (ask the Oracle if unsure) and take +2 momentum. On a weak hit, the omen contains a warning. Envision this warning and take only +1 momentum",
-            "Ability2": "Fire (Agni): On a strong hit, an object you hold alights with ghostly flame dispeling the darkness in a large area. On a weak hit, the flame dispels the darkness in your immediate area",
+            "Foreword": "When you sing an ancient hymn to a god below, roll +wits",
+            "Ability1": "Star (Chandra): Ask a single question. On a strong hit, you read a helpful omen in the stars. Envision what you learn (ask the Oracle if unsure) and take +2 momentum. On a weak hit, the omen contains a warning. Envision this warning and take only +1 momentum.",
+            "Ability2": "Fire (Agni): On a strong hit, an object you hold alights with ghostly flame dispeling the darkness in a large area. On a weak hit, the flame dispels the darkness in your immediate area.",
             "Ability3": "Storm (Indra): On a hit, dark clouds gather and gentle rain begins to fall that lasts up to an hour. On a strong hit, you may direct the clouds to become a thunderstorm or flood-inducing torrential rain instead."
         },
         {
             "Category": "Ritual",
             "Description": "Hymn Singer",
             "Name": "Stotr Gaayak (Template)",
-            "Foreword": "When you sing an ancient hymn to a god below, roll wits.",
+            "Foreword": "When you sing an ancient hymn to a god below, roll +wits.",
             "Input1": "God",
             "Input2": "Ability",
             "Input3": "God",
