@@ -18,6 +18,7 @@ A FoundryVTT compendium of the Ironsmith supplements by [Eric Bright](https://pr
   * [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith)
   * [Ironsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/333665/Ironsmith-Expanded-Oracles)
   * [Ironsmith Japanese Flavor Pack](https://preview.drivethrurpg.com/en/product/372140/ironsmith-japanese-mythology-flavor-pack-softcover)
+  * [Ironsmith Indian Flavor Pack](https://preview.drivethrurpg.com/en/product/374967/ironsmith-indian-hindu-mythology-flavor-pack-softcover)
 * Tables that are copies of the Ironsworn official tables are included if they are part of Ironsmith 1-2, 3-4, 5-6 array.
 * Tables that are simply copies of official Ironsworn tables without the array are not included since they would be redundant with the standard Ironsworn System tables.
 

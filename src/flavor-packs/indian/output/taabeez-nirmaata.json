@@ -23,7 +23,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>Om: When you Learn From Failure. you may reroll up to X dice. If either die shows a ten, the amulet's magic is spent.</p>",
+                "description": "<p>Om: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.d05ecfe8c467bdc5]{Learn From Your Failures}, you may reroll up to X dice. If either die shows a ten, the amulet's magic is spent.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,

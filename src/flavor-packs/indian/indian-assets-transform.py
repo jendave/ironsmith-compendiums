@@ -40,7 +40,7 @@ def update_ability(ability):
     ability_updated = ability_updated.replace("[Pay the Price](Moves/Fate/Pay_the_Price)", "@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price}")
     ability_updated = ability_updated.replace("Test Your Bond" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.421b379cb40b6ab7]{Test Your Bond}")
     ability_updated = ability_updated.replace("Turn the Tide" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.12e23cfe23534a8f]{Turn the Tide}")
-    ability_updated = ability_updated.replace("Fulfill Your Vow" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.725a21e2f02d7e12]{Fulfill Your Vow}")
+    ability_updated = ability_updated.replace("Learn From Your Failures" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.d05ecfe8c467bdc5]{Learn From Your Failures}")
 
     return ability_updated
 

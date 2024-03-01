@@ -88,6 +88,27 @@
       "path": "./packs/ironsmith-japanese-oracles",
       "type": "RollTable",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithindianfoeactors",
+      "label": "Ironsmith Indian Foe Actors",
+      "path": "./packs/ironsmith-indian-foe-actors",
+      "type": "Actor",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithindianassets",
+      "label": "Ironsmith Indian Assets",
+      "path": "./packs/ironsmith-indian-assets",
+      "type": "Item",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithindianoracles",
+      "label": "Ironsmith Indian Oracles",
+      "path": "./packs/ironsmith-indian-oracles",
+      "type": "RollTable",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
@@ -113,6 +134,14 @@
             "ironsmithjapanesefoeactors",
             "ironsmithjapaneseassets",
             "ironsmithjapaneseoracles"
+          ]
+        },
+        {
+          "name": "Ironsmith Indian Pack",
+          "packs": [
+            "ironsmithindianfoeactors",
+            "ironsmithindianassets",
+            "ironsmithindianoracles"
           ]
         }
       ]

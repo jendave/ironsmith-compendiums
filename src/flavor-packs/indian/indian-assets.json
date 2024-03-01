@@ -102,7 +102,7 @@
             "Description": "Student",
             "Name": "Shishya",
             "Foreword": "After your service is accepted by a guru who will help you reach enlightenment...",
-            "Ability1": "After you Fulfill Your Fow and mark experience, you may reflect with your guru on a lesson you learned. If you do, roll +heart. On a hit, you are guided towards enlightenment. Envision how your character changes and take +1 experience as well as +2 momentum. Then add +1 to your next move.",
+            "Ability1": "After you Fulfill Your Vow and mark experience, you may reflect with your guru on a lesson you learned. If you do, roll +heart. On a hit, you are guided towards enlightenment. Envision how your character changes and take +1 experience as well as +2 momentum. Then add +1 to your next move.",
             "Ability2": "When you take time to receive teaching from your guru and moditate on their words, roll +heart. On a strong hit, choose two. On a weak hit, choose one.<ul><li>Heartened: Clear shaken.</li><li>Encouraged: Take +1 spirit.</li><li>Inspired: Take +1 momentum.</li><ul>",
             "Ability3": "When you Compel by sharing the teachings of your guru, you may roll +wits (instead of +heart). Then add +1 and take +1 momentum on a hit."
         },
@@ -113,7 +113,7 @@
             "Foreword": "When you craft a mystic amulet of one type below, roll +wits. On a strong hit, X is 2. On a weak hit, X is 1.",
             "Ability1": "Lotus: When you Endure Stress, add +X. If your action die shows a one. the amulet's magic is spent.",
             "Ability2": "Beads: When you Endure Harm, add +X. If your action die shows a one, the amulet's magic is spent.",
-            "Ability3": "Om: When you Learn From Failure. you may reroll up to X dice. If either die shows a ten, the amulet's magic is spent."
+            "Ability3": "Om: When you Learn From Your Failures, you may reroll up to X dice. If either die shows a ten, the amulet's magic is spent."
         }
     ]
 }

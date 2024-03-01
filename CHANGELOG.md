@@ -1,7 +1,10 @@
 # Changelog
 
+### [2.0.1](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-03-01)
+* Added oracles, foes and assets from [Ironsmith Indian Flavor Pack](https://preview.drivethrurpg.com/en/product/374967/ironsmith-indian-hindu-mythology-flavor-pack-softcover) supplement.
+
 ### [2.0.0](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-02-27)
-* Added oracles, foes and assets from  [Ironsmith Japanese Flavor Pack](https://preview.drivethrurpg.com/en/product/372140/ironsmith-japanese-mythology-flavor-pack-softcover) supplement.
+* Added oracles, foes and assets from [Ironsmith Japanese Flavor Pack](https://preview.drivethrurpg.com/en/product/372140/ironsmith-japanese-mythology-flavor-pack-softcover) supplement.
   * New compendiums and folder structure.
   * Name of module has changed and may require uninstalling/reinstalling the module.
 
