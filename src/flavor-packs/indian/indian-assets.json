@@ -1,0 +1,119 @@
+{
+    "Assets": [
+        {
+            "Category": "Combat Talent",
+            "Description": "Punch Dagger",
+            "Name": "Katar",
+            "Foreword": "If you wield a katar...",
+            "Ability1": "When you Strike or Clash in close quarters, you may suffer-1 momentum and inflict +1 harm on a hit (decide before rolling).",
+            "Ability2": "When you Secure an Advantage +edge in a fight by outmaneuvering your foe to get in a better melee attack position, add +1 and take +1 momentum on a hit.",
+            "Ability3": "When you Turn the Tide by committing your full body weight to a devastating blow, and your next move is a Strike, add +I and inflict +2 harm on a strong hit."
+        },
+        {
+            "Category": "Combat Talent",
+            "Description": "Bladed Discs",
+            "Name": "Chakram",
+            "Foreword": "If you wield chakram...",
+            "Ability1": "When you Strike edge, you may choose one before rolling.<ul><li>Barrage: Retain initiative on a weak hit but inflict only 1 harm.</li><li>Sever limb: Inflict +1 harm on a hit but suffer-1 momentum.</li><li>Follow up: On a strong hit, you may Strike now and add +1.</li></ul>",
+            "Ability2": "When you Face Danger to recover thrown chakram, add +1 and take +1 momentum on a hit.",
+            "Ability3": "When you use your chakram as a simple weapon (1 harm), you may Strike or Clash iron (instead of +edge). If you do, add +1 and take +1 momentum on a hit."
+        },
+        {
+            "Category": "Combat Talent",
+            "Description": "Whip Sword",
+            "Name": "Urumi",
+            "Foreword": "If you wield an urumi...",
+            "Ability1": "When you Face Danger edge by pushing your foe or foes back with wide ares of the urumi, choose your approach (decide before rolling).<ul><li>Lashing cobra: On a strong hit, inflict 1 harm.</li><li>Grinning tiger: On a hit, take +1 momentum.</li><li>Mauling bear: On a hit, Strike (if you have initiative) or Clash now and add +1.</li></ul>",
+            "Ability2": "As above, but when you Face Danger in this way, add +1 and take +1 momentum on a hit.",
+            "Ability3": "You may choose to add +1 when you Strike or Clash. If you do, inflict 1 harm (instead of 2)."
+        },
+        {
+            "Category": "Combat Talent",
+            "Description": "Gauntlet Sword",
+            "Name": "Patar",
+            "Foreword": "If you wield a patar...",
+            "Ability1": "When you Face Danger by blocking an incoming attack with your guantlet, add +1 and take +1 momentum on a hit.",
+            "Ability2": "When you Clash and score a strong hit, add 1 if you immediately follow with a Strike.",
+            "Ability3": "You may make a powerful Strike using the full arc of your swing. If you do, suffer-1 momentum but inflict +1 harm on a hit."
+        },
+        {
+            "Category": "Companion",
+            "Description": "War Elephant",
+            "Name": "Haathee",
+            "Input1": "Name",
+            "Foreword": "Your elephant is unstoppable.",
+            "Ability1": "Charge: When you Enter the Fray +heart atop your elephant, add +1 and take +1 momentum on a hit.",
+            "Ability2": "Siege Engine: When you Secure an Advantage by tearing down defensive structures or Face Danger within the howdah atop your elephant, add +1 and take +1 momentum on a hit.",
+            "Ability3": "Rampage: After you have intoxicated your elephant and order it to Strike or Clash, inflict +2 harm on a hit. On a weak hit or miss, there is collateral damage. Pay the Price and make it worse",
+            "TrackLabel": "Health",
+            "TrackMax": 5
+        },
+        {
+            "Category": "Companion",
+            "Description": "Tiger",
+            "Name": "Baagh",
+            "Input1": "Name",
+            "Foreword": "Your cat stalks and ambushes.",
+            "Ability1": "Ambush: When you Enter the Fray +shadow with your tiger, add +1 and take +1 momentum on a hit.",
+            "Ability2": "Hunter: When you Strike by having your tiger attack from hiding while you distract your foe, you may roll +shadow (instead of iron or +edge). If you do, add +1 and take +1 momentum on a hit.",
+            "Ability3": "Neck Snap: When you End the Fight by having your tiger attempt a death blow on a foc (formidable or less). you may reroll any dice.",
+            "TrackLabel": "Health",
+            "TrackMax": 4
+        },
+        {
+            "Category": "Path",
+            "Description": "Charioteer",
+            "Name": "Saarathee",
+            "Ability1": "When you Strike or Clash while piloting a chariot, add +1 and take +1 momentum on a hit.",
+            "Ability2": "When you Face Danger or Secure an Advantage through the risky piloting of a chariot, add +1 and take +I momentum on a hit.",
+            "Ability3": "When you Undertake a Journey in a chariot, add +1. On a strong hit, also choose one.<ul><li>Beaten path: Mark progress twice if on a road or the plains.</li><li>Make shelter: Make Camp now and reroll any dice.</li><li>Revel in the ride: Take +2 momentum.</li></ul>"
+        },
+        {
+            "Category": "Path",
+            "Description": "Battle Dancer",
+            "Name": "Gatka",
+            "Ability1": "When you attack in melee with a deadly weapon in a dancing whirlwind, you may Strike or Clash +edge (instead of iron). If you do, add +1. On a hit, inflict harm (instead of 2) and take +1 momentum.",
+            "Ability2": "When you Face Danger +edge by nimbly dodging your foe's attacks, add +1. On a hit, choose one.<ul><li>Feed the fervor: Take +1 momentum.</li><li>Reposition: You have the initiative.</li></ul>",
+            "Ability3": "When you Secure an Advantage +edge by performing an impressive battle dance to intimidate or maneuver into position, add +1 and take +1 momentum on a hit."
+        },
+        {
+            "Category": "Ritual",
+            "Description": "Hymn Singer",
+            "Name": "Stotr Gaayak",
+            "Foreword": "When you sing an ancient hymn to a god below, roll wits",
+            "Ability1": "Star (Chandra): Ask a single question. On a strong hit, you read a helpful omen in the stars. Envision what you learn (ask the Oracle if unsure) and take +2 momentum. On a weak hit, the omen contains a warning. Envision this warning and take only 1 momentum",
+            "Ability2": "Fire (Agni): On a strong hit, an object you hold alights with ghostly flame dispeling the darkness in a large area. On a weak hit, the flame dispels the darkness in your immediate area",
+            "Ability3": "Storm (Indra): On a hit, dark clouds gather and gentle rain begins to fall that lasts up to an hour. On a strong hit, you may direct the clouds to become a thunderstorm or flood-inducing torrential rain instead."
+        },
+        {
+            "Category": "Ritual",
+            "Description": "Hymn Singer",
+            "Name": "Stotr Gaayak (Template)",
+            "Foreword": "When you sing an ancient hymn to a god below, roll wits.",
+            "Input1": "God",
+            "Input2": "Ability",
+            "Input3": "God",
+            "Input4": "Ability",
+            "Input5": "God",
+            "Input6": "Ability"
+        },
+        {
+            "Category": "Path",
+            "Description": "Student",
+            "Name": "Shishya",
+            "Foreword": "After your service is accepted by a guru who will help you reach enlightenment...",
+            "Ability1": "After you Fulfill Your Fow and mark experience, you may reflect with your guru on a lesson you learned. If you do, roll heart. On a hit, you are guided towards enlightenment. Envision how your character changes and take +1 experience as well as +2 momentum. Then add +1 to your next move.",
+            "Ability2": "When you take time to receive teaching from your guru and moditate on their words, roll heart. On a strong hit, choose two. On a weak hit, choose one.<ul><li>Heartened: Clear shaken.</li><li>Encouraged: Take +1 spirit.</li><li>Inspired: Take +1 momentum.</li><ul>",
+            "Ability3": "When you Compel by sharing the teachings of your guru, you may roll +wits (instead of heart). Then add +1 and take +1 momentum on a hit."
+        },
+        {
+            "Category": "Ritual",
+            "Description": "Amulet Maker",
+            "Name": "Taabeez Nirmaata",
+            "Foreword": "When you craft a mystic amulet of one type below, roll +wits. On a strong hit, X is 2. On a weak hit, X is 1.",
+            "Ability1": "Lotus: When you Endure Stress, add +X. If your action die shows a one. the amulet's magic is spent.",
+            "Ability2": "Beads: When you Endure Harmi, add +X. If your action die shows a one, the amulet's magic is spent.",
+            "Ability3": "Om: When you Learn From Failure. you may reroll up to X dice. If either die shows a ten, the amulet's magic is spent."
+        }
+    ]
+}

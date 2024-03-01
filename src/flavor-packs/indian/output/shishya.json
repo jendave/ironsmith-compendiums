@@ -1,0 +1,44 @@
+{
+    "name": "Shishya",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "After your service is accepted by a guru who will help you reach enlightenment...",
+        "category": "Path",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>After you Fulfill Your Fow and mark experience, you may reflect with your guru on a lesson you learned. If you do, roll heart. On a hit, you are guided towards enlightenment. Envision how your character changes and take +1 experience as well as +2 momentum. Then add +1 to your next move.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you take time to receive teaching from your guru and moditate on their words, roll heart. On a strong hit, choose two. On a weak hit, choose one.<ul><li>Heartened: Clear shaken.</li><li>Encouraged: Take +1 spirit.</li><li>Inspired: Take +1 momentum.</li><ul></p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.be95ca063ded2b19]{Compel} by sharing the teachings of your guru, you may roll +wits (instead of heart). Then add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": "Student"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Chakram",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "If you wield chakram...",
+        "category": "Combat Talent",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} edge, you may choose one before rolling.<ul><li>Barrage: Retain initiative on a weak hit but inflict only 1 harm.</li><li>Sever limb: Inflict +1 harm on a hit but suffer-1 momentum.</li><li>Follow up: On a strong hit, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} now and add +1.</li></ul></p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} to recover thrown chakram, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you use your chakram as a simple weapon (1 harm), you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} iron (instead of +edge). If you do, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": "Bladed Discs"
+    }
+}

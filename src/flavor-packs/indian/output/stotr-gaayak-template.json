@@ -1,0 +1,47 @@
+{
+    "name": "Stotr Gaayak (Template)",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "When you sing an ancient hymn to a god below, roll wits.",
+        "category": "Ritual",
+        "color": "",
+        "fields": [
+            {
+                "name": "God",
+                "value": ""
+            },
+            {
+                "name": "Ability",
+                "value": ""
+            },
+            {
+                "name": "God",
+                "value": ""
+            },
+            {
+                "name": "Ability",
+                "value": ""
+            },
+            {
+                "name": "God",
+                "value": ""
+            },
+            {
+                "name": "Ability",
+                "value": ""
+            }
+        ],
+        "abilities": null,
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": "Hymn Singer"
+    }
+}

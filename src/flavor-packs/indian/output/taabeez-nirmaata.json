@@ -1,0 +1,44 @@
+{
+    "name": "Taabeez Nirmaata",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "When you craft a mystic amulet of one type below, roll +wits. On a strong hit, X is 2. On a weak hit, X is 1.",
+        "category": "Ritual",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>Lotus: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.e09e2fc8bb709320]{Endure Stress}, add +X. If your action die shows a one. the amulet's magic is spent.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Beads: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm}i, add +X. If your action die shows a one, the amulet's magic is spent.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Om: When you Learn From Failure. you may reroll up to X dice. If either die shows a ten, the amulet's magic is spent.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": "Amulet Maker"
+    }
+}

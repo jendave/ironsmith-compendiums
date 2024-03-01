@@ -1,12 +1,15 @@
 
 
-COMBAT TALENT: PUNCH DAGGER KATAR
+COMBAT TALENT
+PUNCH DAGGER KATAR
 If you wield a katar...
 When you Strike or Clash in close quarters, you may suffer-1 momentum and inflict +1 harm on a hit (decide before rolling).
 When you Secure an Advantage +edge in a fight by outmaneuvering your foe to get in a better melee attack position, add +1 and take +1
 momentum on a hit.
 When you Turn the Tide by committing your full body weight to a devastating blow, and your next move is a Strike, add +I and inflict +2 harm on a strong hit.
-COMBAT TALENT: BLADED DISCS
+
+COMBAT TALENT
+BLADED DISCS
 CHAKRAM
 If you wield chakram..
 When you Strike edge, you may choose one before rolling
@@ -14,7 +17,9 @@ Barrage: Retain initiative on a weak hit but inflict only I harm. •Sever limb:
 Follow up: On a strong hit, you may Strike now and add +1.
 When you Face Danger to recover thrown chakram, add +1 and take +1 momentum on a hit.
 When you use your chakram as a simple weapon (1 harm), you may Strike or Clash iron (instead of +edge). If you do, add +1 and take +1 momentum on a hit.
-COMBAT TALENT: WHIP SWORD URUMI
+
+COMBAT TALENT
+WHIP SWORD URUMI
 If you wield an urumi...
 When you Face Danger edge by pushing your foe or foes back with wide ares of the urumi, choose your approach (decide before rolling).
 Lashing cobra: On a strong hit, inflict I harm.
@@ -23,7 +28,9 @@ momentum.
 Mauling bear: On a hit, Strike (if you have initiative) or Clash now and add +1.
 As above, but when you Face Danger in this way, add +1 and take +1 momentum on a hit.
 You may choose to add +1 when you Strike or Clash. If you do, inflict 1 harm (instead of 2).
-COMBAT TALENT: GAUNTLET SWORD
+
+COMBAT TALENT
+GAUNTLET SWORD
 PATAR
 If you wield a patar...
 When you Face Danger by blocking an incoming attack with your guantlet, add +1 and take +1 momentum on a hit.
@@ -33,20 +40,27 @@ COMPANION: WAR ELEPHANT HAATHEE Name:
 Your elephant is unstoppable. Charge: When you Enter the Fray +heart atop your elephant, add +1 and take +1 momentum on a hit. Siege Engine: When you Secure an Advantage by tearing down defensive structures or Face Danger within the howdah atop your elephant, add +1 and take +1 momentum on a hit. Rampage: After you have intoxicated your elephant and order
 it to Strike or Clash, inflict +2 harm on a hit. On a weak hit or miss, there is collateral damage. Pay the Price and make it worse
 +2+3+4 +5
-COMPANION: TIGER
+
+COMPANION
+TIGER
 BAAGH
 Name:
 Your cat stalks and ambushes. Ambush: When you Enter the Fray +shadow with your tiger, add +1 and take +1 momentum on a hit.
 Hunter: When you Strike by having your tiger attack from hiding while you distract your foe, you may roll +shadow (instead of iron or +edge). If you do, add +1 and take +1 momentum on a hit.
 Neck Snap: When you End the Fight by having your tiger attempt a death blow on a foc (formidable or less). you may reroll any dice.
 0 +1 +2 +3 +4
-PATH: CHARIOTEER SAARATHEE
+
+
+PATH
+CHARIOTEER SAARATHEE
 When you Strike or Clash while piloting a chariot, add +1 and take +1 momentum on a hit.
 When you Face Danger or Secure an Advantage through the risky piloting of a chariot, add +1 and take +I momentum on a hit.
 When you Undertake a Journey in a chariot, add +1. On a strong hit, also choose one.
 Beaten path: Mark progress twice if on a road or the plains. Make shelter: Make Camp now and reroll any dice.
 Revel in the ride: Take +2 momentum.
-PATH: BATTLE DANCER
+
+PATH
+BATTLE DANCER
 GATKA
 • When you attack in melee with a deadly weapon in a dancing whirlwind, you may Strike or Clash +edge (instead of iron). If you do, add +1. On a hit, inflict harm (instead of 2) and take +1 momentum.
 When you Face Danger +edge by nimbly dodging your foe's attacks, add +1. On a hit, choose one.
@@ -59,20 +73,27 @@ take +1 momentum on a hit.
 
 
 
-RITUAL: HYMN SINGER STOTR GAAYAK
+RITUAL
+HYMN SINGER STOTR GAAYAK
 When you sing an ancient hymn to a god below, roll wits
 Star (Chandra): Ask a single question. On a strong hit, you read a helpful omen in the stars. Envision what you learn (sk the Oracle if unsure) and take +2 momentum. On a weak hit, the omen contains a warning. Envision this warning and take only 1 momentum Fire (Agni): On a strong hit, an object you hold alights with ghostly flame dispeling the darkness in a large area. On a weak hit, the flame dispels the darkness in your immediate area Storm (Indra): On a hit, dark clouds gather and gentle rain begins to fall that lasts up to an hour. On a strong hit, you may direct the clouds to become a thunderstorm or flood-inducing torrential rain instead.
-RITUAL: HYMN SINGER STOTR GAAYAK
+
+RITUAL 
+HYMN SINGER STOTR GAAYAK
 When you sing an ancient hymn to a god below, roll wits.
 God: Ability:
 O God: Ability:
 God:
 Ability:
-PATH: STUDENT
+
+PATH
+STUDENT
 SHISHYA
 After your service is accepted by a guru who will help you reach enlightenment... After you Fulfill Your Fow and mark experience, you may reflect with your guru on a lesson you learned. If you do, roll heart. On a hit, you are guided towards enlightenment. Envision how your character changes and take +1 experience as well as +2 momentum. Then add +1 to your next move. When you take time to receive teaching from your guru and moditate on their words, roll heart. On a strong hit, choose two. On a weak hit, choose one. •Heartened: Clear shaken.
 •Encouraged: Take +1 spirit. •Inspired: Take +1 momentum. When you Compel by sharing the teachings of your guru, you may roll +wits (instead of heart). Then add +1 and take +1 momentum on a hit.
-RITUAL: AMULET MAKER TAABEEZ NIRMAATA
+
+RITUAL
+AMULET MAKER TAABEEZ NIRMAATA
 When you craft a mystic amulet of one type below, roll +wits. On a strong hit, X is 2. On a weak hit, X is 1.
 Lotus: When you Endure Stress, add +X. If your action die shows a one. the amulet's magic is spent.
 Beads: When you Endure Harmi, add +X. If your action die shows a one, the amulet's magic is spent.
