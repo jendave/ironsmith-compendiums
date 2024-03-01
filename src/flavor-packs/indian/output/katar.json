@@ -23,7 +23,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>When you Turn the Tide by committing your full body weight to a devastating blow, and your next move is a @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike}, add +1 and inflict +2 harm on a strong hit.</p>",
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.12e23cfe23534a8f]{Turn the Tide} by committing your full body weight to a devastating blow, and your next move is a @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike}, add +1 and inflict +2 harm on a strong hit.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
