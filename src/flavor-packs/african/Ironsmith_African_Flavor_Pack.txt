@@ -1,0 +1,3421 @@
+IRONSMITH:
+FLAVOR PACK
+
+INSPIRED BY
+
+AFRICAN MYTHOLOGY
+
+A FAN MADE SUPPLEMENT FOR
+
+THE IRONSWORN RPG SYSTEM
+Copyright (c) 2021 Eric Bright of Play Every Role
+
+LICENSING INFO
+
+This work is based on Ironsworn (found at www.ironswornrpg.com),
+
+created by Shawn Tomkin, and licensed for our use under the Creative
+
+CommonsAttribution 4.0 International License.
+
+(https://creativecommons.org/licenses/by/4.0/).
+
+The text of this work is created by Eric Bright and licensed for use under
+
+the Creative CommonsAttribution 4.0 International License (CC-BY).
+
+You may transfer the contents of this book to another medium (such as The
+
+Augur or Roll20) or create derivative works based on this content. The
+
+only thing I ask is that you let me know how you are using it in your design
+
+so I can follow along! You can contact me most reliably by email at
+
+ericbright2002@yahoo.com. If you have any questions or would like to
+
+collaborate on future designs, please drop me a line!
+
+WRITING AND DESIGN
+
+All writing and design by Eric Bright.
+
+Special thanks toAndrea "Lord Lance" Parducci for help revising assets.
+
+ACKNOWLEDGMENTS
+
+NOTE: This is NOT OFFICIALIronsworn content! It is fan-made content
+
+made available through the generous licensing of Shawn Tomkin, creator
+
+of Ironsworn. Please support him by purchasing the original Ironsworn
+
+products as well as Starforged, the sci-fi follow-up game to Ironsworn.
+
+IMAGE CREDITS
+
+Cover image by orhideja licensed from iStock by Getty Images.
+
+All photos are in the public domain taken from The Metropolitan Museum
+
+of Art, Unsplash, Pixabay and Pexels. Select Icons by Lorc, Delapouite,
+
+Cathelineau, Skoll, and DarkZaitzev from game-icons.net under CC-BY
+
+3.0. African Buffalo by Abby, Black Panther by N.K. Narasimhan, Cape
+
+Hunting Dog by Pham Thanh Loc from the Noun Project. Other icons by
+
+www.flaticon.com.
+TABLE OF CONTENTS
+
+THE GRASSLANDS                                                                                                  2
+
+NEW REGIONS..................................................................................3
+
+Amagwebu Umlilo...................................................................................4
+
+Amafu Ayisicaba ......................................................................................5
+
+Ihlathi Lenkawu.......................................................................................6
+
+Ukuhamba Ixhaphozi...............................................................................7
+
+Utshani Obude .........................................................................................8
+
+Ihlathi Lemikhonto...................................................................................9
+
+Umbani Ekhaya......................................................................................10
+
+Iminwe Kankulunkulu ...........................................................................11
+
+Ukusha Okungapheli..............................................................................12
+
+NEW ASSETS ...................................................................................13
+
+Combat Talents ......................................................................................13
+
+· Iklwa............................................................................................14
+
+· Isihlangu......................................................................................15
+
+· Isula...........................................................................................16
+
+· Iwisa ............................................................................................17
+
+Companions ...........................................................................................18
+
+· Impisi...........................................................................................18
+
+· Ingulule........................................................................................19
+
+· Obhejane......................................................................................20
+
+Paths.......................................................................................................21
+
+· Indlela Ye Inkentshane.................................................................21
+
+· Indlela Ye Inyathi.........................................................................22
+
+Rituals ....................................................................................................23
+
+· Sangoma......................................................................................23
+
+· Ukuhlanzwa Empini....................................................................24
+
+NEW FOES........................................................................................25
+
+Animals..................................................................................................26
+
+· Chipekwe.....................................................................................26
+
+· Gbahali ........................................................................................27
+
+· Impundulu....................................................................................28
+
+· Inkanyamba .................................................................................29
+
+· Kongamato ..................................................................................30
+
+· Ufiti..............................................................................................31
+
+Beasts.....................................................................................................32
+
+· Grootslang ...................................................................................32
+
+· Khodumodumo............................................................................33
+
+· Mokele Mbembe..........................................................................34
+
+· Ninki Nanka.................................................................................35
+
+· Nyuvwira.....................................................................................36
+
+Firstborn.................................................................................................37
+
+· Bulgu ...........................................................................................37
+
+· Eloko............................................................................................38
+
+· Popobawa ....................................................................................39
+
+· Umutwa .......................................................................................40
+Horrors...................................................................................................41
+
+· Adze.............................................................................................41
+
+· Chemosit......................................................................................42
+
+· Nkala............................................................................................43
+
+· Tokoloshe.....................................................................................44
+
+Grasslander ............................................................................................45
+
+· Witch Doctor ...............................................................................45
+
+NAME ORACLES ............................................................................46
+
+SETTLEMENT TRACKERS............................................................49
+THE GRASSLANDS
+
+Inspired by Mythologies across Africa
+   THE GRASSLANDS
+
+   Each Flavor Pack for the Ironsworn RPG is inspired by some culture's
+
+   mythology. The ideas presented are not exact duplicates of myths,
+
+   cultures, or creatures from those cultures, but rather are general ideas
+
+   meant to evoke a slightly different feeling rather than the viking-like
+
+   setting of the Ironsworn core setting.
+
+   The Grasslands Flavor Pack was inspired by mythologies from across
+
+   Africa but heavily draw from Zulu traditions and culture.
+
+   The Grasslands were supposed to be a continent that allowed a
+
+   new start for our people. It's earthy, muted colors inspired feelings
+
+   of peace and plenty while the plethora of fauna for hunting
+
+   signaled a land healthy and able to provide for the massive
+
+   numbers fleeing the Old World. Unfortunately, we found otherwise.
+
+   For starters, the fauna fought back. Lions prowled the savannahs,
+
+   hippopotamuses and crocodiles lurked in the waters, and
+
+   venomous snakes struck silently from the shadows. Even the
+
+   slightly less dangerous animals such as the water buffalo and
+
+   gazelle still could deal fatal damage to our hunters unless we were
+
+   well prepared. The animals of the Grasslands are made of hearty
+
+   stuff and did not take to our coming well.
+
+   Then we were surprised to find some areas of the Grasslands held
+
+   evidence of occupation by malevolent firstborn. They may have
+
+   been here years ago, but the ruins we have found point to the fact
+
+   that they may still stalk the realms. We dare not venture too far
+
+   from our settlements lest we be met with a swift spear from the
+
+   grasses.
+
+   Even the flora found ways to frustrate us. Plants that should have
+
+   been poisonous were actually vibrant grains while the succulent
+
+   appearing fruit sent many Grasslanders to their grave.
+
+   The environment itself works against us as periods of drought are
+
+   followed by colossal bursts of rain leading to short periods of
+
+   abundance where we must try to store enough to make it through
+
+   to the next rain. Growing crops in such a place is extremely
+
+   difficult, and takes proper irrigation where we risk the wrath of
+
+   crocs and hippos.
+
+   We have spread out in smaller tribes across the realm just trying to
+
+   survive in this harsh new home. Every year we worry that it will
+
+   be our last as we fend off raiders, follow the dwindling herds, and
+
+   pray for rain. Welcome to the Grasslands.
+
+2            THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+NEW REGIONS
+
+Each region in the Grasslands corresponds to a region on the normal
+
+Ironsworn map. In this way, you can continue to use the same map while
+
+still getting a new flavor for the setting. I have updated the names based
+
+on the most recent Google translate, but I am not a native speaker. Google
+
+gave me different words this time when translating from English to Zulu,
+
+so please take these with a grain of salt.
+
+The original Ironsworn regions change as follows:
+
+1. Barrier Islands  Amagwebu Umlilo (Bubbles of Fire)
+
+2. Ragged Coast  Amafu Ayisicaba (The Flat Clouds)
+
+3. Deep Wilds  Ihlathi Lenkawu (Jungle ofApes)
+
+4. Flooded Lands  Ukuhamba Ixhaphozi (The Walking Swamp)
+
+5. Havens  Utshani Obude (The Tall Grass)
+
+6. Hinterlands  Ihlathi Lemikhonto (Forest of Spears)
+
+7. Tempest Hills  Umbani Ekhaya (Lightning Home)
+
+8. Veiled Mountains  Iminwe Kankulunkulu (Fingers of God)
+
+9. Shattered Wastes  Ukusha Okungapheli (The Forever Burn)
+
+IRONSMITH: FLAVOR PACKS                                                     3
+   AMAGWEBU UMLILO                                             BUBBLES OF FIRE
+
+   Replaces: Barrier Islands (Region 1)
+
+   Features:
+
+   ·  Land constantly undulating         ·  Thick barked trees with
+
+      with the waves                        shallow roots
+
+   ·  Slowly expanding beaches of        ·  Islands that move with
+
+      lava rock                             the currents
+
+   ·  Resilient wild life                ·  Steaming coastlines
+
+   The Amagwebu Umlilo are multiple archipelagos said to be formed from
+
+   lava bubbles of a super volcano at the ocean's floor that cooled as they
+
+   defied the laws of nature and rose to the surface. Somehow, this left islands
+
+   that can freely move with the ocean current. They have a hot rainy season
+
+   with frequent destructive cyclones followed by a relatively cool dry
+
+   season. Possibly due to the rapid changes in water temperatures, the
+
+   islands stay near their point of origin. Some speculate that there are semi-
+
+   cooled lava strands beneath the islands keeping them literally on a chain.
+
+   Spiny forests of baobab trees, whistling thorns, and wooden versions of
+
+   cacti hug the coasts of each island. Poisonous spiders with chitinous
+
+   tortoise shells patrol the islands and fuel nightmarish stories told to wary
+
+   travelers.
+
+   The Grasslanders who make their homes here use elaborate means of
+
+   gathering rain simply to have enough fresh water to drink, let alone grow
+
+   the few edible plants capable of surviving in such a harsh environment.
+
+   Quest: Sometimes the cooling lava floating up to the surface forms into a
+
+   perfect sphere known as lava globes. Mystics have found these natural
+
+   phenomenon to be excellent foci for the mystic arts, particularly for
+
+   producing light. One such mystic is asking for a lava globe of unusual size
+
+   and is obsessive about finding one. What purpose will the globe serve for
+
+   them, and why are willing to risk the pirates to find one?
+
+4                THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+AMAFU AYISICABA                                        THE FLAT CLOUDS
+
+Replaces: Ragged Coast (Region 2)
+
+Features:
+
+· Waves crashing against                 · Drums sounding as
+
+sheer rock cliffs                        pirates near
+
+· Endless stair steps of rice            · Fieldhands armed with spears
+
+· Roaming herds atop mesas               · Deep brown plateaus
+
+TheAmafuAyisicaba are large plateaus whose edges jut out over the ocean
+
+on the western coast of the Grasslands. Legend says that once the ocean
+
+breaks down the last of the plateau underrock, the plateaus will float up into
+
+the heavens rather than fall into the sea. Hence, the name: Flat Clouds.
+
+Small valleys exist between the plateaus on the coast which flood with sea
+
+water during high tide. The Grasslanders who live here subsist on a rare
+
+species of saltwater rice which they grow in tiered patties filled by the
+
+tides. Living in huts on the flat plateau tops above their patties gives them
+
+a position that is easily defended from foes but unfortunately exposed to
+
+the elements. They are always looking for stout building materials that can
+
+withstand the coastal winds and storms.
+
+Some tribes of Grasslanders have semi-domesticated a species of water
+
+buffalo to live on the rocky plateau tops. This demands long and arduous
+
+trips further inland to bring soil to the tops so that grass can grow for the
+
+livestock to feed on, and the trips can be dangerous if they enter regions
+
+controlled by firstborn.
+
+Quest: There is one plateau with a huge spire of rock thrusting towards the
+
+sky in the center that has thus far been inaccessible to the Grasslanders.
+
+The spire is large enough to be seen from afar and has inspired many
+
+expeditions to see what it is, but all have failed. What do you think the
+
+spire represents, and why is it important to you?
+
+IRONSMITH: FLAVOR PACKS                                                         5
+   IHLATHI LENKAWU                              JUNGLE OF THE APES
+
+   Replaces: Deep Wilds (Region 3)
+
+   Features:
+
+   · Great silver-backed apes assert  · Towering trees of
+
+   their dominance                    exceptional girth
+
+   · Thick, hanging vines             · Steamy humidity
+
+   · Constant hoots and howls         · Ever-present patter of rain
+
+   The Ihlathi Lenkawu is a massive rain forest filled with a cacophony of
+
+   sound, mysterious creatures, and prowling firstborn. Huge beasts and
+
+   over-sized animals are clearly the masters of this domain. Sightings of an
+
+   ape that towers over the tallest trees are commonly claimed but never
+
+   confirmed as the jungle does not give up its secrets easily.
+
+   Upon first discovering this place, we eagerly attempted to explore it
+
+   thinking that it could provide fruit, medicinal plants, and even building
+
+   material, but we were quickly defeated simply by the forces of nature. It is
+
+   whispered around campfires that the jungle itself is sentient and harbors ill
+
+   will toward the Grasslanders who don't belong to this realm. Those who
+
+   have sought to explore the interior of the forest are so often lost that it has
+
+   developed into a colloquialism to refer to doomed projects as "ukwenza
+
+   imephu yehlathi", or "making a jungle map".
+
+   Quest: One of the largest silver-backs seen yet made its way to the jungles
+
+   edge and appears to be trying to communicate through hand gestures.
+
+   Eventually, it gave up in frustration and began to clearly beckon you into
+
+   the jungle. While you couldn't fully understand the great ape, there was
+
+   one sign it made that you recognize. What is that sign, and why does it
+
+   frighten you?
+
+6                 THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+UKUHAMBA IXHAPHOZI                         THE WALKING SWAMP
+
+Replaces: Flooded Lands (Region 4)
+
+Features:
+
+· Stagnant waters                          · Mud-burrowing eels hidden
+
+· Thick, foul-smelling mud                 and ready to strike
+
+· Mangroves with large,                    · Tree-dwelling sloths with
+
+smooth roots                               poison-tipped claws
+
+Ukuhamba Ixhaphozi is a region of mangrove swamp lands protected by a
+
+large coral reef off the southeastern coast of the Grasslands. The giant
+
+mangrove trees have huge roots that look like legs sticking out of the
+
+waters and are known to be able to move at a snail's pace to areas richer in
+
+nutrients.
+
+No one sleeps on the ground in this region lest a tree walk over them in the
+
+night and embed its roots into them. Thus, large family hammocks known
+
+as isandos are seen in every village stretched between large wooden posts
+
+driven deep into the ground or even in the branches of mangroves.
+
+Grasslanders often follow a walking tree to collect the insects or worms as
+
+food that are left behind by its passage.
+
+The animals of this region may seem harmless at first but often have strong
+
+natural defenses such as poison, thick skin or shells, or camouflage.
+
+Quest: Several mangroves have been gathering in tightly knit concentric
+
+rings in one area. What do you suspect is at the center, and why is it urgent
+
+to find out?
+
+IRONSMITH: FLAVOR PACKS                                                        7
+   UTSHANI OBUDE                                               THE TALL GRASS
+
+   Replaces: Havens (Region 5)
+
+   Features:
+
+   ·  Long stretches of nothing but    ·  Lone trees standing sentry
+
+      grasses rustling in the breeze   ·  Settlements surrounded by
+
+   ·  Streams crisscrossing the land      earthen walls
+
+   ·  Hunter huts sparsely populating  ·  Stampedes running from
+
+      the grasses                         predators
+
+   Utshani Obude are the plains of the Grasslands. While yellowy-green
+
+   grasses dominate the landscape, trees such as the fever trees with
+
+   photosynthesizing bark, leadwood trees as heavy as iron, and the iconic
+
+   dragonblood trees dot the landscape. The trees are considered such a
+
+   critical part of the plains that when Grasslanders swear an iron vow, it is
+
+   considered acceptable for a destitute person to use leadwood as an iron
+
+   substitute.
+
+   Large hunting cats prowl the plains taking down huge game of elephants
+
+   or even rhinos. While there are many streams throughout this region, they
+
+   are small enough that animals still must compete for the precious resource
+
+   of water. As such, predator species have learned to patrol the waterways
+
+   knowing that the prey will eventually come to them.
+
+   While still a harsh environment, we have found that if we respect and live
+
+   in harmony with nature, this region is the most hospitable. Some tribes
+
+   have even learned to tame and ride the rhinos into battle.
+
+   Quest: A particularly large dragonblood tree is known as the Weeping God
+
+   and held sacred by the Tchide settlement folk.              Since before the
+
+   Grasslanders appeared on these soils, the tree has slowly wept thick,
+
+   bloody tears, but it stopped weeping one week ago. The locals say this is
+
+   an omen of ill to come. What tragic event do they say this foretells, and
+
+   what vision did you see when you first gazed upon the Weeping God?
+
+8                  THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+IHLATHI LEMIKHONTO                                       FOREST OF SPEARS
+
+Replaces: Hinterlands (Region 6)
+
+Features:
+
+· Sparse and spindly trees         · Game trails clearly worn
+
+· Isolated settlements surrounded  · Morning fog and mist
+
+by large cultivated quiver trees   · Sparse undergrowth from the
+
+· Regular foraging parties         acidic soil
+
+Ihlathi Lemikhonto is known for its narrow-trunked quiver trees whose
+
+branches resemble long arrows. Grasslanders here have learned to harvest
+
+these branches to use as weighted spears which they hurl with devastating
+
+accuracy.Additionally, if the branches are cut away properly, the tree leaks
+
+a clear, aloe-like sap that can be used in healing poultices. While the area
+
+is known for quiver trees, they do not usually grow in dense clumps but are
+
+spread out through the deciduous forests of the region.
+
+Despite the spareness of the quiver trees, forests of this region can be thick
+
+in places. They are not the jungles of Ihlathi Lenkawu but house equally
+
+large predator beasts who claim the forests as their domain. Prey animals
+
+here will wear down false game trails to intentionally confuse predators as
+
+to where they should hunt.
+
+Quest: A group from the settlement of Goronga was due back from
+
+harvesting the quiver trees days ago, but there is still no sign of them
+
+despite scouts being sent out. Why do you think the group was out to
+
+harvest more than quiver trees, and who is with them that is close to you?
+
+IRONSMITH: FLAVOR PACKS                                                         9
+    UMBANI EKHAYA                                                 LIGHTNING HOME
+
+    Replaces: Tempest Hills (Region 7)
+
+    Features:
+
+    ·      Dry and arid scrublands      · Large scorpions eager for kills
+
+    ·      Deep sinkholes where water   · Hills breaking lines of sight
+
+           once ran                     · Persistent smoke and layers of
+
+    ·      Feathers of lightning birds  ash on the ground
+
+           littering the ground
+
+    The Umbani Ekhaya are highlands covered in scraggy shrubs and flexures
+
+    of the planet's crust known as massifs. During the rainy season, lightning
+
+    birds, called impundulu, flock across the region burying themselves in
+
+    holes left behind after lightning strikes. Their spoor and eggshells left after
+
+    mating season help to fuel the growth of thick bushes known as ukuvuleka,
+
+    the openmind, with bright red flowers that release an intoxicating and
+
+    hallucinogenic pollen.
+
+    Grasslanders who live in this area will go on spirit quests towards the
+
+    mountains through dense areas of this red-flowered bush with only a
+
+    rough-hewn iron knife as protection from the animals and beasts that
+
+    abound here.
+
+    Shrubs dot the dry land close enough together that scrub fires are common
+
+    after a lightning storm or when a Grasslander is too careless with their fire
+
+    pit. Smoke often dots the horizon, but we have learned to pass through the
+
+    fires using a stout pair of leather pants soaked in water. If a patch of
+
+    ukuvuleka catches fire, settlements must be careful lest everyone be forced
+
+    into hallucinations leaving the settlement ripe for raiders.
+
+    Quest: A huge burrowing creature is said to have taken up residence at the
+
+    base of a steep hill. A member of a local scouting party out on his first
+
+    patrol fell into the creature's pit, and muffled cries can still be heard from
+
+    beneath the whirlpool of dirt and sand. Can he be reached before it's too
+
+    late?
+
+10                   THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+IMINWE KANKULUNKULU                                       FINGERS OF GOD
+
+Replaces: Veiled Mountains (Region 8)
+
+Features:
+
+· Jagged lightning streaking           · Caverns winding ever deeper
+
+across the sky                         below the mountains
+
+· Gale force winds of                  · Cracks in the rocks wide
+
+numbing cold                           enough for caravans
+
+The Iminwe Kankulunkulu are sometimes called the Fingers of God
+
+because of the five narrow and most prominent peaks protruding out of the
+
+rocky mountainsides. Few Grasslanders venture this far north, but the
+
+peaks can be seen as far south as the Utshani Obude's northern border
+
+where the inhabitants use them as a compass calling the eastern most peak
+
+Isithupha, the thumb.
+
+Grasslanders have attempted to mine some areas of these mountains, but
+
+many were abandoned shortly after being built. Not only was it difficult to
+
+get the ore back to other regions, but we quickly learned that many
+
+dangerous denizens call the cavernous depths their home.
+
+At times, great streaks of lightning can be seen jumping from peak to peak
+
+even when there are no storms which has led some to speculate that a giant
+
+lightning bird the size of a large dragon makes it home within the peaks.
+
+Others say the lightning is a consequence of the extreme altitude of the
+
+Fingers. Still others say it is part of a natural barrier keeping the denizens
+
+of Ukusha Okungapheli at bay.
+
+Quest: A local shaman claims to have connected with the mother of all
+
+impundulu who granted the shaman power over lightning. Now the
+
+shaman's settlement is being targeted by raiders who want the power for
+
+themselves. Why does the settlement need the shaman's newfound ability?
+
+IRONSMITH: FLAVOR PACKS                                                         11
+    UKUSHA OKUNGAPHELI                                     THE FOREVER BURN
+
+    Replaces: Shattered Wastes (Region 9)
+
+    Features:
+
+    · Unending sea of sand                 · Withered plant life attempting
+
+    · Bones of those who have              to grow despite conditions
+
+    come before                            · Sandstorms coming from
+
+    · Haze of unbearable heat              nowhere and lasting too long
+
+    The Ukusha Okungapheli is a vast desert region where few Grasslanders
+
+    have explored. The area is littered with dead animals who attempted to call
+
+    this area home. Scavengers survive by virtue of the short rainy season
+
+    leading to a bloom of life-giving plants that wither in the heat nearly as
+
+    swiftly as they grow.
+
+    Sandstorms constantly skirt across this region with odd jerks and starts.
+
+    They will pop-up with no warning and move seemingly at random.
+
+    Sometimes they will even stay in one spot as if to torture a particular area.
+
+    It is said that this region is ruled by a powerful witch doctor who
+
+    continually grinds bones to make more sand for the endless dunes out of
+
+    the animals and people who dare enter the region. Legend says that if you
+
+    could travel far enough north, you would find a great rondavel made
+
+    entirely of sand where the death-focused witch doctor performs his grisly
+
+    rituals.
+
+    Quest: A mystic is asking for an unground bone from Ukusha Okungapheli
+
+    claiming it will have properties of resistance making it a powerful artifact.
+
+    Why does this level of protection peak your interest?
+
+12               THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+NEW ASSETS
+
+Just as the terrain and regions are different in the Grasslands, so too are the
+
+people and their skills. Here are some assets unique to the Grasslands.
+
+COMBAT TALENTS
+
+Having skills with a weapon is a critical survival skill in the Grasslands not
+
+only for protection from raiders but also for hunting. Most Grasslanders
+
+learn to use several different types of weapons and use them each
+
+depending on which type of animal they are hunting.
+
+Because of this dependence on weaponry, there are competitions held
+
+every summer for the youth of each settlement. The young person who
+
+wins the tournament is granted the status of adulthood despite their not
+
+coming of age yet.
+
+You may also consider renaming the Skirmisher combat talent as Assegai.
+
+While the assegai was a throwing spear (also known as isula as presented
+
+in this Flavor Pack), you could say that in the Grasslands the assegai
+
+became a normal spear where the isula was specifically the throwing
+
+spear.
+
+IRONSMITH: FLAVOR PACKS                                                          13
+    IKLWA
+
+    The iklwa spear was designed
+
+    for close-quarters combat. The
+
+    spear is less than an arms-length
+
+    with the upper third being a
+
+    wide-bladed tip. It was named
+
+    for the sound it makes when
+
+    being pulled out from an
+
+    opponent's body.
+
+    Whereas Grasslanders may take
+
+    many throwing spears into battle
+
+    to use like javelin, each warrior
+
+    only carries one iklwa due to the
+
+    amount of iron used to make
+
+    them. Many overseers do not
+
+    allow their warriors back into
+
+    the settlement after a battle
+
+    unless they can show that they
+
+    still retain their iklwa.
+
+    Design Notes: Traditionally the
+
+    iklwa became well known for
+
+    being plunged into the backs of enemies. The first ability represents this or
+
+    other situations where the foe is clearly at your mercy such as having their
+
+    shield busted or exposing their flank without armor or other protection.
+
+    The second ability represents the change in battle habits that Shaka Zulu
+
+    inspired with his use of the iklwa. Since the spear was not designed for
+
+    throwing (and in fact was forbidden to be thrown), the warriors became
+
+    much more aggressive at getting into melee range. With these spears being
+
+    shorter in length (around two feet or a little more than half a meter),
+
+    warriors had to get within their opponent's reach to be most effective.
+
+    The third ability leans into the traditional aggressive use of the weapon as
+
+    both a slashing weapon (like a sword) and a piercing weapon (like a spear).
+
+    Several swift cuts can truly Turn the Tide by disemboweling the enemy
+
+    before finishing them off with a final thrust to the heart.
+
+    Quest: A single iklwa passed down through three generations was used by
+
+    each of its wielders to hunt and kill a great beast. Known as Izinyo Lesilo,
+
+    the Beast Fang, the iklwa was in the hands of its fourth generation owner
+
+    who has gone missing on their own hunt for a great beast. Who is the new
+
+    owner of Izinyo Lesilo, and what event is adding pressure to find them
+
+    quickly?
+
+14                    THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+ISIHLANGU
+
+Isihlangu are shields made of
+
+layers of hardened cowhide.
+
+Despite the fact that they are
+
+almost as tall as the average
+
+Grasslander, they are balanced
+
+so well that they can be wielded
+
+easily with one hand.
+
+While these shields don't have
+
+the durability of a wooden or
+
+metal shield, the Grasslanders
+
+have become experts at using the
+
+isihlangu for deflecting attacks.
+
+Incoming spears can be shunted
+
+away from the defender with
+
+little more than a small tear in
+
+the shield if it twisted at just
+
+right angle at just the right
+
+moment in the spear's flight. It
+
+is also useful for redirecting
+
+momentum in melee combat and
+
+helping one get into a better
+
+position on the battlefield.
+
+Design Notes: The first ability gives you the option to shield bash in such
+
+a way as to gain a better vantage point to Strike with the next blow. Yes,
+
+you give up a little damage, but you are better positioned as you take the
+
+initiative.
+
+The second ability is similar to the normal Ironsworn asset of Shield-
+
+Bearer, but this is a bit weaker since the cowhide is not as sturdy.
+
+The third ability is another way to set-up a solid Strike by first using Secure
+
+an Advantage to gain the add +1 that will lend to your Strike. Using your
+
+shield makes the Secure an Advantage more likely with an add +1 to that
+
+roll in the first place. You could also use the advantage you gain for other
+
+purposes such as running away while your opponent is down or asking
+
+your foe to surrender via the End the Fight move.
+
+Quest:Agroup of renowned leather workers believe they have found a way
+
+to cut away usable patches of chipekwe hide, some of the toughest skin
+
+known in the Grasslands. Having a shield made of such skin would surely
+
+give any warrior an enviable advantage in combat. Where have you heard
+
+of a larger than normal chipekwe, and why have so many hunting parties
+
+failed to bring it down?
+
+IRONSMITH: FLAVOR PACKS                                                          15
+    ISIJULA
+
+    The isula spear was designed
+
+    for ranged combat. Much like a
+
+    javelin, warriors tend to bring
+
+    several of these to a battle and
+
+    collect the unbroken ones after
+
+    the battle is over.
+
+    Some of the best isula are made
+
+    from the quiver tree and may
+
+    have only a sharpened tip rather
+
+    than an iron tip. Sometimes, an
+
+    isula is made of leadwood, but
+
+    these are rare because of the
+
+    amount of work needed to carve
+
+    them into the right form. More
+
+    often than not, an isula is made
+
+    from a lightweight, flexible
+
+    wood with a small iron or stone
+
+    blade embedded in the end.
+
+    A  common            strategy  when
+
+    wielding isula is to throw one
+
+    high so that it is coming down on an enemy and quickly follow it with a
+
+    fast, level thrown isula straight at the same enemy. In this way, the foe
+
+    must decide how to use their shield as they can't block both weapons at the
+
+    same time.
+
+    Design Notes: The first ability is a first strike method much like with a
+
+    sling. By throwing multiple spears during the opening volley, you have a
+
+    greater chance of dealing damage.
+
+    The second ability is a bonus you get every time you use the weapon. At
+
+    first glance, that may seem overpowered, but remember that you then lose
+
+    the weapon. While it's true that you may have 5-7 isula in a quiver, there
+
+    is a limit. Additionally, it's hard to keep yourself in a ranged attack
+
+    position for very long, and isula are ineffective in melee.
+
+    Hence, the third ability: Face Danger to get into a better position.
+
+    Narratively speaking, after the first throw, the foe is likely to try to close
+
+    distance with you. This gives you a way stay at a distance to keep using
+
+    your ranged weapons or recover thrown weapons when you run out.
+
+    Quest: The settlement of Tukawe holds an annual tournament where the
+
+    competitors show off their skills with the isula on an obstacle course set
+
+    with many targets. The prize for this year's competition is highly unusual.
+
+    What is it, and why does it bode ill?
+
+16                       THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+IWISA
+
+The iwisa is a largely ceremonial
+
+weapon and rarely used in actual
+
+combat as more formidable
+
+weapons are not hard to come
+
+by.    However, some warriors
+
+will take the time to create an
+
+iwisa out of the dense leadwood
+
+trees making it on par with
+
+normal weapons.
+
+There are two main offensive
+
+uses of the iwisa: throwing and
+
+stunning. While it may sound
+
+laughable to throw an iwisa, the
+
+round weighted end can deliver
+
+quite a blow from a distance.
+
+The spherical end is also good
+
+for knocking a foe senseless for
+
+a time if you can land a solid
+
+blow to the head.
+
+Defensively, a stout iwisa can be
+
+used to block incoming attacks.
+
+Design Notes: The first ability makes the club a deadly weapon (dealing 2
+
+harm instead of 1), but also gives the additional boost for when you throw
+
+it at a foe. However, unlike isula, warriors don't usually carry multiple
+
+iwisa, so after the club is thrown, it will need to be recovered.
+
+The second ability is your standard bell-ringer which gives you a way to
+
+keep the initiative on a weak hit with a Strike.
+
+The third ability represents relying on the sturdy nature of leadwood to not
+
+only protect you but also jar your foe enough to give you some momentum
+
+in the battle.
+
+Quest: The Baton of Botswu is the ceremonially weapon of the leader of
+
+several loosely aligned settlements. Whoever holds the weapon is declared
+
+the leader and keeps that leadership by their ability to keep the weapon in
+
+their possession. The Baton has gone and the region is dissolving into
+
+chaos. What impact will this have on the area, and who do you know that
+
+stands to benefit from this destabilization?
+
+IRONSMITH: FLAVOR PACKS                                                       17
+    COMPANIONS
+
+    To better fit the Grasslands setting, you may consider changing the Cave
+
+    Lion companion asset to a regular lion or leopard and changing the
+
+    Mammoth asset to an elephant. Here are three additional companions
+
+    commonly found in the Grasslands.
+
+    IMPISI
+
+    The impisi are one of the most
+
+    common predators across the
+
+    Grasslands and come in three
+
+    varieties: striped, spotted, and
+
+    brown. They stalk the plains not
+
+    only as scavengers but also
+
+    intelligent pack hunters.
+
+    The impisi may also be called
+
+    "bone crushers" because of their
+
+    preference for bone marrow and
+
+    their ability to crack even the
+
+    thick leg bones of elephants to
+
+    get at the marrow.
+
+    Design Notes: The first ability
+
+    may seem odd because you are
+
+    taking a -1 to supply while
+
+    resupplying, but remember that
+
+    you get +2 supply on the
+
+    Resupply move. This represents
+
+    the fact that hyenas are great
+
+    hunters, but they're going to take  their  cut  of  the  kill  first.
+
+    The second ability represents the pack-hunting ability of hyenas, but it is
+
+    still dependent on wits.
+
+    The third brings in the trope of laughing hyenas. While you get to add +1
+
+    every time you Secure an Advantage or Strike with the hyena laughter,
+
+    remember that this also exposes your companion to harm.
+
+    Quest: The local blacksmith for the village of Nobawayo has been
+
+    implicated in the death of a child and accused of being a bouda, one who
+
+    can transform into a hyena with the help of a magic stick. Now the
+
+    blacksmith is on the run. Something about this scenario reminds you of a
+
+    curse in a fable you heard from a griot, a historian and storyteller. What
+
+    is the story, and what role did the magic stick play in the curse?
+
+18                      THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+INGULULE
+
+Perhaps the swiftest creature in
+
+the Grasslands, the ingulule can
+
+reach incredible speeds in short
+
+sprints. The only way to be safe
+
+from these hunters is to never be
+
+within their sprinting distance.
+
+Ingulule, also called cheetahs,
+
+are known for their keen eye
+
+sight. The distinctive black tear
+
+marks on their faces help to
+
+deflect the sun giving them
+
+better vision during day hunts
+
+and also act as part of their
+
+overall camouflage blending in
+
+with the grass and shadows.
+
+Grasslanders have great respect
+
+for the cheetahs and their ability
+
+to hunt small game. Often, a
+
+small contingent of hunters will
+
+take up position opposite a
+
+group of cheetahs with a herd of gazelles between them. When the
+
+cheetahs strike, the gazelles run straight to the waiting Grasslanders. The
+
+cheetahs allow this because they get their meal first, and the Grasslanders
+
+enjoy having satiated rather than hungry cheetahs nearby.
+
+Design Notes: The first ability is similar to the Cave Lion asset, but with
+
+small game instead of large game.
+
+The second ability is similar to the Hound asset, but you are dependent on
+
+the stealth of your cheetah, hence, the change from +wits to +shadow.
+
+The third ability is an adaptation of the cheetah becoming a companion.
+
+They know that if they can immobilize the prey, their human compatriot
+
+may be able to get them a meal that much faster.
+
+Quest: A rare female king cheetah, one with larger blotches instead of
+
+spots, has been sighted near the village of Kuletau. The local shaman says
+
+this is a sign of divine favor, but a local hunter dishonored the king cheetah
+
+by taking away her three cubs. Since then, a curse has befallen the village,
+
+and the hunter has fled with the cubs. What is the nature of this curse, and
+
+why is the hunter resolute in not giving the cubs back to the mother?
+
+IRONSMITH: FLAVOR PACKS                                                         19
+    OBHEJANE
+
+    To form a bond with an obhejane
+
+    is a rare feat in the Grasslands.
+
+    Their thick hide, powerful build,
+
+    and sharp horn make them one
+
+    of the animals at the top of the
+
+    food chain, and they know it.
+
+    They generally solve all their
+
+    problems  by  charging  and
+
+    goring whatever is in front of
+
+    them.
+
+    However, there are rumors that a
+
+    whole village has trained a
+
+    group of rhinos as mounts. They
+
+    charge into battle atop the
+
+    muscular creatures and bowl
+
+    over their enemies as if they
+
+    were dry twigs in a violent wind
+
+    storm.
+
+    Design Notes: Note that the first
+
+    ability can only be used against
+
+    multiple foes. It's supposed to represent the rhino trampling all in their
+
+    path and dealing damage indiscriminately and maybe even accidentally.
+
+    The second ability is similar, but for when you Enter the Fray with a bold
+
+    warrior's shout something like, "Waganda for eternity!" This can also be
+
+    used to Secure an Advantage by getting you quickly into position, flanking
+
+    a foe, cutting a foe off from their compatriots, etc.
+
+    The third ability represents the thick skin of the rhino. They are just so
+
+    much harder to hurt because of their hide.
+
+    Quest: Legends tell of a group of extremely large obhejane who stomp out
+
+    fires with their great feet. An obsessed mystic seeking out the fire-stompers
+
+    has been setting villages on fire near areas where large obhejane have been
+
+    sighted in hopes of drawing out the creatures. The mystic either doesn't
+
+    care about or is oblivious to the loss of Grasslander lives in the fires and
+
+    has yet to be stopped in their mad quest. What does the mystic hope to
+
+    gain, and why are they cavalier with taking human lives? Who do you
+
+    know that was affected by the last village fire?
+
+20                THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+PATHS
+
+Path assets in the Grasslands often are associated with a specific animal
+
+who has made an impact on the lifestyle of the Grasslanders.
+
+INDLELA YE INKENTSHANE
+
+The wild dogs of the Grasslands
+
+are hunters of great endurance.
+
+Their  preferred    method          of
+
+hunting is to chase a medium- to
+
+large-sized   prey      for  great
+
+distances until the prey is finally
+
+exhausted and can run no more.
+
+The dogs take turns rushing in to
+
+nip at the preys legs and rump to
+
+keep it running until it gives up.
+
+Followers of the Indlela Ye
+
+Inkentshane echo that endurance
+
+in their travels and movements.
+
+They train and push their bodies
+
+to the limits of human endurance
+
+with   the    philosophy     that
+
+persistence is the key to success.
+
+Design Notes:The first ability is
+
+similar to Wildblood but has a
+
+slightly narrower scope thereby
+
+allowing the +1 momentum as
+
+well as the add. This represents the wild dog's hunting skill.
+
+The second ability represents the wild dog's methodology of hunting.
+
+They move carefully to find their prey, then persevere on the long and
+
+exhausting chase, and finally move in for the kill with a fresh jolt of
+
+adrenaline.
+
+The third ability represents the wild dog ability to rest after such exertion.
+
+They know the value of proper recovery before the next hunt and how to
+
+recover even during the lean times.
+
+Quest: The settlement of Okashatjo is known for their runners who deliver
+
+vital messages throughout the region. They don't stop, day or night, until
+
+they have reached their destination. However, there is one place the
+
+runners won't go, and the overseer needs a message delivered there. What
+
+is it that the runners fear, and why would the overseer be interacting with
+
+that region?
+
+IRONSMITH: FLAVOR PACKS                                                         21
+    INDLELA YE INYATHI
+
+    The buffalo of the Grasslands
+
+    are famous for their fury and
+
+    how they wield their horns with
+
+    deadly     accuracy.          Despite
+
+    generations of trying, these
+
+    creatures     have     never  been
+
+    domesticated or tamed. They
+
+    are simply too wild, too strong,
+
+    and too wise to trust humans.
+
+    Those who follow the Indlela Ye
+
+    Inyathi emulate the qualities of
+
+    the buffalo.   They know the
+
+    value of a multi-pronged attack
+
+    and use their brutal ferocity to
+
+    set the tone of any battle. The
+
+    Grasslanders have a saying:
+
+    "Never charge a bull," and the
+
+    way of the buffalo produces
+
+    many bulls.
+
+    Design Notes: The first ability
+
+    comes from the Zulu's attack pattern popularized by King Shaka. Notice
+
+    that the ability can only be used to Battle and that you must be leading and
+
+    directing the troops.
+
+    The second and third abilities brings out the fury of the buffalo. The
+
+    second represents the defensive reaction of attacking with a violent charge.
+
+    A buffalo doesn't fret or worry about strategy when reacting to a threat.
+
+    They charge, gore, and stomp their opponent.
+
+    The third allows your character to Draw the Circle with the brashness of
+
+    boldness of power rather than courage as well as giving a bonus to Compel
+
+    when used in the same manner. Youseektoleadbytheoldadageof"might
+
+    makes right."
+
+    Quest: A group of raiders have been unstoppable because they deploy both
+
+    sound tactics and ruthless ferocity in battle. It is said that their leader once
+
+    routed a force five times the size of their own without the loss of a single
+
+    raider. Who is the leader of the raiders, and how did you cross paths with
+
+    this person previously?
+
+22                      THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+RITUALS
+
+Ritual magic and mysticism in the Grasslands is generally is held in high
+
+regard. Shaman and other practitioners are seen as the only people capable
+
+of holding back spirits and other horrors. They are sought out for both
+
+healing and protection.
+
+SANGOMA
+
+Sometimes referred to as witch
+
+doctors or shaman, the sangoma
+
+are the traditional healers of the
+
+Grasslands. They rely on a deep
+
+connection with the spiritual
+
+realm facilitated by ancestral
+
+spirits. By allowing ancestors to
+
+speak through them or imploring
+
+the spirits of animals, a sangoma
+
+can perform astonishing feats of
+
+healing.
+
+Design Notes: In traditional
+
+Zulu culture, there are two types
+
+of  traditional  healers:        the
+
+sangoma   who    focuses         on
+
+divination for healing and the
+
+inyanga   who    focuses         on
+
+medicines and decoctions made
+
+from animals or plants.          I've
+
+combined both approaches in
+
+this Grasslands interpretation.
+
+The first ability is more versatile and less potent than the standard Heal
+
+move. With the add +1, you also have a higher chance of success. In
+
+traditional sangoma practice, this would be performed in a sacred healing
+
+hut called an indumba or a makeshift one called an imsamo.
+
+The second ability focuses on the divination part to avoid future calamity
+
+allowing you to changed any single missed roll into a hit.
+
+The third ability is a more powerful healing because it helps to cleanse a
+
+person from a bane or burden which is normally permanent. You get an
+
+idea for a fetch quest of ingredients to put together a healing poultice called
+
+a muti that may be powerful enough to cleanse the patient (depending on
+
+how you Fulfill Your Vow). Astrong hit makes the vow easier.
+
+Note that all these moves are performed on a patient, not on yourself.
+
+Quest: A sangoma seeks help holding demon spirits at bay. What angered
+
+the spirits, and how is their wrath manifesting?
+
+IRONSMITH: FLAVOR PACKS                                                          23
+    UKUHLANZWA EMPINI
+
+    The Grasslander warriors have
+
+    strong traditions surrounding
+
+    their battles.  They generally
+
+    believe that the spirits guide the
+
+    outcomes of battle in accordance
+
+    with what is deemed as right and
+
+    just. However, they also know
+
+    that having purity of heart and
+
+    performing certain rituals can
+
+    appease the spirits before a
+
+    battle thereby granting the
+
+    warrior a higher chance of
+
+    success.
+
+    While ritualistic in nature, these
+
+    actions are not seen as magic per
+
+    se but only as part of the
+
+    mystical nature that goes along
+
+    with all of life. Warriors using
+
+    these methods are not viewed as
+
+    mystics, just smart because they
+
+    prepare adequately for battle.
+
+    Design Notes:The first two abilities give you a boost to starting a fight and
+
+    absorbing the first hit in a fight. The warrior who undergoes these rituals
+
+    is better prepared mechanically as well as narratively.
+
+    The third ability is a show of respect between warriors. They may be
+
+    opponents on the battlefield, but in the realm of the spirits, they are equal
+
+    and family. Respect can still be shown despite one side losing.
+
+    Quest: The leader of a band of raiders has denied the rite of qaqa to any
+
+    who fall in battle during their raids. The leader says both the raiders and
+
+    the raided are unworthy if they are defeated. Now, some of the raiders are
+
+    defecting because of this unnatural practice. What secret information does
+
+    one such defector bring to you, and why does it move you to swift action?
+
+24                     THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+NEW FOES
+
+The foes of the Grasslands tend toward animal hybrids more than the
+
+standard fantasy creatures. They are almost more extraordinary than your
+
+typical dragon or phoenix because of their hodgepodge of ordinary
+
+attributes mixed together.
+
+As always, these foes are not the exact same as their namesakes, but that
+
+was the starting place for creating a foe that fit the Ironsworn system and
+
+Grasslands setting. Additionally, where the majority of the assets take their
+
+cues from Zulu culture, the foes presented here are from across Africa.
+
+While my preference would have been to pull monsters from only Zulu
+
+legends, I was unable to find enough in my surface-level research to give
+
+the 20+ foes presented here. If you know of any more specific legends from
+
+Zulu mythology that could be converted to foes, please let me know!
+
+IRONSMITH: FLAVOR PACKS                                                        25
+    CHIPEKWE                                                            ANIMAL
+
+    Rank:      Formidable (1 progress per harm;  inflicts  3     harm)
+
+               ·  Elephant-rhino cross
+
+    Features: ·   Single, large horn
+
+               ·  Thick hide, clawed feet
+
+               ·  Hunt elephants and hippos
+
+    Drives:    ·  Drive out humans
+
+               ·  Defend territory
+
+               ·  Charge and gore
+
+    Tactics:   ·  Tear out throats
+
+               ·  Stomp and crush
+
+    The hippopotamus is a dangerous creature that we must be cautious of
+
+    every time we approach water. Imagine our surprise when we found there
+
+    was a creature that even the hippos feared. The chipekwe seems to be a
+
+    cross between an elephant and a rhinoceros. It has the same thick, gray
+
+    skin, a single horn on its stubby snout, and ears smaller and more rigid than
+
+    an elephant that act as protection for the chipekwe's head.
+
+    The chipekwe are apex hunters in the Grasslands. While lions or hyenas
+
+    will occasionally try to take one down, they rarely succeed, and if they do,
+
+    it is usually at the cost of several of their pack mates'lives. The chipekwe
+
+    views lions or hyenas as simply a nuisance not worthy of being hunted.
+
+    The main prey of chipekwe are elephants or hippos which they take down
+
+    with a single charge and strong upward thrust of their horn. Once they
+
+    mortally wound their prey in this fashion, they then use the claws at the
+
+    edges of their elephant-like feet to rend great strips of flesh and muscle to
+
+    feast on.
+
+    We have found no reliable way to protect ourselves form these brutes.
+
+    Quest:Arogue chipekwe has developed a taste for human flesh rather than
+
+    pachyderms. It now seeks out villages to use as its food source. Who did
+
+    it maim that you hold dear?
+
+    YOUR TRUTH
+
+    Do the chipekwe in your world have the normal, upward
+
+    pointing horn on their snout, or do they have a downward
+
+    curving horn that looks similar to an elephant's snout?
+
+26                THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+GBAHALI                                                         ANIMAL
+
+Rank:         Dangerous (2 progress per harm; inflicts 2 harm)
+
+              ·   Crocodile-velociraptor cross
+
+Features: ·       Single claw on forelimbs
+
+              ·   Bi-pedal walking, quadru-pedal running
+
+              ·   Hunt for meat
+
+Drives:       ·   Be the alpha hunter
+
+              ·   Sun bathe
+
+              ·   Front claws pin victim to the ground
+
+Tactics:      ·   Serrated teeth
+
+              ·   Stealthy pack hunting
+
+The gbahali resemble an evolved form of crocodile with elongated jaws
+
+full of deadly teeth. However, their back legs are much stronger and longer
+
+enabling them to walk using only their hind legs. Their front legs are also
+
+longer than a normal crocs and end with a single thick claw. The gbahali
+
+can go down on all fours and use a loping stride to achieve great speeds for
+
+short distances.
+
+Unfortunately, they are also good swimmers. Their ridged backs and thick
+
+tail allow them to knife through the water much as a regular crocodile as
+
+long as they keep their legs tucked tightly to their body. They typically
+
+only hunt within a few hours walking distance of water sources because
+
+they also enjoy sunbathing on the rocks beside water.
+
+Quest: Gbahali eggs are a prized delicacy served only to those of the
+
+highest social status. Warriors sent to obtain such eggs often return
+
+maimed if they return at all. However, it is a mark of pride to have
+
+provided such a dish to an overseer or shaman. A clutch of eggs has been
+
+discovered downriver, and an egg-gathering group of warriors has been
+
+assembled. The person who is requesting these eggs wronged you in some
+
+way. How? Why would receiving these eggs be an honor that they are
+
+unworthy of?
+
+YOUR TRUTH
+
+Are gbahali bodies narrow for better speed when running, or
+
+are they built more like warthogs for toughness and
+
+endurance?
+
+IRONSMITH: FLAVOR PACKS                                                       27
+    IMPUNDULU                                                      ANIMAL
+
+    Rank:     Troublesome (3 progress per harm; inflicts 1 harm)
+
+              ·  Over-sized beak
+
+    Features: ·  White to yellow crests with red-feathered wings
+
+              ·  Lightning writhing across its body
+
+              ·  Follow lightning storms
+
+    Drives:   ·  Be struck by lightning
+
+              ·  Guard those with mystic power over lightning
+
+              ·  Attract lightning strikes
+
+    Tactics:  ·  Bury itself in the ground to hide
+
+              ·  Speed strikes with lightning laced beak
+
+    Impundulu, or lightning birds as they are commonly called, are about the
+
+    size of a peacock. The stalks of their feathers are infused with some form
+
+    of ultra-light metal that allows them to act as a Faraday cage for the birds.
+
+    Small jolts of electricity are constantly pulsing over their bodies which we
+
+    believe are used primarily as an energy source for the birds.
+
+    Perhaps due to their gradual consumption of this energy, the birds are
+
+    constantly seeking out storms where they use their ability to attract bolts of
+
+    lightning to themselves in order to replenish their own electricity. Some
+
+    say that the lightning birds can even summon lightning with their wings.
+
+    If you find lightning birds staying away from a nearby storm, be very
+
+    careful. That usually means the birds are in the service of a mystic who can
+
+    wield and harness the power of lightning. Not only will the birds
+
+    themselves be more aggressive, their master is often nearby and usually
+
+    will go to great lengths to not be interrupted in their work.
+
+    Quest: One flock of impundulu have learned to work together to channel
+
+    thick lightning strikes to specific spots on the ground. Using this ability as
+
+    a kind of drill, they have left shallow tunnels pockmarked across the area.
+
+    What is it that the flock is looking for, and why would it better if they didn't
+
+    find it?
+
+    YOUR TRUTH
+
+    Do the impundulu in your world truly have the ability to
+
+    summon lightning with their wings? If so, give this foe the
+
+    rank of Dangerous instead of Troublesome.
+
+28               THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+INKANYAMBA                                                            ANIMAL
+
+Rank:       Troublesome (3 progress per harm;  inflicts  1  harm)
+
+            ·   Large, carnivorous eel
+
+Features: ·     Horse-shaped head
+
+            ·   Grow wings to mate
+
+            ·   Annual mating in tornadoes
+
+Drives:     ·   Live in waterfalls
+
+            ·   Gorge on meat
+
+            ·   Savage bites
+
+Tactics:    ·   Swift headbutt
+
+            ·   Constrict victims
+
+At first glance, the inkanyamba appear to a spear-sized eel except for their
+
+horse-like head plated with thick bone. They live in and around waterfalls
+
+where they prey on any fish falling over the falls. They can achieve swift
+
+enough speeds that they can swim up the waterfall itself for short distances.
+
+The unusual aspect of the inkanyamba comes in the summer months when
+
+they begin to grow wings. As they do so, they swim higher and higher
+
+through the waterfalls and burst out the edges into the air free-falling back
+
+down to the pool below until they finally are able to take full flight. At this
+
+point, they congregate near storm systems looking for tornadoes to form
+
+where they perform a dangerous mating ritual as they twirl inside the
+
+funnel clouds.
+
+We have learned to recognize the sound of the inkanyamba head hitting our
+
+canoes in the water. It only takes a few strikes before they are able to crack
+
+our canoes, so once we hear and feel the first impact, there are only seconds
+
+to either make it to the shore or violently dissuade further attack.
+
+Quest: The force of a nearby waterfall has been eating away at the rock
+
+below it for time immemorial, and a reckless youth dared to swim beneath
+
+the falls discovered not only a school of inkanyamba but a narrow opening
+
+that appears to lead to a cave system behind the falls. Why do you think
+
+this cave system was not made naturally, and what do you hope to find
+
+within it?
+
+YOUR TRUTH
+
+What other activity do the inkanyamba participate in each
+
+season while they have their wings?
+
+IRONSMITH: FLAVOR PACKS                                                          29
+    KONGAMATO                                                       ANIMAL
+
+    Rank:     Dangerous (2 progress per harm; inflicts  2  harm)
+
+              ·  Flying pterosaur with leathery skin
+
+    Features: ·  Fish-like tail with red feathers
+
+              ·  Sharp beak on a horned head
+
+              ·  Glide on warm currents
+
+    Drives:   ·  Protect the nest
+
+              ·  Hunt small game
+
+              ·  Flyby attack with beak
+
+    Tactics:  ·  Retreat if necessary
+
+              ·  Claw with back feet
+
+    The kongamato are the great scavengers of the skies but will also hunt
+
+    small game that presents itself such as unprotected fawns or cubs. They
+
+    use their toothy beak to grind up anything from fresh kills to rigid and dried
+
+    husks left from a weeks old kill. They will often fly over battles knowing
+
+    that food will be available shortly.
+
+    While not as aggressive as many species found in the Grasslands, these
+
+    creatures are nonetheless dangerous if provoked or if they find you
+
+    between them and their food. We have found that the best way to defeat
+
+    the kongamato is to tear their leathery wings and force them to the ground
+
+    where they are far less mobile. Melee weapons are usually deflected by
+
+    their bony beaks, so a sling, spear, or bow are far better for protecting
+
+    yourself during an encounter.
+
+    Quest: A group of kongamato attacked a village in a large group and made
+
+    off with an infant that had been set down so the parents could help fight off
+
+    the creatures. This was unusual because kongamato are usually solitary
+
+    creatures, don't often attack humans, and rarely take prey back to their nest
+
+    without killing it first. The infant was taken alive and has only a slim
+
+    chance of being found in time for a rescue. Whose child was taken, and
+
+    what connection do you have to them?
+
+    YOUR TRUTH
+
+    Are kongamato covered in red feathers or is it only their tail
+
+    that is feathered?
+
+    What do the kongamato use their tails for?
+
+30               THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+UFITI                                                                ANIMAL
+
+Rank:      Formidable (1 progress per harm;      inflicts  3  harm)
+
+           ·  Large, chimp-gorilla cross
+
+Features:  ·  Highly intelligent
+
+           ·  Silvery back, barrel chest
+
+           ·  Be the tribe alpha
+
+Drives:    ·  Fight for a mate
+
+           ·  Inflict harm
+
+           ·  Crushing smash
+
+Tactics:   ·  Rending bite
+
+           ·  Overpower and intimidate
+
+The ufiti are apes of near human level intelligence that have a deeply
+
+savage streak. They rarely exhibit fear and never back down from a
+
+challenge, particularly in their own territory.
+
+We are not sure how these apes acquired such a higher level of intelligence
+
+than their gorilla cousins, but they use their smarts to create rudimentary
+
+tools and shelters. Their social hierarchy and communication is also
+
+enhanced by their expanded sense of self-awareness and ability to think in
+
+terms of future outcomes.
+
+Along with their strength and intelligence, the ufiti can also be swift and
+
+stealthy in their natural forest habitats. When we first encountered the ufiti,
+
+several attacked and killed the Grasslanders on the edge of the group
+
+before we could even spot them. From attacks like these, they gained the
+
+nickname of ghost apes.
+
+Quest: A veritable strike force of ufiti have been strategically attacking
+
+settlements seemingly under the direction of one extremely large ape who
+
+presides over the attack from afar. What is the goal of these attacks, and
+
+how can they be stopped?
+
+YOUR TRUTH
+
+Do the ufiti have silver backs or is all their fur silver?
+
+Are ghost apes particularly stealthy ufiti or are they a whole
+
+separate species with their own features and abilities?
+
+IRONSMITH: FLAVOR PACKS                                                          31
+    GROOTSLANG                                                 BEAST
+
+    Rank:          Epic (1 tick per harm; inflicts 5 harm)
+
+                   ·  Giant snake with elephant head
+
+    Features: ·       Ivory tusks form the teeth
+
+                   ·  Ears act as shields
+
+                   ·  Find and hoard diamonds
+
+    Drives:        ·  Lust for cruelty
+
+                   ·  Rule the warm waters
+
+                   ·  Crush ships
+
+    Tactics:       ·  Impale on tusk-teeth
+
+                   ·  Drag to the depths
+
+    We don't know how many grootslang there are in the Grasslands. There
+
+    could be only one as all the descriptions including scars seem to line up
+
+    between all the sightings. Encounters with grootslang also tend to occur
+
+    near one particularly deep lake known as the Wonder Hole.
+
+    The Wonder Hole is a lake so wide that we attempt traversing it with boats
+
+    rather than take the several days necessary to go around it. Legend says
+
+    that a vessel on one such journey was carrying a load of rare gemstones
+
+    from the north mountains and was hoping to use the lake and its exiting
+
+    river to deliver the goods south when it was attacked by a grootslang. The
+
+    ship is said to be sunk in the direct center of the lake, but we have yet to
+
+    fashion an anchor with a long enough rope to properly gauge the depth of
+
+    the lake. It may be as deep as a mountain is tall.
+
+    With the grootslang nearby, why do we continue to cross theWonder Hole?
+
+    Raiders often attack those who attempt to circumnavigate the great lake,
+
+    and many believe the grootslang can be dissuaded from attacking by
+
+    tossing a diamond overboard as a sacrifice.
+
+    Quest:Agreat warrior claims to have defeated a grootslang in battle using
+
+    an enchanted spear and bears a huge tusk as evidence, but the body of the
+
+    creature cannot be found at the site of the battle. The warrior is seeking a
+
+    group of brave souls to go on an expedition to find the remains of this
+
+    creature knowing that each part of the carcass could be valuable to mystics
+
+    and crafters.
+
+    YOUR TRUTH
+
+    Exactly how big is a grootslang?
+
+    If there is more than one, where else can they be found?
+
+32                    THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+KHODUMODUMO                                                            BEAST
+
+Rank:     Extreme (2 ticks per harm; inflicts   4  harm)
+
+          ·  House-sized frog
+
+Features: ·  Razor tongue
+
+          ·  Obese and sickly green
+
+          ·  Eat live victims
+
+Drives:   ·  Croak loudly
+
+          ·  Wallow in mud
+
+          ·  Swallow victims whole
+
+Tactics:  ·  Slice with multiple tongues
+
+          ·  Hop and crush
+
+Akhodumodumo is a frightening, unstoppable force of nature. If you hear
+
+their deep, guttural croaking, run. Run as fast and as far as your legs will
+
+take you if you value your life at all. These huge, armored frogs are coated
+
+with a slimy layer of poisonous mucus and are not to be trifled with.
+
+These creatures are large enough that they can swallow a horse whole and
+
+frequently do. They can lash out with their multiple tongues and pull their
+
+victims into their mouths with little trouble.
+
+Our one advantage against these behemoths is that they are slow and must
+
+stay near a source of water deep enough to submerge into. While they can
+
+jump long distances and crush trees with their bulk, they always take the
+
+easiest available food.
+
+Quest: A khodumodumo has expanded its territory and is now close to the
+
+settlement of Wanru. A group of hunters is setting out to eliminate this new
+
+threat, but they are unaware of an even greater menace. What dangerous
+
+being or event forced the khodumodumo to move its own territory?
+
+YOUR TRUTH
+
+Amuch smaller but still dangerous species has a symbiotic
+
+relationship with the khodumodumo. What is this species, and
+
+why are they dangerous?
+
+IRONSMITH: FLAVOR PACKS                                                       33
+    MOKELE MBEMBE                                              BEAST
+
+    Rank:       Extreme (2 ticks per harm; inflicts  4  harm)
+
+                ·  Long-necked apatosaurus
+
+    Features: ·    Thick, bluish-gray hide
+
+                ·  Armored spinal plates
+
+                ·  Eat from tall trees
+
+    Drives:     ·  Roam the riverbanks
+
+                ·  Cool off in lakes
+
+                ·  Crush with feet
+
+    Tactics:    ·  Tail swat
+
+                ·  Roll over victims
+
+    Usually a gentle giant, the mokele mbembe are a large herbivore reptile
+
+    species that travel in family pods with their young. They spend much of
+
+    their time in the water but traverse the edges of lakes and rivers by day for
+
+    their preferred meal: the white blossomed liana vine with its milky sap and
+
+    small fruit similar to apples.
+
+    While normally not aggressive, these creatures are easily startled and
+
+    dangerous by their sheer size. With underbellies that reach the height of an
+
+    elephant's head, the creatures can capsize small water vessels when they
+
+    submerge suddenly out of fear.
+
+    On land, they are equally dangerous when provoked as they lash out with
+
+    their whip-like tails that produce loud cracks of thunder. If a predator
+
+    moves too close, they have even been known to fall directly on top of their
+
+    attacker and roll their bulk over the predator until they are little more than
+
+    paste on the ground.
+
+    We have learned to respect the territory of the mokele mbembe and not
+
+    make any sudden movements around them. They will generally tolerate us
+
+    when we leave them be.
+
+    Quest: During mating season, the mokele mbembe males will whip their
+
+    tails back and forth producing thunderous cracks trying to impress a
+
+    female. This season, several pods all met in the same spot on the river near
+
+    the settlement of Odanrixis, and the noise of their mating rituals has
+
+    started several stampedes of the few livestock the settlement has. How can
+
+    this situation be resolved peacefully so that the village won't lose any more
+
+    livestock?
+
+    YOUR TRUTH
+
+    Some claim the mokele mbeme have a single horn. Do they?
+
+34                 THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+NINKI      NANKA                                                        BEAST
+
+Rank:      Formidable (1 progress per harm;       inflicts  3  harm)
+
+           ·  Long-necked dragon or wyrm
+
+Features:  ·  Horse head with horns
+
+           ·  Four legs with claws
+
+           ·  Bask in the swamp
+
+Drives:    ·  Hunt young, tender meat
+
+           ·  Collect bones
+
+           ·  Pin with their horns
+
+Tactics:   ·  Poisonous bite
+
+           ·  Hide in swamp water
+
+The ninki nanka resemble the mokele mbembe in some ways. They are
+
+only slightly smaller in size, and both have long necks. However, the
+
+similarities end there. The ninki nanka have rough and mottled skin rather
+
+than the smooth skin of the mokele mbembe. They are also carnivorous
+
+and have the natural weaponry to be crafty hunters despite their bulk.
+
+Their skin has markings similar to a giraffe that allows them to hide well
+
+among the twisted trees of a swamp. They are known to stay frozen in
+
+place for hours waiting for prey to come close enough for them to attack,
+
+and start most attacks with a poisonous bite followed by a headbutt meant
+
+to stun and trap their prey with their oddly shaped horns.
+
+For some reason unknown to us, the ninki nanka collect the bones of their
+
+kills and will sleep on mounds of them. It may be that the creatures use the
+
+bones simply to create a solid surface to sleep on in the muddy swamps, or
+
+it could be a show of their prowess as a hunter.
+
+Quest: A ninki nanka is thought to be responsible for a group of missing
+
+adolescents who went out foraging. If the youth have any chance, a rescue
+
+mission must be mounted immediately.
+
+YOUR TRUTH
+
+The ninki nanka horns are used in a sacred ceremony. What is
+
+this ceremony, and how does it relate to the swamplands?
+
+IRONSMITH: FLAVOR PACKS                                                        35
+    NYUVWIRA                                               BEAST
+
+    Rank:     Extreme (2 ticks per harm; inflicts 4 harm)
+
+              ·       Eight-headed underground snake
+
+    Features: ·       Emits magnetic pulses
+
+              ·       Heads writhing to burrow tunnels
+
+              ·       Find precious ores
+
+    Drives:   ·       Fight off humans
+
+              ·       Hunt large game
+
+              ·       Undermine and engulf
+
+    Tactics:  ·       Toxic skin
+
+              ·       Rapid multi-attacks with heads
+
+    The nyuvwira are extremely dangerous foes. These eight-headed serpents
+
+    can tunnel underground almost as quickly as they can slither atop it. Each
+
+    head moves perfectly in tandem with the others to scoop out large chunks
+
+    of earth and pull it behind the creature. We believe the the creature is
+
+    seeking out metals and ores as it digs underground, but it took us a while
+
+    to realize this.
+
+    When we first encountered a nyuvwira, we thought the shaky movements
+
+    of warriors' swords and axes were byproducts of facing an unfamiliar
+
+    opponent, but we soon discovered that the beast itself can send out wide
+
+    pulses that draw metals to itself. If you are right next to a nyuvwira when
+
+    it pulses like this, your sword may be temporarily stuck to the creature's
+
+    hide. In the meantime, it's eight heads have all taken a bite out of you. If
+
+    you're lucky enough to survive that onslaught, the toxins from the
+
+    nyuvwira's skin has likely made contact with you and definitely with your
+
+    weapon. You may run away and live for a time, but the poison will get you
+
+    in the end without immediate assistance.
+
+    We don't know why, but the nyuvwira seem to have a particular hatred for
+
+    humans. Either we are too different from what they are used to seeing, or
+
+    we were not the first humans to walk these lands giving the creatures an
+
+    instinctual response of loathing to us.
+
+    Quest: A mine has been infested with nyuvwira spawn, and while still in
+
+    their youth, the creatures are dangerous. What treasure did the miners
+
+    think they had discovered that is causing them to be unwilling to abandon
+
+    this place to the nyuvwira?
+
+    YOUR TRUTH
+
+    Do the nyuvwira eat the metals they find?         If not, what purpose
+
+    does the ore serve for them?
+
+36                    THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+BULGU                                                            FIRSTBORN
+
+Rank:     Formidable (1 progress per harm; inflicts 3 harm)
+
+          ·  Four eyes in an axe-shaped head
+
+Features: ·  Thick arms with no fingers that resemble axe handles
+
+          ·  Plate-like carapace on their backs
+
+          ·  Eat humans
+
+Drives:   ·  Stalk the rivers
+
+          ·  Protect their territory
+
+          ·  Slashing headbutts
+
+Tactics:  ·  Club with their arms
+
+          ·  Hunt by smell and sound
+
+At first we thought the bulgu were nothing more than monsters. They
+
+resemble ogres or trolls in stature but are much more grotesque, and we did
+
+not hear them speak for years. They hunted us, so we hunted them.
+
+Once we captured one alive, we heard their speech, a series of clicks,
+
+grunts, guttural noises, and ill-sounding words, and then we knew it must
+
+be sapient. It then called out to its brethren which led to another attack
+
+where it was freed. Many brave Grasslanders were lost that day.
+
+As far as we can tell, the bulgu typically live on or near rivers. Perhaps it's
+
+merely a water source or perhaps they need water in a much more
+
+amphibious way. We just don't know. We've never been able to find a full
+
+settlement of bulgu, but may the ancestors protect us if we do.
+
+Quest: A bulgu has approached the settlement of Nkurenna roughly
+
+speaking the Grasslander language. It seeks an end to the expansion of the
+
+settlement towards the river and threatens reprisal if ignored. This could
+
+be a chance to learn about bulgu culture if a peace could be brokered, but
+
+how do you negotiate with such aggressive beings?
+
+YOUR TRUTH
+
+What purpose do the four eyes serve? Do they allow the bulgu
+
+to triangulate distances giving superior accuracy with their
+
+charges and strikes?
+
+Are all four eyes facing the same direction, or are they facing
+
+the four different directions?
+
+IRONSMITH: FLAVOR PACKS                                                          37
+    ELOKO                                                        FIRSTBORN
+
+    Rank:      Dangerous (2 progress per harm; inflicts 2 harm)
+
+               ·  Vile, cannibalistic dwarf
+
+    Features:  ·  Grassy beard and leafy clothes
+
+               ·  Carries an enchanted bell
+
+               ·  Stalk the rain forest
+
+    Drives:    ·  Eat livers
+
+               ·  Find abandoned spouses to seduce and consume
+
+               ·  Use the bell to attract humans
+
+    Tactics:   ·  Spread gangrenous disease
+
+               ·  Stab with long knives
+
+    The eloko are beings closely tied to the earth of the Grasslands itself. They
+
+    walk the waterways of the deep forests and have the ability to grow plants
+
+    as part of their own bodies.
+
+    They also possess strange mystical abilities exemplified by the bell that
+
+    each one carries. Every bell is unique, but they are all made out of an
+
+    unknown type of wood that resonates deeply when struck. Moreover,
+
+    depending on the specific tone they produce with the bell, different effects
+
+    can be observed. The most common effect is that of holding a Grasslander
+
+    enthralled. The eloko use this ability to catch us off guard and steal our
+
+    mates that they then seduce and use for their own vile purposes before
+
+    eating out their insides.
+
+    Eloko are also known to spread disease through their touch. Whether a
+
+    gangrene of the skin or a blight on our crops, they can sicken anything they
+
+    come in contact with.
+
+    If we are careful and stuff our ears with wool when an eloko is nearby, they
+
+    can be defeated in battle like any other, but the most dangerous part is when
+
+    they first make their appearance known by ensorcelling one of us.
+
+    Quest: In the settlement of Oputavi, those who are widowed will often
+
+    "take the walk of bells" out into the forest in essence sacrificing themselves
+
+    to the eloko who live there. How did such a tradition start, and why is the
+
+    gruesome practice still observed?
+
+    YOUR TRUTH
+
+    Some say that eloko can meld into trees. Is this true?
+
+38                THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+POPOBAWA                                                            FIRSTBORN
+
+Rank:     Dangerous (2 progress per harm;  inflicts 2 harm)
+
+          ·  One-eyed bat people
+
+Features: ·  Can shapechange to be more    human-like
+
+          ·  Fanged maws
+
+          ·  Assault other firstborn
+
+Drives:   ·  Claim territory
+
+          ·  Inspire fear
+
+          ·  Hunt at night
+
+Tactics:  ·  Enslave others
+
+          ·  Bite and claw
+
+The popobawa are generally a war-like people who believe that perpetual
+
+expansion is their right by destiny and power. They value a ritualistic
+
+version of hunting and have a strange sense of a warrior's honor that can
+
+tolerate deceit and ill behavior as long as it is not openly seen.
+
+Might makes right in their tribes, and they even war with each other which
+
+has helped us to stay safer when near them. But you are never truly safe
+
+when near the popobawa. They almost always attack at night and will
+
+happily rush in to take prisoners and swiftly retreat night after night to
+
+wear down an enemy force by attrition.
+
+Their skin is usually some shade of red, and their eye is large and bulbous.
+
+These things along with their ability to shapechange and fly have led many
+
+to believe that the popobawa are really a species of demons that decided to
+
+live on the surface of this mortal realm rather than in the bowels and
+
+abandoned portions of the next realm.
+
+Quest: An unexpected nighttime assault by popobawa has led to the
+
+capture of several citizens of the settlement Karikos. They had no idea they
+
+were near popobawa territory and are worried about further attacks if they
+
+provoke the bat people by sending out a rescue party. Can the villagers be
+
+saved without escalating the situation? Who do you know that is desperate
+
+to lead the rescue mission, and why don't you trust them?
+
+YOUR TRUTH
+
+Are the popobawa actually firstborn of the Grasslands, or are
+
+they sentient horrors that have invaded from another realm?
+
+IRONSMITH: FLAVOR PACKS                                                        39
+    UMUTWA                                                            FIRSTBORN
+
+    Rank:        Troublesome (3 progress per harm;       inflicts  1  harm)
+
+                 ·     Tiny humanoids
+
+    Features: ·        Riding ants to battle
+
+                 ·     Zealously follow tribal mystic
+
+                 ·     Gain flattery and respect
+
+    Drives:      ·     Hunt in warrior packs
+
+                 ·     Collect crops left at crossroads
+
+                 ·     Potent poisoned arrows
+
+    Tactics:     ·     Swarm with vine-like ropes
+
+                 ·     Use large animals to distract
+
+    In the Old World, we had a ritual of placing small quantities of food at
+
+    significant crossroads as a sacrifice to our ancestors. Upon arriving at the
+
+    Grasslands, we continued this tradition but found that the sacrifices were
+
+    taken not by our ancestral spirits but by the umutwa.
+
+    The umutwa are a folk not more than the height of a thumb, but they have
+
+    the courage, bravery, and perhaps bluster, of those many times their size.
+
+    They breed a multitude of large insects to serve them as mounts, beasts of
+
+    burden, and livestock. They are most known for the iridescent green beetle
+
+    that they harvest their poisons from and the bright red fire ants that they
+
+    ride into battle.
+
+    While beings this small may sound like they are not a threat, we have found
+
+    respect and caution the watch words for dealing with the umutwa. If they
+
+    attack with a full force, they are more than a match for a skilled
+
+    Grasslander. There are simply too many of them, and we are quickly
+
+    overwhelmed.
+
+    One further word of caution: never speak of their small stature while in
+
+    their presence. Trust me.
+
+    Quest: A mystic would like a sample of the umutwa's beetle poison, but
+
+    understandably, they are reluctant to share. Why is having a sample so
+
+    important, and in what way do you feel this encounter would also benefit
+
+    the umutwa?
+
+    YOUR TRUTH
+
+    What do the umutwa legends of creation say about the
+
+    formation of the Grasslands?
+
+40                     THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+ADZE                                                           HORROR
+
+Rank:      Troublesome (3 progress per harm; inflicts 1 harm)
+
+           ·  Vampiric firefly
+
+Features:  ·  Can turn ethereal
+
+           ·  Shapeshift to humanoid
+
+           ·  Possess people to turn them into witches
+
+Drives:    ·  Drain a victim's blood
+
+           ·  Create spawn inside a victim's body
+
+           ·  Stay small and bite
+
+Tactics:   ·  Possess a victim
+
+           ·  Pass on diseases
+
+While the adze can present themselves as a humanoid, do not be fooled.
+
+They are demons or evil spirits who know nothing of the mortal existence.
+
+They live only to drain others of life and then procreate.
+
+It is said that the flashing of an adze firefly puts Grasslanders in a dazed
+
+state so that the adze can land and feed more easily. After slaking their
+
+blood thirst, they will then push eggs beneath the surface of their victims
+
+skin which over time swell and burst forth in their hatching. This is not
+
+always fatal to the victim, but leaves them horrifically scarred or maimed.
+
+Another way the adze secure the means to procreate is by enhancing a
+
+victims connection to evil spirits. This connection usually comes with an
+
+irresistible power that warps the mind of the user and turns them into a
+
+witch. Those Grasslanders who have the powers of a witch are often
+
+willing to use those powers to help the adze find more victims in return for
+
+the promise of even more power.
+
+Quest: During the summer months, fireflies flash a bioluminescent green to
+
+the delight of children across the Grasslands. But near the village of
+
+Tsumegwa, red lights have been seen flashing in the forest signaling an
+
+infestation of adze. The last person to leave Tsumegwa said that the
+
+remaining residents were boarding up their huts as airtight as they could
+
+in hopes of keeping the adze at bay, but that can only be a temporary
+
+solution. Who do you know that is trapped in Tsumegwa, and what do you
+
+suspect is behind the adze infestation?
+
+YOUR TRUTH
+
+The sangoma claim a specific sigil will ward off the adze.     What
+
+does this symbol represent, and what are its origins?
+
+IRONSMITH: FLAVOR PACKS                                                       41
+    CHEMOSIT                                                              HORROR
+
+    Rank:     Dangerous (2 progress per harm;         inflicts  2  harm)
+
+              ·        Half bird, half human demon
+
+    Features: ·        One leg, nine buttocks
+
+              ·        Mouth shines red
+
+              ·        Hunt flesh of children
+
+    Drives:   ·        Inspire fear
+
+              ·        Curse the living
+
+              ·        Sing a song to lure in victim
+
+    Tactics:  ·        Stab with spear-like walking   stick
+
+              ·        Bite
+
+    In the Old World, we would sing our children to sleep. Not any more. The
+
+    demonic chemosit is truly horrific because it targets our most vulnerable,
+
+    our children, by singing playful tunes in an attempt to lure children out.
+
+    Many of the first children we lost thought they were going to a dance
+
+    because they heard the happy music and saw the red glow from the
+
+    creature's mouth that they assumed was a fire. The parents who lost their
+
+    children this way still will not attend bonfire festivals as the pain weighs on
+
+    them too heavily.
+
+    Chemosits have a vaguely human face except for their large, triangular
+
+    mouth that resembles a beak. Their torsos are often covered in a dark black
+
+    fur while their very human-like arms are bare.
+
+    We thought that the fact that they have only one bird-like leg would slow
+
+    them down and make them more vulnerable, but alas, it is not so. They
+
+    have the ability to turn into a thick vapor and dissipate to escape attacks.
+
+    While the process is a bit slow and can be interrupted, it is still rare that we
+
+    are able to kill one of these fiends.
+
+    Quest: Three children were found missing this morning and there are
+
+    tracks with a single large bird foot leading out of town. No one knows
+
+    where the chemosit make their home or even if they have one, but time is
+
+    short if the children are to saved. Who do you know that may have the
+
+    means to locate this demon?
+
+    YOUR TRUTH
+
+    How are chemosit created? Is it from the death of a
+
+    particularly corrupt Grasslander? Are they beings from
+
+    another existence? What sort of vulnerability does this
+
+    creation process give the chemosit?
+
+42                     THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+NKALA                                                              HORROR
+
+Rank:         Dangerous (2 progress per harm; inflicts 2 harm)
+
+              ·  Giant spectral crab
+
+Features: ·      Diameter of a human's height
+
+              ·  Hippo-like head on each end
+
+              ·  Eat shadows of people
+
+Drives:       ·  Serve sorcerer or witch
+
+              ·  Follow whistling or high-pitched noises
+
+              ·  Devour shadow
+
+Tactics:      ·  Psychic strikes of fear
+
+              ·  Pincer attacks
+
+Nkala appear to be flat, brown crabs with a hard shell, but they have a head
+
+on either end of their body like the flattened head of a hippopotamus. In
+
+all honesty, we thought they were a laughable creature when we first
+
+encountered them. Little did we know that these are not beasts or animals
+
+but some form of horror empowered by sinister magic. And do not scream
+
+around these creatures, for they are drawn to the sound.
+
+While the crab-like pincers and hippo-like tusks are deadly physical
+
+weapons, the nkala's most dangerous aspects are those connected to their
+
+nature as a horror. Firstly, the nkala have an ability to instill immediate and
+
+powerful fear in a victim. Like a lance through the brain, the fear can
+
+produce physical harm as the heart and blood vessels overload and also
+
+usually cause the victim to freeze in place unable to think clearly enough
+
+to run away.
+
+Secondly, the nkala can eat a person's shadow. This again may not sound
+
+dangerous, but the consequences of not having a shadow are equally
+
+deadly. Over time, a person who has lost their shadow will waste away.
+
+They can see into a realm of death super-imposed onto our world and spend
+
+more and more time there. Without the shadow's ability to cast darkness
+
+out of the body, that darkness builds up and consumes the victim.
+
+Quest: A person has lost their shadow and fears the certain death they
+
+know is coming for them in the weeks ahead. Apowerful mystic claims that
+
+they can create a new shadow for the person, but need a rare artifact.
+
+What does the mystic need? Who is the person that lost their shadow, and
+
+how do you know them?
+
+YOUR TRUTH
+
+Do nkala stay near sources of water, or are they land-dwelling?
+
+IRONSMITH: FLAVOR PACKS                                                          43
+    TOKOLOSHE                                                            HORROR
+
+    Rank:          Troublesome (3 progress per harm; inflicts  1  harm)
+
+                   ·  Imp-like spirit
+
+    Features: ·       Summoned by corrupted shaman
+
+                   ·  Covered in hair
+
+                   ·  Avoid holy sites
+
+    Drives:        ·  Serve the shaman
+
+                   ·  Cause mischief
+
+                   ·  Swallow a stone of invisibility
+
+    Tactics:       ·  Bite off toes
+
+                   ·  Present frightening visage
+
+    While some horrors are native to the Grasslands, the tokoloshe are spirits
+
+    of our own making. Corrupted shaman or sangoma summoned these hairy
+
+    spiritual imps as a means of taking revenge which often came in the form
+
+    of killing a person in their sleep. Due to the small stature of the tokoloshe,
+
+    we have found that sleeping raised off the floor of our rondavels is key to
+
+    staying safe.
+
+    The tokoloshe can kill by stealing the breath directly from the lungs of a
+
+    person. After killing a victim, the tokoloshe will desecrate the body by
+
+    eating the toes off the person. If they can't kill someone outright, they are
+
+    content to torment the person with madness-inducing dreams.
+
+    Hunting tokoloshe is difficult because they are small but also because they
+
+    have a supply of magic stones they keep in a bag made of flesh. When they
+
+    swallow one of these stones, they became nearly invisible for a short period
+
+    of time. No one knows what these stones are or where they come from, but
+
+    they frustrate our ability to keep our people safe.
+
+    Quest: An explorer claims to have found a deep cave system where a large
+
+    gathering of tokoloshe harvest their invisibility stones. They are seeking
+
+    someone to help them sneak into the cave and steal some stones for
+
+    themselves. What other deadly being is said to live in this cave system, and
+
+    why would you still be willing to risk joining this task?
+
+    YOUR TRUTH
+
+    Once a tokoloshe is created by a shaman, they continue to exist
+
+    even after released from service. What strange change do the
+
+    tokoloshe undergo once they are released by the shaman that
+
+    makes them even more dangerous?
+
+44                    THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+WITCH      DOCTOR                                             GRASSLANDER
+
+Rank:      Dangerous (2 progress per harm; inflicts        2  harm)
+
+           ·  Dark wooden masks
+
+Features:  ·  Master of alchemy
+
+           ·  Chants and incense
+
+           ·  Hunt albino bones
+
+Drives:    ·  Connect with spiritual realm
+
+           ·  Pursue corrupted magics and power
+
+           ·  Use voodoo dolls
+
+Tactics:   ·  Dismembering slash
+
+           ·  Transmit psychological afflictions
+
+With great power comes great responsibility, and there are times when our
+
+beloved sangoma, healers, shaman, or mystics go mad with power. They
+
+push their inner powers further than their mind or spirit can fully control.
+
+Once under the delusion of their own grandeur, they seek out ever more
+
+power, but that power always comes at the price of lives.
+
+To fuel their corrupted magics, witch doctors usually hunt those
+
+Grasslanders who happen to have albinism. They grind the bones into a
+
+fine powder that can be used for poultices, potions, or other rituals imbued
+
+with power. Because of this specific need, witch doctors often carry stout
+
+scythes they use to dismember their victims. They may often cut off an arm
+
+or leg and immediately begin the cleaning the grinding process on those
+
+bones while the victim bleeds out from their injuries.
+
+Witch doctors also know the deeper magics involved in the flesh and bone
+
+of humans. Never give a lock of hair, knocked out tooth, or even a clipping
+
+from your nails to anyone. Burn anything that is separated from your body
+
+immediately lest it fall into the hands of a witch doctor who can bind it to
+
+a doll-like effigy giving them power over you.
+
+Quest: A villager lies sick, inflicted with an unknown disease, when the
+
+villager's former lover admits to giving a lock of hair to a witch doctor to
+
+enact vengeance on the person for the perceived romantic slights.
+
+Knowing a witch doctor is responsibility, the overseer believes the disease
+
+can be reversed. What makes you think you know the identity of this witch
+
+doctor? What harm did they previously bring upon you and yours?
+
+YOUR TRUTH
+
+What powers are embedded in the wooden masks of witch
+
+doctors? Is this ability connected to the elves? If so, how?
+
+IRONSMITH: FLAVOR PACKS                                                       45
+    NAME ORACLES
+
+    To increase your immersion in the African mythology, I've included some
+
+    Grasslander names that come from Zulu culture as well as settlement
+
+    names taken with permission from the awesome generators at
+
+    fantasynamegenerators.com that are modeled after town names from
+
+    regions in southernAfrica.
+
+46  THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+Grasslander Names
+
+01 Amahle          35     Nkazimulo     69  Simphiwe
+
+02 Andile          36     Nobantu       70  Siphesihle
+
+03 Bandile         37     Nobuhle       71  Siphesihle
+
+04 Bhekani         38     Nokulunga     72  Sithembiso
+
+05 Bhekisisa       39     Nolwandle     73  Siyabonga
+
+06 Busisiwe        40     Nomagugu      74  Sphiwe
+
+07 Dumisani        41     Nomalanga     75  Thabani
+
+08 Dumisile        42     Nomandla      76  Thabisa
+
+09 Gabisile        43     Nomasonto     77  Thalente
+
+10 Gugu            44     Nomathalente  78  Thalente
+
+11 Gugulethu       45     Nomathemba    79  Thalente
+
+12 Jabulani        46     Nomcebo       80  Thandanani
+
+13 Jabulisile      47     Nomthandazo   81  Thandazile
+
+14 Khanyisile      48     Nomvula       82  Thandeka
+
+15 Langelihle      49     Nonhlanhla    83  Thandiwe
+
+16 Londisizwe      50     Nonjabulo     84  Themba
+
+17 Londiwe         51     Nothando      85  Thembeka
+
+18 Lunga           52     Noxolo        86  Thembekile
+
+19 Lungani         53     Nozibusiso    87  Thembile
+
+20 Lungile         54     Nozizwe       88  Thembisile
+
+21 Luyanda         55     Nqobile       89  Thuthuka
+
+22 Lwandile        56     Nqobizitha    90  Thuthukile
+
+23 Malibongwe      57     Ntuthuko      91  Vusumuzi
+
+24 Mandla          58     Olwethu       92  Xolani
+
+25 Manqoba         59     Owethu        93  Zakhele
+
+26 Mcebisi         60     Sandile       94  Zenzele
+
+27 Minenhle        61     Sibonelo      95  Zenzile
+
+28 Mlungisi        62     Sibongakonke  96  Zibuyile
+
+29 Mthokozisi      63     Sibongile     97  Zinhle
+
+30 Musa            64     Sibusisiwe    98  Zwelakhe
+
+31 Mzamo           65     Sibusiso      99  Zwelethu
+
+32 Ndumiso         66     Sihawukele    00  Zwelibanzi
+
+33 Nhlanhla        67     Silondile
+
+34 Njabulo         68     Simphiwe
+
+IRONSMITH: FLAVOR  PACKS                                47
+    Settlement Names
+
+    01 Arachanas           35  Magano          69  Ramoktse
+
+    02 Aranlilo            36  Malnong         70  Randstad
+
+    03 Arava               37  Mandutume       71  Randweto
+
+    04 Bhuyale             38  Mangesa         72  Ratekabe
+
+    05 Bhuziya             39  Maunaleka       73  Rehodive
+
+    06 Buleba              40  Meyohibe        74  Rerithe
+
+    07 Culliliwal          41  Mhlazena        75  Romasoe
+
+    08 Daludume            42  Mhlumelena      76  Rondatavi
+
+    09 Ekahage             43  Mhlutume        77  Rumebib
+
+    10 Ermemolle           44  Middelyani      78  Savuseni
+
+    11 Ettengwe            45  Miha            79  Sidkulu
+
+    12 Genkango            46  Miseru          80  Simuvise
+
+    13 Ghanteng            47  Mmato           81  Siney
+
+    14 Ghanthethe          48  Mochulapye      82  Somevone
+
+    15 Giyakowa            49  Moiyajang       83  Sowebron
+
+    16 Hala                50  Molepobina      84  Soweliwal
+
+    17 Hlatimisa           51  Mopirowe        85  Sowemelo
+
+    18 Hukutswa            52  Mpukowa         86  Swakoti
+
+    19 Huwe                53  Narakeru        87  Takhojea
+
+    20 Kanla               54  Narasema        88  Tetsare
+
+    21 Katilo              55  Natgo           89  Thanekodvo
+
+    22 Khonie              56  Ngwenbuta       90  Thelong
+
+    23 Khowo               57  Nhlanton        91  Tonodinare
+
+    24 Kimbelo             58  Nkomanus        92  Tsehao
+
+    25 Kopopong            59  Nkurenpi        93  Tshaluno
+
+    26 Koshupa             60  Nomatang        94  Tsuwejera
+
+    27 Krugerha            61  Okakabib        95  Tumathwa
+
+    28 Kwata               62  Omarunie        96  Usana
+
+    29 Labong              63  Ondatal         97  Vambaneni
+
+    30 Lepan               64  Ongwerenkuru    98  Vendane
+
+    31 Letkaneng           65  Payeng          99  Virgiliwal
+
+    32 Lobakati            66  Periyane        00  Wevi
+
+    33 Lurera              67  Pokorea
+
+    34 Lydentha            68  Qamayane
+
+48                    THE  GRASSLANDS | BASED  ON AFRICAN MYTHOLOGY
+SETTLEMENT TRACKERS
+
+On the following page you will find a blank template you can fill out to
+
+help you build any settlement you encounter. The template includes:
+
+·  Settlement Name: You may use the Settlement Name oracle.
+
+·  Region/Location: Give the settlement a number and description of
+
+   where it is in the region like "3: North eastern corner of Havens".
+
+   Mark this spot on your map with the number.
+
+·  First Look/Descriptors: What does this settlement look like? Is it
+
+   run down? Are there new buildings going up? Do they have a
+
+   meeting hall? You may use the Location Descriptor oracle.
+
+·  Geography: What is the land like in this area? Are they on a river?
+
+   Is there flat ground for agriculture? Are there hills being used as a
+
+   natural defense? You may use the Location oracle.
+
+·  Population/Size: How many people or families live here? You
+
+   may use the Challenge Rank oracle with the following results:
+
+     Troublesome = Homestead, up to 10 people and up to 2
+
+     standing structures
+
+     Dangerous = Steading, up to 20 people and up to 7 standing
+
+     structures
+
+     Formidable = Village, up to 50 people and up to 15 standing
+
+     structures
+
+     Extreme = Town, up to 100 people and up to 30 standing
+
+     structures
+
+     Epic = City, up to 500 people and up to 100 standing structures
+
+·  Resources: How does this settlement mainly provide                     for
+
+   themselves?Agriculture? Fishing? Hunting? Trade of crafts?
+
+·  Leadership: What type of leadership structure does this settlement
+
+   have? Overseer? Council of elders? Religious leader? War chief?
+
+·  Disposition: How does the settlement (and particularly the
+
+   leadership) view your character?
+
+·  Notable Events: What significant events have taken place here?
+
+   Did you interact with this place during a vow?
+
+·  Notable NPCs: Who lives here that your character knows by
+
+   name?
+
+·  Nearby Opportunities/Dangers:Are there ways that you can help
+
+   the settlement? Is there a threat on the horizon? Is there an
+
+   unexplored area with potential resources? You may use the
+
+   Settlement Trouble oracle.
+
+·  Bond?: Check the box if you Forge a Bond with this settlement.
+
+IRONSMITH: FLAVOR PACKS                                                        49
+    Settlement Name                     Region/Location
+
+    First Look/Descriptors              Geography
+
+    Population/Size                     Resources
+
+    Leadership                          Disposition
+
+    Notable Events
+
+    Notable NPCs
+
+    Nearby Opportunities
+
+    Nearby Dangers
+
+    BOND?
+
+50                   THE    GRASSLANDS  | BASED ON AFRICAN  MYTHOLOGY
+Settlement Name                Region/Location
+
+First Look/Descriptors         Geography
+
+Population/Size                Resources
+
+Leadership                     Disposition
+
+Notable Events
+
+Notable NPCs
+
+Nearby Opportunities
+
+Nearby Dangers
+
+BOND?
+
+IRONSMITH: FLAVOR       PACKS                   51
+    Settlement Name                     Region/Location
+
+    First Look/Descriptors              Geography
+
+    Population/Size                     Resources
+
+    Leadership                          Disposition
+
+    Notable Events
+
+    Notable NPCs
+
+    Nearby Opportunities
+
+    Nearby Dangers
+
+    BOND?
+
+52                   THE    GRASSLANDS  | BASED ON AFRICAN  MYTHOLOGY
+Settlement Name                Region/Location
+
+First Look/Descriptors         Geography
+
+Population/Size                Resources
+
+Leadership                     Disposition
+
+Notable Events
+
+Notable NPCs
+
+Nearby Opportunities
+
+Nearby Dangers
+
+BOND?
+
+IRONSMITH: FLAVOR       PACKS                   53
+54  THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
+IRONSMITH: FLAVOR PACKS  55
+
