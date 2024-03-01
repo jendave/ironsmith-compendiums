@@ -10,7 +10,7 @@
         "abilities": [
             {
                 "description": "<p>Star (Chandra): Ask a single question. On a strong hit, you read a helpful omen in the stars. Envision what you learn (ask the Oracle if unsure) and take +2 momentum. On a weak hit, the omen contains a warning. Envision this warning and take only +1 momentum.</p>",
-                "enabled": "true",
+                "enabled": "false",
                 "hasClock": "false",
                 "clockMax": "4",
                 "clockTicks": 0

@@ -4,7 +4,7 @@ import json
 
 original_data_file="indian-assets.json"
 
-# Suzaku and Seiryuu require some ability modification after import. The `Companion Endure Harm` and `Divine Strike` strings cause issues.
+# Gatka require some ability modification after import. The `Battle` string causes issues.
 def update_ability(ability):
     if ability is None:
         return None
@@ -40,6 +40,7 @@ def update_ability(ability):
     ability_updated = ability_updated.replace("[Pay the Price](Moves/Fate/Pay_the_Price)", "@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price}")
     ability_updated = ability_updated.replace("Test Your Bond" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.421b379cb40b6ab7]{Test Your Bond}")
     ability_updated = ability_updated.replace("Turn the Tide" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.12e23cfe23534a8f]{Turn the Tide}")
+    ability_updated = ability_updated.replace("Fulfill Your Vow" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.725a21e2f02d7e12]{Fulfill Your Vow}")
 
     return ability_updated
 
@@ -63,7 +64,7 @@ for asset in ironsmith_assets['Assets']:
     ability_1_enabled = "true"
     if (ability_5):
         ability_1_enabled = "false"
-    elif (ability_4 and asset_name == "Infusion Brewer"):
+    elif ("Stotr Gaayak" in asset_name):
         ability_1_enabled = "false"
     elif (asset_name == "Mutant Senses"):
         ability_1_enabled = "false"
