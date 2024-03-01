@@ -9,7 +9,7 @@
         "fields": null,
         "abilities": [
             {
-                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} edge, you may choose one before rolling.<ul><li>Barrage: Retain initiative on a weak hit but inflict only 1 harm.</li><li>Sever limb: Inflict +1 harm on a hit but suffer-1 momentum.</li><li>Follow up: On a strong hit, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} now and add +1.</li></ul></p>",
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} edge, you may choose one before rolling.<ul><li>Barrage: Retain initiative on a weak hit but inflict only 1 harm.</li><li>Sever limb: Inflict +1 harm on a hit but suffer -1 momentum.</li><li>Follow up: On a strong hit, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} now and add +1.</li></ul></p>",
                 "enabled": "true",
                 "hasClock": "false",
                 "clockMax": "4",

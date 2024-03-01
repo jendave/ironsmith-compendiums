@@ -16,7 +16,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>Beads: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm}i, add +X. If your action die shows a one, the amulet's magic is spent.</p>",
+                "description": "<p>Beads: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm}, add +X. If your action die shows a one, the amulet's magic is spent.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,

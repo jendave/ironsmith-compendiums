@@ -23,7 +23,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>You may make a powerful @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} using the full arc of your swing. If you do, suffer-1 momentum but inflict +1 harm on a hit.</p>",
+                "description": "<p>You may make a powerful @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} using the full arc of your swing. If you do, suffer -1 momentum but inflict +1 harm on a hit.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,

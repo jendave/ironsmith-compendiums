@@ -9,7 +9,7 @@
         "fields": null,
         "abilities": [
             {
-                "description": "<p>When you attack in melee with a deadly weapon in a dancing whirlwind, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} +edge (instead of iron). If you do, add +1. On a hit, inflict harm (instead of 2) and take +1 momentum.</p>",
+                "description": "<p>When you attack in melee with a deadly weapon in a dancing whirlwind, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} +edge (instead of +iron). If you do, add +1. On a hit, inflict harm (instead of 2) and take +1 momentum.</p>",
                 "enabled": "true",
                 "hasClock": "false",
                 "clockMax": "4",

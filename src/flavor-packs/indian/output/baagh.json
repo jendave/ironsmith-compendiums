@@ -21,14 +21,14 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>Hunter: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} by having your tiger attack from hiding while you distract your foe, you may roll +shadow (instead of iron or +edge). If you do, add +1 and take +1 momentum on a hit.</p>",
+                "description": "<p>Hunter: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} by having your tiger attack from hiding while you distract your foe, you may roll +shadow (instead of +iron or +edge). If you do, add +1 and take +1 momentum on a hit.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
                 "clockTicks": 0
             },
             {
-                "description": "<p>Neck Snap: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aac3783710ad7499]{End the Fight} by having your tiger attempt a death blow on a foc (formidable or less). you may reroll any dice.</p>",
+                "description": "<p>Neck Snap: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aac3783710ad7499]{End the Fight} by having your tiger attempt a death blow on a foe (formidable or less), you may reroll any dice.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,

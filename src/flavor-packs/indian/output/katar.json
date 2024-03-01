@@ -9,7 +9,7 @@
         "fields": null,
         "abilities": [
             {
-                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} in close quarters, you may suffer-1 momentum and inflict +1 harm on a hit (decide before rolling).</p>",
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} in close quarters, you may suffer -1 momentum and inflict +1 harm on a hit (decide before rolling).</p>",
                 "enabled": "true",
                 "hasClock": "false",
                 "clockMax": "4",
@@ -23,7 +23,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>When you Turn the Tide by committing your full body weight to a devastating blow, and your next move is a @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike}, add +I and inflict +2 harm on a strong hit.</p>",
+                "description": "<p>When you Turn the Tide by committing your full body weight to a devastating blow, and your next move is a @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike}, add +1 and inflict +2 harm on a strong hit.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
