@@ -105,7 +105,7 @@ d100 Junglelander Names
 99 Yawarwaqaq
 100  Yuri
 
-d100 Junglelander Settlement Names
+d100 Settlement Names
 01 Acayaty
 02 Acelonia
 03 Agualao
@@ -206,3 +206,18 @@ d100 Junglelander Settlement Names
 98  Yego
 99  Ygalena
 100  Yuno
+
+Regions of the Junglelands
+Each region in the Junglelands corresponds to a region on the normal Ironsworn map. In this way, you can continue to use the same map while still getting a new flavor for the setting.
+
+d100 Regions of the Junglelands
+01-12  Rumi Uma Wat'a <i>Stone Head Isles</i> (Barrier Islands)
+13-24  Kiru Chhukruna <i>The Toothed Beak</i> (Ragged Coast)
+25-34  Unu Sach’ara <i>The Drowning Wood</i> (Deep Wilds)
+35-46  Thuniy Nan <i>The Shattered Road</i> (Flooded Lands)
+47-60  Chinka Wayta Pata <i>The Lost Garden</i> (Havens)
+61-72  Q'umir Amaru Pikchu <i>The Green Snake Hills</i> (Hinterlands)
+73-84  Qincha Phaqcha <i>Wall of Waterfalls</i> (Tempest Hills)
+85-94  Yana Hirka <i>The Obsidian Mountains</i> (Veiled Mountains)
+95-99  P'uruna T'urr <i>Red Sea</i> (The Sinking Plains of Mud)
+100    Elsewhere
