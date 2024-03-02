@@ -1,0 +1,49 @@
+{
+    "name": "Obhejane",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "Your rhino is an unstoppable force.",
+        "category": "Companion",
+        "color": "",
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            }
+        ],
+        "abilities": [
+            {
+                "description": "<p>Overrun: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} by riding your rhino against a pack of foes, add +1 and inflict +1 harm on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>No Fear: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ed343c963b08f301]{Enter the Fray} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by charging into combat, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Hardened Hide: When you make the Companion @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm} move in a fight, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Health",
+            "max": 5,
+            "value": 5,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": "Rhino"
+    }
+}

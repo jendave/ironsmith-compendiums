@@ -1,0 +1,44 @@
+{
+    "name": "Sangoma",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": null,
+        "category": "Ritual",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>When you implore the ancestral spirits to heal another person, roll +wits and add +1. On a strong hit, the patient mends or heartens (as in the @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.25421995c803340e]{Sojourn} move). On a weak hit, as above but the spirits ask something of you in return.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you eat vision root and dream prophetic dreams, roll +wits and @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.e09e2fc8bb709320]{Endure Stress} (1 stress). On a strong hit, you see a future failure that you can now avoid. Once before the next dawn when you miss on a non-progress roll, you may improve it to a strong hit. On a weak hit, as above but improve the miss to a weak hit instead.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>After you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.010e27aa4376d4df]{Swear an Iron Vow} to heal an ally of a bane or burden, one time only you may consult the ancestral spirits for guidance. If you do, roll +wits. On a hit, you conceive of a medicinal muti and the ingredients required. Take +2 momentum. On a strong hit, also reduce the rank of the vow one step.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": "Witch Doctor"
+    }
+}

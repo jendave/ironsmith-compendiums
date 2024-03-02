@@ -1,0 +1,44 @@
+{
+    "name": "Ukuhlanzwa",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": null,
+        "category": "Ritual",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>When you paint your face and body to purify yourself before battle, roll +wits. On a strong hit, your spirit is pure. Take +2 momentum and add +1 the next time you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ed343c963b08f301]{Enter the Fray}. On a weak hit, only take +1 momentum.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you sprinkle yourself with ceremonial water mixed with the blood of fallen foes, roll +wits. On a strong hit, the next time you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm} in a fight, you ignore all harm. On a weak hit, as above but reduce harm suffered by 2 instead.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you perform qaqa, the ritual disemboweling of a fallen enemy to release its spirit, roll +heart. On a strong hit, the spirit honors your act. Take +2 momentum and +1 spirit. On a weak hit, the spirit gives you a warning. Ask the Oracle for the nature of the warning. Then, take +1 momentum and add +1 to the next move you make leveraging this knowledge.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.412156232a6d42bf]{Battle} Purity"
+    }
+}

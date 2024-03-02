@@ -1,0 +1,49 @@
+{
+    "name": "Ingulule",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "Your cheetah is swift and fierce.",
+        "category": "Companion",
+        "color": "",
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            }
+        ],
+        "abilities": [
+            {
+                "description": "<p>Sprint: When your cat chases down small game, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.8d90dd472856be27]{Resupply} with +edge (instead of +wits). If you do, take +1 supply or +1 momentum on a strong hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Stalk: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} by following your cat's lead in hunting your quarry, you may roll +shadow (instead of +wits). If you do, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Clamp: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by having your cat bite down and restrain a foe of formidable or lower rank, roll +edge and add +1. On a strong hit, inflict I harm. 0 +1 +2 +3 +4</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Health",
+            "max": 4,
+            "value": 4,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": "Cheetah"
+    }
+}
