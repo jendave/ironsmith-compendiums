@@ -1,23 +1,3 @@
-2024/03/01-14:10:46.806588 70000875c000 Recovering log #13
-2024/03/01-14:10:46.806758 70000875c000 Level-0 table #15: started
-2024/03/01-14:10:46.808116 70000875c000 Level-0 table #15: 9491 bytes OK
-2024/03/01-14:10:46.809931 70000875c000 Delete type=0 #13
-2024/03/01-14:10:46.810394 70000875c000 Delete type=3 #12
-2024/03/01-14:11:49.407051 700001eb2000 Level-0 table #18: started
-2024/03/01-14:11:49.407387 700001eb2000 Level-0 table #18: 0 bytes OK
-2024/03/01-14:11:49.408032 700001eb2000 Delete type=0 #16
-2024/03/01-14:11:49.411831 700001eb2000 Manual compaction at level-0 from '!folders!7pF3r7DsI3OCt4p6' @ 72057594037927935 : 1 .. '!tables.results!jGCHyZGWy0Zwm0i8.z8nl0gYMRsixpdLJ' @ 0 : 0; will stop at '!tables.results!sa1sb53fI0l7n5lA.z8nl0gYMRsixpdLJ' @ 437 : 0
-2024/03/01-14:11:49.411859 700001eb2000 Compacting 1@0 + 0@1 files
-2024/03/01-14:11:49.412689 700001eb2000 Generated table #19@0: 70 keys, 9361 bytes
-2024/03/01-14:11:49.412710 700001eb2000 Compacted 1@0 + 0@1 files => 9361 bytes
-2024/03/01-14:11:49.412900 700001eb2000 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/03/01-14:11:49.413007 700001eb2000 Delete type=2 #15
-2024/03/01-14:11:49.416511 700001eb2000 Manual compaction at level-0 from '!tables.results!sa1sb53fI0l7n5lA.z8nl0gYMRsixpdLJ' @ 437 : 0 .. '!tables.results!jGCHyZGWy0Zwm0i8.z8nl0gYMRsixpdLJ' @ 0 : 0; will stop at (end)
-2024/03/01-14:11:49.417581 700001eb2000 Manual compaction at level-1 from '!folders!7pF3r7DsI3OCt4p6' @ 72057594037927935 : 1 .. '!tables.results!jGCHyZGWy0Zwm0i8.z8nl0gYMRsixpdLJ' @ 0 : 0; will stop at '!tables.results!sa1sb53fI0l7n5lA.z8nl0gYMRsixpdLJ' @ 437 : 0
-2024/03/01-14:11:49.417594 700001eb2000 Compacting 1@1 + 1@2 files
-2024/03/01-14:11:49.418607 700001eb2000 Generated table #20@1: 338 keys, 32083 bytes
-2024/03/01-14:11:49.418625 700001eb2000 Compacted 1@1 + 1@2 files => 32083 bytes
-2024/03/01-14:11:49.418827 700001eb2000 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/03/01-14:11:49.418933 700001eb2000 Delete type=2 #5
-2024/03/01-14:11:49.419248 700001eb2000 Delete type=2 #19
-2024/03/01-14:11:49.424042 700001eb2000 Manual compaction at level-1 from '!tables.results!sa1sb53fI0l7n5lA.z8nl0gYMRsixpdLJ' @ 437 : 0 .. '!tables.results!jGCHyZGWy0Zwm0i8.z8nl0gYMRsixpdLJ' @ 0 : 0; will stop at (end)
+2024/03/01-14:49:05.151482 700007756000 Recovering log #17
+2024/03/01-14:49:05.152665 700007756000 Delete type=3 #14
+2024/03/01-14:49:05.152956 700007756000 Delete type=0 #17

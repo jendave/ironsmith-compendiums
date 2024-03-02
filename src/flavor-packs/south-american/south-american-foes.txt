@@ -1,3901 +1,837 @@
-IRONSMITH:
-FLAVOR PACK
-
-INSPIRED BY
-
-SOUTH AMERICAN MYTHOLOGY
-
-A FAN MADE SUPPLEMENT FOR
-
-THE IRONSWORN RPG SYSTEM
-Copyright (c) 2021 Eric Bright of Play Every Role
-
-LICENSING INFO
-
-This work is based on Ironsworn (found at www.ironswornrpg.com),
-
-created by Shawn Tomkin, and licensed for our use under the Creative
-
-CommonsAttribution 4.0 International License.
-
-(https://creativecommons.org/licenses/by/4.0/).
-
-The text of this work is created by Eric Bright and licensed for use under
-
-the Creative CommonsAttribution 4.0 International License (CC-BY).
-
-You may transfer the contents of this book to another medium (such as The
-
-Augur or Roll20) or create derivative works based on this content. The
-
-only thing I ask is that you let me know how you are using it in your design
-
-so I can follow along! You can contact me most reliably by email at
-
-ericbright2002@yahoo.com. If you have any questions or would like to
-
-collaborate on future designs, please drop me a line!
-
-WRITING AND DESIGN
-
-All writing and design by Eric Bright.
-
-ACKNOWLEDGMENTS
-
-NOTE: This is NOT OFFICIALIronsworn content! It is fan-made content
-
-made available through the generous licensing of Shawn Tomkin, creator
-
-of Ironsworn. Please support him by purchasing the original Ironsworn
-
-products as well as Starforged, the sci-fi follow-up game to Ironsworn.
-
-IMAGE CREDITS
-
-Cover image by Nick Kypriadis licensed from iStock by Getty Images.
-
-All photos are in the public domain taken from The Metropolitan Museum
-
-of Art, Unsplash, Pixabay and Pexels. Select Icons by Lorc, Delapouite,
-
-Cathelineau, Skoll, and DarkZaitzev from game-icons.net under CC-BY
-
-3.0. Jaguar by Philip Glen, Black Panther by N.K. Narasimhan, Yaguareté
-
-and Llama by Gilda Martini from the Noun Project. Other icons by
-
-www.flaticon.com.
-TABLE OF CONTENTS
-
-THE JUNGLELANDS                                                                                                 2
-
-NEW REGIONS..................................................................................3
-
-Rumi Uma Wat'a .....................................................................................4
-
-Kiru Chhukruna .......................................................................................5
-
-Unu Sach'ara............................................................................................6
-
-Thuniy Nan..............................................................................................7
-
-Chinka Wayta Pata...................................................................................8
-
-Q'umirAmaru Pikchu ..............................................................................9
-
-Qincha Phaqcha .....................................................................................10
-
-Yana Hirka .............................................................................................11
-
-P'uruna T'urr...........................................................................................12
-
-NEW ASSETS ...................................................................................13
-
-Combat Talents ......................................................................................13
-
-· Atlatl............................................................................................14
-
-· Champi ........................................................................................15
-
-· Liwi..............................................................................................16
-
-· Macuahuitl...................................................................................17
-
-Companions ...........................................................................................18
-
-· Alicanto........................................................................................18
-
-· Uturunku......................................................................................19
-
-Paths.......................................................................................................20
-
-· Anka Nan.....................................................................................20
-
-· Paqu Hampiq...............................................................................21
-
-· Tujllaki.........................................................................................22
-
-· Uturunku Nan..............................................................................23
-
-Rituals ....................................................................................................24
-
-· Allinyachiy ..................................................................................24
-
-· Pampa Suyu.................................................................................25
-
-NEW FOES........................................................................................26
-
-Animals..................................................................................................27
-
-· Ahuizotl .......................................................................................27
-
-· Cuero ...........................................................................................28
-
-· Ix Hunpedzkin.............................................................................29
-
-· Cuero ...........................................................................................30
-
-· Kori..............................................................................................31
-
-· Pira Nu.........................................................................................32
-
-· Quetzalcoatl.................................................................................33
-
-· Romsiwamnari.............................................................................34
-
-· Wako............................................................................................35
-
-Beasts.....................................................................................................36
-
-· Boiuna..........................................................................................36
-
-· Falajitax.......................................................................................37
-
-· Okpe ............................................................................................38
-
-· Rahara..........................................................................................39
-
-· Tosetax.........................................................................................40
-    Firstborn.................................................................................................41
-
-    · Caimana.......................................................................................41
-
-    · Camazotz.....................................................................................42
-
-    · Eintykara......................................................................................43
-
-    · Huayramama................................................................................44
-
-    · Munuane......................................................................................45
-
-    · Ookempan....................................................................................46
-
-    · Sachamama..................................................................................47
-
-    · Yacumama ...................................................................................48
-
-    Junglelanders..........................................................................................49
-
-    · Maricoxi ......................................................................................49
-
-    NAME ORACLES ............................................................................50
-
-    KOMIKAN: THE JAGUARAND THE LLAMAS..........................53
-
-    Game Board and Tokens........................................................................54
-
-    Alternate Versions..................................................................................55
-
-    Initial Set-up for Basic Version..............................................................56
-
-    SETTLEMENT TRACKERS............................................................57
-
-IV  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-THE JUNGLELANDS
-
-Inspired by South American Mythologies
-
-IRONSMITH: FLAVOR PACKS                 1
-   THE JUNGLELANDS
-
-   Each Flavor Pack for the Ironsworn RPG is inspired by some culture's
-
-   mythology. The ideas presented are not exact duplicates of myths,
-
-   cultures, or creatures from those cultures, but rather are general ideas
-
-   meant to evoke a slightly different feeling rather than the viking-like
-
-   setting of the Ironsworn core setting.
-
-   The Junglelands Flavor Pack was inspired by mythologies from across
-
-   SouthAmerica and Mesoamerica, particularly the Inca andAztec.
-
-   The southern continent that the Junglelanders came from was
-
-   rapidly spinning into a new ice age which forced the people to flee
-
-   to the north hoping to find warmer and more hospitable climates.
-
-   When they first landed in the Junglelands, they thought they had
-
-   succeeded at both, but it was a paradise too good to be true. The
-
-   oppressive heat, constant cycle of tropical storms, and dangerous
-
-   animal life makes this a harsh land to call home.
-
-   At first there were few enough people that hunting and gathering
-
-   provided for their needs, but that too rapidly changed. All manner
-
-   of dangerous creatures lurking in the jungles viewed them as
-
-   invaders and prey. Thus, farming suddenly became a part of every
-
-   warrior's job, but it is difficult tending to the crops when you can
-
-   have only one hand on the plow since the other must hold a
-
-   weapon to fend off the various threats of the land.
-
-   The Junglelands continent is a study in extremes. It goes from the
-
-   driest desert on the coastal plains to the wettest rain forest
-
-   surrounding rich river basins, from the flattest of plains to the
-
-   highest mountain peaks. These extremely different environments
-
-   have given rise to an equally diverse set of flora, fauna, and
-
-   monstrous beasts that roam the lands.
-
-   In addition, the Junglelanders were not the first to settle on this
-
-   continent. Ancient and magnificent ruins are scattered throughout
-
-   the lands as well as immense carved stone statues, obelisks, and
-
-   altars. These may be from the firstborn people rumored to still be
-
-   living in the Junglelands or possibly from some more ancient
-
-   people.
-
-   Life in the Junglelands is hard. Survival is the watch word, and the
-
-   traditions and customs of their ancestors are at times all that keep
-
-   the Junglelanders from giving up hope of taming this wild place.
-
-2  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-NEW REGIONS
-
-Each region in the Junglelands corresponds to a region on the normal
-
-Ironsworn map. In this way, you can continue to use the same map while
-
-still getting a new flavor for the setting.
-
-The original Ironsworn regions change as follows:
-
-1. Barrier Islands  Rumi Uma Wat'a (Stone Head Isles)
-
-2. Ragged Coast  Kiru Chhukruna (The Toothed Beak)
-
-3. Deep Wilds  Unu Sach'ara (The Drowning Wood)
-
-4. Flooded Lands  Thuniy Nan (The Shattered Road)
-
-5. Havens  Chinka Wayta Pata (The Lost Garden)
-
-6. Hinterlands  Q'umirAmaru Pikchu (The Green Snake Hills)
-
-7. Tempest Hills  Qincha Phaqcha (Wall of Waterfalls)
-
-8. Veiled Mountains  Yana Hirka (The Obsidian Mountains)
-
-9. Shattered Wastes  P'uruna T'urr (The Sinking Plains of Mud)
-
-IRONSMITH: FLAVOR PACKS                                                 3
-   RUMI UMA WAT'A                                        STONE HEAD ISLES
-
-   Replaces: Barrier Islands (Region 1)
-
-   Features:
-
-   · Stone heads rising out of or           · Sporadic patches of trees with
-
-   sinking back into the ground             shallow roots
-
-   · Grassy coastal plains exposed          · Constant wind
-
-   to the elements                          · Violently crashing waves
-
-   The Rumi UmaWat'a islands are covered with large stone heads that do not
-
-   appear to have been carved but formed organically, and most people claim
-
-   that the islands are cursed. The legend goes that the first inhabitants were
-
-   formed of the earth of these isles by Sachamama, the snake deity of the
-
-   jungle. They rebelled against the Mother Snake, and she cursed them to
-
-   slowly sink back to the earth from whence they came.
-
-   The few Junglelanders who make their home here hurriedly try to fish
-
-   between the almost non-stop hurricanes. Again demonstrating their
-
-   mystical quality, the stones heads serve as anchors for shelters and are far
-
-   more likely to survive the hurricane force winds than shelters not
-
-   incorporating the stone heads.
-
-   The islands are also home to large or
-
-   mutated animals that are not present
-
-   on the mainland. This is most likely
-
-   due to the nature of the plants on
-
-   these islands which have adapted to
-
-   survive the terrible winds. Trees that
-
-   grow here have very shallow and
-
-   wide root systems and are extremely
-
-   flexible. Leaves, bark, and even the
-
-   wood of tree trunks are full of thick
-
-   cords that our stomachs cannot
-
-   digest, but the odd creatures here
-
-   have evolved to eat these rope-like
-
-   strands     that  are    almost     as
-
-   indestructible as iron.
-
-   Quest: One stone head has a bright
-
-   green    jewel    embedded      in  its
-
-   forehead. What power does this gem
-
-   have, and what dangerous creature
-
-   guards it?
-
-4         THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-KIRU CHHUKRUNA                                   THE TOOTHED BEAK
-
-Replaces: Ragged Coast (Region 2)
-
-Features:
-
-· Waves crashing against           · Drums sounding as
-
-sheer rock cliffs                  pirates near
-
-· The creak of wood rubbing   on   · Nets marking fish breeding and
-
-wood as houses float               feeding pools
-
-The coastal region of Kiru Chhukruna is said to have formed when
-
-Huayramama, the snake deity of the wind, cast the great alicanto bird Quri
-
-Apu from the sky after the bird dared to shine brighter than her.This is why
-
-the alicanto birds no longer fly. As Quri Apu fell, her beak shattered into
-
-the teeth of the coast. Those teeth form steep rocky drop-offs to the sea
-
-from the jungle interior.
-
-Because of the extreme jagged nature of the coast, Junglelanders here live
-
-mainly on floating wooden houses and pray that the Rumi Uma Wat'a
-
-protect them from the onslaught of storms. In particularly calm bays,
-
-several families may bind together their houses forming a tiny floating
-
-village. Unfortunately, these places are easy prey for pirates and raiders on
-
-prowling the coastal waters.
-
-Due to the frequency of storms, larger boats and ships are rarely built
-
-except by risk-taking pirates. More common are the low canoes made to
-
-maintain their balance even in the roughest waves as long as they are
-
-guided by a skilled pilot.
-
-Quest: A small settlement lacking the warriors to protect themselves had
-
-their floating village pulled out to the open sea by pirates who are
-
-demanding crates of fish and other supplies as a ransom. A quick-thinking
-
-youth jumped into the sea before they were pulled too far out, swam to
-
-shore, and now seeks help to save the village. Who do you know there?
-
-IRONSMITH: FLAVOR PACKS                                                        5
-   UNU SACH'ARA                     THE DROWNING WOOD
-
-   Replaces: Deep Wilds (Region 3)
-
-   Features:
-
-   · Small streams feeding the      · Towering trees of
-
-   Mayu Wanu                        exceptional girth
-
-   · Thick, hanging vines           · Steamy humidity
-
-   · Constant hoots and howls       · Ever-present patter of rain
-
-   Unu Sach'ara is a dense tropical rain forest with deep rivers all flowing into
-
-   the larger Mayu Wanu, the River of Death. The jungles here hide small
-
-   conclaves of firstborn, and the rivers house flesh-eating fish and snakes.
-
-   The constant cacophony, particularly the animal screams at night, have
-
-   been known to drive more than one Junglelander mad.
-
-   Junglelanders have deforested the edges of this untamed rain forest to
-
-   make their homes, but it is said that any tree felled for greed rather than
-
-   need will lead to a grim meeting with Sachamama. While one of the most
-
-   dangerous places on the continent, Junglelanders still risk venturing into
-
-   the region for the exotic plants and herbs that only grow here.
-
-   Quest: The savior flower only blooms every handful of years and is set to
-
-   bloom this year. The pedals of this miraculous plant can be used in a
-
-   healing poultice that cures nearly all injuries and diseases. Unfortunately,
-
-   the trek to the area where the savior flower grows is arduous and fraught
-
-   with peril. What need sends you on this dangerous quest for the savior
-
-   flower?
-
-6  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-THUNIY NAN                             THE SHATTERED ROAD
-
-Replaces: Flooded Lands (Region 4)
-
-Features:
-
-· Roar of waters falling               · Gaping holes in rocks leading
-
-into sinkholes                         to only darkness below
-
-· Dark slabs of rock impervious        · Sparse forests
-
-to pickaxes and other tools            · Bogs and swamps
-
-Thuniy Nan is where the great river MayuWanu meets its early end. Rather
-
-than flowing on to the sea, small but deep sink holes dot the land forcing
-
-the river to split again and again into smaller streams. Moreover, a specific
-
-mineral in the rocks is immune to the ravages of water erosion, again
-
-making the river split in odd places.
-
-Great surges of sea water push far inland before mixing with the river
-
-water. It is said there are underground cave networks that allow the river
-
-water to finally get to the ocean and that large alligator people guard these
-
-passages.
-
-Junglelanders living here try to take advantage of the rampant death of
-
-aquatic creatures when salt water and fresh water mix without running
-
-afoul of the more dangerous varieties who can live in either.
-
-Quest: At the very end of the Mayu Wanu lies a great sinkhole creating a
-
-large whirlpool within sight of the ocean. Legend says that a great
-
-underground city can only be accessed by going down the whirlpool. What
-
-does the legend say is contained in this city, and why do you need it?
-
-IRONSMITH: FLAVOR PACKS                                                        7
-   CHINKA WAYTA PATA                           THE LOST GARDEN
-
-   Replaces: Havens (Region 5)
-
-   Features:
-
-   · Heat radiating from the sun               · Settlements built up in the
-
-   and the trees                               rocky tree branches
-
-   · Layers of vines covering                  · Mayu Wanu running swiftly
-
-   everything in sight                         with deep, dark waters
-
-   Chinka Wayta Pata was supposed to be the saving grace for the
-
-   Junglelanders. The Mayu Wanu provided a steady source of water, and the
-
-   tropical gardens growing in the river basin valleys yielded sustenance and
-
-   supplies for building shelters to live in.
-
-   Unfortunately, what looked like forests in this region were really trees that
-
-   had been turned to stone in some cataclysm far in the past. Rocky stumps
-
-   and even full-grown trees of rock spread out across the landscape and act
-
-   as heat traps for the sun's rays.As such, they provide little respite from the
-
-   sweltering heat of the Junglelands. Some species of vines are capable of
-
-   withstanding the heat and grow over the rocks, but most new tree growth
-
-   has a hard time finding purchase.
-
-   Still, the Junglelanders persist, for this is their best option for survival. The
-
-   soil between the rocky trees can still be used as small garden patches, and
-
-   there is always the River of Death to fish if you can survive the aquatic
-
-   denizens.
-
-   Quest: A group of stubborn Junglelanders have decided to clear an area of
-
-   the rocky trees to build a settlement rather than using them as the
-
-   foundation. The work is tiresome and dangerous with the raiders known to
-
-   be at large. What makes the group of raiders hard to track, and who do
-
-   owe a favor to that you agreed to help build this new settlement?
-
-8  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-Q'UMIR AMARU PIKCHU               THE GREEN SNAKE HILLS
-
-Replaces: Hinterlands (Region 6)
-
-Features:
-
-· Beautiful flowering trees       · Animals feasting together
-
-· Colorful clouds of pollen       on fallen fruit
-
-constantly churning               · Settlements built on high
-
-· Tall, yellow grasses rustling   wooden beams above the fog
-
-Q'umir Amaru Pikchu is filled with gently rolling hills of tall grasses and
-
-numerous fruit trees that are almost always flowering. However, many of
-
-the fruit trees in this region are as poisonous to humans as the bite of a
-
-viper. Worse, the animal life has adapted to the fruit and inadvertently help
-
-spread the poison through the water sources of the region via the seeds left
-
-in their spoor.
-
-When one of these trees begins its flowering cycle anew, its pollen spores
-
-create vibrant clouds of poison that travel for miles in a dense fog.
-
-Junglelanders have settled here but always carry a miyu hampiy, meaning
-
-poison cure, that is made by distilling the crushed leaves of a rare purple
-
-fern known as kulli raki.
-
-Each settlement has a group of gatherers assigned daily to find more of the
-
-protective plant which is then turned into miyu hampiy and stockpiled for
-
-when the poison storms blow through. The gatherers must also be
-
-protected by warriors because of the number of aggressive species of
-
-animals in the area.
-
-Quest: Something is killing off the kulli raki near the settlement of Corpa
-
-forcing gatherers to go farther afield to find the plant. What is killing off
-
-the fern locally, and can enough kulli raki be found before the next large
-
-poison storm arrives?
-
-IRONSMITH: FLAVOR PACKS                                                        9
-    QINCHA PHAQCHA                                  THE WALL OF WATERFALLS
-
-    Replaces: Tempest Hills (Region 7)
-
-    Features:
-
-    · Sheer, black cliff faces          · Rugged hills leading to cliffs
-
-    · Gray slabs of rock                · Water running steadily towards
-
-    · Thunder of waterfalls             the distant Mayu Wanu
-
-    · Holes dotting the cliffs          · Scavengers flying overhead
-
-    The region of Qincha Phaqcha is known for its many waterfalls dropping
-
-    off the sheer cliffs of the Yana Hirka mountains. One of the most
-
-    spectacular sites is the Lunq'u Falls where a semi-circle of over 200
-
-    waterfalls cascade down jagged cliffs spitting blinding amounts of spray
-
-    into the air.
-
-    Junglelanders in this region mostly live in the forests and hills to the
-
-    immediate south of the waterfall cliffs, but some build dwellings directly
-
-    into the cliff faces and fish with great nets at the waterfall mouths.
-
-    Agricultural work is nearly impossible for the settlements within the cliff
-
-    faces, so the residents grow mushrooms and other fungi within their cave
-
-    dwellings in the rock. Furthermore, the area surrounding the waterfalls and
-
-    cliffs is universally rock with no trees in sight for a handful of miles south
-
-    meaning dangerous treks must be made to haul lumber back for building
-
-    staircases, supports, and platforms within the cliff dwellings.
-
-    Even in the southern hills and forest, this region is still a harsh area to call
-
-    home as it is teeming with dangerous wildlife.
-
-    Quest: The cliff dwelling community of Temutaro tunneled deep within the
-
-    cliff face that they live in and discovered a strange ore. What unusual
-
-    properties does this ore have, and why is it dangerous enough that the
-
-    overseer is worried about it causing a panic?
-
-10  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-YANA HIRKA                             THE OBSIDIAN MOUNTAINS
-
-Replaces: Veiled Mountains (Region 8)
-
-Features:
-
-· Mountain passes ever changing        · Shrieks of creatures who rule
-
-with powerful quakes                   in the darkness
-
-· Sounds of falling rock echoing       · Vibrations in tunnel walls
-
-through dark tunnels                   · Sudden rock slides
-
-The Yana Hirka mountain range is so named because of the rare veins of
-
-black iron that streak through them. Nearly every vein is strangely
-
-cylindrical and most of them flow back towards a single origin point deep
-
-under the mountains. Despite efforts to find the convergence point of these
-
-veins, none have been able to break through due to an area of solid
-
-diamond surrounding it. Speculations run wild of a "beating heart" within
-
-the mountains.
-
-The greatest of Junglelander warriors have their wooden macuahuitls lined
-
-with the dark ore from these veins giving the weapons phenomenal
-
-strength and razor sharp edges. However, finding a safe place to mine for
-
-the rare black iron is difficult with the constant threat of firstborn nearby
-
-and the many denizens in the dark underground spaces.
-
-Moreover, the mountain range itself is no stranger to earthquakes that are
-
-said to cause the peaks to gain up to 20 feet in height in just a few seconds.
-
-One day, there may be a clear passage to the closest mining ground, and the
-
-next that passage may be shut off by the shifting of rock during a quake.
-
-Quest: A group of miners was due back with a shipment of black iron over
-
-a week ago. Why do you need to find one of the miners in particular, and
-
-what makes the mine they were working significantly more dangerous than
-
-most?
-
-IRONSMITH: FLAVOR PACKS                                                         11
-    P'URUNA T'URR                          THE SINKING PLAINS OF MUD
-
-    Replaces: Shattered Wastes (Region 9)
-
-    Features:
-
-    · Unending sea of mud                  · Blazing sun broken only by
-
-    · Rotting carcasses of animals         sporadic mangrove trees
-
-    trapped in the mire                    · Strange lights at night
-
-    · Baying of distant creatures          beckoning you to follow
-
-    The P'uruna T'uru is an endless wasteland of bog, mire and muck. No
-
-    Junglelanders have dared to venture out into this region for fear of being
-
-    resigned to a slow death of suffocation after being trapped in sucking mud.
-
-    Despite the dangerous terrain, there must be safe passage somewhere in
-
-    these lands for the call of animals and beasts can be heard out among the
-
-    few mangrove-like trees that are scattered throughout the muck.The stench
-
-    of death and decay hovers over this place as the uncountable number of
-
-    animal carcasses caught in the mud rot in the hot sun before fully
-
-    submerging. The tiny puddles of water that form in the mud often house
-
-    small fish or eels that feast on the nearby corpses.
-
-    There are creatures that have learned to adapt to this environment by
-
-    evolving flat, wide feet to better distribute their weight on the swampy
-
-    ground. While they look somewhat like deer, they are actually carnivores
-
-    and said to be able to produce dancing lights with their short tails.
-
-    Quest: A mystic is asking for a petrified bone from the mud pits of P'uruna
-
-    T'uru claiming it will have properties of resistance to heat and water. Why
-
-    does this type of protection peak your interest?
-
-12  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-NEW ASSETS
-
-Just as the terrain and regions are different in the Junglelands, so too are the
-
-people and their skills. Here are some assets unique to the Junglelands.
-
-COMBAT TALENTS
-
-Junglelanders rely heavily on stone and wood weapons mainly spears,
-
-clubs, darts, swords, bows, slings, and double-headed axes. While there
-
-are copper and iron weapons made, they are rare. You might consider
-
-renaming or at least changing the in-game appearance of any Ironsworn
-
-core assets that utilize these weapons. Here are the Inca words for such
-
-weapons:
-
-·  Axe - Chiqtana
-
-·  Bow - Wachina
-
-·  Club - Waqtana
-
-·  Dagger - Tuksina
-
-·  Sling - Waraka
-
-·  Spear - Chuki
-
-IRONSMITH: FLAVOR PACKS                                                           13
-    ATLATL
-
-    In the Junglelands, it was a child
-
-    who hit upon the design of the
-
-    atlatl. Jealous of always being
-
-    out-thrown with spears, the
-
-    young warrior-in-training went
-
-    about finding a way to extend
-
-    their arms artificially to build
-
-    more momentum on the throw.
-
-    Thus, the atlatl was born.
-
-    While the atlatl does not have
-
-    quite the range of a long bow, it
-
-    does have more power and can
-
-    deal more damage because of
-
-    the larger thickness of the darts.
-
-    It is a favored weapon when
-
-    hunting large game as it can also
-
-    knock the target prone with a
-
-    powerful enough strike.
-
-    Design Notes: To represent the
-
-    additional power of this weapon,
-
-    the first ability allows you to Strike from range using +iron instead of
-
-    +edge and inflict more damage for a cost of momentum loss. The "short
-
-    distance" is intentionally vague so that you can decide if a foe is out of
-
-    range or not.
-
-    The second ability is similar to the Ironsworn core asset Blade-Bound, but
-
-    you lose supply to deal more damage instead of enduring stress. This is
-
-    meant to represent your dart either breaking or becoming unusable as it
-
-    nearly impales your foe.
-
-    The third ability showcases the hunting prowess of the atlatl. You can
-
-    choose between a precision attack to take down your game (careful aim) or
-
-    taking down the largest target in the herd (alpha strike) to get more supply.
-
-    Quest: The Grand Hunt is taking place where each hunter is given only a
-
-    single spear, dart, arrow, or other single use weapon of their choice to take
-
-    out into the wilds on the hunt. Whoever brings back the largest kill wins
-
-    the competition. The Grand Hunt is always performed right before winter
-
-    sets in so that supplies can be built up for the settlement, but this year the
-
-    game has been extraordinarily scarce. What is driving away the game in
-
-    this region?
-
-14          THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-CHAMPI
-
-The champi is a mace with a
-
-star-shaped head to help it better
-
-penetrate armor. While champi
-
-are in essence clubs, the heavy
-
-ends give it more deadly and
-
-devastating uses.
-
-The champi can also serve a
-
-ceremonial purpose by denoting
-
-authority. The more ornate the
-
-champi,  the       higher  social
-
-standing a warrior or ruler has.
-
-In some cases, it is seen as a sign
-
-of strength to have a champi that
-
-is so opulent that it is impractical
-
-or ineffective as an actual
-
-weapon.
-
-Design Notes: Most of this asset
-
-is a mirror of the Thunder-
-
-Bringer  asset     from    core
-
-Ironsworn just in a different
-
-order. The first ability here is your standard bell-ringer (Thunder-Bringer's
-
-second ability), and the third ability is all about breaking stuff (Thunder-
-
-Bringer's first ability). However, when your character breaks stuff with a
-
-champi, it is usually in a show of power or authority.
-
-The second ability is different fromThunder-Bringer and gives you another
-
-way to get a hit with a match. This is meant to represent the dense weight
-
-at the end of the mace dealing damage with extreme force. To be clear, the
-
-total action value would be the result of your action die plus your stat (iron
-
-in this case) plus any adds. Example: With iron of 3, a 4 showing on your
-
-action die roll, and an add of +1 from something like a Secure an
-
-Advantage, your action total is 8. If both the challenge dice are 5 or lower,
-
-it would count as a strong hit with a match allowing you to deal additional
-
-damage or bring about some other narrative consequence.
-
-Quest: The Kallpa Champi, or Mace of Power, was buried with the great
-
-warrior Awaq Huanca Huyhua. A recent earthquake opened up a yawning
-
-sinkhole that swallowed his tomb which prompted a local mystic to have a
-
-vision that yielded two warnings. First, Awaq will not be happy that his
-
-grave was disturbed and is likely to return as a horror. Second, if Kallpa
-
-Champi is found and wielded by an underground denizen, it would be
-
-dangerous for the whole region. What makes you think the earthquake may
-
-not have been natural, and what do you think lurks in the deep darkness
-
-underground?
-
-IRONSMITH: FLAVOR PACKS                                                         15
-    LIWI
-
-    Liwi are a set of weighted balls
-
-    tied at the ends of between two
-
-    and eight ropes used for hunting.
-
-    The weights and rope lengths
-
-    vary depending on the specific
-
-    animal being hunted, but all
-
-    have the same main function of
-
-    tying up the animals legs or
-
-    wings to bring them down to the
-
-    ground.
-
-    Skilled hunters can deal damage
-
-    with their liwi usually in a three-
-
-    balled method. The center ball
-
-    is heavier and strikes the
-
-    creature's leg with full force.
-
-    Two smaller balls are pulled
-
-    behind the lead ball to either side
-
-    which then wrap around to
-
-    entangle. This type of liwi is
-
-    extremely effective with hunting
-
-    the large rheas bird.
-
-    Design Notes: The first ability is the entangling part of the bolas while the
-
-    second allows you to also deal damage when you try to entangle your foe.
-
-    Note that the entangling only works for foes of formidable or less as others
-
-    would be strong enough to break through the bola ropes.
-
-    The third ability represents the traditional use of the liwi in hunting with
-
-    two approaches. In the first approach, you are hunting bigger game like
-
-    deer which you can bring down with ease. In the second approach, you
-
-    hunt birds and get an add +2, but birds don't provide as much meat as other
-
-    game, so you only take +1 supply.
-
-    Unrelated to the upgrades for this asset, you might make it possible to
-
-    wield the liwi without throwing them in your narrative by using them
-
-    almost like a flail. If your character prefers that method of fighting, you
-
-    may consider it a deadly weapon (inflicting 2 harm). On a miss with a
-
-    match or other bad circumstance, having a liwi rope get cut could be a good
-
-    way to Pay the Price.
-
-    Quest: When weighted with leather pouches instead of stone, the liwi are
-
-    very useful in capturing the alicanto bird who is prized for their ability to
-
-    hunt down iron ore and generate light with their bodies. A group of miners
-
-    would like to train some alicanto birds to help them, and a local bird has
-
-    just hatched their clutch of fledglings. Can the mother bird be subdued
-
-    while the chicks are taken? Why might the miners'intentions not be pure?
-
-16        THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-MACUAHUITL
-
-The macuahuitl is a thick
-
-wooden      paddle  with   slots
-
-around the edge where shards of
-
-razor-like obsidian are mounted.
-
-The weapon is capable of
-
-slashing with the shards and
-
-bludgeoning with the wide
-
-wooden portion.
-
-The     weapon      came   into
-
-prominence in the Junglelands
-
-when the raider Achik Ccahua
-
-began using them. He used only
-
-the thinnest shards of obsidian
-
-so that when he slashed with the
-
-edges, he could twist the paddle
-
-and snap off the shards inside his
-
-opponent. The wound sites from
-
-these   attacks     would  often
-
-become infected earning Achik
-
-his nickname: the Viper.
-
-Design Notes: The first ability represents the weapon's nickname as the
-
-"obsidian chainsaw." You're trying to maim your foe permanently by
-
-chopping off an appendage. You deal more damage with this Strike, but it
-
-is harder to score a hit. Also note that every use of the ability will either
-
-result in a strong hit with a match or a miss with a match. For example, if
-
-you have an action total of 7 vs challenge dice of 1 and 8, the 1 becomes
-
-an 8 making it a miss with a match. The second ability gives you an add to
-
-this move.
-
-The third ability can be a good way to gain the initiative back in order to
-
-End the Fight as a weak hit counts as a strong hit. This is narratively meant
-
-to be a less deadly way of subduing your foe as you simply stun and daze
-
-them into submission. The Aztecs used this method for capturing foes
-
-alive to take back for ritual sacrifices.
-
-Quest: The warriors of Papata need more obsidian for their macuahuitls,
-
-but the road to the mines in the far north mountains is long and dangerous.
-
-What else do you hope to find on the journey north, and what reward are
-
-the people of Papata offering you that motivates you to join the expedition?
-
-IRONSMITH: FLAVOR PACKS                                                        17
-    COMPANIONS
-
-    To better fit the Junglelands setting, you may consider changing the Hawk
-
-    companion asset to an eagle. Here are other companions found in the
-
-    Junglelands.
-
-    ALICANTO
-
-    The alicanto are large, flightless
-
-    birds about the size of a penguin
-
-    that can eat different types of
-
-    ore. Some species of alicanto
-
-    only eat a specific type of metal
-
-    such as gold, silver, or iron, and
-
-    their feathers develop the same
-
-    hue as their meals.
-
-    What is most remarkable about
-
-    the alicanto is their ability to find
-
-    precious metals. If befriended
-
-    and treated well, the alicanto
-
-    help us to find the metals we
-
-    need for smithing and other
-
-    projects. However, if they are
-
-    treated ill, they will use their
-
-    natural ability to create light to
-
-    blind you and run away. They
-
-    start by turning on their glowing
-
-    feathers to get your attention and
-
-    lead you towards a cliff or
-
-    precipice as their light dwindles ever lower.    You'll either  be lost in the  dark
-
-    or dead from a fall off a cliff, so have a care  and treat the  alicanto you    meet
-
-    with respect.
-
-    Design Notes: The first ability is for when you take advantage of the
-
-    alicanto's nose for metal. The second ability is similar except that it helps
-
-    you specifically when you are ambushed. "Significant quantities" is
-
-    intentionally vague to allow you wiggle room in your narrative.
-
-    The third ability represents the idea that alicanto can create light within
-
-    their feathers after eating ore. If you are using the Wealth track from the
-
-    Fortune Hunter asset, you might consider suffering -1 wealth instead of -1
-
-    supply when using this ability.
-
-    Quest:Afaithful alicanto companion's reactions led a miner to believe that
-
-    they had found a huge vein of precious ore. However, once the miner
-
-    began digging in the new direction indicated by the alicanto, the bird
-
-    became frantic and fled. It will no longer go down into the mine as if it
-
-    fears for its life. What could the alicanto sense that the miner can't?
-
-18  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-UTURUNKU
-
-The uturunku of the Junglelands
-
-are fierce apex predators who eat
-
-strictly meat. They are brave
-
-enough and capable enough to
-
-attack alligators in the Mayu
-
-Wanu and strong enough to
-
-pierce the shells of river turtles.
-
-Having an uturunku companion
-
-in the Junglelands is extremely
-
-rare and is considered a sign of
-
-favor  from      the  gods  and
-
-ancestors.   Because it is a
-
-constant fight to survive in the
-
-Junglelands, we have learned to
-
-kill and use all the parts of
-
-almost any animal, but we do not
-
-kill uturunku. They are sacred
-
-kings of the jungle, and we dare
-
-not cross them.
-
-Design Notes: The first ability
-
-models one way a jaguar hunts in real life by grabbing the throat and
-
-waiting for the prey to suffocate. Your cat deals a bit of damage but
-
-perhaps more importantly, holds the prey still for you to Strike.
-
-The second ability demonstrates the jaguars favorite hunting method: stalk
-
-the prey from downwind and then pounce. On a strong hit, your jaguar
-
-rends the foe with their claws on the initial attack.
-
-The third ability is related to the real-world bite force a jaguar has. They
-
-can pierce turtle shells and, perhaps due to the hunting of turtles, learned to
-
-bite heads near the ear. Their teeth pierce skulls and deliver a fatal wound
-
-directly to the brain. I'm not making that up! That sounded to me like
-
-when you End the Fight, but since you can't get an add to a progress move,
-
-I opted for the ability to reroll any dice. That means you could reroll the
-
-action die, one or both challenge dice, or all three.
-
-Quest: An uturunku was found dead with a spear wound to the heart. The
-
-nearby settlement of San Balix is angry and worried that a curse will hang
-
-over them if the culprit is not found and punished. What do you know that
-
-makes you think there is something more sinister afoot, and what was
-
-unusual about the site where the dead uturunku was found?
-
-IRONSMITH: FLAVOR PACKS                                                          19
-    PATHS
-
-    Path assets in the Junglelands offer the three major roles a character might
-
-    play: warrior, hunter, and shaman.
-
-    ANKA NAN
-
-    The eagle warriors are an elite
-
-    group who are known for their
-
-    bravery and tactical minds.
-
-    They go through a deadly
-
-    initiation where they are given
-
-    nothing but a tuksina (dagger)
-
-    and lampa (shovel) and then
-
-    tasked with trapping and killing
-
-    a rahara, the large mud-dwelling
-
-    snake with razor-like teeth and
-
-    jaws that can open as wide as a
-
-    Junglelander is tall.
-
-    The next phase of training is to
-
-    sit in the jungle for days on end
-
-    learning to watch and notice any
-
-    movement. Whether it is the
-
-    snake slithering by, the eagle
-
-    flying over head, or the tiny ant
-
-    marching to its home, an eagle
-
-    warrior trains their eyes and
-
-    brain     to  quickly     notice
-
-    movement and assess any threat
-
-    in the situation. This gives them   a  tactical  advantage  as  they  often   see
-
-    things that others miss.
-
-    Design Notes: The first two abilities demonstrate an eagle warrior's
-
-    courage in the face of danger. They have almost always been in worse
-
-    situations and are confident they will be victorious. The second ability, in
-
-    particular, is about that confidence striking fear into the heart of an
-
-    opponent and thereby granting the add +1 until a 1 is rolled on the action
-
-    die. If this seems too powerful, you may only apply this bonus to firstborn
-
-    and Junglelanders since animals, beasts, and horrors may not be afraid to
-
-    see an eagle warrior in action.
-
-    The third ability is about the eagle warrior being able to see what others
-
-    cannot and assess the implications of this new knowledge.
-
-    Quest: Wayanaysi, an eagle warrior of great renown, has retired from the
-
-    life of a warrior and now trains those deemed worthy of becoming eagle
-
-    warriors. What great exploit did Wayanaysi accomplish that relates to one
-
-    of your vows, and why is his knowledge critical to your success?
-
-20         THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-PAQU HAMPIQ
-
-The paqu hampiq are the shaman
-
-of the Junglelands. They are
-
-viewed as spiritual guides and
-
-masters of mysticism. Much of
-
-their power comes from their
-
-ability to move between the
-
-spiritual world and the physical
-
-world thereby giving them
-
-access to the knowledge only
-
-held by the spirits.
-
-It is said that a paqu hampiq
-
-can't be killed unless the
-
-ancestoral spirits give their
-
-approval.     Stories abound of
-
-paqu hampiqs who receive a
-
-mortal wound only to stand back
-
-up and give a prophetic message
-
-to their attacker.
-
-But it is not just the spirits of our
-
-ancestor that a paqu hampiq can
-
-commune with. Animal spirits, elemental spirits, and some say even the
-
-Mother Snakes themselves will all communicate with, assist, and empower
-
-a paqu hampiq of the purest heart.
-
-Design Notes: The first ability allows you to commune with the spirits.
-
-You might do this to find hidden information (almost like scrying) or to
-
-learn truths lost to time.
-
-The second ability lets you leverage any info you gain from the spirits.
-
-The third ability gives you a big bonus on the brink of death, but it comes
-
-at the price of allowing only a weak hit. I think of it as the ancestral spirits
-
-giving you a second chance because they have a dire mission for you or a
-
-dark secret to impart that you may wish you had not learned.
-
-In some South American cultures, the two other rituals in this supplement
-
-(the healing and shapechange ones) are abilities often ascribed to shaman,
-
-so you may consider picking those up to complement this path.
-
-Quest: The settlement of Tichito's shaman was beloved by all as the village
-
-healer and wise counselor. In a violent attack by raiders, the shaman was
-
-shot through the heart with an arrow. Despite the mortal wound, the
-
-shaman recovered but is now a changed person who continually spouts a
-
-prophecy of impending doom. What is this prophecy, and how does it
-
-involve you?
-
-IRONSMITH: FLAVOR PACKS                                                           21
-    TUJLLAKI
-
-    Hunting and tracking are among
-
-    the most necessary skills in the
-
-    Junglelands if we are to continue
-
-    to eat and survive. The children
-
-    of skilled hunters are taught and
-
-    trained from a young age, and as
-
-    such, they are often excused
-
-    from the normal duties around
-
-    the settlement.
-
-    Each year, the top hunters from
-
-    around the region compete in the
-
-    Great Hunt where they are each
-
-    assigned to track and kill a
-
-    terrible beast that is plaguing
-
-    one region or another. After
-
-    making their assigned kill, they
-
-    can then track and find another
-
-    hunter to assist with that
-
-    hunter's kill. At the end of two
-
-    weeks, the hunters reconvene to
-
-    see who made the most kills.
-
-    Design Notes: This asset is your very basic hunting bonuses. I really don't
-
-    think this would be specific to SouthAmerican or Mesoamerican culture as
-
-    hunting was a critical part of almost any pre-industrial society. However,
-
-    it came up enough that I included it here.
-
-    The first ability gives you a bonus to tracking down your prey as well as
-
-    remaining hidden from them. You don't want them to know you're coming
-
-    for them! Compared to the Wildblood asset, you get a bump to momentum
-
-    here but that's because of the narrowed focus.
-
-    The second ability represents your trap-making skills. While you could
-
-    arguably lump this in with the first ability, I decided to make it explicitly
-
-    defined.
-
-    The third ability is similar to the Cave Lion asset, but here you get an add
-
-    +1 instead of switching the stat you use.
-
-    Quest: A mysterious creature has been silently killing one person each
-
-    night in a nearby settlement. The people believe it is a beast of some kind,
-
-    but the tracks are unusual and unknown. Can you find this stealthy
-
-    creature before they strike again? What is unusual about the way that it
-
-    kills its victims?
-
-22  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-UTURUNKU NAN
-
-The jaguar warriors take their
-
-cues from their namesake. They
-
-are swift, strong, and stealthy.
-
-These warriors are known for
-
-their ferocity and ruthlessness in
-
-battle and never run from a fight.
-
-Some Junglelanders claim that
-
-one cannot become a true jaguar
-
-warrior until a strong spiritual
-
-connection has been made with
-
-a great jaguar spirit. Others say
-
-it takes the blessing of a shaman
-
-to achieve the power that jaguar
-
-warriors have. Wherever these
-
-abilities come from, the jaguar
-
-warriors are well-respected and
-
-not to be trifled with.
-
-Design Notes: When I first
-
-made this asset, it had a lot of the
-
-same features as taking the
-
-jaguar companion asset. After noticing       that,  I  decided  to  make  the  two
-
-assets cover slightly different ground.
-
-While stalking and hiding go together, what's swimming doing in the first
-
-ability? Real-life jaguar's are not only stealthy hunter but accomplished
-
-swimmers. They hunt caiman! Where stalking and hiding would use
-
-+shadow as their stat, the swimming would likely be +iron.
-
-Much like the eagle warriors, jaguar warriors had battle regalia and at times
-
-would wear animal pelts to gain the power and abilities of the animal. The
-
-second ability represents the ferocity of a jaguar warrior and is modeled
-
-after the Berserker asset's second ability.
-
-The third ability represents the idea that jaguar warriors wanted to take
-
-captives during battle. Killing a foe was considered sloppy. Additional,
-
-this ability "breaks the rules" by allowing you to burn momentum on a
-
-progress roll, but it reduces each challenge die by 1. However, your
-
-momentum must be greater than BOTH challenge dice. For example, let's
-
-say you have +8 momentum and 6 progress in a fight when you decide to
-
-End the Fight. Rolling the challenge dice gives you a 6 and a 7 allowing
-
-you to burn momentum (go back to your reset value) and then reduce the
-
-challenge dice to 5 and 6. Now the miss is a weak hit.
-
-Quest: A jaguar warrior under the influence of a powerful hallucinogen is
-
-going on a rampage. What did they see that drove them to this madness,
-
-and why does it bode ill for you even if you can stop their killing?
-
-IRONSMITH: FLAVOR PACKS                                                             23
-    RITUALS
-
-    Ritual magic in the Junglelands is generally is held in high regard, and
-
-    shaman or other practitioners are seen as advisers, healers, and a blessing
-
-    to any settlement.
-
-    ALLINYACHIY
-
-    The shaman mystics are known
-
-    for their ability to heal others,
-
-    but this healing is not limited to
-
-    physical ailments.  A good
-
-    shaman takes a more holistic
-
-    view of healing and can cure the
-
-    ills of body, mind, and soul
-
-    through their allinyachiy ritual.
-
-    This healing ritual is performed
-
-    with  much        ceremony  and
-
-    accouterments.      Usually the
-
-    recipient is laid in a circle of
-
-    aromatic vines while wafts of
-
-    smoke from bowls of burning
-
-    incense blow over them. Drums
-
-    and sacred rattles accompany
-
-    the rhythmic and melodic chants
-
-    of the shaman.
-
-    Design Notes: The first ability
-
-    makes your physical healing
-
-    more potent as you channel the
-
-    power of the spiritual realm while  the  second  ability  grants  healing  to  a
-
-    person's spirit.
-
-    The third ability represents gaining insight and direction by ingesting the
-
-    hallucinogenic ayahuasca plant and going on a spiritual vision quest. This
-
-    gives you a neat way to roleplay with the spirits and find a way forward in
-
-    a vow when you've been hitting a lot of misses.
-
-    Additionally, note that allinyachiy is a full blown ceremony meaning it
-
-    would take time and effort to perform. This is something that would be
-
-    difficult to do out in the wilderness unless you had time to gather the
-
-    necessary components and carried sacred objects with you.
-
-    Quest: A shaman is reportedly able to sift through the memories of the
-
-    ancestors to re-discover lost knowledge. What is it that you desperately
-
-    need to know, and which of your ancestors hold the key to this knowledge?
-
-24        THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-PAMPA SUYU
-
-Apowerful shaman can entangle
-
-their own nuna (soul) with that
-
-of the great jaguar spirit making
-
-the two almost become one.
-
-They  can         then  use  this
-
-connection to force their body to
-
-transform fully into a jaguar or
-
-even a fierce half-human half-
-
-jaguar creature.
-
-To perform such a ritual takes
-
-much  study       and   is   also
-
-dangerous as it can warp the
-
-body and mind. Weaker mystics
-
-have been known to lose control
-
-of the spiritual connection and
-
-either have their body torn apart
-
-or lose their mind to that of a
-
-beast forever.
-
-Design Notes: You power this
-
-transformation with a spiritual
-
-energy called nuna, but the transformation causes physical damage as your
-
-body shifts into a normal jaguar animal. You can then make moves
-
-leveraging some innate aspect of your jaguar body, but it's a choice.
-
-For example, say you have +5 nuna and want to sneak into a settlement
-
-with Face Danger +shadow. There are three options:
-
-1. Make the move as normal. Do not suffer -nuna.
-
-2. Frame it as the jaguar being stealthy. Add +1 but suffer -1 nuna.
-
-3.    Frame it as using your spiritual energy to shift your jaguar spots
-
-      into a more advantageous design. Roll +nuna but suffer -2 nuna.
-
-The last two abilities allows a changes to your form (a werejaguar and an
-
-ethereal version of either form) giving you new ways to leverage the
-
-transformation in the fiction such as carrying large objects with bestial
-
-strength, climbing places where arms would be necessary rather than
-
-jumping or clawing, phasing through walls or trees as a spirit, making a
-
-Strike laced with spiritual energy, etc.
-
-Bonus: Check out Samuel Rondón's asset calledTherianthropy on Patreon
-
-or the Ironsworn Discord as alternate version of a were-creature asset.
-
-Quest: A mad mystic is said to be able to transform into a snake clearly
-
-denoting their evil intentions. What is their dastardly plot, and how have
-
-the animal spirits been adversely affected by it?
-
-IRONSMITH: FLAVOR PACKS                                                     25
-    NEW FOES
-
+    NEW FOES
     The foes of the Junglelands shy away from horrors not because there are
-
     no ghost-like legends in SouthAmerican but because many of those stories
-
     fit the categories in Ironsworn better as animals or beasts than horrors.
-
     This is not to say you can't have horrors in the Junglelands. You absolutely
-
     can and should, but the core Ironsworn horrors will fit just as well.
-
     Additionally, there are three Mother Snakes included as firstborn who were
-
     considered deities by some SouthAmerican cultures. While they are close
-
     to that status in the Junglelands as well, I set them to be firstborn (rather
-
     than beast) to demonstrate their ancient lineage and sapience. They truly
-
     were the first inhabitants of the Junglelands by virtue of helping to create
-
     it. While these beings have a more positive bent to them in their
-
     descriptions here than in their real-world equivalents, it would still be
-
     possible to find your character at odds with them or needing to prove your
-
     worth to them. Therefore, they are included as foes in case you want to
-
     have them physically (not just mystically) in your game sessions.
-
     Furthermore, there are a few Mesoamerican foes listed. With such an
-
     overlap between some of the types of foes (particularly, the sheer volume
-
     of mythological snakes from SouthAmerica and Mesoamerica!), I thought
-
     they best fit the flavor of the SouthAmerica set. Specifically, theAhuizotl,
-
     Camazotz, and Quetzalcoatl are more Mesoamerican in origin but fit the
-
     idea of the Junglelands really well.
-
 26  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-AHUIZOTL                                                        ANIMAL
-
+AHUIZOTL                                                        ANIMAL
 Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
-
-          ·  Large, blue and black wolf
-
-Features: ·  Fur that mats to create deadly spikes
-
-          ·  Tail with a clawed hand-like appendage
-
-          ·  Track and hunt with the pack
-
-Drives:   ·  Den in flooded areas
-
-          ·  Howl at the moon
-
-          ·  Pounce and rake
-
-Tactics:  ·  Tail attack
-
-          ·  Bite and claw
-
+            Large, blue and black wolf
+Features:   Fur that mats to create deadly spikes
+            Tail with a clawed hand-like appendage
+            Track and hunt with the pack
+Drives:     Den in flooded areas
+            Howl at the moon
+            Pounce and rake
+Tactics:    Tail attack
+            Bite and claw
 As if being hunted by a pack of wolves was not enough, the Junglelands
-
 also have packs of aquatic wolves. The ahuizotl wolves live near lakes or
-
 rivers and spend close to half their waking hours in the water. Their feet
-
 are slightly larger with webbed toes making them exceptional swimmers.
-
 While the ahuizotl share most of the same characteristics with their regular
-
 wolf cousins, these wolves have two distinctions.
-
 First, their black and blue fur grows together in large spiky mats that then
-
 strengthen into the same consistency as their claws, This effectively gives
-
 them a layer of spiked armor making them more difficult to capture alive.
-
 Secondly, they have a three-fingered appendage (two fingers and a thumb)
-
 at the end of their tail that we refer to as a hand for lack of a better word.
-
 They can use this hand to grasp and manipulate items such as a haunch of
-
 meat or branches for building a den. They can also use this tail-hand as a
-
 method of attack if they have their prey held on the ground.
-
 Quest: The river village of Boraba has been trying to rebuild since the
-
 river flooded over half the settlement. Many buildings were lost during the
-
 flood and some are still submerged as the river seems to have permanently
-
 claimed part of the land. A pack of ahuizotl have moved into one such
-
 submerged house and now terrorize the populace by killing off the few
-
 livestock of the village. Why are the people of Boraba unwilling to kill
-
 these ahuizotl despite the damage they inflict?
-
 YOUR TRUTH
-
 Is there a burrowing version of the ahuizotl?      If so, what
-
 unique characteristic do they have?
-
 IRONSMITH: FLAVOR PACKS                                                         27
-    CUERO                                                              ANIMAL
-
+    CUERO                                                              ANIMAL
     Rank:          Troublesome (3 progress per harm; inflicts 1 harm)
-
-                   ·  Giant stingray with eye stalks
-
-    Features:      ·  Extremely flat, black and white body
-
-                   ·  Claws at the front and hooks on underbelly
-
-                   ·  Swim in deep rivers
-
-    Drives:        ·  Swim upstream to mate
-
-                   ·  Hunt and eat anything
-
-                   ·  Wrap around victim
-
-    Tactics:       ·  Spin and serrate with claws
-
-                   ·  Lie still on the river bed to surprise
-
+                     Giant stingray with eye stalks
+    Features:        Extremely flat, black and white body
+                     Claws at the front and hooks on underbelly
+                     Swim in deep rivers
+    Drives:          Swim upstream to mate
+                     Hunt and eat anything
+                     Wrap around victim
+    Tactics:         Spin and serrate with claws
+                     Lie still on the river bed to surprise
     The "Floating Cowhide" creature certainly looked laughable, but the first
-
     time one wrapped its flat body around a Junglelander who was trying to get
-
     water from the river, we knew it was no laughing matter. That person
-
     escaped with their life due to the quick thinking of a bystander, but not all
-
     are so lucky.
-
     A cuero usually hunts alone, gliding on the river currents attracting prey
-
     with its black and white splotched body. After wrapping up a victim in its
-
     body, it will begin to spin rapidly around the victim slicing them up with
-
     its many bony hooks on its underbelly. It can also attack by spinning itself
-
     so that its own body is wrapped up to the size of a spear and then fling itself
-
     at its prey using its front claws as the spear head.
-
     Despite their bold coloring with bright white spots, they can be difficult to
-
     see in the muddy river waters of the Junglelands. We tried plunging spears
-
     or sticks into the water before we entered a river in order to chase the cuero
-
     away, but we have found that doing so only announces our presence. If
-
     refilling a water skin or gathering jugs of water is necessary, get into and
-
     back out of the river as fast as possible for the cuero never stop their hunt.
-
     Quest:Amystic claims that they will gain control over the element of water
-
     through a long and complex ritual. However, they need to perform the
-
     ritual inside of a tent made of cuero hide. What other entity lurks in the
-
     deep river waters nearby that must also be dealt with?
-
     YOUR TRUTH
-
     Are all cuero black and white, or do they have different
-
     colorations? If they have variety, what purpose does this
-
     serve?
-
 28  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-IX HUNPEDZKIN                                                      ANIMAL
-
+IX HUNPEDZKIN                                                      ANIMAL
 Rank:     Dangerous (2 progress per harm;      inflicts  2  harm)
-
-          ·  Gila monster sized lizard
-
-Features: ·  Poisonous bite and skin
-
-          ·  Deadly scorpion tail
-
-          ·  Hunt for food
-
-Drives:   ·  Sun on the rocks
-
-          ·  Usurp homes as its shelter
-
-          ·  Paralyzing tail strike
-
-Tactics:  ·  Poison bite
-
-          ·  Leave a trail of poison
-
+            Gila monster sized lizard
+Features:   Poisonous bite and skin
+            Deadly scorpion tail
+            Hunt for food
+Drives:     Sun on the rocks
+            Usurp homes as its shelter
+            Paralyzing tail strike
+Tactics:    Poison bite
+            Leave a trail of poison
 While it is true that nearly every creature from the jungles can kill you, the
-
 reptiles of the jungles are especially deadly. The ix hunpedzkin is no
-
 exception to this. It is a large lizard with impossibly tough skin that not
-
 only delivers poison through its bite but also through its stinger at the end
-
 of a long, scorpion-like tail.
-
 As a top tier scavenger species, the ix hunpedzkin prefers to take advantage
-
 of the work of other creatures when it can. It scares away lesser predators
-
 to steal their kills and finds dens or lairs of other animal to take as its own.
-
 Unfortunately, this also includes our own homes. Once an ix hunpedzkin
-
 finds a settlement, it will usually pick out a building or structure to call its
-
 home and drive out or kill those inside. Once entrenched, these stubborn
-
 creatures are nearly impossible to flush out.
-
 Our main advantage when hunting ix hunpedzkin is that its height only
-
 comes up to a Junglelander's waist. While this makes them a huge lizard,
-
 a group of our hunters is usually able to surround and kill one with
-
 overwhelming numbers.
-
 Quest: An ix hunpedzkin just took up residence in a home minutes ago. An
-
 infant is still inside and is in immediate danger. Can the infant be saved?
-
 YOUR TRUTH
-
 What unique and unusual markings do ix hunpedzkin have?
-
 IRONSMITH: FLAVOR PACKS                                                           29
-    JARJACHA                                                    ANIMAL
-
+    JARJACHA                                                    ANIMAL
     Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
-
-              ·  Large quadruped with brown fur
-
-    Features: ·  Long neck and glowing yellow eyes
-
-              ·  Flat face with a circular maw
-
-              ·  Hunt monkeys in the trees
-
-    Drives:   ·  Proclaim its territory with a call of "Jar, jar, jar, jar!"
-
-              ·  Take long naps standing up
-
-              ·  Knock limbs out of trees
-
-    Tactics:  ·  Track by smell
-
-              ·  Bull rush and knock down
-
+                Large quadruped with brown fur
+    Features:   Long neck and glowing yellow eyes
+                Flat face with a circular maw
+                Hunt monkeys in the trees
+    Drives:     Proclaim its territory with a call of "Jar, jar, jar, jar!"
+                Take long naps standing up
+                Knock limbs out of trees
+    Tactics:    Track by smell
+                Bull rush and knock down
     Some may describe the jarjacha as cute or innocent looking when they first
-
     see one, but they learn the truth as soon as this colorful and furry creature
-
     opens its circular mouth of jagged teeth. It looks like a purple and blue
-
     furred giraffe that a child might have a doll of, but the jarjacha is a hunter
-
     who has developed a very specific taste for monkeys.
-
     The jarjacha's long neck allows it to reach the treetops with ease. It will
-
     smell for large quantities of monkey droppings and then go towards the
-
     trees in that area with its head and neck lowered toward the ground. This
-
     makes the monkeys think they are safe high up in the trees. Then the
-
     jarjacha swiftly thrusts its head up cracking and knocking down branches
-
     and possibly knocking monkeys out of the tree as well.
-
     The most disturbing thing about the jarjacha is the sound that it makes: a
-
     high-pitched, almost human voice saying "Jar, jar, jar, jar!" The word
-
     always comes in sets of four and is not the only sound that it can make.
-
     Some have been known to mimic human speech much like a parrot, but the
-
     tone of its voice can give you nightmares.
-
     Quest: The howler monkeys have been particularly vocal the past few days,
-
     and the overseer thinks this is a sign of a herd of jarjacha moving into the
-
     area. If there are jarjachas, the overseer needs them eliminated as there is
-
     only one safe path to this settlement that must remain open for supplies and
-
     trade. What makes you think the jarjacha is only the beginning of the
-
     problem?
-
     YOUR TRUTH
-
     Do the jarjacha have horns?
-
 30  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-KORI                                                                    ANIMAL
-
+KORI                                                                    ANIMAL
 Rank:      Troublesome (3 progress per harm;  inflicts        1  harm)
-
-           ·   Aquatic anteater
-
-Features:  ·   Sickly green fur
-
-           ·   Spiked tail used to dig
-
-           ·   Build dams to flood areas
-
-Drives:    ·   Eat gigantic insects
-
-           ·   Defend its territory
-
-           ·   Impale with spikes
-
-Tactics:   ·   Swim to safety
-
-           ·   Stay hidden in the shallows
-
+              Aquatic anteater
+Features:     Sickly green fur
+              Spiked tail used to dig
+              Build dams to flood areas
+Drives:       Eat gigantic insects
+              Defend its territory
+              Impale with spikes
+Tactics:      Swim to safety
+              Stay hidden in the shallows
 Kori are not extremely dangerous unless they are provoked. They are
-
 naturally non-aggressive and usually go about their day in relative ease and
-
 quiet, but this confidence on their part is due to the fact that they know they
-
 can handle most threats with a whack of their saw-like tail.
-
 The bigger threat from the kori is flooding or waterways being rerouted as
-
 they dig pathways for the water and build their den. Much like beavers,
-
 they prefer flooded lands as homes but have been known to change the
-
 course of small rivers to accommodate their housing preferences rather
-
 than building where the river currently runs. They will start digging a
-
 trench at the site where they want their new home to be and dig that trench
-
 all the way back to a water source. This sends water rushing to the new
-
 area but gives it no outlet thereby making it a flooded and stagnant area.
-
 Quest: The stream used by a local settlement as a water source has nearly
-
 dried up. It is suspected that a family of kori moved in further upstream,
-
 and the overseer needs someone to go get the stream back on course and
-
 make sure it is not bothered again by the kori. What unusual thing was
-
 revealed when the stream waters dropped so rapidly, and why is it an ill
-
 omen for you?
-
 YOUR TRUTH
-
 The kori eat ants and other insects. What unusual aquatic
-
 insects are their favorite? How are these insects dangerous to
-
 the Junglelanders?
-
 IRONSMITH: FLAVOR PACKS                                                          31
-    PIRA NU                                                          ANIMAL
-
+    PIRA NU                                                          ANIMAL
     Rank:     Troublesome (3 progress per harm; inflicts  1  harm)
-
-              ·  Big, black fish with horse head
-
-    Features: ·  Thick, rock hard skull
-
-              ·  Over-sized teeth
-
-              ·  Feed on mammals
-
-    Drives:   ·  Swim at great speeds
-
-              ·  Make homes in the rapids
-
-              ·  Use the rapids to their advantage
-
-    Tactics:  ·  Ram boats to tip them
-
-              ·  Knock unconscious and then bite
-
+                Big, black fish with horse head
+    Features:   Thick, rock hard skull
+                Over-sized teeth
+                Feed on mammals
+    Drives:     Swim at great speeds
+                Make homes in the rapids
+                Use the rapids to their advantage
+    Tactics:    Ram boats to tip them
+                Knock unconscious and then bite
     The buck-toothed pira nu fish may not seem as deadly as the piranha that
-
     inhabit most waterways, but the pira nu are actually worse. Their thick
-
     skulls and large heads that look similar to a horse combine with their
-
     extreme speed in the water to make an excellent battering ram. They can
-
     break your leg bones if you are standing in the water and knock over
-
     canoes to dump you in the river.
-
     Their teeth are flat for grinding the blood out of flesh. Rather than tearing
-
     the flesh apart, they have the bite force to break bones through the skin.
-
     They especially target smaller appendages such as fingers and toes which
-
     they can crush with a single bite. As they grind the blood from their prey,
-
     the normal piranha are attracted making a problem doubly worse.
-
     Quest: A small waterhole has been overrun with pira nu. A priest wants to
-
     use the spot for divine ceremonies but needs to be able to safely get into the
-
     water. What was this area before the flood came that created this
-
     waterhole? What might the priest really be after?
-
     YOUR TRUTH
-
     Are pira nu actually the piranha of your world? In other
-
     words, do they have jagged teeth instead of flat grinders, and
-
     are they known for their feeding frenzies?
-
 32  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-QUETZALCOATL                                                ANIMAL
-
+QUETZALCOATL                                                ANIMAL
 Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
-
-          ·  Green and red feathery serpent
-
-Features: ·  Large fangs to deliver a huge dose of venom
-
-          ·  Blue feathered rings on the tail
-
-          ·  Hunt predator birds
-
-Drives:   ·  Sun in trees
-
-          ·  Build protective nests like a bird
-
-          ·  Poisonous bite
-
-Tactics:  ·  Fly-by attack
-
-          ·  Drop from above
-
+            Green and red feathery serpent
+Features:   Large fangs to deliver a huge dose of venom
+            Blue feathered rings on the tail
+            Hunt predator birds
+Drives:     Sun in trees
+            Build protective nests like a bird
+            Poisonous bite
+Tactics:    Fly-by attack
+            Drop from above
 Legend says that the colorful parrots of the jungles once put on such a
-
 dance for Huayramama the Snake Mother of Wind that her next clutch of
-
 serpent children were given the bright plumage of the parrots in their
-
 honor. Whether that is true or not, the quetzalcoatl are normal-sized snakes
-
 that still have the colorful green and red feathers along with wings they use
-
 to fly. While the wings on their own couldn't hold the awkward writhing
-
 snake aloft, the bright blue feathers on their tails act as a fan and rudder
-
 giving them the appearance of swimming through the sky.
-
 As with many animals that the Snake Mothers created in the Junglelands,
-
 the quetzalcoatl are poisonous and quite deadly. They are known to hunt
-
 hawks, and even eagles, entangling them in the sky before striking with
-
 their lethal venom. As they both tumble toward the earth, the snake
-
 quickly unravels from its prey which then plummets to the ground below.
-
 If the fall doesn't kill the bird, the poison will within minutes. The
-
 quetzalcoatl will usually fly their kills back up to their nests before
-
 dismembering the bird to eat it one body part at a time.
-
 Quest: Quetzalcoatl feathers are highly prized as a mark of stature in
-
 headdresses and as powerful foci for rituals. Despite a single bite being
-
 lethal to a Junglelander, one hunter has survived more than five bites over
-
 the years. How do you suspect this hunter survived those encounters, and
-
 why do you need their knowledge and skill?
-
 YOUR TRUTH
-
 Do the quetzalcoatl have legs?
-
 IRONSMITH: FLAVOR PACKS                                                        33
-    ROMSIWAMNARI                                                           ANIMAL
-
+    ROMSIWAMNARI                                                           ANIMAL
     Rank:     Dangerous (2 progress per harm; inflicts           2  harm)
-
-              ·  Large, flabby, flightless bird
-
-    Features: ·  Shriveled bat-like leathery wings
-
-              ·  Razor sharp scissor beak
-
-              ·  Hide in caves
-
-    Drives:   ·  Scavenge the dead
-
-              ·  Perpetually sharpen beak on rocks
-
-              ·  Cut off appendages
-
-    Tactics:  ·  Frighten with eerie whistle
-
-              ·  Batter with bony wings
-
+                Large, flabby, flightless bird
+    Features:   Shriveled bat-like leathery wings
+                Razor sharp scissor beak
+                Hide in caves
+    Drives:     Scavenge the dead
+                Perpetually sharpen beak on rocks
+                Cut off appendages
+    Tactics:    Frighten with eerie whistle
+                Batter with bony wings
     Grotesque is perhaps the best word to describe a romsiwamnari. They look
-
     like a cross between a rhea, a bat, and a pelican if the large pelican beak
-
     was a pair of lethal blades instead. Their flabby, gray skin is oily, and the
-
     calls that they make sound like a person drowning in sticky syrup.
-
     Aromsiwamnari never attacks to kill but to maim. They look for any thin-
-
     boned appendage on their prey such as a wing, arm, or leg which they can
-
     usually sever in a single strike. Once their prey is down with one of these
-
     lethal wounds, they proceed to take off the other appendages before eating
-
     the meaty torso. The concept of a mercy killing was not in our vocabulary
-
     until we met the romsiwamnari. Now we know it is a mercy to end the life
-
     of a fallen comrade before the evil bird finishes its work.
-
     Quest: A hunter lost their arm to a romsiwamnari but survived the
-
     encounter. Thanks to their determination and will to not only survive but
-
     thrive, they are still one of the top hunters in the area. This hunter now
-
     wants to track down the romsiwamnari that took their arm and seeks a
-
     companion to bear witness to their vengeance while not interfering. Who
-
     is this hunter to you, and can you really agree to not interfere if they are in
-
     danger?
-
     YOUR TRUTH
-
     The romsiwamnari are considered companions to what horror?
-
 34  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-WAKO                                                               ANIMAL
-
+WAKO                                                               ANIMAL
 Rank:      Troublesome (3 progress per harm; inflicts 1     harm)
-
-           ·  Spotted paca with long fangs
-
-Features:  ·  Size of a large dog
-
-           ·  Thick front claws
-
-           ·  Dig more and more tunnels
-
-Drives:    ·  Feed on travelers
-
-           ·  Have large families
-
-           ·  Burrow below to create small sinkholes
-
-Tactics:   ·  Lure into tunnels and trap
-
-           ·  Claw and bite
-
+             Spotted paca with long fangs
+Features:    Size of a large dog
+             Thick front claws
+             Dig more and more tunnels
+Drives:      Feed on travelers
+             Have large families
+             Burrow below to create small sinkholes
+Tactics:     Lure into tunnels and trap
+             Claw and bite
 Wako are the larger cousins of the paca who love to dig in the soft earth
-
 near waterways. Like their cousins, they are excellent swimmers and often
-
 stay submerged for fifteen minutes or longer to avoid predators. The main
-
 differences between the wako and the paca are the larger size, sharper teeth,
-
 and clawed feet they use for digging.
-
 While normally not aggressive, a wako will fight fiercely if they are
-
 cornered. They also are known to be mischievous hunters as they will
-
 create pitfall type traps by undermining a game trail or pathway so that
-
 their prey fall and break a leg.
-
 They have also been known to dig elaborate tunnel systems that are large
-
 enough for some predators such as jaguars or wolves to fit inside. They
-
 will then feign being injured to lure the predator in where either the tunnels
-
 collapse or the predator gets hopelessly lost underground.
-
 Quest: A family of wako had riddled an area with tunnels for years, and
-
 one large section of ground finally gave way beneath a group of hunters.
-
 While the hunters survived the encounter with few lasting injuries, they did
-
 discover a much larger cave system that the wako exposed. What did they
-
 see down there that has the whole settlement in a panic?
-
 YOUR TRUTH
-
 Like their paca cousins, wako young have horn-like scales
-
 along their torso. Do these scales fall off after adolescence like
-
 the pacas or do they enlarge and harden giving the wako even
-
 more protection? If the spines remain, increase the rank of a
-
 wako to Dangerous.
-
 IRONSMITH: FLAVOR PACKS                                                         35
-    BOIUNA                                                            BEAST
-
+    BOIUNA                                                            BEAST
     Rank:         Epic (1 tick per harm; inflicts 5 harm)
-
-                  ·   Miles long snake
-
-    Features: ·       Glowing eyes
-
-                  ·   Lower fangs that go through the upper jaw
-
-                  ·   Submerge in deep rivers
-
-    Drives:       ·   Build fish populations for food
-
-                  ·   Hibernate for months or years
-
-                  ·   Swallow whole
-
-    Tactics:      ·   Suck in great quantities of water to trap many  prey
-
-                  ·   Create river tidal waves with its huge body
-
+                     Miles long snake
+    Features:        Glowing eyes
+                     Lower fangs that go through the upper jaw
+                     Submerge in deep rivers
+    Drives:          Build fish populations for food
+                     Hibernate for months or years
+                     Swallow whole
+    Tactics:         Suck in great quantities of water to trap many  prey
+                     Create river tidal waves with its huge body
     While it may seem odd to say, a mile long serpent is not unheard of in the
-
     Junglelands. What is unusual about the god-sized snake Boiuna is that it
-
     doesn't live in the oceans but in the river Mayu Wanu. We don't know
-
     exactly how long Boiuna is, but there have been simultaneous reports of
-
     attacks by Boiuna's tail at one river settlement and by Boiuna's head at the
-
     next settlement.
-
     As far as we can tell, Boiuna draws in huge amounts of river water and then
-
     filters its meals almost like a whale with krill. As large as this beast is, you
-
     may think that the river has no other life in it because Boiuna eats it all, but
-
     this is not so. Legend says, and experience has confirmed, that Boiuna is
-
     an intelligent hunter and will transport whole schools of fish from one
-
     section of the river to the next in order to keep the population density at a
-
     steady norm.
-
     Some claim that Boiuna may be one of the lost Father Snakes, companion
-
     to the three Mother Snake god-like creatures, but according to our mystics
-
     there does not appear to be anything otherworldly about Boiuna. It has no
-
     mystical energy or abilities. It's just a snake big enough to swallow small
-
     settlements whole. That's all.
-
     Quest: Boiuna had not been seen in several years along the river Mayu
-
     Wanu until a few weeks ago. A shaman believes they have developed a
-
     concoction that can put Boiuna back into a hibernating state and thereby
-
     keep the river safe for a few more years. The problem: the boat-sized dose
-
     must be delivered straight into the maw of Boiuna.
-
     YOUR TRUTH
-
     Which cult worships Boiuna as a deity, and what part of their
-
     religious practices presents a danger to the populace?
-
 36  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-FALAJITAX                                                       BEAST
-
+FALAJITAX                                                       BEAST
 Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
-
-          ·  Person-sized snake body
-
-Features: ·  Head of a long-necked bird
-
-          ·  Tough, scaly skin
-
-          ·  Guard eintykara honey
-
-Drives:   ·  Protect its young
-
-          ·  Hunt for meat
-
-          ·  Hide its snake body pretending to be rheas
-
-Tactics:  ·  Attack during torrential rain to drown victims in floods
-
-          ·  Constrict with their tail and peck at the eyes to blind
-
+            Person-sized snake body
+Features:   Head of a long-necked bird
+            Tough, scaly skin
+            Guard eintykara honey
+Drives:     Protect its young
+            Hunt for meat
+            Hide its snake body pretending to be rheas
+Tactics:    Attack during torrential rain to drown victims in floods
+            Constrict with their tail and peck at the eyes to blind
 With the head of a rhea on the body of a fat snake, a falajitax sounds like a
-
 laughable combination, but their sharp beaks, cunning minds, and
-
 muscular tails make them a dangerous creature. Growing to a length as
-
 long as any Junglelander is tall, falajitaxes attack with a ferocity likely
-
 induced by the hallucinogenic eintykara honey they guard and feed on.
-
 When on the hunt, a falajitax feigns being a wandering rhea while keeping
-
 its tail hidden in the jungle undergrowth. If it can draw in a large predator
-
 animal, it then attempts to quickly constrict the creature with its tail while
-
 it pecks at the eyes. Once its prey is blinded in this way, it then moves on
-
 to attack the leg joints so that the creature cannot escape. Even the mighty
-
 jaguar can fall prey to a falajitax.
-
 There are those who believe that the falajitaxes have some innate control
-
 over the weather because they prefer to attack during the most torrential
-
 downpours, but more likely they are simply opportunistic.
-
 Quest: A nest of freshly hatched falajitax young has infested the nearby
-
 hunting grounds. Can the creatures be dealt with before they eliminate all
-
 the game in the area? Who do you know in the nearby settlement that
-
 would be in danger if this were to happen?
-
 YOUR TRUTH
-
 Are falajitaxes truly a rhea and snake combination, or do they
-
 have the head and neck of a different creature in your world?
-
 If they do, what creature's head do they have, and how does
-
 that make them even more dangerous?
-
 IRONSMITH: FLAVOR PACKS                                                         37
-    OKPE                                                               BEAST
-
+    OKPE                                                               BEAST
     Rank:      Formidable (1 progress per harm;  inflicts  3  harm)
-
-               ·  Cow-sized boar
-
-    Features:  ·  Stone tusks
-
-               ·  Pink and gray mottled skin of  rock
-
-               ·  Prey on the young
-
-    Drives:    ·  Protect its territory
-
-               ·  Expand its territory
-
-               ·  Charge and ram
-
-    Tactics:   ·  Pierce with tusks
-
-               ·  Drag victims to its lair
-
+                 Cow-sized boar
+    Features:    Stone tusks
+                 Pink and gray mottled skin of  rock
+                 Prey on the young
+    Drives:      Protect its territory
+                 Expand its territory
+                 Charge and ram
+    Tactics:     Pierce with tusks
+                 Drag victims to its lair
     Kings, warriors, and paupers have all fallen to the tusk of a wild boar. The
-
     creatures are aggressive in their berserker-like attacks and never back
-
     down when challenged. Now add to that idea a muscular body that is as
-
     large as a cow and rocky skin that acts like a suit of armor. This is the okpe.
-
     The creatures are omnivores and enjoy eating truffles or mushrooms as
-
     much as they enjoy eating freshly slain prey. The important thing to note
-
     about this is that the creatures seem to revel in eating any chance they get,
-
     but they love the tender meat of young prey the best. This drive for food
-
     is one of the few weaknesses that we can exploit when hunting an okpe.
-
     Perhaps because their rocky skin is so impenetrable, okpe have several
-
     inch-thick lines of unarmored flesh which allow them to move freely.
-
     Without these, the okpe could not move its own legs or rotate its head.
-
     That's how firm and inflexible their rocky armor is. However, the lines of
-
     pink flesh that allow them to move also give us their one vulnerable spot.
-
     Quest: The overseer of a large and influential settlement was gored by an
-
     okpe while out on the last hunt. When this overseer dies from their wounds,
-
     the power vacuum may destabilize the area. Factions are already vying for
-
     leadership and gearing up for battle. Which person do you support as the
-
     new overseer, and what makes them the underdog for this position?
-
     YOUR TRUTH
-
     Are the legends true that there is a rare subspecies of okpe
-
     called ember boars that can expel fire?
-
 38  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-RAHARA                                                             BEAST
-
+RAHARA                                                             BEAST
 Rank:     Formidable (1 progress per harm; inflicts 3 harm)
-
-          ·  Large snake the length of four or five Junglelanders
-
-Features: ·  Muddy brown body with the girth of a large pine tree
-
-          ·  Nightmarish long teeth make up the head with no eyes
-
-          ·  Cool off in the mud
-
-Drives:   ·  Feed on fresh meat
-
-          ·  Keep lagoons full of water
-
-          ·  Follow fires to find meat
-
-Tactics:  ·  Rush out from their tunnels for surprise attacks
-
-          ·  Knock down and bite
-
+            Large snake the length of four or five Junglelanders
+Features:   Muddy brown body with the girth of a large pine tree
+            Nightmarish long teeth make up the head with no eyes
+            Cool off in the mud
+Drives:     Feed on fresh meat
+            Keep lagoons full of water
+            Follow fires to find meat
+Tactics:    Rush out from their tunnels for surprise attacks
+            Knock down and bite
 There are so many serpent-like creatures in the Junglelands, and they are
-
 all deadly. The rahara is is a very long and thick serpent whose head is
-
 made up almost entirely of its jaws. It has no eyes, just more teeth the
-
 length of a Junglelander's forearm.
-
 The raharas like to dig themselves into the mud and wait for prey to pass
-
 close by. We're not sure how they breath while in this position, but they
-
 have been known to stay submerged this way for hours at a time.
-
 Moreover, we don't know how they detect creatures passing by. It may be
-
 a sense of vibrations in the ground, or it could be sound that they follow.
-
 We know that they have some sort of visual or heat sense because they can
-
 latch onto campfires at night from a great distance and often surprise
-
 sleeping Junglelanders. Because of this, it is advisable to sleep far away
-
 from the fire pit or up in a hammock strung between trees.
-
 Quest: A rahara attacked the pigsty of a farmer, decimating the livestock
-
 and livelihood of the farmer's family. They are seeking someone to help
-
 them eliminate the rahara while its hunger is satiated before it kills the few
-
 remaining animals the farmer has.
-
 YOUR TRUTH
-
 It is considered taboo to kill a rahara during a drought because
-
 a lagoon or pond never dries up with a rahara in it. Do they
-
 have some innate power over water or merely the instinct to
-
 find the best source of mud and water?
-
 IRONSMITH: FLAVOR PACKS                                                         39
-    TOSETAX                                                           BEAST
-
+    TOSETAX                                                           BEAST
     Rank:     Extreme (2 ticks per harm; inflicts 4 harm)
-
-              ·         Enormous, thick snake folded into a V shape
-
-    Features: ·         Mouth at both ends and the center
-
-              ·         Colorful rings of solid muscle
-
-              ·         Devour all in its path
-
-    Drives:   ·         Track prey
-
-              ·         Sleep in dark places
-
-              ·         Knock down trees
-
-    Tactics:  ·         Surround and engulf
-
-              ·         Crush with its great weight
-
+                       Enormous, thick snake folded into a V shape
+    Features:          Mouth at both ends and the center
+                       Colorful rings of solid muscle
+                       Devour all in its path
+    Drives:            Track prey
+                       Sleep in dark places
+                       Knock down trees
+    Tactics:           Surround and engulf
+                       Crush with its great weight
     The tosetax is a frighteningly large snake that folds itself into a V that puts
-
     its tail in the same direction as its head. From this position, the tosetax can
-
     more quickly devour its prey because it has a great toothy maw on both its
-
     tail and its head.
-
     When first attempting to kill a tosetax, we thought we could sneak up
-
     behind it and attack the vulnerable part of the V-shaped body right at the
-
     folding point. Unfortunately, the beast has a third mouth there as well, and
-
     each mouth is capable of striking independently despite it only having eyes
-
     on its head. Whether lashing out with these three jaws of death or knocking
-
     down whole trees on top of its victims, it is a rare event that a group of
-
     hunters can take down a tosetax.
-
     Other than eating is fill, we can find no discernible pattern to a tosetax's
-
     behavior. At times, they live in watery environments near a river, but they
-
     are also found in the rocky hills leading to the mountains. Some tosetax
-
     seem to develop a taste for typical prey animals while others hunt
-
     exclusively other predators or even people. Whatever their motivations,
-
     tosetax are deadly and best avoided if possible.
-
     Quest: Years ago an enormous tosetax destroyed an area of the jungle
-
     creating a huge pile of trees and earth that is now home to a pack of
-
     smaller and never before seen creatures. What are these creatures, and
-
     what makes them dangerous?
-
     YOUR TRUTH
-
     When a tosetax experiences a grievous wound, what does it do?
-
     Does it grow a new mouth in that place, or does it sever its own
-
     body in two with each part regrowing into a whole tosetax?
-
 40  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-CAIMANA                                                            FIRSTBORN
-
+CAIMANA                                                            FIRSTBORN
 Rank:     Dangerous (2 progress per harm; inflicts    2  harm)
-
-          ·        Green skinned alligator humanoids
-
-Features: ·        Adept swimmers
-
-          ·        Powerful toothed jaws
-
-          ·        Grow and eat rice
-
-Drives:   ·        Find their soul mate
-
-          ·        Keep outsiders away
-
-          ·        Clamp, roll, and drown opponents
-
-Tactics:  ·        Attack from the water
-
-          ·        Act like a floating log
-
+                  Green skinned alligator humanoids
+Features:         Adept swimmers
+                  Powerful toothed jaws
+                  Grow and eat rice
+Drives:           Find their soul mate
+                  Keep outsiders away
+                  Clamp, roll, and drown opponents
+Tactics:          Attack from the water
+                  Act like a floating log
 The scant evidence of firstborn that we have found in the ancient places of
-
 the Junglelands points to a group of firstborn who are humanoid alligators.
-
 Surprisingly, most of these ancient records seem to be poetry, and romantic
-
 poetry at that. We can only assume that the Caimana people placed great
-
 cultural importance to the finding of a mate and falling in love.
-
 Despite their penchant for love, the only encounters we have had with
-
 Caimana have been deadly. If they are not the mad ravings of survivors of
-
 deadly animal attacks, the Caimana must be extremely isolationist from the
-
 rest of the Junglelands. The survivors of supposed Caimana attacks speak
-
 of larger than life alligators and a frenzy of blood, but this is true with many
-
 encounters near the waterways and doesn't necessarily mean that the
-
 Caimana are real.
-
 It is true that we have found rice patties growing in unusual places which
-
 is said to be the staple food of the alligator folk, but we have yet to find or
-
 interact with a living Caimana.
-
 Quest: A powerful creature rules the waterways near a settlement, and the
-
 overseer believes that an alliance with the Caimana would help them
-
 eliminate this monster. There have been multiple sightings of the Caimana
-
 people in this region, but nothing has been confirmed. Why are you willing
-
 to go on this wild goose chase for a people who may not exist?
-
 YOUR TRUTH
-
 According to legend, what unusual ceremony do the Caimana
-
 hold when a child hatches from their egg?
-
 IRONSMITH: FLAVOR PACKS                                                           41
-    CAMAZOTZ                                                        FIRSTBORN
-
+    CAMAZOTZ                                                        FIRSTBORN
     Rank:     Dangerous (2 progress per harm;          inflicts  2  harm)
-
-              ·  Flying bat folk
-
-    Features: ·  Light gray mottled fur
-
-              ·  Echolocation via screams
-
-              ·  Revel in night hunts
-
-    Drives:   ·  Bond with their pack
-
-              ·  Remember the old ways
-
-              ·  Wind buffet and claw
-
-    Tactics:  ·  Attack from the shadows
-
-              ·  Fly-by attacks
-
+                Flying bat folk
+    Features:   Light gray mottled fur
+                Echolocation via screams
+                Revel in night hunts
+    Drives:     Bond with their pack
+                Remember the old ways
+                Wind buffet and claw
+    Tactics:    Attack from the shadows
+                Fly-by attacks
     The flapping of leathery wings overhead in the middle of the night is
-
     usually enough to put someone on edge. Now imagine hearing that sound,
-
     but slightly deeper, and realizing that whatever is flying over your head is
-
     much larger than a bat. This may be the last and only sound a Junglelander
-
     hears before a Camazotz warrior takes their life.
-
     The Camazotz are bat-like humanoids who generally value holding closely
-
     to their ancient traditions. They eschew metal weapons for wooden spears,
-
     bows, or macuahuitls. All metals are considered sacred to them and are
-
     only used in ceremonial trappings such as necklaces, headdresses, or arm
-
     bracers. All of their daily use items are either wooden or ceramic pottery.
-
     Perhaps the most frightening characteristic of the Camazotz is their
-
     echolocation screams. While they can use this ability quietly, during battle
-
     they scream like a banshee. The reason for this may be practical such as
-
     being able to hear the echoes more clearly allowing quicker reaction time,
-
     but it may also be to inspire fear.
-
     Quest: The settlement of Dula recently cleared a small patch of the local
-
     forest only to find out that the Camazotz considered the area sacred
-
     ground. Chinpokusi, the overseer of Dula, has made offers of recompense
-
     and is attempting to replant the area, but the Camazotz have not found any
-
     offer satisfactory. Can violence be avoided?
-
     YOUR TRUTH
-
     Do the Camazotz people have wings on the back of their
-
     shoulders separate from their arms, or are their wings attached
-
     directly to their arms? What implications does this have for
-
     the weapons that they wield?
-
 42  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-EINTYKARA                                                   FIRSTBORN
-
+EINTYKARA                                                   FIRSTBORN
 Rank:     Dangerous (2 progress per harm; inflicts 2 harm)
-
-          ·  Hivemind of large bees
-
-Features: ·  Colony can work together as a humanoid shape
-
-          ·  Mustard yellow fur and maroon exoskeleton
-
-          ·  Produce hallucinogenic honey
-
-Drives:   ·  Protect the forests/jungles
-
-          ·  Enlarge their colony
-
-          ·  Swarm to blind opponents
-
-Tactics:  ·  Rapidly switch between swarm and humanoid form
-
-          ·  Inject victim with honey extract
-
+            Hivemind of large bees
+Features:   Colony can work together as a humanoid shape
+            Mustard yellow fur and maroon exoskeleton
+            Produce hallucinogenic honey
+Drives:     Protect the forests/jungles
+            Enlarge their colony
+            Swarm to blind opponents
+Tactics:    Rapidly switch between swarm and humanoid form
+            Inject victim with honey extract
 One of the strangest people of the Junglelands, if people is even the right
-
 word, are the Eintykara who are a group of large bees that can work in such
-
 concert that they are able to form a humanoid shape and fight, work, and
-
 communicate as a normal human would. Their voice is made up of various
-
 buzzing sounds that work together at just the right frequency to produce
-
 close to normal sounding speech.
-
 Each hive of Eintykara refer to themselves as a single organism, and
-
 actions that are taken by separate groups within the hive are carried out
-
 without any visible or audible signal that we are aware of. It's as if they
-
 have a direct line of communication with each other within their minds.
-
 We call this the hivemind, one being made of many.
-
 The honey produced by the Eintykara is sought out not only for its nutrition
-
 and exquisite taste but also because it is mildly hallucinogenic. Some
-
 shaman seek out this honey to mix with the ayahuasca plant when
-
 embarking on vision quests to hear from the ancestors.
-
 Quest: A Junglelander claims to have fallen in love with an Eintykara hive
-
 and says that they are to bonded to one another. Ajealous former lover has
-
 sworn to kill the Eintykara hive and set out to do so. What causes you to
-
 approve of this strange union, and what ulterior motive do you believe the
-
 jealous lover has to visit death upon the Eintykara?
-
 YOUR TRUTH
-
 When the Eintykara form into their humanoid guise, how
-
 seamless is their appearance? Are the individual bees still
-
 visible, or do they have a milky white skin like wax and yellow
-
 hair like their fur?
-
 IRONSMITH: FLAVOR PACKS                                                       43
-    HUAYRAMAMA                                                FIRSTBORN
-
+    HUAYRAMAMA                                                FIRSTBORN
     Rank:     Epic (1 tick per harm; inflicts 5 harm)
-
-              ·  Mother Snake of the Wind
-
-    Features: ·  Old woman face with long hair
-
-              ·  Gargantuan length
-
-              ·  Protect the skies
-
-    Drives:   ·  Seek out those worthy of her healing powers
-
-              ·  Continue changing creation
-
-              ·  Gale force wind blasts
-
-    Tactics:  ·  Lightning strikes and blinding rain
-
-              ·  Dodge like the wind despite her bulk
-
+                Mother Snake of the Wind
+    Features:   Old woman face with long hair
+                Gargantuan length
+                Protect the skies
+    Drives:     Seek out those worthy of her healing powers
+                Continue changing creation
+                Gale force wind blasts
+    Tactics:    Lightning strikes and blinding rain
+                Dodge like the wind despite her bulk
     The Mother Snake of the Wind is a deity figure credited with creating the
-
     wind to bring forth rain on the Junglelands so that it might grow and
-
     prosper. However, this deity is clearly visible and physically present in the
-
     world. She wanders the realms so high in the sky she looks like a tiny, thin
-
     cloud with her white and blue skin undulating.
-
     While contact with Huayramama is exceedingly rare, there are stories of
-
     Junglelanders receiving a blessing from her that healed them of an
-
     incurable disease. These same stories say that the Mother Snake can
-
     communicate mind to mind with any creature in the Junglelands and can
-
     soothe one who is pain with just her voice.
-
     However, don't think that Huayramama is only benevolent. The most
-
     severe lightning storms are ascribed to her as a punishment for abusing
-
     birds of the air or other members of nature. During these storms, huge
-
     lightning strikes cause raging fires despite the blinding rain. It is said that
-
     the smoke from these fires act as a cleansing offering to the skies and
-
     appease the Mother Snake.
-
     Quest: A friend and ally has a fatal wound that will fester and kill them
-
     slowly over the next weeks. A local shaman cannot contain the infection
-
     and says that the only way to get healing is to prove your worth to
-
     Huayramama and ask for her mercy in healing your friend. What feat
-
     might you perform to demonstrate your worth, and what guilt do you
-
     secretly harbor that endangers your quest?
-
     YOUR TRUTH
-
     What is the legendary resting place of Huayramama where she
-
     is said to sleep for a day and a year?
-
 44  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-MUNUANE                                                           FIRSTBORN
-
+MUNUANE                                                           FIRSTBORN
 Rank:          Formidable (1 progress per harm; inflicts 3 harm)
-
-               ·  Tall, blue-skinned troll
-
-Features: ·       Stone skin, turtle beak mouth
-
-               ·  Eyes on knees instead of head
-
-               ·  Walk the jungle waterways
-
-Drives:        ·  Protect the fish
-
-               ·  Attract many mates
-
-               ·  Unerring attacks with bow and arrows
-
-Tactics:       ·  Curse weakened victims to turn into insects
-
-               ·  Lie in wait on makeshift rafts
-
+                 Tall, blue-skinned troll
+Features:        Stone skin, turtle beak mouth
+                 Eyes on knees instead of head
+                 Walk the jungle waterways
+Drives:          Protect the fish
+                 Attract many mates
+                 Unerring attacks with bow and arrows
+Tactics:         Curse weakened victims to turn into insects
+                 Lie in wait on makeshift rafts
 The Munuane are a strange blue-skinned troll people with a very large
-
 turtle-like beak on their head, stony skin, and eyes located on their knees
-
 instead of their head. They are said to have been cursed byYacumama, the
-
 Mother Snake of the Water, for over-hunting the waterways of the
-
 Junglelands.      Yacumama said they needed to see things from the
-
 perspective of the fish and moved their eyes to their knees.
-
 Despite the odd placement of their visual sensory organs, they are
-
 exceptional shots with a bow and arrow. They have long, gangling arms
-
 that allow them to put the bows in eye-sight below their waist, and there is
-
 something about this lower eye-level that allows them to judge distances
-
 much better.
-
 In addition to their prowess with the bow, the Munuane also retain some of
-
 the mystical power of Yacumama in that they are able to pass on a curse of
-
 their own. When in a battle with a Junglelander or another firstborn, the
-
 Munuane will first wound their opponent with several arrows in places that
-
 won't kill immediately, and then once their opponent nears death from
-
 blood loss, they curse their victim to become an insect and live out their
-
 days as such.
-
 Quest: A parent claims to have seen their child cursed by a Munuane to
-
 become an insect. A powerful shaman believes the curse can be reversed
-
 but only with the right ingredients and only if the child can be found in
-
 insect form. What taboo thing does the shaman need?
-
 YOUR TRUTH
-
 Do the Munuane still eat mainly meat, or did they swear to eat
-
 only that which grows from the earth since their curse?
-
 IRONSMITH: FLAVOR PACKS                                                       45
-    OOKEMPAN                                                     FIRSTBORN
-
+    OOKEMPAN                                                     FIRSTBORN
     Rank:     Formidable (1 progress per harm; inflicts 2 harm)
-
-              ·  Large, green-skinned ogre
-
-    Features: ·  Turtle shell on its back
-
-              ·  Iron cage on its shell
-
-              ·  Capture weaker creatures for meat and study
-
-    Drives:   ·  Eat the tender meat of young ones
-
-              ·  Gorge on Eintykara honey
-
-              ·  Defend with its invulnerable shell
-
-    Tactics:  ·  Trap victims in its cage
-
-              ·  Squeeze and crush with their size
-
+                Large, green-skinned ogre
+    Features:   Turtle shell on its back
+                Iron cage on its shell
+                Capture weaker creatures for meat and study
+    Drives:     Eat the tender meat of young ones
+                Gorge on Eintykara honey
+                Defend with its invulnerable shell
+    Tactics:    Trap victims in its cage
+                Squeeze and crush with their size
     The Ookempan are large ogres who generally lead a simple life with strict
-
     traditions. When they come of age, they craft their first "life cage" which
-
     is then attached to the shells on their back. As they age, their shells grow
-
     around parts of the cage thereby anchoring it there for the rest of their life.
-
     Life cages serve the two major pursuits in Ookempan culture. The first is
-
     food. Any other non-Ookempan species, no matter if they are sentient or
-
     not, is viewed as potential food. There are elaborate cooking traditions in
-
     Ookempan society, and the young of other species are particularly sought
-
     after for their tender meat.
-
     The second major pursuit of these turtle-like people is that of knowledge
-
     and study. Any subject caught and placed in their life cage who is not eaten
-
     will be left there for study. They may see how long a subject can live
-
     without food or water, how they react to various plants or concoctions, and
-
     even perform elaborate autopsies. In this way, the Ookempans hope to
-
     master the power of life itself.
-
     Quest: For days, a Junglelander could be heard calling out hoarsely for
-
     help. A group followed the sound back to an Ookempan camp where
-
     several people were marked as a part of an upcoming feast. It seems the
-
     camp is now being decorated for a festival, so the meal must be soon. Can
-
     the people be saved without incurring the Ookempan's wrath?
-
     YOUR TRUTH
-
     Do the Ookempan have elaborate books of knowledge, or do
-
     they pass on what they learn through detailed stories with
-
     complex morals?
-
 46  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-SACHAMAMA                                                       FIRSTBORN
-
+SACHAMAMA                                                       FIRSTBORN
 Rank:            Epic (1 tick per harm; inflicts 5 harm)
-
-                 ·  Mother Snake of Earth
-
-Features: ·         Scales of stone
-
-                 ·  Earth moving plate on the underbelly
-
-                 ·  Protect the earth
-
-Drives:          ·  Protect medicinal plants and ecosystem  on  its back
-
-                 ·  Keep the balance in all things
-
-                 ·  Magnetic pulls and pushes
-
-Tactics:         ·  Illusions and trickery
-
-                 ·  Brute force
-
+                   Mother Snake of Earth
+Features:          Scales of stone
+                   Earth moving plate on the underbelly
+                   Protect the earth
+Drives:            Protect medicinal plants and ecosystem  on  its back
+                   Keep the balance in all things
+                   Magnetic pulls and pushes
+Tactics:           Illusions and trickery
+                   Brute force
 Another deity in the flesh, Sachamama is the Mother Snake of the Earth.
-
 Her great bulk may not rival Boiuna in size, but she is none-the-less large
-
 enough to have a whole landscape and ecosystem growing on her back.
-
 She is said to seek balance in the world and will coax rapid plant growth in
-
 barren areas and plow down other areas thick with trees and underbrush.
-
 Sachamama has a wide, bony plate on her underbelly near what might be
-
 considered the base of her neck. She can push huge mounds of earth to the
-
 side with this or raise up to drop it back down swiftly like a large hoe in a
-
 field of crops.
-
 This Mother Snake also has the ability to manipulate metal ores in the
-
 ground or in weapons with great magnetic pulses. She can push weapons
-
 to the side or pull armored folk up next to her great bulk. It may even be
-
 these magnetic waves that induce the hazy illusions that she can project to
-
 confound people.
-
 Quest: A villager returned from a solitary hunting trip with an extremely
-
 rare plant claiming that Sachamama herself gifted them with it. However,
-
 tensions are now on the rise as many other people are claiming they should
-
 get the herb for one reason or another. Some say that none should have
-
 power of life or death with one of the Mother Snake's plants, and so the
-
 plant should be destroyed. Who do you know that you think needs this
-
 plant's healing ability more than any villagers here, and what are you
-
 willing to do to get it?
-
 YOUR TRUTH
-
 What animal lives only on Sachamama's back, and why is it's
-
 existence significant?
-
 IRONSMITH: FLAVOR PACKS                                                        47
-    YACUMAMA                                                        FIRSTBORN
-
+    YACUMAMA                                                        FIRSTBORN
     Rank:     Epic (1 tick per harm; inflicts 5 harm)
-
-              ·         Mother Snake of Water
-
-    Features: ·         Horned head and glowing eyes
-
-              ·         Primordial power
-
-              ·         Protect the waters
-
-    Drives:   ·         Feast on the unworthy
-
-              ·         Increase her power
-
-              ·         Shoot water sprays the size of cyclones
-
-    Tactics:  ·         Hypnotize with her eyes
-
-              ·         Summon fog and whirlpools
-
+                       Mother Snake of Water
+    Features:          Horned head and glowing eyes
+                       Primordial power
+                       Protect the waters
+    Drives:            Feast on the unworthy
+                       Increase her power
+                       Shoot water sprays the size of cyclones
+    Tactics:           Hypnotize with her eyes
+                       Summon fog and whirlpools
     The third Mother Snake is Yacumama who holds power over the waters of
-
     the Junglelands. She prowls the oceans with her great bulk seeking to ever
-
     prove her power over all others. Where the other Mother Snakes have a
-
     benevolent or at least neutral side to their personality, Yacumama lords
-
     over her creation with pride and hubris.
-
     She has many powers at her disposal to destroy vessels in the open waters,
-
     but perhaps her favorite is to summon thick fog. As long as Huayramama
-
     is elsewhere, Yacumama can use the water temperature to reduce the wind
-
     to almost nothing so that the vessels barely move at all in the fog. Then,
-
     after this elaborate set-up,Yacumama begins to swirl the water beneath the
-
     vessels into a great whirlpool bringing all the occupants to a watery grave.
-
     Because of her aggressive nature, it is common practice to put criminals in
-
     smaller boats in front of trade vessels. They are told that if they can make
-
     the trade run unscathed byYacumama, they can have their freedom back at
-
     the end of the journey. Most criminals jump at this chance, but few live to
-
     see their freedom.
-
     Quest: You have been sentenced to the criminal's journey in escorting a
-
     trade vessel on one of the longest voyages along the western coast of the
-
     Junglelands. What crime are you accused of, and did you do it?
-
     YOUR TRUTH
-
     How does Yacumama patrol the inland waters? Does she send
-
     swarms of eels in her stead, can she shift down to a smaller size
-
     to travel through rivers, or does Boiuna act as her servant?
-
 48  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-MARICOXI                                              JUNGLELANDER
-
+MARICOXI                                              JUNGLELANDER
 Rank:     Dangerous (2 progress per harm; inflicts 2  harm)
-
-          ·  Muscular, ape-like body
-
-Features: ·  Limited language
-
-          ·  Primitive and paranoid
-
-          ·  Exert dominance
-
-Drives:   ·  Protect family groups
-
-          ·  Fight to survive
-
-          ·  Wooden spears and rudimentary bows
-
-Tactics:  ·  Frenzied attacks
-
-          ·  Intimidation
-
+            Muscular, ape-like body
+Features:   Limited language
+            Primitive and paranoid
+            Exert dominance
+Drives:     Protect family groups
+            Fight to survive
+            Wooden spears and rudimentary bows
+Tactics:    Frenzied attacks
+            Intimidation
 Sometime long ago, other humans set foot in the Junglelands, but the
-
 firstborn were much more active at that time along with even more
-
 primordial beings. The humans had no chance to establish a true society
-
 and only barely survived as prey for the dominant species. Generations of
-
 this terrible existence led to the Maricoxi.
-
 The Maricoxi are human in appearance, but they lack societal advances
-
 such as detailed language or complex tools. They regressed back to a
-
 previous form of life as they fought for survival. Their days were filled
-
 with killing, eating, and hiding. They still have no agricultural skills and
-
 depend completely on hunting and gathering.
-
 While we have tried to welcome them into our settlements and help
-
 integrate them into our culture, we have yet to establish meaningful
-
 relations with the Maricoxi.   They are rightly suspicious of nearly
-
 everyone, and attack first without waiting to see how dangerous the
-
 situation might actually be. The best thing we have found is to respect
-
 them and leave them be.
-
 Quest: A group of Maricoxi arrived at a settlement wounded and near
-
 death. The people of the settlement took them in and are attempting to heal
-
 their wounds, but they are worried about what the Maricoxi are fleeing
-
 from. What is hunting this group of Maricoxi, and why do you feel
-
 compelled to hunt it? If you are successful, could this be the bridge
-
 necessary to connect with the Maricoxi in a permanent way?
-
 YOUR TRUTH
-
 What skill have some of the Maricoxi mastered that is
-
 unmatched in other societies?
-
-IRONSMITH: FLAVOR PACKS                                                       49
-    NAME ORACLES
-
-    To increase your immersion in the South American mythology, I've
-
-    included some Junglelander names that are from the Quechua language as
-
-    well as settlement names both taken with permission from the awesome
-
-    generators at fantasynamegenerators.com.
-
-50  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-Junglelander Names
-
-01 Achik            35     Khapaj         69  Qollorit'I
-
-02 Achikilla        36     Khuyaq         70  Qollqe
-
-03 Aliqora          37     Killa          71  Qori
-
-04 Anku             38     Killinchu      72  Qucha
-
-05 Ankuwillka       39     Kokka          73  Qurichullpi
-
-06 Antininan        40     Kuka           74  Quripuma
-
-07 Apumayta         41     Kunturchawa    75  Quriquyllur
-
-08 Asiri            42     Kunturpuma     76  Rimak
-
-09 Asto             43     Kusichinpu     77  Rumisunk'U
-
-10 Astu             44     Kusiyaya       78  Sach'Asisa
-
-11 Astuwaraka       45     Llaksa         79  Siyaya
-
-12 Ataw             46     Lliwsisa       80  Somak
-
-13 Atik             47     Lloqe          81  Sunk'Uyuq
-
-14 Atiq             48     Loria          82  Suri
-
-15 Auk'A            49     Mallku         83  T'It'U
-
-16 Awki             50     Mamak          84  Taki'Illareq
-
-17 Awkiyupanki      51     Mayua          85  Talla
-
-18 Ayar             52     Michik         86  Tamiasisa
-
-19 Ch'Aska          53     Ñawqe          87  Tinkipoma
-
-20 Ch'Ayna          54     Nayaraq        88  Tupaqhapaq
-
-21 Ch'Uya           55     Ninan          89  Urk'O
-
-22 Chami            56     Ninapajcha     90  Urpi
-
-23 Chaupi           57     Parwa          91  Urpiyurak
-
-24 Chinpu           58     Phakcha        92  Urquqolla
-
-25 Hawka            59     Phaway         93  Usqowillka
-
-26 Huch'Uykilla     60     Phuyuqhawa     94  Wamanchuri
-
-27 Huch'Uysisa      61     Pillkomayu     95  Waylla
-
-28 Illa             62     Pomayauri      96  Yakuy
-
-29 Inti             63     Pumasunk'U     97  Yanay
-
-30 Intiwaman        64     Puquy          98  Yauri
-
-31 Izhi             65     Q'Uñiraya      99  Yawarwaqaq
-
-32 K'Antu           66     Qhapaqyupanki  00  Yuri
-
-33 Karwamayu        67     Qillqa
-
-34 Kashayawri       68     Qollana
-
-IRONSMITH: FLAVOR   PACKS                                   51
-    Junglelander Settlement  Names
-
-    01 Acayaty               35 Cotoruro      69  Pilcocomay
-
-    02 Acelonia              36 Desmopio      70  Piriájas
-
-    03 Agualao               37 Diaciúma      71  Pobamba
-
-    04 Arilota               38 Diviraca      72  Polipi
-
-    05 Arronín               39 Escocupé      73  Povier
-
-    06 Ascenlomi             40 Eusedro       74  Punguas
-
-    07 Atlábaé               41 Frulí         75  Purraros
-
-    08 Atlácio               42 Huánumay      76  Rauchi
-
-    09 Atocaé                43 Indaiacife    77  Remão
-
-    10 Atymero               44 Itaquacetuba  78  Roza
-
-    11 Azánritor             45 Jaboasa       79  Rurretoca
-
-    12 Balos                 46 Jandiraz      80  San Anhay
-
-    13 Blannia               47 Junsa         81  San Bozos
-
-    14 Buhuano               48 La Lamiento   82  San Carcha
-
-    15 Buldo                 49 Lasreso       83  San Cosby
-
-    16 Camraz                50 Lupevi        84  San Fermes
-
-    17 Cañacia               51 Maldovenir    85  San Icabamba
-
-    18 Capirón               52 Mánmey        86  São Pacetuba
-
-    19 Carhuasica            53 Mbuyacuí      87  Sapuru
-
-    20 Carli                 54 Minemuri      88  Sosar
-
-    21 Carquillo             55 Mineroico     89  Tajarí
-
-    22 Casilares             56 Miztus        90  Tammerín
-
-    23 Castia                57 Mogasta       91  Tebiwa
-
-    24 Caucón                58 Nacaí         92  Temucón
-
-    25 Caudero               59 Nuelota       93  Tugas
-
-    26 Ceryos                60 Ñutiago       94  Vadivia
-
-    27 Chaulas               61 Omsupá        95  Velátasar
-
-    28 Chonjuí               62 Pacancomay    96  Vera
-
-    29 Chures                63 Paineros      97  Viania
-
-    30 Comaguas              64 Pangoa        98  Yego
-
-    31 Comahuanaca           65 Panguihuano   99  Ygalena
-
-    32 Copatora              66 Panrazno      00  Yuno
-
-    33 Corguel               67 Pecero
-
-    34 Corodente             68 Petroraca
-
-52  THE JUNGLELANDS | BASED ON SOUTH AMERICAN MYTHOLOGY
-KOMIKAN: THE JAGUAR AND THE LLAMAS
-
-In the ancient halls of the firstborn ruins we found reference to a game that
-
-some of the firstborn played in the Junglelands. While it's original name
-
-may have been Komikan, we call it "The Jaguar and the Llamas".
-
-It is a two-player game where one player controls a single token on the
-
-board representing the jaguar, and the other player controls twelve tokens
-
-representing the llamas. Some regions use fourteen llamas instead of
-
-twelve, or use eagles instead of llamas, so check with the specific region
-
-you are in lest you commit a social error.
-
-The players take turns moving one token at a time into an adjacent empty
-
-space on the game board. This means the first player moves their jaguar
-
-every turn, but the second player may only move a single llama each turn
-
-(which llama is up to them).
-
-If the jaguar can jump over a llama and land in an empty space, it eats that
-
-llama token thereby removing it from the game board. If the jaguar eats
-
-five total llamas, the jaguar player wins.
-
-If the llamas can surround the jaguar in such a way that it has nowhere to
-
-move (all adjacent spaces have llamas and there are no empty spaces to
-
-allow the jaguar to jump and eat a llama), then the llama player wins.
-
-This game can be taken very seriously and may even be used as a substitute
-
-for combat in some cases. It's considered a warrior's game of strategy, and
-
-young children are encouraged to play often to improve their strategic
-
-thinking. Some parents will start their child as a jaguar in a tough situation
-
-to challenge them to still eat the requisite five llamas. Other times, the
-
-child will be given only six llama tokens and challenged to still defeat the
-
-jaguar. The children who find winning strategies in these more difficult
-
-circumstances are often given leadership or advisory roles when they
-
-became full warriors.
-
-Design Notes: Years ago, I learned a game similar to Komikan on a smaller
-
-board, but it was called "The Hounds and the Hare" where three hounds
-
-tried to corner the hare whose goal was to escape to the opposite side of the
-
-board. The hounds had the restriction of only being able to move forward,
-
-but the hare could move in any direction. No matter the side I picked when
-
-playing against anAI online, I could almost never win. But I still had fun!
-
-When I saw Komikan (or Taptana) as a game that an Inca emperor played,
-
-I knew I had to include it in this flavor pack. Agame that you almost never
-
-win? Sounds like my challenge dice! It was originally a jaguar and dogs
-
-or goats, but I switched it to the llamas of theAndes mountains.
-
-On the following pages, you'll find the game board, the tokens to use, and
-
-a picture of the initial set-up of the board.
-
-IRONSMITH: FLAVOR PACKS                                                         53
-    GAME  BOARD AND      TOKENS
-
-54  THE   JUNGLELANDS |  BASED ON SOUTH  AMERICAN  MYTHOLOGY
-ALTERNATE VERSIONS
-
-There are several alternate versions of this game that are used in real life
-
-that you could have in your version of the Junglelands which include:
-
-1. Change the animal types to regional animals.
-
-2. Play only with the square portion of the board.
-
-3. Use fourteen or even twenty llamas instead of twelve.
-
-4.  Both players use their first turn to place a single token, and then
-
-    each subsequent turn the jaguar player moves while the llama
-
-    player must choose to either place one of their remaining llama
-
-    tokens onto the board or move one that is already on the board.
-
-Or use a combination of the above such as twenty llamas while using only
-
-the square portion of the board. There are several YouTube videos
-
-demonstrating how to play the many variations. I have given you extra
-
-llamas in case you want to play with the fourteen or twenty version.
-
-IRONSMITH: FLAVOR PACKS                                                       55
-    INITIAL SET-UP FOR BASIC VERSION
-
-56  THE JUNGLELANDS | BASED ON SOUTH AMERICAN  MYTHOLOGY
-SETTLEMENT TRACKERS
-
-On the following page you will find a blank template you can fill out to
-
-help you build any settlement you encounter. The template includes:
-
-·  Settlement Name: You may use the Settlement Name oracle.
-
-·  Region/Location: Give the settlement a number and description of
-
-   where it is in the region like "3: North eastern corner of Havens".
-
-   Mark this spot on your map with the number.
-
-·  First Look/Descriptors: What does this settlement look like? Is it
-
-   run down? Are there new buildings going up? Do they have a
-
-   meeting hall? You may use the Location Descriptor oracle.
-
-·  Geography: What is the land like in this area? Are they on a river?
-
-   Is there flat ground for agriculture? Are there hills being used as a
-
-   natural defense? You may use the Location oracle.
-
-·  Population/Size: How many people or families live here? You
-
-   may use the Challenge Rank oracle with the following results:
-
-     Troublesome = Homestead, up to 10 people and up to 2
-
-     standing structures
-
-     Dangerous = Steading, up to 20 people and up to 7 standing
-
-     structures
-
-     Formidable = Village, up to 50 people and up to 15 standing
-
-     structures
-
-     Extreme = Town, up to 100 people and up to 30 standing
-
-     structures
-
-     Epic = City, up to 500 people and up to 100 standing structures
-
-·  Resources: How does this settlement mainly provide                     for
-
-   themselves?Agriculture? Fishing? Hunting? Trade of crafts?
-
-·  Leadership: What type of leadership structure does this settlement
-
-   have? Overseer? Council of elders? Religious leader? War chief?
-
-·  Disposition: How does the settlement (and particularly the
-
-   leadership) view your character?
-
-·  Notable Events: What significant events have taken place here?
-
-   Did you interact with this place during a vow?
-
-·  Notable NPCs: Who lives here that your character knows by
-
-   name?
-
-·  Nearby Opportunities/Dangers:Are there ways that you can help
-
-   the settlement? Is there a threat on the horizon? Is there an
-
-   unexplored area with potential resources? You may use the
-
-   Settlement Trouble oracle.
-
-·  Bond?: Check the box if you Forge a Bond with this settlement.
-
-IRONSMITH: FLAVOR PACKS                                                        57
-    Settlement Name            Region/Location
-
-    First Look/Descriptors     Geography
-
-    Population/Size            Resources
-
-    Leadership                 Disposition
-
-    Notable Events
-
-    Notable NPCs
-
-    Nearby Opportunities
-
-    Nearby Dangers
-
-    BOND?
-
-58  THE JUNGLELANDS         |  BASED ON SOUTH AMERICAN  MYTHOLOGY
-Settlement Name                Region/Location
-
-First Look/Descriptors         Geography
-
-Population/Size                Resources
-
-Leadership                     Disposition
-
-Notable Events
-
-Notable NPCs
-
-Nearby Opportunities
-
-Nearby Dangers
-
-BOND?
-
-IRONSMITH: FLAVOR       PACKS                   59
-    Settlement Name            Region/Location
-
-    First Look/Descriptors     Geography
-
-    Population/Size            Resources
-
-    Leadership                 Disposition
-
-    Notable Events
-
-    Notable NPCs
-
-    Nearby Opportunities
-
-    Nearby Dangers
-
-    BOND?
-
-60  THE JUNGLELANDS         |  BASED ON SOUTH AMERICAN  MYTHOLOGY
-Settlement Name                Region/Location
-
-First Look/Descriptors         Geography
-
-Population/Size                Resources
-
-Leadership                     Disposition
-
-Notable Events
-
-Notable NPCs
-
-Nearby Opportunities
-
-Nearby Dangers
-
-BOND?
-
-IRONSMITH: FLAVOR       PACKS                   61
-
