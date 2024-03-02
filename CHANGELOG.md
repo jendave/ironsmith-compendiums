@@ -1,5 +1,8 @@
 # Changelog
 
+### [2.0.2](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-03-02)
+* Added oracles, foes and assets from [Ironsmith African Flavor Pack](https://preview.drivethrurpg.com/en/product/374198/ironsmith-african-mythology-flavor-pack-softcover) supplement.
+
 ### [2.0.1](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-03-01)
 * Added oracles, foes and assets from [Ironsmith Indian Flavor Pack](https://preview.drivethrurpg.com/en/product/374967/ironsmith-indian-hindu-mythology-flavor-pack-softcover) supplement.
 
