@@ -1,78 +1,226 @@
+d100 Regions of the Grasslands
+01-12 Amagwebu Umlilo <i>Bubbles of Fire</i> (Barrier Islands)
+13-24 Amafu Ayisicaba <i>The Flat Clouds</i> (Ragged Coast)
+25-34 Ihlathi Lenkawu <i>Jungle of Apes</i> (Deep Wilds)
+35-46 Ukuhamba Ixhaphozi <i>The Walking Swamp</i> (Flooded Lands)
+47-60 Utshani Obude <i>The Tall Grass</i> (Havens)
+61-72 Ihlathi Lemikhonto <i>Forest of Spears</i> (Hinterlands)
+73-84 Umbani Ekhaya <i>Lightning Home</i> (Tempest Hills)
+85-94 Iminwe Kankulunkulu <i>Fingers of God</i> (Veiled Mountains)
+95-99 Ukusha Okungapheli <i>The Forever Burn</i> (Shattered Wastes)
+100   Elsewhere
+
  NAME ORACLES
     To increase your immersion in the African mythology, I've included some
     Grasslander names that come from Zulu culture as well as settlement
     names taken with permission from the awesome generators at
     fantasynamegenerators.com that are modeled after town names from
     regions in southernAfrica.
-46  THE GRASSLANDS | BASED ON AFRICAN MYTHOLOGY
-Grasslander Names
-01 Amahle          35     Nkazimulo     69  Simphiwe
-02 Andile          36     Nobantu       70  Siphesihle
-03 Bandile         37     Nobuhle       71  Siphesihle
-04 Bhekani         38     Nokulunga     72  Sithembiso
-05 Bhekisisa       39     Nolwandle     73  Siyabonga
-06 Busisiwe        40     Nomagugu      74  Sphiwe
-07 Dumisani        41     Nomalanga     75  Thabani
-08 Dumisile        42     Nomandla      76  Thabisa
-09 Gabisile        43     Nomasonto     77  Thalente
-10 Gugu            44     Nomathalente  78  Thalente
-11 Gugulethu       45     Nomathemba    79  Thalente
-12 Jabulani        46     Nomcebo       80  Thandanani
-13 Jabulisile      47     Nomthandazo   81  Thandazile
-14 Khanyisile      48     Nomvula       82  Thandeka
-15 Langelihle      49     Nonhlanhla    83  Thandiwe
-16 Londisizwe      50     Nonjabulo     84  Themba
-17 Londiwe         51     Nothando      85  Thembeka
-18 Lunga           52     Noxolo        86  Thembekile
-19 Lungani         53     Nozibusiso    87  Thembile
-20 Lungile         54     Nozizwe       88  Thembisile
-21 Luyanda         55     Nqobile       89  Thuthuka
-22 Lwandile        56     Nqobizitha    90  Thuthukile
-23 Malibongwe      57     Ntuthuko      91  Vusumuzi
-24 Mandla          58     Olwethu       92  Xolani
-25 Manqoba         59     Owethu        93  Zakhele
-26 Mcebisi         60     Sandile       94  Zenzele
-27 Minenhle        61     Sibonelo      95  Zenzile
-28 Mlungisi        62     Sibongakonke  96  Zibuyile
-29 Mthokozisi      63     Sibongile     97  Zinhle
-30 Musa            64     Sibusisiwe    98  Zwelakhe
-31 Mzamo           65     Sibusiso      99  Zwelethu
-32 Ndumiso         66     Sihawukele    00  Zwelibanzi
-33 Nhlanhla        67     Silondile
-34 Njabulo         68     Simphiwe
-IRONSMITH: FLAVOR  PACKS                                47
-    Settlement Names
-    01 Arachanas           35  Magano          69  Ramoktse
-    02 Aranlilo            36  Malnong         70  Randstad
-    03 Arava               37  Mandutume       71  Randweto
-    04 Bhuyale             38  Mangesa         72  Ratekabe
-    05 Bhuziya             39  Maunaleka       73  Rehodive
-    06 Buleba              40  Meyohibe        74  Rerithe
-    07 Culliliwal          41  Mhlazena        75  Romasoe
-    08 Daludume            42  Mhlumelena      76  Rondatavi
-    09 Ekahage             43  Mhlutume        77  Rumebib
-    10 Ermemolle           44  Middelyani      78  Savuseni
-    11 Ettengwe            45  Miha            79  Sidkulu
-    12 Genkango            46  Miseru          80  Simuvise
-    13 Ghanteng            47  Mmato           81  Siney
-    14 Ghanthethe          48  Mochulapye      82  Somevone
-    15 Giyakowa            49  Moiyajang       83  Sowebron
-    16 Hala                50  Molepobina      84  Soweliwal
-    17 Hlatimisa           51  Mopirowe        85  Sowemelo
-    18 Hukutswa            52  Mpukowa         86  Swakoti
-    19 Huwe                53  Narakeru        87  Takhojea
-    20 Kanla               54  Narasema        88  Tetsare
-    21 Katilo              55  Natgo           89  Thanekodvo
-    22 Khonie              56  Ngwenbuta       90  Thelong
-    23 Khowo               57  Nhlanton        91  Tonodinare
-    24 Kimbelo             58  Nkomanus        92  Tsehao
-    25 Kopopong            59  Nkurenpi        93  Tshaluno
-    26 Koshupa             60  Nomatang        94  Tsuwejera
-    27 Krugerha            61  Okakabib        95  Tumathwa
-    28 Kwata               62  Omarunie        96  Usana
-    29 Labong              63  Ondatal         97  Vambaneni
-    30 Lepan               64  Ongwerenkuru    98  Vendane
-    31 Letkaneng           65  Payeng          99  Virgiliwal
-    32 Lobakati            66  Periyane        00  Wevi
-    33 Lurera              67  Pokorea
-    34 Lydentha            68  Qamayane
+
+NAME ORACLES
+
+d100 Grasslander Names
+01 Amahle
+02 Andile
+03 Bandile
+04 Bhekani
+05 Bhekisisa
+06 Busisiwe
+07 Dumisani
+08 Dumisile
+09 Gabisile
+10 Gugu
+11 Gugulethu
+12 Jabulani
+13 Jabulisile
+14 Khanyisile
+15 Langelihle
+16 Londisizwe
+17 Londiwe
+18 Lunga
+19 Lungani
+20 Lungile
+21 Luyanda
+22 Lwandile
+23 Malibongwe
+24 Mandla
+25 Manqoba
+26 Mcebisi
+27 Minenhle
+28 Mlungisi
+29 Mthokozisi
+30 Musa
+31 Mzamo
+32 Ndumiso
+33 Nhlanhla
+34 Njabulo
+35 Nkazimulo
+36 Nobantu
+37 Nobuhle
+38 Nokulunga
+39 Nolwandle
+40 Nomagugu
+41 Nomalanga
+42 Nomandla
+43 Nomasonto
+44 Nomathalente
+45 Nomathemba
+46 Nomcebo
+47 Nomthandazo
+48 Nomvula
+49 Nonhlanhla
+50 Nonjabulo
+51 Nothando
+52 Noxolo
+53 Nozibusiso
+54 Nozizwe
+55 Nqobile
+56 Nqobizitha
+57 Ntuthuko
+58 Olwethu
+59 Owethu
+60 Sandile
+61 Sibonelo
+62 Sibongakonke
+63 Sibongile
+64 Sibusisiwe
+65 Sibusiso
+66 Sihawukele
+67 Silondile
+68 Simphiwe
+69  Simphiwe
+70  Siphesihle
+71  Siphesihle
+72  Sithembiso
+73  Siyabonga
+74  Sphiwe
+75  Thabani
+76  Thabisa
+77  Thalente
+78  Thalente
+79  Thalente
+80  Thandanani
+81  Thandazile
+82  Thandeka
+83  Thandiwe
+84  Themba
+85  Thembeka
+86  Thembekile
+87  Thembile
+88  Thembisile
+89  Thuthuka
+90  Thuthukile
+91  Vusumuzi
+92  Xolani
+93  Zakhele
+94  Zenzele
+95  Zenzile
+96  Zibuyile
+97  Zinhle
+98  Zwelakhe
+99  Zwelethu
+100  Zwelibanzi
+
+d100 Settlement Names
+01 Arachanas
+02 Aranlilo
+03 Arava
+04 Bhuyale
+05 Bhuziya
+06 Buleba
+07 Culliliwal
+08 Daludume
+09 Ekahage
+10 Ermemolle
+11 Ettengwe
+12 Genkango
+13 Ghanteng
+14 Ghanthethe
+15 Giyakowa
+16 Hala
+17 Hlatimisa
+18 Hukutswa
+19 Huwe
+20 Kanla
+21 Katilo
+22 Khonie
+23 Khowo
+24 Kimbelo
+25 Kopopong
+26 Koshupa
+27 Krugerha
+28 Kwata
+29 Labong
+30 Lepan
+31 Letkaneng
+32 Lobakati
+33 Lurera
+34 Lydentha
+35  Magano
+36  Malnong
+37  Mandutume
+38  Mangesa
+39  Maunaleka
+40  Meyohibe
+41  Mhlazena
+42  Mhlumelena
+43  Mhlutume
+44  Middelyani
+45  Miha
+46  Miseru
+47  Mmato
+48  Mochulapye
+49  Moiyajang
+50  Molepobina
+51  Mopirowe
+52  Mpukowa
+53  Narakeru
+54  Narasema
+55  Natgo
+56  Ngwenbuta
+57  Nhlanton
+58  Nkomanus
+59  Nkurenpi
+60  Nomatang
+61  Okakabib
+62  Omarunie
+63  Ondatal
+64  Ongwerenkuru
+65  Payeng
+66  Periyane
+67  Pokorea
+68  Qamayane
+69  Ramoktse
+70  Randstad
+71  Randweto
+72  Ratekabe
+73  Rehodive
+74  Rerithe
+75  Romasoe
+76  Rondatavi
+77  Rumebib
+78  Savuseni
+79  Sidkulu
+80  Simuvise
+81  Siney
+82  Somevone
+83  Sowebron
+84  Soweliwal
+85  Sowemelo
+86  Swakoti
+87  Takhojea
+88  Tetsare
+89  Thanekodvo
+90  Thelong
+91  Tonodinare
+92  Tsehao
+93  Tshaluno
+94  Tsuwejera
+95  Tumathwa
+96  Usana
+97  Vambaneni
+98  Vendane
+99  Virgiliwal
+100  Wevi
+
+

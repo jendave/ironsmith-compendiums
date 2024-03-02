@@ -11,7 +11,7 @@ While my preference would have been to pull monsters from only Zulu
 legends, I was unable to find enough in my surface-level research to give
 the 20+ foes presented here. If you know of any more specific legends from
 Zulu mythology that could be converted to foes, please let me know!
-IRONSMITH: FLAVOR PACKS                                                        25
+                                                    25
     CHIPEKWE                                                            ANIMAL
     Rank:      Formidable (1 progress per harm;  inflicts  3     harm)
                  Elephant-rhino cross
@@ -81,7 +81,7 @@ YOUR TRUTH
 Are gbahali bodies narrow for better speed when running, or
 are they built more like warthogs for toughness and
 endurance?
-IRONSMITH: FLAVOR PACKS                                                       27
+                                                   27
     IMPUNDULU                                                      ANIMAL
     Rank:     Troublesome (3 progress per harm; inflicts 1 harm)
                 Over-sized beak
@@ -152,7 +152,7 @@ within it?
 YOUR TRUTH
 What other activity do the inkanyamba participate in each
 season while they have their wings?
-IRONSMITH: FLAVOR PACKS                                                          29
+                                                      29
     KONGAMATO                                                       ANIMAL
     Rank:     Dangerous (2 progress per harm; inflicts  2  harm)
                 Flying pterosaur with leathery skin
@@ -220,7 +220,7 @@ YOUR TRUTH
 Do the ufiti have silver backs or is all their fur silver?
 Are ghost apes particularly stealthy ufiti or are they a whole
 separate species with their own features and abilities?
-IRONSMITH: FLAVOR PACKS                                                          31
+                                                      31
     GROOTSLANG                                                 BEAST
     Rank:          Epic (1 tick per harm; inflicts 5 harm)
                      Giant snake with elephant head
@@ -288,7 +288,7 @@ YOUR TRUTH
 Amuch smaller but still dangerous species has a symbiotic
 relationship with the khodumodumo. What is this species, and
 why are they dangerous?
-IRONSMITH: FLAVOR PACKS                                                       33
+                                                   33
     MOKELE MBEMBE                                              BEAST
     Rank:       Extreme (2 ticks per harm; inflicts  4  harm)
                   Long-necked apatosaurus
@@ -358,7 +358,7 @@ mission must be mounted immediately.
 YOUR TRUTH
 The ninki nanka horns are used in a sacred ceremony. What is
 this ceremony, and how does it relate to the swamplands?
-IRONSMITH: FLAVOR PACKS                                                        35
+                                                    35
     NYUVWIRA                                               BEAST
     Rank:     Extreme (2 ticks per harm; inflicts 4 harm)
                      Eight-headed underground snake
@@ -431,7 +431,7 @@ to triangulate distances giving superior accuracy with their
 charges and strikes?
 Are all four eyes facing the same direction, or are they facing
 the four different directions?
-IRONSMITH: FLAVOR PACKS                                                          37
+                                                      37
     ELOKO                                                        FIRSTBORN
     Rank:      Dangerous (2 progress per harm; inflicts 2 harm)
                  Vile, cannibalistic dwarf
@@ -501,7 +501,7 @@ to lead the rescue mission, and why don't you trust them?
 YOUR TRUTH
 Are the popobawa actually firstborn of the Grasslands, or are
 they sentient horrors that have invaded from another realm?
-IRONSMITH: FLAVOR PACKS                                                        39
+                                                    39
     UMUTWA                                                            FIRSTBORN
     Rank:        Troublesome (3 progress per harm;       inflicts  1  harm)
                       Tiny humanoids
@@ -574,7 +574,7 @@ suspect is behind the adze infestation?
 YOUR TRUTH
 The sangoma claim a specific sigil will ward off the adze.     What
 does this symbol represent, and what are its origins?
-IRONSMITH: FLAVOR PACKS                                                       41
+                                                   41
     CHEMOSIT                                                              HORROR
     Rank:     Dangerous (2 progress per harm;         inflicts  2  harm)
                       Half bird, half human demon
@@ -650,7 +650,7 @@ What does the mystic need? Who is the person that lost their shadow, and
 how do you know them?
 YOUR TRUTH
 Do nkala stay near sources of water, or are they land-dwelling?
-IRONSMITH: FLAVOR PACKS                                                          43
+                                                      43
     TOKOLOSHE                                                            HORROR
     Rank:          Troublesome (3 progress per harm; inflicts  1  harm)
                      Imp-like spirit

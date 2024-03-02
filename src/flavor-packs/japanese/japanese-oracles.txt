@@ -79,7 +79,7 @@ d100 Coastal Location
 d100 Region
 01-12  Chisana Hi <i>Tiny Fires</i>
 13-24  Kokuyoseki no Ha <i>Obsidian Blades</i>
-25-34  Kyoki no Mori <i>orest of Madness</i>
+25-34  Kyoki no Mori <i>Forest of Madness</i>
 35-46  Yurei Numachi <i>Ghostly Swamps</i>
 47-60  Sakura Tani <i>Cherry Valley</i>
 61-72  Hai no Kawa <i>River of Ash</i>
