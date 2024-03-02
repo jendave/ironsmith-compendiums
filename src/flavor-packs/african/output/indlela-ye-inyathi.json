@@ -16,7 +16,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ed343c963b08f301]{Enter the Fray} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} by charging in a blind rage, choose one.<ul><li>Fury: Roll +iron. Inflict +1 harm on a strong hit.</li><li>Courage: Roll +heart. Add +1 and take +1 momentum on a hit.<.li></ul></p>",
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ed343c963b08f301]{Enter the Fray} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} by charging in a blind rage, choose one.<ul><li>Fury: Roll +iron. Inflict +1 harm on a strong hit.</li><li>Courage: Roll +heart. Add +1 and take +1 momentum on a hit.</li></ul></p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
