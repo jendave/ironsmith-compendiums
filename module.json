@@ -109,6 +109,27 @@
       "path": "./packs/ironsmith-indian-oracles",
       "type": "RollTable",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithafricanfoeactors",
+      "label": "Ironsmith African Foe Actors",
+      "path": "./packs/ironsmith-african-foe-actors",
+      "type": "Actor",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithafricanassets",
+      "label": "Ironsmith African Assets",
+      "path": "./packs/ironsmith-african-assets",
+      "type": "Item",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithafricanoracles",
+      "label": "Ironsmith African Oracles",
+      "path": "./packs/ironsmith-african-oracles",
+      "type": "RollTable",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
@@ -142,6 +163,14 @@
             "ironsmithindianfoeactors",
             "ironsmithindianassets",
             "ironsmithindianoracles"
+          ]
+        },
+        {
+          "name": "Ironsmith African Pack",
+          "packs": [
+            "ironsmithafricanfoeactors",
+            "ironsmithafricanassets",
+            "ironsmithafricanoracles"
           ]
         }
       ]

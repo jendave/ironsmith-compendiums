@@ -19,6 +19,7 @@ A FoundryVTT compendium of the Ironsmith supplements by [Eric Bright](https://pr
   * [Ironsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/333665/Ironsmith-Expanded-Oracles)
   * [Ironsmith Japanese Flavor Pack](https://preview.drivethrurpg.com/en/product/372140/ironsmith-japanese-mythology-flavor-pack-softcover)
   * [Ironsmith Indian Flavor Pack](https://preview.drivethrurpg.com/en/product/374967/ironsmith-indian-hindu-mythology-flavor-pack-softcover)
+  * [Ironsmith African Flavor Pack](https://preview.drivethrurpg.com/en/product/374198/ironsmith-african-mythology-flavor-pack-softcover)
 * Tables that are copies of the Ironsworn official tables are included if they are part of Ironsmith 1-2, 3-4, 5-6 array.
 * Tables that are simply copies of official Ironsworn tables without the array are not included since they would be redundant with the standard Ironsworn System tables.
 
@@ -94,7 +95,7 @@ Copy the desired foes from the `Ironsmith Foes` or `Pack Foes` compendiums into 
 * Due to changes in version `2.0.0`, uninstalling and re-installing the module may be needed.
 
 # Credits
-[Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) and [Ironsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/333665/Ironsmith-Expanded-Oracles) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+The [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) supplements by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
 Original oracles by Shawn Tomkin from [Ironsworn](https://preview.drivethrurpg.com/en/product/238369/ironsworn) and [Ironsworn: Delve](https://preview.drivethrurpg.com/en/product/302260/ironsworn-delve) are used under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
@@ -115,7 +116,7 @@ Please check out my other modules and resources for Ironsworn and Ironsworn: Sta
 
 ### [FoundryVTT](https://foundryvtt.com/) Modules
 *   [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles)
-*   [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-compendiums)
+*   [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 *   [Ironsmith Compendiums for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
 *   [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
 *   [Token Note Hover](https://github.com/jendave/token-note-hover)
