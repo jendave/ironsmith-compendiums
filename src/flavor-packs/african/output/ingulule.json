@@ -28,7 +28,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>Clamp: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by having your cat bite down and restrain a foe of formidable or lower rank, roll +edge and add +1. On a strong hit, inflict I harm. 0 +1 +2 +3 +4</p>",
+                "description": "<p>Clamp: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by having your cat bite down and restrain a foe of formidable or lower rank, roll +edge and add +1. On a strong hit, inflict I harm.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,

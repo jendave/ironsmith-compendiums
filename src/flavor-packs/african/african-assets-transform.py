@@ -4,7 +4,7 @@ import json
 
 original_data_file="african-assets.json"
 
-# Gatka require some ability modification after import. The `Battle` string causes issues.
+# Gatka and Obhejane require some ability modification after import. The `Battle` and `Companion Endure Harm` strings cause issues. 
 def update_ability(ability):
     if ability is None:
         return None

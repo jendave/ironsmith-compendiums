@@ -44,7 +44,7 @@
                         "Foreword": "Your cheetah is swift and fierce.",
                         "Ability1": "Sprint: When your cat chases down small game, you may Resupply with +edge (instead of +wits). If you do, take +1 supply or +1 momentum on a strong hit.",
                         "Ability2": "Stalk: When you Gather Information by following your cat's lead in hunting your quarry, you may roll +shadow (instead of +wits). If you do, add +1 and take +1 momentum on a hit.",
-                        "Ability3": "Clamp: When you Secure an Advantage by having your cat bite down and restrain a foe of formidable or lower rank, roll +edge and add +1. On a strong hit, inflict I harm. 0 +1 +2 +3 +4",
+                        "Ability3": "Clamp: When you Secure an Advantage by having your cat bite down and restrain a foe of formidable or lower rank, roll +edge and add +1. On a strong hit, inflict I harm.",
                         "TrackLabel": "Health",
                         "TrackMax": 4
                 },
