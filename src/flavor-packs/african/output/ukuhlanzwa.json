@@ -23,7 +23,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>When you perform qaqa, the ritual disemboweling of a fallen enemy to release its spirit, roll +heart. On a strong hit, the spirit honors your act. Take +2 momentum and +1 spirit. On a weak hit, the spirit gives you a warning. Ask the Oracle for the nature of the warning. Then, take +1 momentum and add +1 to the next move you make leveraging this knowledge.</p>",
+                "description": "<p>When you perform qaqa, the ritual disemboweling of a fallen enemy to release its spirit, roll +heart. On a strong hit, the spirit honors your act. Take +2 momentum and +1 spirit. On a weak hit, the spirit gives you a warning. @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aba3e44b7e810c0f]{Ask the Oracle} for the nature of the warning. Then, take +1 momentum and add +1 to the next move you make leveraging this knowledge.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,

@@ -33,7 +33,7 @@ def update_ability(ability):
     ability_updated = ability_updated.replace("Draw the Circle" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c0967ba47f57393b]{Draw the Circle}")
     ability_updated = ability_updated.replace("Face Death" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.92b85c33a17ab487]{Face Death}")
     ability_updated = ability_updated.replace("Endure Stress" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.e09e2fc8bb709320]{Endure Stress}")
-    ability_updated = ability_updated.replace("Ask the Oracle)" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aba3e44b7e810c0f]{Ask the Oracle}")
+    ability_updated = ability_updated.replace("Ask the Oracle" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aba3e44b7e810c0f]{Ask the Oracle}")
     ability_updated = ability_updated.replace("Test Your Bond" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.421b379cb40b6ab7]{Test Your Bond}")
     ability_updated = ability_updated.replace("Turn the Tide" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.12e23cfe23534a8f]{Turn the Tide}")
     ability_updated = ability_updated.replace("Learn From Your Failures" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.d05ecfe8c467bdc5]{Learn From Your Failures}")
