@@ -130,6 +130,27 @@
       "path": "./packs/ironsmith-african-oracles",
       "type": "RollTable",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithsouthamericanfoeactors",
+      "label": "Ironsmith South American Foe Actors",
+      "path": "./packs/ironsmith-south-american-foe-actors",
+      "type": "Actor",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithsouthamericanassets",
+      "label": "Ironsmith South American Assets",
+      "path": "./packs/ironsmith-south-american-assets",
+      "type": "Item",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithsouthamericanoracles",
+      "label": "Ironsmith South American Oracles",
+      "path": "./packs/ironsmith-south-american-oracles",
+      "type": "RollTable",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
@@ -171,6 +192,14 @@
             "ironsmithafricanfoeactors",
             "ironsmithafricanassets",
             "ironsmithafricanoracles"
+          ]
+        },
+        {
+          "name": "Ironsmith South American Pack",
+          "packs": [
+            "ironsmithsouthamericanfoeactors",
+            "ironsmithsouthamericanassets",
+            "ironsmithsouthamericanoracles"
           ]
         }
       ]
