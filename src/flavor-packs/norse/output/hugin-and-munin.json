@@ -1,0 +1,49 @@
+{
+    "name": "Hugin and Munin",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "Your ravens provide sight and insight.",
+        "category": "Companion",
+        "color": "",
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            }
+        ],
+        "abilities": [
+            {
+                "description": "<p>Fara ok Sja: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ac19f4c7f3fe31be]{Undertake a Journey} to follow one marked by death or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} about them by sending your ravens out to scry, you may roll +shadow (instead of +wits).</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Sala Sjon: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by having your ravens gaze into a person's soul, roll +shadow. On a hit, you see one of that person's darkest fears. On a miss, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.e09e2fc8bb709320]{Endure Stress} (1 stress) from a chaotic vision of your own fears.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Doudar-Ord: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c0967ba47f57393b]{Draw the Circle} and choose To the death as a boast, take +2 momentum (instead of +1). In addition, take +2 momentum (instead of +1) when you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm} and choose Embrace the pain during the battle.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Health",
+            "max": 3,
+            "value": 3,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": "Ravens"
+    }
+}

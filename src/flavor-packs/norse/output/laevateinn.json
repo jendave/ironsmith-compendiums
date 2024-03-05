@@ -1,0 +1,44 @@
+{
+    "name": "LAEVATEINN",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "After you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.725a21e2f02d7e12]{Fulfill Your Vow} to be found worthy of Laevateinn, quest to find it, and wield it...",
+        "category": "Combat Talent",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>You may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} +wits in melee or from a distance with this staff. If you do, it inflicts 1 harm as a blast of Laevateinn's necrotic energy saps the life of your foe. If your action die shows a 6, inflict an additional +1 harm.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} +wits by unleashing a mystic burst from Laevateinn, envision how the power of death hinders others or affects the environment. Then, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} +wits against a horror or servant of the dead leveraging Laevateinn's power over such creatures, add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": "Staff"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Mjolnir",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "After you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.725a21e2f02d7e12]{Fulfill Your Vow} to be found worthy of Mjolnir, quest to find it, and wield it...",
+        "category": "Combat Talent",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} and score a weak hit, you may inflict no harm to knock your foe back with a clap of thunder. If you do, you have the initiative.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} and score a strong hit, you may call forth a blast of lightning. If you do, focus on the righteousness of your cause and roll +heart. On a hit, inflict X harm and take +X momentum. On a strong hit, X is 2. On a weak hit, X is 1.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aac3783710ad7499]{End the Fight} by slamming Mjolnir to the ground releasing a wave of lightning and thunder, subtract -1 from each challenge die. On a weak hit or miss, you suffer collateral damage in addition to the other consequences.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": "Hammer"
+    }
+}
