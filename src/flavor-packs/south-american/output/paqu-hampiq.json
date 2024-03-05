@@ -23,7 +23,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} or Face Desolation, you may offer yourself to the ancestral spirits. If you do, add +2 and treat a strong hit as a weak hit.</p>",
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.1f978f9faa43d5c6]{Face Desolation}, you may offer yourself to the ancestral spirits. If you do, add +2 and treat a strong hit as a weak hit.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
