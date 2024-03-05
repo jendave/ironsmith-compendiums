@@ -97,11 +97,10 @@
          "Category": "Ritual",
          "Description": "Exhort The Fates",
          "Name": "Seidhr",
-         "Foreword": "When you perform a ceremony to send your spirit to the foot of Yggdrasil to consult the Norn sisters of fate, roll +wits. On a strong hit, take +2 momentum and gain insight into an event that centers on a person, place, or object of power from the chosen time period below. One time only, when you leverage this knowledge, add +2.",
+         "Foreword": "When you perform a ceremony to send your spirit to the foot of Yggdrasil to consult the Norn sisters of fate, roll +wits. On a strong hit, take +2 momentum and gain insight into an event that centers on a person, place, or object of power from the chosen time period below. One time only, when you leverage this knowledge, add +2.<p>On a weak hit, as above but choose one:<ul><li>The Norn demand a tribute of blood. Endure Harm (2 harm).</li><li>The Norn demand a sacrifice of something precious to you. Endure Stress (2 stress).</li><li>The Norn set you on a fated path. Swear an Iron Vow to fulfill a quest given to you by the Norn.</li></ul>",
          "Ability1": "Past",
          "Ability2": "Present",
-         "Ability3": "Future",
-         "Appendix": "On a weak hit, as above but choose one:<ul><li>The Norn demand a tribute of blood. Endure Harm (2 harm).</li><li>The Norn demand a sacrifice of something precious to you. Endure Stress (2 stress).</li><li>The Norn set you on a fated path. Swear an Iron Vow to fulfill a quest given to you by the Norn.</li></ul>"
+         "Ability3": "Future"
       }
    ]
 }

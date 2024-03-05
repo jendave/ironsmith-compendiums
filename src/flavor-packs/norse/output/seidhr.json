@@ -3,7 +3,7 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "When you perform a ceremony to send your spirit to the foot of Yggdrasil to consult the Norn sisters of fate, roll +wits. On a strong hit, take +2 momentum and gain insight into an event that centers on a person, place, or object of power from the chosen time period below. One time only, when you leverage this knowledge, add +2.",
+        "requirement": "When you perform a ceremony to send your spirit to the foot of Yggdrasil to consult the Norn sisters of fate, roll +wits. On a strong hit, take +2 momentum and gain insight into an event that centers on a person, place, or object of power from the chosen time period below. One time only, when you leverage this knowledge, add +2.<p>On a weak hit, as above but choose one:<ul><li>The Norn demand a tribute of blood. @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm} (2 harm).</li><li>The Norn demand a sacrifice of something precious to you. @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.e09e2fc8bb709320]{Endure Stress} (2 stress).</li><li>The Norn set you on a fated path. @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.010e27aa4376d4df]{Swear an Iron Vow} to fulfill a quest given to you by the Norn.</li></ul>",
         "category": "Ritual",
         "color": "",
         "fields": null,
@@ -37,12 +37,7 @@
             "value": null,
             "min": 0
         },
-        "exclusiveOptions": [
-            {
-                "name": "On a weak hit, as above but choose one:<ul><li>The Norn demand a tribute of blood. Endure Harm (2 harm).</li><li>The Norn demand a sacrifice of something precious to you. Endure Stress (2 stress).</li><li>The Norn set you on a fated path. Swear an Iron Vow to fulfill a quest given to you by the Norn.</li></ul>",
-                "selected": false
-            }
-        ],
+        "exclusiveOptions": [],
         "conditions": [],
         "description": "Exhort The Fates"
     }
