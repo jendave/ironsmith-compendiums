@@ -23,7 +23,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.8d90dd472856be27]{Resupply} by hunting with your bolas, roll +edge (instead of +wits) and choose your approach.<ul><li>Game hunting: Add +1 and take +1 momentum on a hit.</li></li>Bird hunting: Add +2 and on a hit, take only +1 supply (instead of +2).</li></ul></p>",
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.8d90dd472856be27]{Resupply} by hunting with your bolas, roll +edge (instead of +wits) and choose your approach.<ul><li>Game hunting: Add +1 and take +1 momentum on a hit.</li><li>Bird hunting: Add +2 and on a hit, take only +1 supply (instead of +2).</li></ul></p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,

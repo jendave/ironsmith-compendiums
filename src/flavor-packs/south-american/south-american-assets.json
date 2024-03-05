@@ -15,8 +15,8 @@
             "Name": "Atlatl",
             "Foreword": "If you wield an atlatl, a wooden shaft to launch long, narrow darts...",
             "Ability1": "When you Strike or Clash from a short distance, you may Strike +iron instead of +edge. If you do, add +1 and take +1 momentum on a hit.",
-            "Ability2": "When you Strike to inflict devastating harm, add +1 and inflict +1 harm. Then, suffer-1 supply.",
-            "Ability3": "When you Resupply by hunting big game, choose your approach.<ul><li>Careful aim: Add +1 and take +1 momentum on a hit.</li></li>Alpha strike: Take +1 supply on a hit.</li></ul>"
+            "Ability2": "When you Strike to inflict devastating harm, add +1 and inflict +1 harm. Then, suffer -1 supply.",
+            "Ability3": "When you Resupply by hunting big game, choose your approach.<ul><li>Careful aim: Add +1 and take +1 momentum on a hit.</li><li>Alpha strike: Take +1 supply on a hit.</li></ul>"
         },
         {
             "Category": "Combat Talent",
@@ -34,7 +34,7 @@
             "Foreword": "If you wield liwi, weighted stones on straps or ropes...",
             "Ability1": "When you Secure an Advantage +edge by throwing your bolas to tangle up the legs of your foe (formidable or less), add +1 and take +1 momentum on a hit.",
             "Ability2": "As above, but you inflict I harm on a strong hit.",
-            "Ability3": "When you Resupply by hunting with your bolas, roll +edge (instead of +wits) and choose your approach.<ul><li>Game hunting: Add +1 and take +1 momentum on a hit.</li></li>Bird hunting: Add +2 and on a hit, take only +1 supply (instead of +2).</li></ul>"
+            "Ability3": "When you Resupply by hunting with your bolas, roll +edge (instead of +wits) and choose your approach.<ul><li>Game hunting: Add +1 and take +1 momentum on a hit.</li><li>Bird hunting: Add +2 and on a hit, take only +1 supply (instead of +2).</li></ul>"
         },
         {
             "Category": "Companion",

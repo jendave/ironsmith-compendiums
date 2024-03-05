@@ -16,14 +16,14 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} to inflict devastating harm, add +1 and inflict +1 harm. Then, suffer-1 supply.</p>",
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} to inflict devastating harm, add +1 and inflict +1 harm. Then, suffer -1 supply.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
                 "clockTicks": 0
             },
             {
-                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.8d90dd472856be27]{Resupply} by hunting big game, choose your approach.<ul><li>Careful aim: Add +1 and take +1 momentum on a hit.</li></li>Alpha strike: Take +1 supply on a hit.</li></ul></p>",
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.8d90dd472856be27]{Resupply} by hunting big game, choose your approach.<ul><li>Careful aim: Add +1 and take +1 momentum on a hit.</li><li>Alpha strike: Take +1 supply on a hit.</li></ul></p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
