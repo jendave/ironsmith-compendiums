@@ -37,6 +37,7 @@ def update_ability(ability):
     ability_updated = ability_updated.replace("Test Your Bond" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.421b379cb40b6ab7]{Test Your Bond}")
     ability_updated = ability_updated.replace("Turn the Tide" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.12e23cfe23534a8f]{Turn the Tide}")
     ability_updated = ability_updated.replace("Learn From Your Failures" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.d05ecfe8c467bdc5]{Learn From Your Failures}")
+    ability_updated = ability_updated.replace("Heal" , "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.3d315ee54e9ce845]{Heal}")
 
     return ability_updated
 

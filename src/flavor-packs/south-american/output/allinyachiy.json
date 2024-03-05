@@ -3,7 +3,7 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "When you attempt to Heal using an ancient ceremony, add +1 and choose one (decide before rolling).",
+        "requirement": "When you attempt to @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.3d315ee54e9ce845]{Heal} using an ancient ceremony, add +1 and choose one (decide before rolling).",
         "category": "Ritual",
         "color": "",
         "fields": null,
@@ -23,7 +23,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>Bestow purpose: On a hit, take or give +2 momentum (instead of +2 health). If ayahuasca is ingested by the recipient of the Heal move, they may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} and add +1 as they search the visions for meaning and direction.</p>",
+                "description": "<p>Bestow purpose: On a hit, take or give +2 momentum (instead of +2 health). If ayahuasca is ingested by the recipient of the @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.3d315ee54e9ce845]{Heal} move, they may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} and add +1 as they search the visions for meaning and direction.</p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": "Healing"
+        "description": "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.3d315ee54e9ce845]{Heal}ing"
     }
 }
