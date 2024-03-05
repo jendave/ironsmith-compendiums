@@ -1,10 +1,10 @@
 {
-    "name": "ANKA NAN",
+    "name": "Anka Nan",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "After you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.b643d9ea53ff8d98]{Forge a Bond} with an Eagle Warrior and they agree to train you...",
-        "category": "PATH",
+        "category": "Path",
         "color": "",
         "fields": null,
         "abilities": [
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": "EAGLE WARRIOR"
+        "description": "Eagle Warrior"
     }
 }

@@ -1,10 +1,10 @@
 {
-    "name": "UTURUNKU",
+    "name": "Uturunku",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "Your jaguar is strong and cunning.",
-        "category": "COMPANION",
+        "category": "Companion",
         "color": "",
         "fields": [
             {
@@ -15,7 +15,7 @@
         "abilities": [
             {
                 "description": "<p>Throat Clamp: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by directing your jaguar to strike from flanking and hold a foe (formidable or less) in place, add +1 and inflict 1 harm on a hit.</p>",
-                "enabled": "true",
+                "enabled": "false",
                 "hasClock": "false",
                 "clockMax": "4",
                 "clockTicks": 0
@@ -44,6 +44,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": "JAGUAR "
+        "description": "Jaguar "
     }
 }

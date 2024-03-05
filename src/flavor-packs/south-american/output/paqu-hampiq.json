@@ -1,10 +1,10 @@
 {
-    "name": "PAQU HAMPIQ",
+    "name": "Paqu Hampiq",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "After you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.725a21e2f02d7e12]{Fulfill Your Vow} to a shaman and @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.b643d9ea53ff8d98]{Forge a Bond} with them to train you...",
-        "category": "PATH",
+        "category": "Path",
         "color": "",
         "fields": null,
         "abilities": [
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": "SHAMAN"
+        "description": "Shaman"
     }
 }

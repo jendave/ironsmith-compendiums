@@ -1,10 +1,10 @@
 {
-    "name": "ALICANTO",
+    "name": "Alicanto",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "Your flightless bird eats ore.",
-        "category": "COMPANION",
+        "category": "Companion",
         "color": "",
         "fields": [
             {
@@ -15,7 +15,7 @@
         "abilities": [
             {
                 "description": "<p>Dinner: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} leveraging your bird's ability to locate nearby ore, you may roll +heart (instead of +wits). If you do, add +1 and take +1 momentum on a hit.</p>",
-                "enabled": "true",
+                "enabled": "false",
                 "hasClock": "false",
                 "clockMax": "4",
                 "clockTicks": 0
@@ -44,6 +44,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": "FLIGHTLESS BIRD"
+        "description": "Flightless Bird"
     }
 }

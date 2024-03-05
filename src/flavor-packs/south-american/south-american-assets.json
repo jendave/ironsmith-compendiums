@@ -1,45 +1,45 @@
 {
     "Assets": [
         {
-            "Category": "COMBAT TALENT",
-            "Description": "MACE ",
-            "Name": "CHAMPI",
+            "Category": "Combat Talent",
+            "Description": "Mace ",
+            "Name": "Champi",
             "Foreword": "If you wield a star-headed mace...",
             "Ability1": "When you Strike to knock a foe back, stun them, or push them off balance, inflict 1 harm (instead of 2) and take +2 momentum on a hit. On a strong hit, you create an opening and add +1 to your next move.",
             "Ability2": "When you Strike and your total action value is 3 or more greater than both challenge dice, treat the strong hit as if it was a strong hit with a match.",
             "Ability3": "When you Compel, Face Danger, or Secure an Advantage by hitting or breaking an inanimate object, add +1 and take +1 momentum on a hit."
         },
         {
-            "Category": "COMBAT TALENT",
-            "Description": "DART THROWER",
-            "Name": "ATLATL",
+            "Category": "Combat Talent",
+            "Description": "Dart Thrower",
+            "Name": "Atlatl",
             "Foreword": "If you wield an atlatl, a wooden shaft to launch long, narrow darts...",
             "Ability1": "When you Strike or Clash from a short distance, you may Strike +iron instead of +edge. If you do, add +1 and take +1 momentum on a hit.",
             "Ability2": "When you Strike to inflict devastating harm, add +1 and inflict +1 harm. Then, suffer-1 supply.",
             "Ability3": "When you Resupply by hunting big game, choose your approach.<ul><li>Careful aim: Add +1 and take +1 momentum on a hit.</li></li>Alpha strike: Take +1 supply on a hit.</li></ul>"
         },
         {
-            "Category": "COMBAT TALENT",
-            "Description": "SERRATED CLUB,",
-            "Name": "MACUAHUITL",
+            "Category": "Combat Talent",
+            "Description": "Serrated Club,",
+            "Name": "Macuahuitl",
             "Foreword": "If you wield a macuahuitl, an obsidian edged wooden paddle...",
             "Ability1": "When you Strike with the intent to permanently maim your opponent (decide before rolling), change the lower challenge die value to the higher challenge die value. Then, inflict +2 harm on a strong hit.",
             "Ability2": "As above, but add +1.",
             "Ability3": "When you Strike or Clash with the flat of the macuahuitl to daze your foe, add +1. On a hit, inflict I harm (instead of 2) and you have the initiative."
         },
         {
-            "Category": "COMBAT TALENT",
-            "Description": "BOLAS ",
-            "Name": "LIWI",
+            "Category": "Combat Talent",
+            "Description": "Bolas ",
+            "Name": "Liwi",
             "Foreword": "If you wield liwi, weighted stones on straps or ropes...",
             "Ability1": "When you Secure an Advantage +edge by throwing your bolas to tangle up the legs of your foe (formidable or less), add +1 and take +1 momentum on a hit.",
             "Ability2": "As above, but you inflict I harm on a strong hit.",
             "Ability3": "When you Resupply by hunting with your bolas, roll +edge (instead of +wits) and choose your approach.<ul><li>Game hunting: Add +1 and take +1 momentum on a hit.</li></li>Bird hunting: Add +2 and on a hit, take only +1 supply (instead of +2).</li></ul>"
         },
         {
-            "Category": "COMPANION",
-            "Description": "JAGUAR ",
-            "Name": "UTURUNKU",
+            "Category": "Companion",
+            "Description": "Jaguar ",
+            "Name": "Uturunku",
             "Input1": "Name",
             "Foreword": "Your jaguar is strong and cunning.",
             "Ability1": "Throat Clamp: When you Face Danger or Secure an Advantage by directing your jaguar to strike from flanking and hold a foe (formidable or less) in place, add +1 and inflict 1 harm on a hit.",
@@ -49,9 +49,9 @@
             "TrackMax": 4
         },
         {
-            "Category": "COMPANION",
-            "Description": "FLIGHTLESS BIRD",
-            "Name": "ALICANTO",
+            "Category": "Companion",
+            "Description": "Flightless Bird",
+            "Name": "Alicanto",
             "Input1": "Name",
             "Foreword": "Your flightless bird eats ore.",
             "Ability1": "Dinner: When you Face Danger, Gather Information or Secure an Advantage leveraging your bird's ability to locate nearby ore, you may roll +heart (instead of +wits). If you do, add +1 and take +1 momentum on a hit.",
@@ -61,44 +61,44 @@
             "TrackMax": 3
         },
         {
-            "Category": "PATH",
-            "Description": "SHAMAN",
-            "Name": "PAQU HAMPIQ",
+            "Category": "Path",
+            "Description": "Shaman",
+            "Name": "Paqu Hampiq",
             "Foreword": "After you Fulfill Your Vow to a shaman and Forge a Bond with them to train you...",
             "Ability1": "When you Secure an Advantage +wits or Gather Information by entering a trance to communicate with the spiritual realm, add +1 and take +1 momentum on a hit.",
             "Ability2": "When you Compel, Forge a Bond, or Test Your Bond leveraging information gained from the above communion with the spiritual realm, add +1 and take +1 spirit on a hit.",
             "Ability3": "When you Face Danger or Face Desolation, you may offer yourself to the ancestral spirits. If you do, add +2 and treat a strong hit as a weak hit."
         },
         {
-            "Category": "PATH",
-            "Description": "EAGLE WARRIOR",
-            "Name": "ANKA NAN",
+            "Category": "Path",
+            "Description": "Eagle Warrior",
+            "Name": "Anka Nan",
             "Foreword": "After you Forge a Bond with an Eagle Warrior and they agree to train you...",
             "Ability1": "When you Face Danger or Secure an Advantage +heart by displaying exceptional and unwavering courage, add +1 and take +1 momentum on a hit.",
             "Ability2": "When you Enter the Fray +heart against a foe (formidable or less) while wearing full battle regalia, add +1. On a strong hit, add +1 to all moves you make in the fight until you lose the initiative. On a weak hit, add +1 only to your next move.",
             "Ability3": "When you Gather Information or Secure an Advantage by observing from a high place or relying on acute vision, add +1 and take +1 momentum on a hit."
         },
         {
-            "Category": "PATH",
-            "Description": "JAGUAR WARRIOR",
-            "Name": "UTURUNKU NAN",
+            "Category": "Path",
+            "Description": "Jaguar Warrior",
+            "Name": "Uturunku Nan",
             "Foreword": "After you Forge a Bond with a Jaguar Warrior and they agree to train you...",
             "Ability1": "When you Face Danger or Secure an Advantage by silently stalking your quarry, blending into shadow and remaining motionless, or swimming, add +1 and take +1 momentum on a hit.",
             "Ability2": "When you Strike or Clash by embodying the brutal efficiency of a jaguar (decide before rolling), inflict +1 harm on a hit. Then choose one way to honor the great jaguar spirit.<ul><li>Blood sacrifice: Endure Harm (1).</li><li>Become the beast: Endure Stress (1).</li></ul>",
             "Ability3": "When you End the Fight by attempting to take your foe alive, you may burn momentum to reduce each challenge die by 1 if your momentum is higher than both dice."
         },
         {
-            "Category": "PATH",
-            "Description": "HUNTER",
-            "Name": "TUJLLAKI",
+            "Category": "Path",
+            "Description": "Hunter",
+            "Name": "Tujllaki",
             "Ability1": "When you Face Danger, Gather Information, or Secure an Advantage in a familiar type of terrain or environment by tracking your quarry or remaining hidden from them, add +1 and take +1 momentum on a hit.",
             "Ability2": "When you Face Danger or Secure an Advantage by setting a trap for your quarry, add +1 and take +1 momentum on a hit.",
             "Ability3": "When you Resupply by hunting or trapping, add +1 and on a hit, choose one.<ul><li>Plentiful game: Take +1 supply</li><li>In your element: Take +1 momentum.</li></ul>"
         },
         {
-            "Category": "RITUAL",
-            "Description": "SHAPECHANGE",
-            "Name": "PAMPA SUYU",
+            "Category": "Ritual",
+            "Description": "Shapechange",
+            "Name": "Pampa Suyu",
             "Foreword": "When you ask the great jaguar spirit to inhabit your body, roll +wits. On a strong hit, you transform into a full jaguar. Endure Harm (1) and take +6 nuna. On a weak hit, Endure Harm (2) and take +4 nuna. The tranformation ends if a full day has passed; if you have 0 health, spirit, or nuna; or if you choose to end it.",
             "Ability1": "When you make a move relying on aspects of the new body, choose one.<ul><li>Add +1 and suffer -1 nuna.</li><li>Roll +nuna and suffer -2 nuna.</li></ul>",
             "Ability2": "As above, but you may tranform into a humanoid jaguar form.",
@@ -107,9 +107,9 @@
             "TrackMax": 6
         },
         {
-            "Category": "RITUAL",
-            "Description": "HEALING",
-            "Name": "ALLINYACHIY",
+            "Category": "Ritual",
+            "Description": "Healing",
+            "Name": "Allinyachiy",
             "Foreword": "When you attempt to Heal using an ancient ceremony, add +1 and choose one (decide before rolling).",
             "Ability1": "Channel energy: On a hit, you may take or give +3 health (instead of +2 health).",
             "Ability2": "Blessed cleansing: On a hit, you may clear shaken instead of wounded and take or give +2 spirit instead of +2 health.",

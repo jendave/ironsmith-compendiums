@@ -1,10 +1,10 @@
 {
-    "name": "CHAMPI",
+    "name": "Champi",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "If you wield a star-headed mace...",
-        "category": "COMBAT TALENT",
+        "category": "Combat Talent",
         "color": "",
         "fields": null,
         "abilities": [
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": "MACE "
+        "description": "Mace "
     }
 }

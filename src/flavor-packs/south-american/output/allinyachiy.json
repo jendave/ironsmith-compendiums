@@ -1,10 +1,10 @@
 {
-    "name": "ALLINYACHIY",
+    "name": "Allinyachiy",
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
         "requirement": "When you attempt to Heal using an ancient ceremony, add +1 and choose one (decide before rolling).",
-        "category": "RITUAL",
+        "category": "Ritual",
         "color": "",
         "fields": null,
         "abilities": [
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": "HEALING"
+        "description": "Healing"
     }
 }
