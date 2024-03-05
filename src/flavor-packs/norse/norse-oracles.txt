@@ -1,0 +1,359 @@
+IRONSMITH: FLAVOR PACKS                                                          46
+    USING RUNES AS ORACLES
+    To increase your immersion in the Norse mythology, you may also try
+    using the Elder Futhark runes as your oracle. The Elder Futhark are a runic
+    Norse alphabet of 24 letters dating back to the 5th century AD. Each rune
+    has a name, a literal interpretation, and broader connotations that were and
+    still are used for divination purposes. Some have also used a 25th blank
+    rune to represent Odin and knowledge that is not yet ready to be known.
+    Since we'll be using percentile tables, that will fit nicely!
+    One interpretation of the Elder Futhark rune reading method splits the
+    runes into three major sections or families called Aetts. Each family has
+    eight runes within it and can generally represent three stages of a life
+    journey (beginning, middle, and end) and are ruled by a specific god
+    (Freyr, Heimdall, and Tyr).
+    ASK THE ORACLE
+    We can use the three categories as an Ask the Oracle replacement. Since
+    Freyr is the goddess of peace (Yes), Heimdall is the watchman (Neutral),
+    and Tyr the god of war (No), roll percentile dice three times using the
+    following table and look at the broad categories for the runes to answer
+    yes/no questions. Any Yes (Freyr) and No (Tyr) pair of runes cancel each
+    other out while Neutral (Heimdall) runes do not affect the answer.
+    Whatever the majority category of leftover runes are will be our answer.
+    (I'm assuming it's a 50/50 likelihood for basic interpretation.)
+47  THE ICELANDS | BASED ON NORSE MYTHOLOGY
+            Freyr's Aett: Peace, fertility, rain, sunshine   (Yes)
+01-04       05-08   09-12  13-16    17-20            21-24   25-28   29-32
+F           u       �      A        R                C       G             W
+Fehu        Uruz    Thurisaz Ansuz  Raidho           Kenaz   Gebo    Wunjo
+                    Heimdall's Aett: Watchman (Neutral)
+33-36       37-40   41-44  45-48    49-52            53-56   57-60   61-64
+H           N       I      J                         P       Z             S
+Hagalaz   Nauthiz   Isa    Jera     Eithwaz Perthro          Algiz   Sowilo
+                    Tyr's Aett: War, justice (No)
+65-68       69-72   73-76  77-80    81-84            85-88   89-92   93-96
+T           B       E      M        L                        O            D
+Tiwaz     Berkana   Ehwaz  Mannaz   Laguz            Ingwaz  Othala  Dagaz
+*Note that rolling 97-00 would be our Odin blank rune.
+For example, say we rolled for runes (tables coming up shortly) and got
+three Freyr runes. The answer would be an emphatic Yes (like yes with a
+match). If we got two Tyr and one Freyr, the one Freyr would cancel one
+of the Tyr leaving us with a single No rune, so the answer is No. If we got
+two Heimdall and one Freyr, the answer is Yes since the neutral do not
+affect the answer.
+If we get one of each category, the Freyr and Tyr cancel leaving us with a
+Neutral answer in which case you split the difference of the meaning within
+your story if you can. For example, say you were asking the oracle if there
+was an exit to the room and got a final answer of only Heimdall. Then yes,
+there is an exit, but it's not usable. Yes and No.
+To get answers for other likelihoods other than 50/50, remove one rune of
+the opposite direction for each step in the likelihood. Yeah, I know. That
+sentence doesn't make sense. Check this out:
+Likelihood          Directions for Casting Runes
+Small Chance        If possible, remove two Yes runes before interpreting.
+Unlikely            If possible, remove one Yes rune before interpreting.
+50/50               Interpret the result as normal.
+Likely              If possible, remove one No rune before interpreting.
+Almost Certain If possible, remove two No runes before interpreting.
+IRONSMITH: FLAVOR PACKS                                                       48
+    Again, let's run through a quick example to clarify how to do this.
+    Say we wanted to Ask the Oracle whether or not an enemy has advanced
+    knowledge of our plan with a likelihood of Small Chance. Rolling on the
+    above table gives we get:
+    F (Freyr/Yes), � (Freyr/Yes),  (Heimdall/Neutral)
+    Small Chance says to remove two Yes runes and then interpret, meaning
+    we are down to just Neutral as the answer. We can interpret this to mean
+    the enemy has advanced knowledge of our plan, but that knowledge is
+    faulty. They'll be prepared in general but not in the specifics.
+    Had it been: Yes, No, Neutral, we would have only be able to remove one
+    Yes leaving us with No and Neutral. That would have made the final
+    answer No, the enemy has no advanced knowledge.
+    The only way we could have gotten a final answer of Yes would have been
+    to roll three Yes runes in a row.
+    *Note: If you have physical runes in a bag that you are drawing, your
+    probabilities will change slightly since you won't replace the runes.
+    However, this method should still be usable.
+    ACTION/THEME ORACLE
+    We can also use the runes to replace an Action/Theme roll in Ironsworn.
+    To do so, we'll again roll percentile three times to get three runes that
+    represent action, theme, and modifier. While this is not a traditional way
+    of interpreting the runes, I'm taking a common three-rune casting and
+    making it fit our Ironsworn structure. I'm not attempting to teach you
+    actual divination practices nor insult those traditions, just giving you a cool
+    way to play a game!
+    In addition to the three runes we'll roll for, you can also look for which of
+    three categories the runes fall in. If the three runes you roll all come from
+    the sameAett (Freyr, Heimdall, orTyr), you may consider that like a match
+    on the challenge dice which intensifies the degree of your interpretation of
+    the runes. However, remember that typically anAction/Theme roll doesn't
+    deal with matches, so it's up to you if you want to introduce that mechanic.
+    Roll percentile three times on the following table:
+
+Rune  Name      Word       Meaning
+
+d100 Elder Futhark (Runes as Oracles)
+01-04 Fehu     - Wealth    - Abundance, luck, hope, prosperity
+05-08 Uruz     - Ox        - Strength, endurance, health, courage
+09-12 Thurisaz - Hammer    - Defense, challenge, danger
+13-16 Ansuz    - Message   - Revelation, signs, visions
+17-20 Raidho   - Journey   - Progress, movement, evolution, perspective
+21-24 Kenaz    - Torch     - Enlightenment, knowledge, comprehension
+25-28 Gebo     - Gift      - Generosity, partnership, gifts
+29-32 Wunjo    - Joy       - Pleasure, joy, feast, celebration, comfort
+33-36 Hagalaz  - Hail      - Destruction, natural wrath, uncontrolled forces, test
+37-40 Nauthiz  - Needs     - Need, restriction, disagreements, resistance, survival
+41-44 Isa      - Ice       - Suspension, delay, stillness, frustration
+45-48 Jera     - Harvest   - Year, conclusion, harvest, life cycle
+49-52 Eithwaz  - Yew       - Survival, inspiration, endurance, sacred knowledge
+53-56 Perthro  - Destiny   - Fate, mysteries, occult
+57-60 Algiz    - Elk       - Protection, guardian, awakening, courage
+61-64 Sowilo   - Sun       - Success, vitality, inspiration, justice
+64-68 Tiwaz    - Victory   - Leadership, rationality, victory, honor
+69-72 Berkana  - Birch     - Growth, renewal, new beginnings
+73-76 Ehwaz    - Horse     - Progress, movement, harmony, trust, loyalty
+77-80 Mannaz   - Man       - Humanity, social order, mortality, community, relationships
+81-84 Laguz    - Lake      - Sea, intuition, imagination, healing, dreams, mysteries
+85-88 Ingwaz   - Fertility - Pregnancy, inner growth, virtue, peace
+89-92 Othala   - Heritage  - Legacy, inheritance, spiritual growth, abundance
+93-96 Dagaz    - Dawn      - Day, awakening, consciousness, clarity, hope, balance, growth
+97-00 Blank    - Odin      - Secrets, knowledge withheld
+
+A SAMPLE ACTION/THEME/MODIFIER ROLL
+    Bataar is trying to track down his warrior sister who went out alone to hunt
+    down a terrible beast. We first Gather Information to try to get some
+    bearings on which way she may have gone and score a strong hit. But what
+    exactly did Bataar find out? Let's cast the runes. Rolling percentile three
+    times yields the following results:
+    Action: 8 - u Uruz (Freyr) - Strength, endurance, health, courage
+    Theme: 26 - G Gebo (Freyr) - Generosity, partnership, gifts
+    Modifier: 86 -  Ingwaz (Tyr) - Pregnancy, inner growth, virtue, peace
+    It looks like Bataar's sister took bold action (uruz). She went someplace
+    that would take endurance and strength to reach. Wherever she went also
+    involved a generous gift (gebo). Putting those two things, maybe she
+    didn't go directly after the beast, but instead she decided to first seek out
+    the Faith Tester, a priest of Thor, who is guardian to a lightning-shaped
+    dagger called Storm's Gift that was forged using Thor's own hammer.
+    The priest tests the faith of those who seek him out through a series of
+    grueling challenges. Those found worthy are given Storm's Gift to wield
+    for one week, one day, and one hour. If not returned, the bearer of Storm's
+    Gift falls under a terrible curse.
+    The third rune (ingwaz) reveals that perhaps Bataar's sister sees her quest
+    as one about spiritual growth more than stopping the beast. While that's all
+    well and good, that means that the rampaging beast is free to deal out more
+    destruction while his sister seeks out the iron priest.
+    In my story, Bataar put this together through some conversations with
+    people around the settlement stemming from the strong hit on the Gather
+    Information roll. Now he faces a choice: does Bataar continue the search
+    for his sister to aid and support her in her quest, or does he go after the beast
+    himself to prevent it from causing more harm in the meantime?
+    RUNE STONES
+    If you like the idea of using runes, you might check out a set of stone dice
+    with runes that a fellow Ironsworn player, Ferrite, made available here:
+    https://www.etsy.com/uk/listing/993522866/stone-rune-dice-set-of-6
+    They also made a way to interpret the runes and made it available in the
+    Share Your Kit channel of the Ironsworn Discord. Check it out!
+
+d100 Icelander Names: Traditional Male
+01 Adalsteinn
+02 Agnar
+03 Aki
+04 Alf
+05 Alvar
+06 Amund
+07 Andor
+08 Ari
+09 Arnfinn
+10 Asbjorn
+11 Ask
+12 Baggi
+13 Balder
+14 Bard
+15 Beckett
+16 Birger
+17 Bjarne
+18 Bjorn
+19 Branson
+20 Dagfinn
+21 Dan
+22 Dane
+23 Ebbe
+24 Egil
+25 Einar
+26 Eindride
+27 Elof
+28 Erland
+29 Erling
+30 Eystein
+31 Fritjof
+32 Gleb
+33 Gudbrand
+34 Gudmund
+35 Guiscard
+36 Gunnar
+37 Gunne
+38 Hakon
+39 Haldor
+40 Hallbjorn
+41 Halle
+42 Hallr
+43 Halstein
+44 Halvard
+45 Havardr
+46 Helge
+47 Hemming
+48 Herleifr
+49 Hroarr
+50 Ingolf
+51 Ivor
+52 Jarl
+53 Kare
+54 Kerr
+55 Ketil
+56 Knut
+57 Leif
+58 Njord
+59 Olaf
+60 Osborn
+61 Oscar
+62 Osmond
+63 Osmund
+64 Ove
+65 Oyvind
+66 Radulfr
+67 Ragnvald
+68 Randalf
+69 Randel
+70 Reidar
+71 Roald
+72 Rollo
+73 Runar
+74 Runar
+75 Rune
+76 Sigge
+77 Sindri
+78 Sixten
+79 Snorri
+80 Steinar
+81 Sten
+82 Stigandr
+83 Stigr
+84 Sven
+85 Sverre
+86 Thorfredr
+87 Thorir
+88 Tollak
+89 Torbjorn
+90 Torgeir
+91 Torkel
+92 Torleif
+93 Tormod
+94 Torr
+95 Torsten
+96 Torvald
+97 Trond
+98 Trygve
+99 Viggo
+100 Vragi
+
+d100 Icelander Names: Traditional Female
+01 Aadny
+02 Aasveig
+03 Adalbjorg
+04 Alfhild
+05 Annveig
+06 Arnbjorg
+07 Asa
+08 Asdis
+09 Aslaug
+10 Astridr
+11 Audgunn
+12 Audhild
+13 Berghild
+14 Bergljot
+15 Bergunn
+16 Bjorg
+17 Bodil
+18 Borghild
+19 Brenda
+20 Brynja
+21 Dagmar
+22 Dagny
+23 Dagrun
+24 Edda
+25 Eidunn
+26 Eir
+27 Eirunn
+28 Eldrid
+29 Embla
+30 Erica
+31 Erna
+32 Eydis
+33 Eyvor
+34 Frida
+35 Frigg
+36 Gerd
+37 Grid
+38 Groa
+39 Gudlaug
+40 Gudridr
+41 Gudrun
+42 Gull
+43 Gunborg
+44 Gunhild
+45 Gunnr
+46 Gunvor
+47 Heidrun
+48 Helga
+49 Hella
+50 Hilda
+51 Hjordis
+52 Hulda
+53 Idonea
+54 Idunn
+55 Inga
+56 Ingeborg
+57 Ingegerd
+58 Inghild
+59 Ingvild
+60 Jorlaug
+61 Jorunn
+62 Kara
+63 Kjellaug
+64 Kjellfrid
+65 Liv
+66 Magnhild
+67 Nanna
+68 Nerthus
+69 Oda
+70 Ragna
+71 Ragnbjorg
+72 Ragnheidr
+73 Ragnhild
+74 Randi
+75 Saga
+76 Selby
+77 Sif
+78 Signy
+79 Sigrid
+80 Sigrun
+81 Sigurda
+82 Siv
+83 Skad
+84 Skuld
+85 Solfrid
+86 Sollaug
+87 Solveig
+88 Thora
+89 Thorbjog
+90 Thorfridr
+91 Thorveig
+92 Thorvi
+93 Torhild
+94 Torny
+95 Unnr
+96 Urd
+97 Valdis
+98 Verdandi
+99 Vigdis
+100 Ylva
+
