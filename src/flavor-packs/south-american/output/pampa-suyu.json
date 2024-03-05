@@ -1,0 +1,44 @@
+{
+    "name": "PAMPA SUYU",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "When you ask the great jaguar spirit to inhabit your body, roll +wits. On a strong hit, you transform into a full jaguar. @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm} (1) and take +6 nuna. On a weak hit, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm} (2) and take +4 nuna. The tranformation ends if a full day has passed; if you have 0 health, spirit, or nuna; or if you choose to end it.",
+        "category": "RITUAL",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>When you make a move relying on aspects of the new body, choose one.<ul><li>Add +1 and suffer -1 nuna.</li><li>Roll +nuna and suffer -2 nuna.</li></ul></p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>As above, but you may tranform into a humanoid jaguar form.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>As above, but you may tranform into a spectral version of either form. (You must take this upgrade last.)</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Nuna",
+            "max": 6,
+            "value": 6,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": "SHAPECHANGE"
+    }
+}

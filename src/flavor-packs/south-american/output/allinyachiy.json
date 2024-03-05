@@ -1,0 +1,44 @@
+{
+    "name": "ALLINYACHIY",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "When you attempt to Heal using an ancient ceremony, add +1 and choose one (decide before rolling).",
+        "category": "RITUAL",
+        "color": "",
+        "fields": null,
+        "abilities": [
+            {
+                "description": "<p>Channel energy: On a hit, you may take or give +3 health (instead of +2 health).</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Blessed cleansing: On a hit, you may clear shaken instead of wounded and take or give +2 spirit instead of +2 health.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Bestow purpose: On a hit, take or give +2 momentum (instead of +2 health). If ayahuasca is ingested by the recipient of the Heal move, they may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} and add +1 as they search the visions for meaning and direction.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": "HEALING"
+    }
+}
