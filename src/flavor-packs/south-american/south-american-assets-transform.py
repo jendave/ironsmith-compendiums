@@ -90,6 +90,7 @@ for asset in ironsmith_assets['Assets']:
     track_max = asset.get('TrackMax')
     track_value = 0 if asset_name == "Holodeck" else track_max
     track_value = 0 if asset_name == "Hi Magaru" else track_max
+    track_value = None if asset_name == "Pampa Suyu" else track_max
     track_condition_temp = asset.get('TrackCondition')
     track_condition_string = """[{ "name" : "%s", "ticked" : "false"}]""" % (track_condition_temp) if (track_condition_temp is not None and asset_name != "Traveler") else None
    # print("track_condition_string: %s" % (track_condition_string))
