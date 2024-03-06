@@ -151,6 +151,27 @@
       "path": "./packs/ironsmith-south-american-oracles",
       "type": "RollTable",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithnorsefoeactors",
+      "label": "Ironsmith Norse Foe Actors",
+      "path": "./packs/ironsmith-norse-foe-actors",
+      "type": "Actor",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithnorseassets",
+      "label": "Ironsmith Norse Assets",
+      "path": "./packs/ironsmith-norse-assets",
+      "type": "Item",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsmithsnorseoracles",
+      "label": "Ironsmith Norse Oracles",
+      "path": "./packs/ironsmith-norse-oracles",
+      "type": "RollTable",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
@@ -200,6 +221,14 @@
             "ironsmithsouthamericanfoeactors",
             "ironsmithsouthamericanassets",
             "ironsmithsouthamericanoracles"
+          ]
+        },
+        {
+          "name": "Ironsmith Norse Pack",
+          "packs": [
+            "ironsmithnorsefoeactors",
+            "ironsmithnorseassets",
+            "ironsmithnorseoracles"
           ]
         }
       ]

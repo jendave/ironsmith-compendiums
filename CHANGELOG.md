@@ -1,5 +1,9 @@
 # Changelog
 
+### [2.0.4](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-03-05)
+* Added oracles, foes and assets from [Ironsmith Norse Flavor Pack](https://preview.drivethrurpg.com/en/product/372161/ironsmith-norse-mythology-flavor-pack-softcover) supplement.
+* Fixed many issues with all of the Foe Actors Compendiums.
+
 ### [2.0.3](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-03-04)
 * Added oracles, foes and assets from [Ironsmith South American Flavor Pack](https://preview.drivethrurpg.com/en/product/374202/ironsmith-south-american-mythology-flavor-pack-softcover) supplement.
 

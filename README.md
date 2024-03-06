@@ -21,6 +21,7 @@ A FoundryVTT compendium of the Ironsmith supplements by [Eric Bright](https://pr
   * [Ironsmith Indian Flavor Pack](https://preview.drivethrurpg.com/en/product/374967/ironsmith-indian-hindu-mythology-flavor-pack-softcover)
   * [Ironsmith African Flavor Pack](https://preview.drivethrurpg.com/en/product/374198/ironsmith-african-mythology-flavor-pack-softcover)
   * [Ironsmith South American Flavor Pack](https://preview.drivethrurpg.com/en/product/374202/ironsmith-south-american-mythology-flavor-pack-softcover)
+  * [Ironsmith Norse Flavor Pack](https://preview.drivethrurpg.com/en/product/372161/ironsmith-norse-mythology-flavor-pack-softcover)
 * Tables that are copies of the Ironsworn official tables are included if they are part of Ironsmith 1-2, 3-4, 5-6 array.
 * Tables that are simply copies of official Ironsworn tables without the array are not included since they would be redundant with the standard Ironsworn System tables.
 
