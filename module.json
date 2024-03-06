@@ -167,7 +167,7 @@
       "system": "foundry-ironsworn"
     },
     {
-      "name": "ironsmithsnorseoracles",
+      "name": "ironsmithnorseoracles",
       "label": "Ironsmith Norse Oracles",
       "path": "./packs/ironsmith-norse-oracles",
       "type": "RollTable",
