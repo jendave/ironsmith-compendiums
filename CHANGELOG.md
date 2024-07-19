@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.0.6](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-07-19)
+
+* Macros now use the current `Roll Mode` instead of always being `Public Rolls`.
+
 ## [2.0.5](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-06-01)
 
 * Verified for FoundryVTT v12.

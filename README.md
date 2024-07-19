@@ -52,7 +52,7 @@ If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Co
 
 The Oracles can also be added to the character sheet by using the `Custom Folders` method below.
 
-Macros for Dice rolling can be found in the `Ironsmith Expanded Oracles Macros` compendium. Drag and drop any you need into the macro toolbar.
+Macros for Dice rolling can be found in the `Ironsmith Expanded Oracles Macros` compendium. Drag and drop any you need into the macro toolbar. Macros use the current `Roll Mode` when executed.
 
 ### (Optional Installation) Use Custom Folders to add Character Sheet Oracles
 
