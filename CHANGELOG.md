@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.0.7](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-08-26)
+
+* Added [Character Backgrounds for Ironsworn](https://www.ironswornrpg.com/post/character-backgrounds-for-ironsworn?cid=8868bea5-3c91-40b5-b1bc-d6d026f45cc3&postId=63598074-ff4c-4bda-beb1-80317d09f4f7&utm_campaign=7067f655-69ec-4c0b-823c-134124256896&utm_content=491cd93c-b314-4fa4-8e46-721ee00ee645&utm_medium=mail&utm_source=so) into a new compendium called "Ironsworn Custom Compendium".
+
 ## [2.0.6](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-07-19)
 
 * Macros now use the current `Roll Mode` instead of always being `Public Rolls`.

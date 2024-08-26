@@ -172,6 +172,13 @@
       "path": "./packs/ironsmith-norse-oracles",
       "type": "RollTable",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "ironsworncustomoracles",
+      "label": "Ironsworn Custom Oracles",
+      "path": "./packs/ironsworn-custom-oracles",
+      "type": "RollTable",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
@@ -229,6 +236,12 @@
             "ironsmithnorsefoeactors",
             "ironsmithnorseassets",
             "ironsmithnorseoracles"
+          ]
+        },
+        {
+          "name": "Ironsworn Custom Compendiums",
+          "packs": [
+            "ironsworncustomoracles"
           ]
         }
       ]

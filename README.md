@@ -7,7 +7,7 @@
 
 ## About
 
-A FoundryVTT compendium of the Ironsmith supplements by [Eric Bright](https://preview.drivethrurpg.com/en/browse?keyword=eric%20bright) for [Ironsworn](https://www.ironswornrpg.com/).
+A FoundryVTT module including compendiums for the Ironsmith supplements by [Eric Bright](https://preview.drivethrurpg.com/en/browse?keyword=eric%20bright) and other custom assets and oracles for [Ironsworn](https://www.ironswornrpg.com/).
 
 ## Contact
 
@@ -25,6 +25,7 @@ A FoundryVTT compendium of the Ironsmith supplements by [Eric Bright](https://pr
   * [Ironsmith African Flavor Pack](https://preview.drivethrurpg.com/en/product/374198/ironsmith-african-mythology-flavor-pack-softcover)
   * [Ironsmith South American Flavor Pack](https://preview.drivethrurpg.com/en/product/374202/ironsmith-south-american-mythology-flavor-pack-softcover)
   * [Ironsmith Norse Flavor Pack](https://preview.drivethrurpg.com/en/product/372161/ironsmith-norse-mythology-flavor-pack-softcover)
+  * [Character Backgrounds for Ironsworn](https://www.ironswornrpg.com/post/character-backgrounds-for-ironsworn?cid=8868bea5-3c91-40b5-b1bc-d6d026f45cc3&postId=63598074-ff4c-4bda-beb1-80317d09f4f7&utm_campaign=7067f655-69ec-4c0b-823c-134124256896&utm_content=491cd93c-b314-4fa4-8e46-721ee00ee645&utm_medium=mail&utm_source=so)
 * Tables that are copies of the Ironsworn official tables are included if they are part of Ironsmith 1-2, 3-4, 5-6 array.
 * Tables that are simply copies of official Ironsworn tables without the array are not included since they would be redundant with the standard Ironsworn System tables.
 
@@ -111,7 +112,7 @@ Copy the desired foes from the `Ironsmith Foes` or `Pack Foes` compendiums into 
 
 The [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) supplements by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
-Original oracles by Shawn Tomkin from [Ironsworn](https://preview.drivethrurpg.com/en/product/238369/ironsworn) and [Ironsworn: Delve](https://preview.drivethrurpg.com/en/product/302260/ironsworn-delve) are used under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+Oracles by Shawn Tomkin from [Ironsworn](https://preview.drivethrurpg.com/en/product/238369/ironsworn) and [Ironsworn: Delve](https://preview.drivethrurpg.com/en/product/302260/ironsworn-delve) are used under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
