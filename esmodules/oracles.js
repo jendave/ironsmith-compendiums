@@ -15,7 +15,7 @@ Hooks.once("init", async () => {
 
 Hooks.once("ironswornOracleTreesReady", async () => {
   if (game.settings.get('ironsmith-expanded-oracles', 'enableOraclesInTree')) {
-    const ironswornOracles = CONFIG.IRONSWORN.getOracleTree('ironsworn')
+    const ironswornOracles = CONFIG.IRONSWORN.getOracleTree('classic')
 
     let actionThemeIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Action and Theme"));
     let characterIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Character"));
