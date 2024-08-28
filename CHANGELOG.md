@@ -2,7 +2,7 @@
 
 ## [2.1.0](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-08-xx)
 
-* Updated for Sundered Isles and Datasworn 2 content.
+* Updated for Datasworn 2 content.
 * Ironsworn/Starforged system 1.24 and above is required.
 
 ## [2.0.7](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-08-26)
