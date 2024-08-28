@@ -17,7 +17,7 @@ Hooks.once("ironswornOracleTreesReady", async () => {
   if (game.settings.get('ironsmith-expanded-oracles', 'enableOraclesInTree')) {
     const ironswornOracles = CONFIG.IRONSWORN.getOracleTree('classic')
 
-    let actionThemeIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Action and Theme"));
+    let actionThemeIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Action and Theme Oracles"));
     let characterIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Character"));
     let combatEventIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Combat Event"));
     let featureIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Feature"));
@@ -25,15 +25,15 @@ Hooks.once("ironswornOracleTreesReady", async () => {
     let movesIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Moves"));
     let nameFolder = ironswornOracles.children.find(children => children.displayName === "Name");
     let nameIndex = ironswornOracles.children.indexOf(nameFolder);
-    let placeIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Place"));
-    let settlementFolder = ironswornOracles.children.find(children => children.displayName === "Settlement");
+    let placeIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Place Oracles"));
+    let settlementFolder = ironswornOracles.children.find(children => children.displayName === "Settlement Oracles");
     let settlementIndex = ironswornOracles.children.indexOf(settlementFolder);
     let siteNameIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Site Name"));
     let siteNatureIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Site Nature"));
     let threatFolder = ironswornOracles.children.find(children => children.displayName === "Threat");
     let threatIndex = ironswornOracles.children.indexOf(threatFolder);
     let trapIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Trap"));
-    let turningPointIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Turning Point"));
+    let turningPointIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Turning Point Oracles"));
 
     let ironlanderNameIndex = nameFolder.children.indexOf(nameFolder.children.find(children => children.displayName === "Ironlander"));
     let otherNameIndex = nameFolder.children.indexOf(nameFolder.children.find(children => children.displayName === "Other"));
