@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.1.0](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-08-xx)
+
+* Updated for Sundered Isles and Datasworn 2 content.
+* Ironsworn/Starforged system 1.24 and above is required.
+
 ## [2.0.7](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-08-26)
 
 * Added [Character Backgrounds for Ironsworn](https://www.ironswornrpg.com/post/character-backgrounds-for-ironsworn?cid=8868bea5-3c91-40b5-b1bc-d6d026f45cc3&postId=63598074-ff4c-4bda-beb1-80317d09f4f7&utm_campaign=7067f655-69ec-4c0b-823c-134124256896&utm_content=491cd93c-b314-4fa4-8e46-721ee00ee645&utm_medium=mail&utm_source=so) into a new compendium called "Ironsworn Custom Compendium".
