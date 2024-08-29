@@ -4,7 +4,7 @@ Hooks.once("init", async () => {
   console.log('ironsmith-expanded-oracles | Initializing Ironsmith Expanded Oracles');
   game.settings.register('ironsmith-expanded-oracles', 'enableOraclesInTree', {
     name: 'Enable Oracles in Default Tree',
-    hint: 'Enable Oracles in the character sheet tree.',
+    hint: 'Enable Oracles in the character sheet tree. The Ironsworn Classic and/or Delve rulesets must also be enabled.',
     scope: 'world',
     config: true,
     type: Boolean,
@@ -14,28 +14,16 @@ Hooks.once("init", async () => {
 });
 
 Hooks.once("ironswornOracleTreesReady", async () => {
-  if (game.settings.get('ironsmith-expanded-oracles', 'enableOraclesInTree')) {
-    const ironswornOracles = CONFIG.IRONSWORN.getOracleTree('classic')
-    const ironswornDelveOracles = CONFIG.IRONSWORN.getOracleTree('delve')
-
+  if (game.settings.get('ironsmith-expanded-oracles', 'enableOraclesInTree') && game.settings.get('foundry-ironsworn', 'ruleset-classic')) {
+    const ironswornOracles = CONFIG.IRONSWORN.getOracleTree('classic');
     let actionThemeIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Action and Theme Oracles"));
     let characterIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Character"));
-    let characterDelveIndex = ironswornDelveOracles.children.indexOf(ironswornDelveOracles.children.find(children => children.displayName === "Character"));
-    let combatEventIndex = ironswornDelveOracles.children.indexOf(ironswornDelveOracles.children.find(children => children.displayName === "Combat Event"));
-    let featureIndex = ironswornDelveOracles.children.indexOf(ironswornDelveOracles.children.find(children => children.displayName === "Feature"));
-    let monstrosityIndex = ironswornDelveOracles.children.indexOf(ironswornDelveOracles.children.find(children => children.displayName === "Monstrosity"));
     let nameFolder = ironswornOracles.children.find(children => children.displayName === "Name");
     let nameIndex = ironswornOracles.children.indexOf(nameFolder);
     let placeIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Place Oracles"));
     let settlementFolder = ironswornOracles.children.find(children => children.displayName === "Settlement Oracles");
     let settlementIndex = ironswornOracles.children.indexOf(settlementFolder);
-    let siteNameIndex = ironswornDelveOracles.children.indexOf(ironswornDelveOracles.children.find(children => children.displayName === "Site Name"));
-    let siteNatureIndex = ironswornDelveOracles.children.indexOf(ironswornDelveOracles.children.find(children => children.displayName === "Site Nature"));
-    let threatFolder = ironswornDelveOracles.children.find(children => children.displayName === "Threat");
-    let threatIndex = ironswornDelveOracles.children.indexOf(threatFolder);
-    let trapIndex = ironswornDelveOracles.children.indexOf(ironswornDelveOracles.children.find(children => children.displayName === "Trap"));
     let turningPointIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Turning Point Oracles"));
-
     let ironlanderNameIndex = nameFolder.children.indexOf(nameFolder.children.find(children => children.displayName === "Ironlander Names"));
     let otherNameIndex = nameFolder.children.indexOf(nameFolder.children.find(children => children.displayName === "Other Names"));
 
@@ -104,47 +92,6 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       }
     );
 
-    ironswornDelveOracles.children[characterDelveIndex].children.push(
-      {
-        displayName: 'Activity (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.z6cLE8xcEJrMsAxw', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.BnJrpltTMViHnKij', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.v0FEnJaeFlqIwWJK'],
-        children: []
-      },
-      {
-        displayName: 'Disposition (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.RhiwducU2pTCRDpO', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.nQxUi6cxbs0anJuF', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.YoyegDVPzdgZlfod'],
-        children: []
-      },
-      {
-        displayName: 'NPC Plot Knowledge: Type of Information',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.Pb44yFq76PYRCCRJ'],
-        children: []
-      },
-      {
-        displayName: 'NPC Plot Knowledge: Topic of Information',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.NStSbQ2gmzTDqo0L'],
-        children: []
-      },
-      {
-        displayName: 'NPC Random Conversation',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.HUR4ToDsdKdAGaPz', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.vYA5T9SXEUW7H75S', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.Wx0riTQFaJY4qkpT'],
-        children: []
-      }
-    );
-
-    ironswornDelveOracles.children[combatEventIndex].children.push(
-      {
-        displayName: 'Method (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.xliEy6IezB6Bno7T', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.6HUJFolkmKLBvzPH', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.yvLw77aZig7EJJPx'],
-        children: []
-      },
-      {
-        displayName: 'Target (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.kucYoF4358jhz0Cz', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.7FMrmLEQ4GFfaIdu', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.LVErdQdZ6wJwgNYZ'],
-        children: []
-      }
-    );
-
     ironswornOracles.children[corruptionIndex].children.push(
       {
         displayName: 'Compulsion',
@@ -179,19 +126,6 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       {
         displayName: 'Typical NPC Reaction',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.9eNEhsDz3VGQe568'],
-        children: []
-      }
-    );
-
-    ironswornDelveOracles.children[featureIndex].children.push(
-      {
-        displayName: 'Aspect (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.hpoqnqHIaVXe6xJT', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.dgIrmGVgKvcKYQff', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.mnRmkA94Tij5BiQW'],
-        children: []
-      },
-      {
-        displayName: 'Focus (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.CM8P7j8n09FH2vOr', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.HJvSyTKZOxE83Cay', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.TOVkN9NX0L4WZSIR'],
         children: []
       }
     );
@@ -400,19 +334,6 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       }
     );
 
-    ironswornDelveOracles.children[monstrosityIndex].children.push(
-      {
-        displayName: 'Abilities (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.bI1vxrBufRBT4PRj', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.vHLJvnArJTh9225H', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.KrjbJ2tGREqy4OdA'],
-        children: []
-      },
-      {
-        displayName: 'Characteristics (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.O4dEGP4ikd9ocEQw', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.AKYmmmlJcclQiZdU', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.C3T2kwpfYIIBDdfM'],
-        children: []
-      }
-    );
-
     ironswornOracles.children[movesIndex].children.push(
       {
         displayName: 'Pay the Price (Ironsmith)',
@@ -492,68 +413,6 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       {
         displayName: 'Suffix (Ironsmith)',
         tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.e4LpLkGUpbkjqyUf', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.TvEDIwozXApM4OdH', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.KBLFiYJ2c0JdAvaK'],
-        children: []
-      }
-    );
-
-    ironswornDelveOracles.children[siteNameIndex].children.push(
-      {
-        displayName: 'Description (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.Lygijrdg2NzxgkQ1', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.36B9sm7STm0QEYvB', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.FajXAPiGGK8pqwco'],
-        children: []
-      },
-      {
-        displayName: 'Detail (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.fKLvNV5BMJOjo9uv', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.NoQGq3pexEnM5tEf', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.IUY5ENgMBCAVPZjt'],
-        children: []
-      },
-      {
-        displayName: 'Namesake (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.BSGn5DoO8ICY9izW', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.0XtsRTioC8bORRLj', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.tEfTWNSwL4yyaqyB'],
-        children: []
-      }
-    );
-
-    ironswornDelveOracles.children[siteNatureIndex].children.push(
-      {
-        displayName: 'Danger Result',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.573pKijUJwXRG7zC'],
-        children: []
-      }
-    );
-
-    ironswornDelveOracles.children[threatIndex].children.push(
-      {
-        displayName: 'Undead Uprising',
-        tables: [],
-        children: []
-      }
-    );
-
-    let undeadUprisingIndex = threatFolder.children.indexOf(threatFolder.children.find(children => children.displayName === "Undead Uprising"));
-
-    ironswornDelveOracles.children[threatIndex].children[undeadUprisingIndex].children.push(
-      {
-        displayName: 'Accompanying Signs or Portents',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.c0WAvr6LfO26h8KK'],
-        children: []
-      },
-      {
-        displayName: 'The Undead...',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.BP9WsByry6CtzdUl'],
-        children: []
-      }
-    );
-
-    ironswornDelveOracles.children[trapIndex].children.push(
-      {
-        displayName: 'Event (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.x2qnlYMpEzgFKvgQ', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.pjF73BawRFEADf2L', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.fm5KeFVhzwXnGeI4'],
-        children: []
-      },
-      {
-        displayName: 'Component (Ironsmith)',
-        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.yCJvciPpUDzcaCFJ', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.WSRH34rRo466Huhi', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.YVI30QuI41hFScny'],
         children: []
       }
     );
@@ -749,6 +608,148 @@ Hooks.once("ironswornOracleTreesReady", async () => {
     );
 
     CONFIG.IRONSWORN.registerOracleTree('classic', ironswornOracles)
+  }
+
+  if (game.settings.get('ironsmith-expanded-oracles', 'enableOraclesInTree') && game.settings.get('foundry-ironsworn', 'ruleset-delve')) {
+    const ironswornDelveOracles = CONFIG.IRONSWORN.getOracleTree('delve');
+    let characterDelveIndex = ironswornDelveOracles.children.indexOf(ironswornDelveOracles.children.find(children => children.displayName === "Character"));
+    let combatEventIndex = ironswornDelveOracles.children.indexOf(ironswornDelveOracles.children.find(children => children.displayName === "Combat Event"));
+    let featureIndex = ironswornDelveOracles.children.indexOf(ironswornDelveOracles.children.find(children => children.displayName === "Feature"));
+    let monstrosityIndex = ironswornDelveOracles.children.indexOf(ironswornDelveOracles.children.find(children => children.displayName === "Monstrosity"));
+    let siteNameIndex = ironswornDelveOracles.children.indexOf(ironswornDelveOracles.children.find(children => children.displayName === "Site Name"));
+    let siteNatureIndex = ironswornDelveOracles.children.indexOf(ironswornDelveOracles.children.find(children => children.displayName === "Site Nature"));
+    let threatFolder = ironswornDelveOracles.children.find(children => children.displayName === "Threat");
+    let threatIndex = ironswornDelveOracles.children.indexOf(threatFolder);
+    let trapIndex = ironswornDelveOracles.children.indexOf(ironswornDelveOracles.children.find(children => children.displayName === "Trap"));
+
+    ironswornDelveOracles.children[characterDelveIndex].children.push(
+      {
+        displayName: 'Activity (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.z6cLE8xcEJrMsAxw', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.BnJrpltTMViHnKij', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.v0FEnJaeFlqIwWJK'],
+        children: []
+      },
+      {
+        displayName: 'Disposition (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.RhiwducU2pTCRDpO', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.nQxUi6cxbs0anJuF', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.YoyegDVPzdgZlfod'],
+        children: []
+      },
+      {
+        displayName: 'NPC Plot Knowledge: Type of Information',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.Pb44yFq76PYRCCRJ'],
+        children: []
+      },
+      {
+        displayName: 'NPC Plot Knowledge: Topic of Information',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.NStSbQ2gmzTDqo0L'],
+        children: []
+      },
+      {
+        displayName: 'NPC Random Conversation',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.HUR4ToDsdKdAGaPz', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.vYA5T9SXEUW7H75S', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.Wx0riTQFaJY4qkpT'],
+        children: []
+      }
+    );
+
+    ironswornDelveOracles.children[combatEventIndex].children.push(
+      {
+        displayName: 'Method (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.xliEy6IezB6Bno7T', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.6HUJFolkmKLBvzPH', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.yvLw77aZig7EJJPx'],
+        children: []
+      },
+      {
+        displayName: 'Target (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.kucYoF4358jhz0Cz', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.7FMrmLEQ4GFfaIdu', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.LVErdQdZ6wJwgNYZ'],
+        children: []
+      }
+    );
+
+    ironswornDelveOracles.children[featureIndex].children.push(
+      {
+        displayName: 'Aspect (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.hpoqnqHIaVXe6xJT', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.dgIrmGVgKvcKYQff', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.mnRmkA94Tij5BiQW'],
+        children: []
+      },
+      {
+        displayName: 'Focus (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.CM8P7j8n09FH2vOr', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.HJvSyTKZOxE83Cay', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.TOVkN9NX0L4WZSIR'],
+        children: []
+      }
+    );
+
+    ironswornDelveOracles.children[monstrosityIndex].children.push(
+      {
+        displayName: 'Abilities (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.bI1vxrBufRBT4PRj', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.vHLJvnArJTh9225H', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.KrjbJ2tGREqy4OdA'],
+        children: []
+      },
+      {
+        displayName: 'Characteristics (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.O4dEGP4ikd9ocEQw', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.AKYmmmlJcclQiZdU', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.C3T2kwpfYIIBDdfM'],
+        children: []
+      }
+    );
+
+    ironswornDelveOracles.children[siteNameIndex].children.push(
+      {
+        displayName: 'Description (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.Lygijrdg2NzxgkQ1', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.36B9sm7STm0QEYvB', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.FajXAPiGGK8pqwco'],
+        children: []
+      },
+      {
+        displayName: 'Detail (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.fKLvNV5BMJOjo9uv', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.NoQGq3pexEnM5tEf', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.IUY5ENgMBCAVPZjt'],
+        children: []
+      },
+      {
+        displayName: 'Namesake (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.BSGn5DoO8ICY9izW', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.0XtsRTioC8bORRLj', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.tEfTWNSwL4yyaqyB'],
+        children: []
+      }
+    );
+
+    ironswornDelveOracles.children[siteNatureIndex].children.push(
+      {
+        displayName: 'Danger Result',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.573pKijUJwXRG7zC'],
+        children: []
+      }
+    );
+
+    ironswornDelveOracles.children[threatIndex].children.push(
+      {
+        displayName: 'Undead Uprising',
+        tables: [],
+        children: []
+      }
+    );
+
+    let undeadUprisingIndex = threatFolder.children.indexOf(threatFolder.children.find(children => children.displayName === "Undead Uprising"));
+
+    ironswornDelveOracles.children[threatIndex].children[undeadUprisingIndex].children.push(
+      {
+        displayName: 'Accompanying Signs or Portents',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.c0WAvr6LfO26h8KK'],
+        children: []
+      },
+      {
+        displayName: 'The Undead...',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.BP9WsByry6CtzdUl'],
+        children: []
+      }
+    );
+
+    ironswornDelveOracles.children[trapIndex].children.push(
+      {
+        displayName: 'Event (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.x2qnlYMpEzgFKvgQ', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.pjF73BawRFEADf2L', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.fm5KeFVhzwXnGeI4'],
+        children: []
+      },
+      {
+        displayName: 'Component (Ironsmith)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.yCJvciPpUDzcaCFJ', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.WSRH34rRo466Huhi', 'Compendium.ironsmith-expanded-oracles.ironsmithexpandedoracles.RollTable.YVI30QuI41hFScny'],
+        children: []
+      }
+    );
     CONFIG.IRONSWORN.registerOracleTree('delve', ironswornDelveOracles)
   }
 });
