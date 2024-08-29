@@ -43,7 +43,7 @@ https://github.com/jendave/ironsmith-compendiums/releases/latest/download/module
 
 ### Oracles
 
-By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet.
+By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet. The Ironsworn Classic and/or Ironsworn Delve rulesets must be enabled.
 
 ![Character Sheet - Oracles Tree](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/oracle-tree-character-sheet.jpg?raw=true)
 
