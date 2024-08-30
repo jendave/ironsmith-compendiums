@@ -43,7 +43,9 @@ https://github.com/jendave/ironsmith-compendiums/releases/latest/download/module
 
 ### Oracles
 
-By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet. The Ironsworn Classic and/or Ironsworn Delve rulesets must be enabled.
+By default, the standard Ironsmith Oracles will be integrated into the Oracle Tree in the Character Sheet. The Ironsworn Classic and/or Ironsworn Delve rulesets must be enabled.
+
+To enable the Flavor Pack oracles in the Oracle Tree, use the [Custom Folder](#optional-installation---use-custom-folders-to-add-character-sheet-oracles) below
 
 ![Character Sheet - Oracles Tree](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/oracle-tree-character-sheet.jpg?raw=true)
 
@@ -55,7 +57,7 @@ The Oracles can also be added to the character sheet by using the `Custom Folder
 
 Macros for Dice rolling can be found in the `Ironsmith Expanded Oracles Macros` compendium. Drag and drop any you need into the macro toolbar. Macros use the current `Roll Mode` when executed.
 
-### (Optional Installation) Use Custom Folders to add Character Sheet Oracles
+### Optional Installation - Use Custom Folders to add Character Sheet Oracles
 
 * If integrating the Ironsmith Oracles directly into the default Oracle Tree if not desired, then use this method to add the Ironsmith Oracles.
 * If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` tab called:
