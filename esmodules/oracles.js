@@ -24,7 +24,6 @@ Hooks.once("ironswornOracleTreesReady", async () => {
     let settlementFolder = ironswornOracles.children.find(children => children.displayName === "Settlement Oracles");
     let settlementIndex = ironswornOracles.children.indexOf(settlementFolder);
     let turningPointIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Turning Point Oracles"));
-    let ironlanderNameIndex = nameFolder.children.indexOf(nameFolder.children.find(children => children.displayName === "Ironlander Names"));
     let otherNameIndex = nameFolder.children.indexOf(nameFolder.children.find(children => children.displayName === "Other Names"));
 
     ironswornOracles.children.push({
@@ -57,6 +56,169 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       tables: [],
       children: []
     });
+
+    ironswornOracles.children.push({
+      displayName: 'Flavor Pack Oracles',
+      tables: [],
+      children: []
+    });
+
+    let flavorPackIndex = ironswornOracles.children.indexOf(ironswornOracles.children.find(children => children.displayName === "Flavor Pack Oracles"));
+
+    ironswornOracles.children[flavorPackIndex].children.push(
+      {
+        displayName: 'African Oracles',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'Indian Oracles',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'Japanese Oracles',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'Norse Oracles',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'South American Oracles',
+        tables: [],
+        children: []
+      }
+    );
+
+    let flavorPackFolder = ironswornOracles.children.find(children => children.displayName === "Flavor Pack Oracles");
+    let africanOraclesIndex = flavorPackFolder.children.indexOf(flavorPackFolder.children.find(children => children.displayName === "African Oracles"));
+    let indianOraclesIndex = flavorPackFolder.children.indexOf(flavorPackFolder.children.find(children => children.displayName === "Indian Oracles"));
+    let japaneseOraclesIndex = flavorPackFolder.children.indexOf(flavorPackFolder.children.find(children => children.displayName === "Japanese Oracles"));
+    let norseOraclesIndex = flavorPackFolder.children.indexOf(flavorPackFolder.children.find(children => children.displayName === "Norse Oracles"));
+    let southAmericanOraclesIndex = flavorPackFolder.children.indexOf(flavorPackFolder.children.find(children => children.displayName === "South American Oracles"));
+
+    flavorPackFolder.children[africanOraclesIndex].children.push(
+      {
+        displayName: 'Grassland Settlement Names',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithafricanoracles.RollTable.uoWNDhhwjN4Pjlbg'],
+        children: []
+      },
+      {
+        displayName: 'Grasslander Names',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithafricanoracles.RollTable.edCY4deafcqKWVPR'],
+        children: []
+      },
+      {
+        displayName: 'Regions of the Grasslands',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithafricanoracles.RollTable.e7j2RjjdNvkuqA00'],
+        children: []
+      }
+    );
+
+    flavorPackFolder.children[indianOraclesIndex].children.push(
+      {
+        displayName: 'Tigerlander Names: Traditional Female',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithindianoracles.RollTable.Jy4oCU0kmKI5K6Mf'],
+        children: []
+      },
+      {
+        displayName: 'Tigerlander Names: Traditional Male',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithindianoracles.RollTable.EphNLFj2ET8Jf33q'],
+        children: []
+      },
+      {
+        displayName: 'Regions of the Tigerlands',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithindianoracles.RollTable.nHbD2DjG4fOqVFaT'],
+        children: []
+      },
+      {
+        displayName: 'Tigerland Settlement Names',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithindianoracles.RollTable.VuCCRL1FxblqHAg8'],
+        children: []
+      }
+    );
+
+    flavorPackFolder.children[japaneseOraclesIndex].children.push(
+      {
+        displayName: 'Firelander Names: Traditional  Male',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithjapaneseoracles.RollTable.PUmbwVMa2OxC8bJ8'],
+        children: []
+      },
+      {
+        displayName: 'Firelander Names: Traditional Female',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithjapaneseoracles.RollTable.EzVjTXmbzIz1onv8'],
+        children: []
+      },
+      {
+        displayName: 'Fireland Coastal Location',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithjapaneseoracles.RollTable.0HbiFgV1UtUwEp4g'],
+        children: []
+      },
+      {
+        displayName: 'Fireland Location',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithjapaneseoracles.RollTable.AvytEAkubkXaAuho'],
+        children: []
+      },
+      {
+        displayName: 'Regions of the Firelands',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithjapaneseoracles.RollTable.6cwsoxKUzHWgoCAU'],
+        children: []
+      },
+      {
+        displayName: 'Settlement Name Prefix (Meaning)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithjapaneseoracles.RollTable.43jnV8WTFSbqbJvj'],
+        children: []
+      },
+      {
+        displayName: 'Settlement Name Suffix (Meaning)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithjapaneseoracles.RollTable.jGCHyZGWy0Zwm0i8'],
+        children: []
+      }
+    );
+
+    flavorPackFolder.children[norseOraclesIndex].children.push(
+      {
+        displayName: 'Elder Futhark (Runes as Oracles)',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithnorseoracles.RollTable.Bmuo471dLLuT5nZN'],
+        children: []
+      },
+      {
+        displayName: 'Icelander Names: Traditional Female',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithnorseoracles.RollTable.LWAIaFtnsP9WipMt'],
+        children: []
+      },
+      {
+        displayName: 'Icelander Names: Traditional Male',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithnorseoracles.RollTable.Dv6rHBPo4U0DXACt'],
+        children: []
+      },
+      {
+        displayName: 'Regions of the Icelands',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithnorseoracles.RollTable.Yu5T9pKKdmg7CJmu'],
+        children: []
+      }
+    );
+
+    flavorPackFolder.children[southAmericanOraclesIndex].children.push(
+      {
+        displayName: 'Jungleland Settlement Names',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithsouthamericanoracles.RollTable.4K42bi6RNTj93CAI'],
+        children: []
+      },
+      {
+        displayName: 'Junglelander Names',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithsouthamericanoracles.RollTable.L7vTgre8R5UhczU4'],
+        children: []
+      },
+      {
+        displayName: 'Regions of the Junglelands',
+        tables: ['Compendium.ironsmith-expanded-oracles.ironsmithsouthamericanoracles.RollTable.D4VtGkGiBXEuGhrC'],
+        children: []
+      }
+    );
 
     let vowsFolder = ironswornOracles.children.find(children => children.displayName === "Vows and Milestones");
     let vowsIndex = ironswornOracles.children.indexOf(vowsFolder);

@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.1.2](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-08-30)
+
+* Integrate Flavor Pack oracles into Character Sheet Oracle Tree.
+
 ## [2.1.1](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-08-29)
 
 * Fixed errors during oracle load.
