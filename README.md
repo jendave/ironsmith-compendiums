@@ -45,7 +45,7 @@ https://github.com/jendave/ironsmith-compendiums/releases/latest/download/module
 
 By default, the standard Ironsmith Oracles will be integrated into the Oracle Tree in the Character Sheet. The Ironsworn Classic and/or Ironsworn Delve rulesets must be enabled.
 
-To enable the Flavor Pack oracles in the Oracle Tree, use the [Custom Folder](#optional-installation---use-custom-folders-to-add-character-sheet-oracles) below
+To enable the Flavor Pack oracles in the Oracle Tree, use the [Custom Folders Method](#optional-installation---use-custom-folders-to-add-character-sheet-oracles) below
 
 ![Character Sheet - Oracles Tree](https://github.com/jendave/ironsmith-compendiums/blob/main/docs/oracle-tree-character-sheet.jpg?raw=true)
 
