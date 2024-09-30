@@ -7,7 +7,7 @@
 
 ## About
 
-A FoundryVTT module including compendiums for the Ironsmith supplements by [Eric Bright](https://preview.drivethrurpg.com/en/browse?keyword=eric%20bright) and other custom assets and oracles for [Ironsworn](https://www.ironswornrpg.com/).
+A FoundryVTT module including compendiums for the Ironsmith supplements by [Eric Bright](https://preview.drivethrurpg.com/en/browse?keyword=eric%20bright) and other custom assets and oracles for [Ironsworn](https://tomkinpress.com/).
 
 ## Contact
 
@@ -112,11 +112,13 @@ Copy the desired foes from the `Ironsmith Foes` or `Pack Foes` compendiums into 
 
 The [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) supplements by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
-Oracles by Shawn Tomkin from [Ironsworn](https://preview.drivethrurpg.com/en/product/238369/ironsworn) and [Ironsworn: Delve](https://preview.drivethrurpg.com/en/product/302260/ironsworn-delve) are used under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+Oracles by Shawn Tomkin from [Ironsworn](https://tomkinpress.com/pages/ironsworn) and [Ironsworn: Delve](https://tomkinpress.com/pages/ironsworn-delve) are used under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
-## Acknowledgements
+## Acknowledgements(
+
+Created for the incredible [Ironsworn and Ironsworn: Starforged](https://tomkinpress.com/) family of games.
 
 Ironsmith Expanded Oracles were created using [Eric Bright's Ironsworn JSON files](https://github.com/ericbright2002/Forged_in_Obsidian).
 
@@ -135,7 +137,7 @@ Please check out my other modules and resources for Ironsworn, Ironsworn: Starfo
 
 ### [FoundryVTT](https://foundryvtt.com/community/david-hudson/packages) Modules
 
-* [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles)
+* [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 * [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 * [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
 * [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
