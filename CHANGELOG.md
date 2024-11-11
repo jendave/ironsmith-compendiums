@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.1.3](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-11-10)
+
+* Added helper macros for Ask the Oracle by benstraub.
+
 ## [2.1.2](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-08-30)
 
 * Integrate Flavor Pack oracles into Character Sheet Oracle Tree.
