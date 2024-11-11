@@ -116,6 +116,8 @@ Oracles by Shawn Tomkin from [Ironsworn](https://tomkinpress.com/pages/ironsworn
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
+Ask the Oracle macros were contributed by Ben Straub.
+
 ## Acknowledgements(
 
 Created for the incredible [Ironsworn and Ironsworn: Starforged](https://tomkinpress.com/) family of games.
@@ -142,6 +144,7 @@ Please check out my other modules and resources for Ironsworn, Ironsworn: Starfo
 * [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
 * [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
 * [Token Note Hover](https://github.com/jendave/token-note-hover)
+* [Token Action HUD Ironsworn](https://foundryvtt.com/packages/token-action-hud-ironsworn)
 
 ### [Itch.io](https://jendave.itch.io/) Resources
 
