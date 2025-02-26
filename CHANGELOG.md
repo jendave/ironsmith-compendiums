@@ -2,6 +2,10 @@
 
 [Ironsmith Compendiums for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
 
+## [2.1.4](https://github.com/jendave/ironsmith-compendiums/commits/main) (2025-02-25)
+
+* Verified for Foundry v13.
+
 ## [2.1.3](https://github.com/jendave/ironsmith-compendiums/commits/main) (2024-11-10)
 
 * Added helper macros for Ask the Oracle by benstraub.
