@@ -2,6 +2,14 @@
 
 [Ironsmith Compendiums for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
 
+## [2.1.6](https://github.com/jendave/ironsmith-compendiums/commits/main) (2025-03-07)
+
+* Revamped all of the foes in the Ironsmith Flavor Packs.
+  * Fixed the names of some foes and their prototype tokens.
+  * Updated text formatting to match that of the Ironsworn foes.
+  * Text notes work better with [Token Note Hover](https://foundryvtt.com/packages/token-note-hover).
+  * Put foes into folders by category.
+
 ## [2.1.5](https://github.com/jendave/ironsmith-compendiums/commits/main) (2025-03-05)
 
 * Revamped all of the foes in the main Ironsmith Compendium.
@@ -9,6 +17,7 @@
   * Ensured the names of the foes and their prototype tokens were consistent.
   * Updated text formatting to match that of the Ironsworn foes.
   * Text notes work better with [Token Note Hover](https://foundryvtt.com/packages/token-note-hover).
+  * Put foes into folders by category.
   * TODO: Update foes in all flavor packs.
 
 ## [2.1.4](https://github.com/jendave/ironsmith-compendiums/commits/main) (2025-02-25)
