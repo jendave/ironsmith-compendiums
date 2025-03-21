@@ -120,7 +120,7 @@ Module by David Hudson and licensed for use under the [MIT license](https://open
 
 Ask the Oracle macros were contributed by Ben Straub.
 
-## Acknowledgements(
+## Acknowledgements
 
 Created for the incredible [Ironsworn and Ironsworn: Starforged](https://tomkinpress.com/) family of games.
 
