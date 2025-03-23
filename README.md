@@ -30,6 +30,7 @@ A FoundryVTT module including compendiums for the Ironsmith supplements by [Eric
   * [Character Backgrounds for Ironsworn](https://www.ironswornrpg.com/post/character-backgrounds-for-ironsworn?cid=8868bea5-3c91-40b5-b1bc-d6d026f45cc3&postId=63598074-ff4c-4bda-beb1-80317d09f4f7&utm_campaign=7067f655-69ec-4c0b-823c-134124256896&utm_content=491cd93c-b314-4fa4-8e46-721ee00ee645&utm_medium=mail&utm_source=so)
 * Tables that are copies of the Ironsworn official tables are included if they are part of Ironsmith 1-2, 3-4, 5-6 array.
 * Tables that are simply copies of official Ironsworn tables without the array are not included since they would be redundant with the standard Ironsworn System tables.
+* The Oracle/Rolltable compendiums are system-agnostic. The other compendiums are only available for the [Ironsworn & Starforged](https://foundryvtt.com/packages/foundry-ironsworn).
 
 ## Module Installation
 

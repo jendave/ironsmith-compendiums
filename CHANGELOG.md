@@ -2,6 +2,10 @@
 
 [Ironsmith Compendiums for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
 
+## [2.1.7](https://github.com/jendave/ironsmith-compendiums/commits/main) (2025-03-23)
+
+* The Oracles/Rolltables are now system-agnostic.
+
 ## [2.1.6](https://github.com/jendave/ironsmith-compendiums/commits/main) (2025-03-07)
 
 * Revamped all of the foes in the Ironsmith Flavor Packs.

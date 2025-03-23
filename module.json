@@ -24,8 +24,7 @@
       "name": "ironsmithexpandedoracles",
       "label": "Ironsmith Expanded Oracles",
       "path": "./packs/ironsmith-expanded-oracles",
-      "type": "RollTable",
-      "system": "foundry-ironsworn"
+      "type": "RollTable"
     },
     {
       "name": "ironsmithexpandedoraclesmacros",
@@ -87,8 +86,7 @@
       "name": "ironsmithjapaneseoracles",
       "label": "Ironsmith Japanese Oracles",
       "path": "./packs/ironsmith-japanese-oracles",
-      "type": "RollTable",
-      "system": "foundry-ironsworn"
+      "type": "RollTable"
     },
     {
       "name": "ironsmithindianfoeactors",
@@ -108,8 +106,7 @@
       "name": "ironsmithindianoracles",
       "label": "Ironsmith Indian Oracles",
       "path": "./packs/ironsmith-indian-oracles",
-      "type": "RollTable",
-      "system": "foundry-ironsworn"
+      "type": "RollTable"
     },
     {
       "name": "ironsmithafricanfoeactors",
@@ -129,8 +126,7 @@
       "name": "ironsmithafricanoracles",
       "label": "Ironsmith African Oracles",
       "path": "./packs/ironsmith-african-oracles",
-      "type": "RollTable",
-      "system": "foundry-ironsworn"
+      "type": "RollTable"
     },
     {
       "name": "ironsmithsouthamericanfoeactors",
@@ -150,8 +146,7 @@
       "name": "ironsmithsouthamericanoracles",
       "label": "Ironsmith South American Oracles",
       "path": "./packs/ironsmith-south-american-oracles",
-      "type": "RollTable",
-      "system": "foundry-ironsworn"
+      "type": "RollTable"
     },
     {
       "name": "ironsmithnorsefoeactors",
@@ -171,15 +166,13 @@
       "name": "ironsmithnorseoracles",
       "label": "Ironsmith Norse Oracles",
       "path": "./packs/ironsmith-norse-oracles",
-      "type": "RollTable",
-      "system": "foundry-ironsworn"
+      "type": "RollTable"
     },
     {
       "name": "ironsworncustomoracles",
       "label": "Ironsworn Custom Oracles",
       "path": "./packs/ironsworn-custom-oracles",
-      "type": "RollTable",
-      "system": "foundry-ironsworn"
+      "type": "RollTable"
     }
   ],
   "packFolders": [
@@ -259,16 +252,6 @@
   "readme": "https://raw.githubusercontent.com/jendave/ironsmith-compendiums/main/README.md",
   "bugs": "https://github.com/jendave/ironsmith-compendiums/issues",
   "relationships": {
-    "systems": [
-      {
-        "id": "foundry-ironsworn",
-        "type": "system",
-        "manifest": "https://github.com/ben/foundry-ironsworn/releases/latest/download/system.json",
-        "compatibility": {
-          "minimum": "1.24.1",
-          "verified": "1.24"
-        }
-      }
-    ]
+    "systems": []
   }
 }
