@@ -129,6 +129,8 @@ Ironsmith Expanded Oracles were created using [Eric Bright's Ironsworn JSON file
 
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
 
+[game-icons.net](https://game-icons.net/) are licensed under the [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/).
+
 ### Modules
 
 The following modules were used in the development process
