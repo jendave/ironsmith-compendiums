@@ -4,7 +4,8 @@
 
 ## [2.2.2](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2025-11-xx)
 
-* Added icons from [game-icons.net](https://game-icons.net/) to Ironsmith African, Indian Flavor pack assets.
+* Added icons from [game-icons.net](https://game-icons.net/) to Ironsmith African, Indian, Japanese, Norse Flavor pack assets.
+* Fix icon for Runic Warrior.
 
 ## [2.2.1](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2025-11-28)
 
