@@ -2,6 +2,10 @@
 
 [Ironsmith Compendiums for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
 
+## [2.2.2](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2025-11-xx)
+
+* Added icons from [game-icons.net](https://game-icons.net/) to Ironsmith African Flavor pack assets.
+
 ## [2.2.1](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2025-11-28)
 
 * Added icons from [game-icons.net](https://game-icons.net/) to base Ironsmith assets.
