@@ -772,6 +772,667 @@ Hooks.once("ironswornOracleTreesReady", async () => {
         }
       );
 
+
+    // ==================== PERILOUS VOID ORACLES ====================
+    // Register Perilous Void oracle tree in the classic tree
+    ironswornOracles.children.push({
+      displayName: 'Perilous Void',
+      tables: [],
+      children: []
+    });
+
+    let pvFolder = ironswornOracles.children.find(children => children.displayName === 'Perilous Void');
+    let pvIndex = ironswornOracles.children.indexOf(pvFolder);
+
+    // Setting Creation
+    ironswornOracles.children[pvIndex].children.push({
+      displayName: 'Setting Creation',
+      tables: [],
+      children: []
+    });
+
+    // Sector Creation
+    ironswornOracles.children[pvIndex].children.push({
+      displayName: 'Sector Creation',
+      tables: [],
+      children: []
+    });
+
+    // System Creation
+    ironswornOracles.children[pvIndex].children.push({
+      displayName: 'System Creation',
+      tables: [],
+      children: []
+    });
+
+    // World Creation
+    ironswornOracles.children[pvIndex].children.push({
+      displayName: 'World Creation',
+      tables: [],
+      children: []
+    });
+
+    // Lifeform Creation
+    ironswornOracles.children[pvIndex].children.push({
+      displayName: 'Lifeform Creation',
+      tables: [],
+      children: []
+    });
+
+    // Society Creation
+    ironswornOracles.children[pvIndex].children.push({
+      displayName: 'Society Creation',
+      tables: [],
+      children: []
+    });
+
+    // Faction Creation
+    ironswornOracles.children[pvIndex].children.push({
+      displayName: 'Faction Creation',
+      tables: [],
+      children: []
+    });
+
+    // Community Creation
+    ironswornOracles.children[pvIndex].children.push({
+      displayName: 'Community Creation',
+      tables: [],
+      children: []
+    });
+
+    // Development Creation
+    ironswornOracles.children[pvIndex].children.push({
+      displayName: 'Development Creation',
+      tables: [],
+      children: []
+    });
+
+    // NPC Creation
+    ironswornOracles.children[pvIndex].children.push({
+      displayName: 'NPC Creation',
+      tables: [],
+      children: []
+    });
+
+    // Site Creation
+    ironswornOracles.children[pvIndex].children.push({
+      displayName: 'Site Creation',
+      tables: [],
+      children: []
+    });
+
+    // Other Tables
+    ironswornOracles.children[pvIndex].children.push({
+      displayName: 'Other Tables',
+      tables: [],
+      children: []
+    });
+
+    // Populate category children
+    let pvSettingCreationFolder = pvFolder.children.find(c => c.displayName === 'Setting Creation');
+
+    pvSettingCreationFolder.children.push({
+      displayName: 'Jump Tech',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.w5ONAti5uvo'],
+      children: []
+    });
+
+    pvSettingCreationFolder.children.push({
+      displayName: 'Campaign Frame',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.9aq2IQ8aA8'],
+      children: []
+    });
+
+    pvSettingCreationFolder.children.push({
+      displayName: 'Interstellar Society',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.RIDCZwEqexo'],
+      children: []
+    });
+
+    pvSettingCreationFolder.children.push({
+      displayName: 'Nonhuman Species Archetype',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.j0Vn0stxJd0', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.PLKxnMqTDEc'],
+      children: []
+    });
+
+    pvSettingCreationFolder.children.push({
+      displayName: 'Nonhuman Species Descriptor',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.qBFt34y80s', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.K5Q2hRDDdsk', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.X7cjLVn0NW4'],
+      children: []
+    });
+
+    pvSettingCreationFolder.children.push({
+      displayName: 'Nonhuman Species Special Ability',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.rPwCWmOqIlo'],
+      children: []
+    });
+
+    pvSettingCreationFolder.children.push({
+      displayName: 'Society Relations',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.RQgde56X0YU'],
+      children: []
+    });
+
+    pvSettingCreationFolder.children.push({
+      displayName: 'Inciting Incident',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.7GXrH5LjvrY'],
+      children: []
+    });
+
+    pvSettingCreationFolder.children.push({
+      displayName: 'Opening Scene',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.6GQYmHimOcg'],
+      children: []
+    });
+
+    let pvSectorCreationFolder = pvFolder.children.find(c => c.displayName === 'Sector Creation');
+
+    pvSectorCreationFolder.children.push({
+      displayName: 'Subsector of Interest',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.s8Z8Qu7vyow'],
+      children: []
+    });
+
+    pvSectorCreationFolder.children.push({
+      displayName: 'Star Type',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.r3zR4rxd50'],
+      children: []
+    });
+
+    pvSectorCreationFolder.children.push({
+      displayName: 'Nebula',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.X5AlmLrnP80'],
+      children: []
+    });
+
+    pvSectorCreationFolder.children.push({
+      displayName: 'Anomaly',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.spllkQpDoAA'],
+      children: []
+    });
+
+    let pvSystemCreationFolder = pvFolder.children.find(c => c.displayName === 'System Creation');
+
+    pvSystemCreationFolder.children.push({
+      displayName: 'System Population - Core',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.gRcUmEd1bNU'],
+      children: []
+    });
+
+    pvSystemCreationFolder.children.push({
+      displayName: 'System Population - Frontier',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.iCCrN27wHWE'],
+      children: []
+    });
+
+    pvSystemCreationFolder.children.push({
+      displayName: 'System Population - Wild',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.M9Zji3y9ZU'],
+      children: []
+    });
+
+    pvSystemCreationFolder.children.push({
+      displayName: 'Pop Center Development',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.eJwFE7rAG5E'],
+      children: []
+    });
+
+    pvSystemCreationFolder.children.push({
+      displayName: 'Satellite Type',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.Ib9vklZHw4Q'],
+      children: []
+    });
+
+    pvSystemCreationFolder.children.push({
+      displayName: 'Asteroid',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.M4tblVEiY8', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.6N6bkyhV3SY'],
+      children: []
+    });
+
+    pvSystemCreationFolder.children.push({
+      displayName: 'Gas Giant',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.zLplfzO2PUo', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.XeEQJOKKfQA'],
+      children: []
+    });
+
+    pvSystemCreationFolder.children.push({
+      displayName: 'Artificial Satellite',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.wUaruCcNdbE'],
+      children: []
+    });
+
+    pvSystemCreationFolder.children.push({
+      displayName: 'Stellar Phenomenon',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.E2GQ2RuBdYI'],
+      children: []
+    });
+
+    let pvWorldCreationFolder = pvFolder.children.find(c => c.displayName === 'World Creation');
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'World Climate - Close Position',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.yipG1CLJuJQ'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'World Climate - Near Position',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.sMbrD1dymA'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'World Climate - Far Position',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.q7t2o7wW5so'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'World Climate - Extreme Position',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.Q83ZAufa0Nc'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'World Feature',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.DWmx2Ytwyg'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'World Size',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.RTJon3ni6Q'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Supercold World',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.Rm3jVtQ2Ijg'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Cold World',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.JfvkjOVZrJE'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Temperate World',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.gBihod1504o'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Hot World',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.LVldY1cIr6w'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Superhot World',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.3ydvvDaGbfM'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Exotic Gas',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.Tbg6A2R14'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Barren World',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.Trgha0rgIMg', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.lIWkHgnpCsc', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.VlVwCawuWl4', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.Q8w3zK41t1E'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Frozen World',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.JP8JnYQwdDU', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.otRNw4fxegA', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.5Vng6MJ1rMs', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.2YFrMwFoiks'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Arid World',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.a3VJjBnz8k', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.Vtu6TX6yQU0', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.PtkfqFjIO8', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.QeQTuQfS3qw'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Oceanic World',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.zpKsN3oipQ', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.PewDCLeIws', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.Z7mrMPekHSg', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.hKTVemwTT7c'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Arboreal World',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.XjZsGMLTZpM', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.ygFaK1rUN70'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Earthlike World',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.jyUasWWZhEM', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.G2jyfdUYHI'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Volcanic World',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.36NKM8m0myU', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.Di461myerq4'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Metallic World',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.WQpq4yRemok', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.Shtkm2PFFtI'],
+      children: []
+    });
+
+    pvWorldCreationFolder.children.push({
+      displayName: 'Resource Tables',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.6ohaVvbgqwM', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.puFJapaQjuw', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.tjoMEhgpiu0', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.K4QhIt0kmIM', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.NASYBeQhcSM'],
+      children: []
+    });
+
+    let pvLifeformCreationFolder = pvFolder.children.find(c => c.displayName === 'Lifeform Creation');
+
+    pvLifeformCreationFolder.children.push({
+      displayName: 'Microbial Lifeform',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.104h3iC7YkQ'],
+      children: []
+    });
+
+    pvLifeformCreationFolder.children.push({
+      displayName: 'Simple Lifeform',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.hjXwE65MpVk'],
+      children: []
+    });
+
+    pvLifeformCreationFolder.children.push({
+      displayName: 'Complex Lifeform',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.kRnLDinJSfs', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.rRT05zqKYuA', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.uXcIE3Htf7Q'],
+      children: []
+    });
+
+    pvLifeformCreationFolder.children.push({
+      displayName: 'Lifeform Adaptation by World Type',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.9tcFCzoWHAI', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.dPyCU3zGzBk', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.tPbwCgwz0T8', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.OOF5hu3T2uk', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.iJt9Fd8Ryk', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.qB4rIxLSUHM', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.vUkyCFnkVnU'],
+      children: []
+    });
+
+    pvLifeformCreationFolder.children.push({
+      displayName: 'Lifeform Adaptation by Gravity',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.KBKEkO1caTs', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.eKgNht8Eyl4', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.CTuR9EstH5M', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.jUV8nfDeN4c'],
+      children: []
+    });
+
+    let pvSocietyCreationFolder = pvFolder.children.find(c => c.displayName === 'Society Creation');
+
+    pvSocietyCreationFolder.children.push({
+      displayName: 'Society Tech Level',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.iWJUYiC6ue8'],
+      children: []
+    });
+
+    pvSocietyCreationFolder.children.push({
+      displayName: 'Society Condition',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.nlFmPWau5Sk'],
+      children: []
+    });
+
+    pvSocietyCreationFolder.children.push({
+      displayName: 'Society Political System',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.CWuRbA2YAQ'],
+      children: []
+    });
+
+    let pvFactionCreationFolder = pvFolder.children.find(c => c.displayName === 'Faction Creation');
+
+    pvFactionCreationFolder.children.push({
+      displayName: 'Faction Profile',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.7S5HS9r5t1A', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.phCemJji9r0'],
+      children: []
+    });
+
+    pvFactionCreationFolder.children.push({
+      displayName: 'Faction Special Asset',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.xFMnVgzcbBg'],
+      children: []
+    });
+
+    let pvCommunityCreationFolder = pvFolder.children.find(c => c.displayName === 'Community Creation');
+
+    pvCommunityCreationFolder.children.push({
+      displayName: 'Community Profile',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.7NpOtKVmBgo', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.5O9Op3Frxdw', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.hr2zBBOfwmE'],
+      children: []
+    });
+
+    pvCommunityCreationFolder.children.push({
+      displayName: 'Community Problem',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.MsEXa1bmHc'],
+      children: []
+    });
+
+    pvCommunityCreationFolder.children.push({
+      displayName: 'Outpost',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.d9gAyxNI'],
+      children: []
+    });
+
+    pvCommunityCreationFolder.children.push({
+      displayName: 'Space Station',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.TojXi8R42E'],
+      children: []
+    });
+
+    pvCommunityCreationFolder.children.push({
+      displayName: 'Colony',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.DvtuWfXLdjM'],
+      children: []
+    });
+
+    pvCommunityCreationFolder.children.push({
+      displayName: 'Village',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.mjOxgr35IDs'],
+      children: []
+    });
+
+    pvCommunityCreationFolder.children.push({
+      displayName: 'Town',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.DynVqyIH0o'],
+      children: []
+    });
+
+    pvCommunityCreationFolder.children.push({
+      displayName: 'City',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.xPpPPm1jQuU'],
+      children: []
+    });
+
+    pvCommunityCreationFolder.children.push({
+      displayName: 'Megacity',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.ijXWS8376jk'],
+      children: []
+    });
+
+    pvCommunityCreationFolder.children.push({
+      displayName: 'District Type',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.y1yocosHWA'],
+      children: []
+    });
+
+    let pvDevelopmentCreationFolder = pvFolder.children.find(c => c.displayName === 'Development Creation');
+
+    pvDevelopmentCreationFolder.children.push({
+      displayName: 'Development Type',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.BTTNFXes25Y'],
+      children: []
+    });
+
+    pvDevelopmentCreationFolder.children.push({
+      displayName: 'Situation',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.PVk8BtcWhgA'],
+      children: []
+    });
+
+    pvDevelopmentCreationFolder.children.push({
+      displayName: 'Incident',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.L2Ikvdae820'],
+      children: []
+    });
+
+    pvDevelopmentCreationFolder.children.push({
+      displayName: 'Encounter - Voidside',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.B75GbINvac'],
+      children: []
+    });
+
+    pvDevelopmentCreationFolder.children.push({
+      displayName: 'Encounter - Worldside',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.PxVYYzxhxL0'],
+      children: []
+    });
+
+    pvDevelopmentCreationFolder.children.push({
+      displayName: 'Activity',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.H7YKEhhmnA'],
+      children: []
+    });
+
+    pvDevelopmentCreationFolder.children.push({
+      displayName: 'Event',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.2x47u93GBAY'],
+      children: []
+    });
+
+    pvDevelopmentCreationFolder.children.push({
+      displayName: 'Offer',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.1aZyQt27k2A'],
+      children: []
+    });
+
+    pvDevelopmentCreationFolder.children.push({
+      displayName: 'Discovery',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.tGCroCLpA'],
+      children: []
+    });
+
+    pvDevelopmentCreationFolder.children.push({
+      displayName: 'Job',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.YicMiFZcnWo'],
+      children: []
+    });
+
+    let pvNPCCreationFolder = pvFolder.children.find(c => c.displayName === 'NPC Creation');
+
+    pvNPCCreationFolder.children.push({
+      displayName: 'NPC Archetype',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.jjZtmCKlW9Q'],
+      children: []
+    });
+
+    pvNPCCreationFolder.children.push({
+      displayName: 'NPC Species',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.AVVCiXaX2GE'],
+      children: []
+    });
+
+    pvNPCCreationFolder.children.push({
+      displayName: 'NPC Occupation',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.YSl0PETb7RY', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.VdZAauIEFyU', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.EcRkHmZT0o'],
+      children: []
+    });
+
+    pvNPCCreationFolder.children.push({
+      displayName: 'NPC Motivation',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.OIi1FWMckkY'],
+      children: []
+    });
+
+    pvNPCCreationFolder.children.push({
+      displayName: 'NPC Traits',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.fDTKsdtQ7M', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.gZSGm3OFf4c', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.1kAPpxBb9I4'],
+      children: []
+    });
+
+    pvNPCCreationFolder.children.push({
+      displayName: 'NPC Detail',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.a9TdnMdYTII'],
+      children: []
+    });
+
+    let pvSiteCreationFolder = pvFolder.children.find(c => c.displayName === 'Site Creation');
+
+    pvSiteCreationFolder.children.push({
+      displayName: 'Derelict',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.8Sh1KuGksVY', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.ad0EOlyvIBw', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.QtDl1bNefyE', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.AXLKEXj8CR8'],
+      children: []
+    });
+
+    pvSiteCreationFolder.children.push({
+      displayName: 'Facility',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.Z8OipQC18', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.Z2ndGY0oZEs', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.ypSiECKpWFc', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.NwkmhwfB24'],
+      children: []
+    });
+
+    pvSiteCreationFolder.children.push({
+      displayName: 'Ruin',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.KMkTskfKn0', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.7xeQevTXwvs', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.NY82oz1Xas', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.5uCkIiLTPck'],
+      children: []
+    });
+
+    let pvOtherTablesFolder = pvFolder.children.find(c => c.displayName === 'Other Tables');
+
+    pvOtherTablesFolder.children.push({
+      displayName: 'Robot/Droid',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.AQqeuv5cJpo', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.F8Gdvcr1o9g'],
+      children: []
+    });
+
+    pvOtherTablesFolder.children.push({
+      displayName: 'Spaceship',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.SlpUXUDJpk8', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.VOAqeYA28NY'],
+      children: []
+    });
+
+    pvOtherTablesFolder.children.push({
+      displayName: 'Artifact/Gadget',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.7EU8yU6dsls'],
+      children: []
+    });
+
+    pvOtherTablesFolder.children.push({
+      displayName: 'Technobabble',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.6h4vnZPC1Z8'],
+      children: []
+    });
+
+    pvOtherTablesFolder.children.push({
+      displayName: 'Detail',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.83wlG7tm6E', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.Qc7MLKMPN7w'],
+      children: []
+    });
+
+    pvOtherTablesFolder.children.push({
+      displayName: 'Names - Star/Satellite',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.njMYZedTM1Y', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.arlBabHUfPg'],
+      children: []
+    });
+
+    pvOtherTablesFolder.children.push({
+      displayName: 'Names - NPC',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.eiiNfU9iEqg', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.p3IXR7Y6vCU'],
+      children: []
+    });
+
+    pvOtherTablesFolder.children.push({
+      displayName: 'Names - Settlement',
+      tables: ['Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.RlFFNCGytCw', 'Compendium.ironsmith-expanded-oracles.perilousvoidoracles.RollTable.bMJTi8LN3Tk'],
+      children: []
+    });
+
       CONFIG.IRONSWORN.registerOracleTree('classic', ironswornOracles)
     }
 

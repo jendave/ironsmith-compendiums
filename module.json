@@ -173,6 +173,12 @@
       "label": "Ironsworn Custom Oracles",
       "path": "./packs/ironsworn-custom-oracles",
       "type": "RollTable"
+    },
+    {
+      "name": "perilousvoidoracles",
+      "label": "Perilous Void Oracles",
+      "path": "./packs/perilous-void-oracles",
+      "type": "RollTable"
     }
   ],
   "packFolders": [
@@ -236,6 +242,12 @@
           "name": "Ironsworn Custom Compendiums",
           "packs": [
             "ironsworncustomoracles"
+          ]
+        },
+        {
+          "name": "Perilous Void",
+          "packs": [
+            "perilousvoidoracles"
           ]
         }
       ]
