@@ -4,7 +4,7 @@
 
 ## [2.2.3](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2026-02-26)
 
-* Verified for version v14.
+* Verified for Foundry v14.
 
 ## [2.2.2](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2025-11-28)
 
