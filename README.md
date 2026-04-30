@@ -19,7 +19,9 @@ A FoundryVTT module including compendiums for the Ironsmith supplements by [Eric
   * [Ironsmith African Flavor Pack](https://preview.drivethrurpg.com/en/product/374198/ironsmith-african-mythology-flavor-pack-softcover)
   * [Ironsmith South American Flavor Pack](https://preview.drivethrurpg.com/en/product/374202/ironsmith-south-american-mythology-flavor-pack-softcover)
   * [Ironsmith Norse Flavor Pack](https://preview.drivethrurpg.com/en/product/372161/ironsmith-norse-mythology-flavor-pack-softcover)
-  * [Character Backgrounds for Ironsworn](https://www.ironswornrpg.com/post/character-backgrounds-for-ironsworn?cid=8868bea5-3c91-40b5-b1bc-d6d026f45cc3&postId=63598074-ff4c-4bda-beb1-80317d09f4f7&utm_campaign=7067f655-69ec-4c0b-823c-134124256896&utm_content=491cd93c-b314-4fa4-8e46-721ee00ee645&utm_medium=mail&utm_source=so)
+  * Ironsworn resources from [Shawn Tomkin](https://tomkinpress.com/pages/ironsworn)
+    * [Character Backgrounds for Ironsworn](https://www.ironswornrpg.com/post/character-backgrounds-for-ironsworn?cid=8868bea5-3c91-40b5-b1bc-d6d026f45cc3&postId=63598074-ff4c-4bda-beb1-80317d09f4f7&utm_campaign=7067f655-69ec-4c0b-823c-134124256896&utm_content=491cd93c-b314-4fa4-8e46-721ee00ee645&utm_medium=mail&utm_source=so)
+    * [Stone Lizard companion asset](https://discord.com/channels/437120373436186625/470610624842301441/1490029172280660048) by Shawn Tomkin and korokage.
 * Tables that are copies of the Ironsworn official tables are included if they are part of Ironsmith 1-2, 3-4, 5-6 array.
 * Tables that are simply copies of official Ironsworn tables without the array are not included since they would be redundant with the standard Ironsworn System tables.
 * The Oracle/Rolltable compendiums are system-agnostic. The other compendiums are only available for the [Ironsworn & Starforged](https://foundryvtt.com/packages/foundry-ironsworn).
