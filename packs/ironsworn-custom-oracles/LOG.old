@@ -1,0 +1,7 @@
+2026/04/24-14:47:51.764835 16eccf000 Recovering log #162
+2026/04/24-14:47:51.765394 16eccf000 Delete type=3 #160
+2026/04/24-14:47:51.765447 16eccf000 Delete type=0 #162
+2026/04/24-15:50:54.996152 16ddd3000 Level-0 table #167: started
+2026/04/24-15:50:54.996286 16ddd3000 Level-0 table #167: 0 bytes OK
+2026/04/24-15:50:54.996556 16ddd3000 Delete type=0 #165
+2026/04/24-15:50:54.996788 16ddd3000 Manual compaction at level-0 from '!tables!ARfAkQNCv1vMSMDm' @ 72057594037927935 : 1 .. '!tables.results!ARfAkQNCv1vMSMDm.z2ODtgWZDB5kx8Hv' @ 0 : 0; will stop at (end)

@@ -173,6 +173,12 @@
       "label": "Ironsworn Custom Oracles",
       "path": "./packs/ironsworn-custom-oracles",
       "type": "RollTable"
+    },
+    {
+      "name": "ironsworncustomassets",
+      "label": "Ironsworn Custom Assets",
+      "path": "./packs/ironsworn-custom-assets",
+      "type": "Item"
     }
   ],
   "packFolders": [
@@ -235,7 +241,8 @@
         {
           "name": "Ironsworn Custom Compendiums",
           "packs": [
-            "ironsworncustomoracles"
+            "ironsworncustomoracles",
+            "ironsworncustomassets"
           ]
         }
       ]
