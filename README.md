@@ -9,14 +9,6 @@
 
 A FoundryVTT module including compendiums for the Ironsmith supplements by [Eric Bright](https://preview.drivethrurpg.com/en/browse?keyword=eric%20bright) and other custom assets and oracles for [Ironsworn](https://tomkinpress.com/).
 
-## Contact
-
-* [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160) (jendave)
-* [FoundryVTT Discord Server - Module Discussion Channel](https://discord.com/channels/170995199584108546/513918036919713802) (jendave)
-* [VOID Affiliate Network Discord Server - Game Hacks Channel](https://discord.com/channels/1222986351272787990/1222986351792619687) (jendave)
-* [GitHub Repository](https://github.com/jendave/ironsmith-compendiums)
-* [Itch.io](https://jendave.itch.io/)
-
 ## Features and Notes
 
 * Oracles, Assets, Moves, Site/Delve Themes, Domains and Foes from the PDFs are included.
@@ -111,6 +103,14 @@ Copy the desired foes from the `Ironsmith Foes` or `Pack Foes` compendiums into 
 
 * Due to changes in version `2.0.0`, uninstalling and re-installing the module may be needed.
 
+## Contact
+
+* [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160) (jendave)
+* [FoundryVTT Discord Server - Module Discussion Channel](https://discord.com/channels/170995199584108546/513918036919713802) (jendave)
+* [VOID Affiliate Network Discord Server - Game Hacks Channel](https://discord.com/channels/1222986351272787990/1222986351792619687) (jendave)
+* [GitHub Repository](https://github.com/jendave/ironsmith-compendiums)
+* [Itch.io](https://jendave.itch.io/)
+
 ## Credits
 
 The [Ironsmith](https://preview.drivethrurpg.com/en/product/351813/ironsmith) supplements by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
@@ -154,6 +154,7 @@ Please check out my other modules and resources for Ironsworn, Ironsworn: Starfo
 * [Ancient Wonders](https://foundryvtt.com/packages/ancient-wonders)
 * [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star)
 * [Roll Table Importer](https://foundryvtt.com/packages/roll-table-importer)
+* [Ironsworn Impacts](https://foundryvtt.com/packages/ironsworn-impacts)
 
 ### [Itch.io](https://jendave.itch.io/) Resources
 
