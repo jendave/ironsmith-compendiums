@@ -2,7 +2,7 @@
 
 [Ironsmith Compendiums for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
 
-## [2.2.4](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2026-02-26)
+## [2.2.4](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2026-04-30)
 
 * Added [Stone Lizard companion asset](https://discord.com/channels/437120373436186625/470610624842301441/1490029172280660048) by Shawn Tomkin and korokage.
 
