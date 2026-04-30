@@ -178,7 +178,8 @@
       "name": "ironsworncustomassets",
       "label": "Ironsworn Custom Assets",
       "path": "./packs/ironsworn-custom-assets",
-      "type": "Item"
+      "type": "Item",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
