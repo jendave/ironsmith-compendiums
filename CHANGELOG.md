@@ -2,7 +2,7 @@
 
 [Ironsmith Compendiums for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
 
-## [2.3.0](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2026-07-09)
+## [2.3.0](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2026-07-10)
 
 * Create build process.
 * Create compendiums from JSON.
