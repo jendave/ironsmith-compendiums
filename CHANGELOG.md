@@ -6,6 +6,7 @@
 
 * Create build process.
 * Create compendiums from JSON.
+* Fixed names of original "Expanded" compendiums to match naming convention.
 
 ## [2.2.4](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2026-04-30)
 
