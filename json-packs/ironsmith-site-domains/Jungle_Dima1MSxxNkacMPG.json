@@ -1,0 +1,184 @@
+{
+  "name": "Jungle",
+  "type": "delve-domain",
+  "_id": "Dima1MSxxNkacMPG",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "An exotic forest full of dangers.",
+    "description": "<div class=\"page\" title=\"Page 249\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>This site is an exotic wilderness with heavy, humid air. At times, the ground is nearly bare from the dense canopy blocking the sun, but in the places where sunlight filters down, there are giant and exotic plants. Vines strong enough to hold an Ironlander dangle between most trees. The hooting and howling of strange creatures filling this site are the fuel of nightmares.</p>\n<div class=\"page\" title=\"Page 249\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Traveling through a jungle is a dangerous game. One minute the path is clear only to be suddenly blocked by a wall of thick foliage, a deep waterway or a sudden cliff. Hive- minded swarms make their home here and care not whether their next meal is a beast or an Ironlander.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          21,
+          43
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Thick canopy blocking the light"
+      },
+      {
+        "range": [
+          44,
+          56
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Vine-strewn paths"
+      },
+      {
+        "range": [
+          57,
+          64
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Meandering waterway"
+      },
+      {
+        "range": [
+          65,
+          68
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Humanoid-sized leaves"
+      },
+      {
+        "range": [
+          69,
+          72
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Birghtly colored flora"
+      },
+      {
+        "range": [
+          73,
+          76
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Open sky with dense undergrowth"
+      },
+      {
+        "range": [
+          77,
+          80
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Tall trees swaying in the wind"
+      },
+      {
+        "range": [
+          81,
+          84
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Soft marsh ground"
+      },
+      {
+        "range": [
+          85,
+          88
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Watering hole"
+      },
+      {
+        "range": [
+          89,
+          98
+        ],
+        "text": "Something unusual or unexpected",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          99,
+          99
+        ],
+        "text": "You transition into a new theme",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          100,
+          100
+        ],
+        "text": "You transition into a new domain",
+        "type": 0,
+        "flags": {}
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          31,
+          33
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Thick layer of mud"
+      },
+      {
+        "range": [
+          34,
+          36
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Poisonous pollen"
+      },
+      {
+        "range": [
+          37,
+          39
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Unstoppable swarm"
+      },
+      {
+        "range": [
+          40,
+          42
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen on the hunt"
+      },
+      {
+        "range": [
+          43,
+          45
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen lairs here"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703500549712,
+    "modifiedTime": 1703500714235,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!Dima1MSxxNkacMPG"
+}

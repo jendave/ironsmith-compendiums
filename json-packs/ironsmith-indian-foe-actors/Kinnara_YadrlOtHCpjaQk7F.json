@@ -1,0 +1,165 @@
+{
+  "name": "Kinnara",
+  "type": "foe",
+  "img": "icons/environment/creatures/horse-white.webp",
+  "items": [
+    {
+      "_id": "TcvH9NHitjyhEqws",
+      "name": "Kinnara",
+      "type": "progress",
+      "img": "icons/environment/creatures/horse-white.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Horse-headed humanoids</p>\n<p>Hands protected by gauntlet-like hooves</p>\n<p>Extreme speed on the open plains</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Travel the lands with their herds</p>\n<p>Live in balance with nature</p>\n<p>Isolate from other cultures</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Charge with halberds</p>\n<p>Out maneuver foes</p>\n<p>Flank</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 220\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 44\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The kinnara look similar to the mythical minotaur except with equine features rather than bovine. Their legs have a similar musculature as a normal horse which makes their stride length tremendous. On an open plain, they can match a normal horse&rsquo;s gallop and maintain that speed for nearly as long as their animal counterpart.</p>\n<p>Kinnara usually live in small nomadic herds on the western plains where they travel from place to place so that they don&rsquo;t reduce the natural resources in one area too much. They set up colorful tents made from the stalks of a wild grain that only grows in the west and can pack up their whole camp on a few small wagons they hitch to their belts to pull.</p>\n<p>While most kinnara herds are not aggressive, they swiftly become so if we get too close to them. They wield wicked looking halberd and other pole arms with deadly efficiency. Thus, we have yet to establish any formal contact with their people, and we&rsquo;re quite sure that&rsquo;s the way they like it.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A traveling kinnara herd has been leaving behind sick and dying horse folk, and some of the diseased corpses made their way into the water supply of a nearby Tigerlander settlement. Having never been exposed to this disease before, it is running like wildfire through the settlement. Who is a powerful healer that you know who may be able to help? Would the kinnara have more information about this disease that you need?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Are the kinnara in your world more like centaurs? If not, are they able to bend down to use their arms as another pair of legs allowing them to run on four legs?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": 1741382364238,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!actors.items!YadrlOtHCpjaQk7F.TcvH9NHitjyhEqws"
+    }
+  ],
+  "effects": [],
+  "folder": "1h2u3eK9jX6x0dlp",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Kinnara",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/environment/creatures/horse-white.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741382331573,
+    "modifiedTime": 1741382890181,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "YadrlOtHCpjaQk7F",
+  "sort": 200000,
+  "_key": "!actors!YadrlOtHCpjaQk7F"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Firelander Names",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "mVFtwYh4vvXQuqTu",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1709074943285,
+    "modifiedTime": 1709074943285,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!folders!mVFtwYh4vvXQuqTu"
+}

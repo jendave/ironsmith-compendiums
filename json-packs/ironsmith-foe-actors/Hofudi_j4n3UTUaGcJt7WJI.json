@@ -1,0 +1,163 @@
+{
+  "name": "Hofudi",
+  "type": "foe",
+  "img": "icons/creatures/magical/humanoid-horned-rider.webp",
+  "items": [
+    {
+      "_id": "TcvH9NHitjyhEqws",
+      "name": "Hofudi",
+      "type": "progress",
+      "img": "icons/creatures/magical/humanoid-horned-rider.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Snake people with arms and a tail instead of legs</p>\n<p class=\"nogrow\">Thick scaled skin can change colors</p>\n<p class=\"nogrow\">Tail tips covered with forged weapons for use in battle</p>\n<p class=\"nogrow\">Wield spears tipped with their own fangs</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Respect the Old Ways</p>\n<p class=\"nogrow\">Protect the wilds</p>\n<p class=\"nogrow\">Drive out the interlopers</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Drop from treetops</p>\n<p class=\"nogrow\">Poisoned bites</p>\n<p class=\"nogrow\">Squeeze and suffocate</p>\n</div>\n</div>\n<p>Hofudi are thought to be under the protection of the elves living in the Deep Wilds, but contact with the snake people is even more rare than that with the elves. As such, the descriptions vary of the hofudi. Some say they have deep green and black skin, and others claim to have seen yellow and brown scales. Some say the hofudi are all hooded cobras while others say they have sharp diamond-shaped heads. What is common among all the descriptions is how without legs they glide about using only the S- shaped motion of their tail while keeping their humanoid torso upright.</p>\n<p>It is believed that the hofudi have a strict class system with a shaman or mystic at the top of the authority structure. They have been spotted in the Deep Wilds holding strange rituals of unknown purpose. The few contacts we've had with them have not gone well as they fiercely guard their secrets and way of life. What we do know for sure is that they have no compunction about killing an Ironlander, and we therefore give them a wide berth</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A hofudi warrior has announced itself outside the settlement and is asking for escort to a secret location in the Hinterlands and protection from the igdan hunting it. It says that if its task is left undone, it will have grave consequences even for the Ironlanders. The hofudi holds a large, smooth gray stone tucked under one arm. What task must it complete, and what role does the stone play? Additionally, something strange happened to you previously while you were in the area of the Hinterlands that the hofudi wants to travel to. What was it, and does it relate to the hofudi's current quest?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>What is the nature of the relationship between the elves and hofudi?</em></p>\n<p><em>There is one thing or behavior that is so taboo in hofudi culture as to border on sacrilege. What is it?</em></p>\n</blockquote>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!j4n3UTUaGcJt7WJI.TcvH9NHitjyhEqws"
+    }
+  ],
+  "effects": [],
+  "folder": "mBkbJwKsXPugnfrb",
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "prototypeToken": {
+    "name": "Hofudi",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/magical/humanoid-horned-rider.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741127050068,
+    "modifiedTime": 1741127050068,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "j4n3UTUaGcJt7WJI",
+  "sort": 0,
+  "_key": "!actors!j4n3UTUaGcJt7WJI"
+}

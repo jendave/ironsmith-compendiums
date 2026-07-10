@@ -1,0 +1,121 @@
+{
+  "name": "Why?",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "For altruism",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "2THSc2aoVx6Ri8Ar",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Dfk5R2OodJgGdyrb.2THSc2aoVx6Ri8Ar"
+    },
+    {
+      "text": "To complete an important ritual for the settlement",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "xB0RuW2E7804HLmg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Dfk5R2OodJgGdyrb.xB0RuW2E7804HLmg"
+    },
+    {
+      "text": "To enact the next step in a secret plot",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "1AMWSMy9Sx57D5Xm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Dfk5R2OodJgGdyrb.1AMWSMy9Sx57D5Xm"
+    },
+    {
+      "text": "To pay an old debt",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "rtjRXOhX5lBiaNyE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Dfk5R2OodJgGdyrb.rtjRXOhX5lBiaNyE"
+    },
+    {
+      "text": "To oppose a coming threat",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "Vq5N4fWDN7PIdEw6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Dfk5R2OodJgGdyrb.Vq5N4fWDN7PIdEw6"
+    },
+    {
+      "text": "To find a hidden relic of the Old World",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "OIRewxbVjsGN2vIG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Dfk5R2OodJgGdyrb.OIRewxbVjsGN2vIG"
+    }
+  ],
+  "folder": "ZFajJH2Qwjjv6f8p",
+  "sort": 300000,
+  "_id": "Dfk5R2OodJgGdyrb",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>What if someone openly opposes killing off the monster? They support keeping the monster around or at least have another suggestion other than death for the monster.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Dfk5R2OodJgGdyrb"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159575,
+    "modifiedTime": 1702853913519,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!Dfk5R2OodJgGdyrb"
+}

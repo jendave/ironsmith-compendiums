@@ -1,0 +1,165 @@
+{
+  "name": "Farasi Bahari",
+  "type": "foe",
+  "img": "icons/environment/creatures/horse-white.webp",
+  "items": [
+    {
+      "_id": "bOdwS4pPn3sSCxro",
+      "name": "Farasi Bahari",
+      "type": "progress",
+      "img": "icons/environment/creatures/horse-white.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 226\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Horse head and torso</p>\n<p>Fishes tail</p>\n<p>Emerald scales and skin with azure mane</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Graze on coastal algae</p>\n<p class=\"nogrow\">Swim in the depths of the ocean</p>\n<p class=\"nogrow\">Perform complicated mating displays</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 226\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Slap with their tail</p>\n<p>Slash with front hooves</p>\n<p>Coil foe in their tail to drown</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 226\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 36\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The farasi bahari, also known as water horses, spend most of their time along the depths of the ocean floors making sightings rare. During a few weeks throughout the year, water horses will surface and head towards the coast to graze on great blooms of algae. It is commonly believed that if you can entice a farasi bahari to breed with a normal horse during these times, the resulting foal will have enhanced strength and speed as well as a shimmering green coat.</p>\n<p>While not extremely aggressive by nature, water horses are easily spooked and respond by attacking rather than running away. Their first line of attack is to use their front hooves to slash or their tail to bash their foe. If their opponent persists in the battle, they have special bones in their tail allowing them to extend it long enough to coil around a medium to large sized creature. After capturing a land-based foe, they drag it into the deeper ocean waters to drown it.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A horse breeder claims to have successfully bred his mare with a farasi bahari, and the foal did indeed have an emerald coat. However, the foal was stolen a few nights ago. Who do you suspect the thief is, and why do you think it&rsquo;s not a simple case of theft?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Do the farasi bahari in your world act more aggressively? If so, why?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 1,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!dYiRpPIVr6JsMDBM.bOdwS4pPn3sSCxro"
+    }
+  ],
+  "effects": [],
+  "folder": "4NkK3ZazG5mYS9s2",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Farasi Bahari",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/environment/creatures/horse-white.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741381645751,
+    "modifiedTime": 1741381813950,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "dYiRpPIVr6JsMDBM",
+  "sort": 100000,
+  "_key": "!actors!dYiRpPIVr6JsMDBM"
+}

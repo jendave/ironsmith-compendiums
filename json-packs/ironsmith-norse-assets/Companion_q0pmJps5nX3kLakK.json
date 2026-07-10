@@ -1,0 +1,19 @@
+{
+  "name": "Companion",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "q0pmJps5nX3kLakK",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1709611600138,
+    "modifiedTime": 1709611600138,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!folders!q0pmJps5nX3kLakK"
+}

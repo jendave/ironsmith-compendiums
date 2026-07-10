@@ -1,0 +1,327 @@
+{
+  "name": "Random NPC Conversation (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "A recent change in their own family",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "ddC1xOIX8C4kUGPY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.ddC1xOIX8C4kUGPY"
+    },
+    {
+      "text": "Reported sightings of the firstborn",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "0hjXvs1XYE8XCVV6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.0hjXvs1XYE8XCVV6"
+    },
+    {
+      "text": "A recent change in the family of an NPC",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "ZUzSX5Q5t0uwoiU4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.ZUzSX5Q5t0uwoiU4"
+    },
+    {
+      "text": "Information that has recently been lost",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "meL7lWmKKPCyA7lm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.meL7lWmKKPCyA7lm"
+    },
+    {
+      "text": "Information that was lost when coming from the Old World",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "wDOf9qo8jTvENE2S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.wDOf9qo8jTvENE2S"
+    },
+    {
+      "text": "Information that has recently been discovered",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "klXwZ33agfCUoRpH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.klXwZ33agfCUoRpH"
+    },
+    {
+      "text": "A PC secret that has been made known",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "JCryh6cGZWtiutgS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.JCryh6cGZWtiutgS"
+    },
+    {
+      "text": "An enemy secret that has been made known",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "cxjQntCFwIlH6uRq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.cxjQntCFwIlH6uRq"
+    },
+    {
+      "text": "Gossip about shamed Ironlanders and forsaken vows",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "MAWTedwCgHC0vkv2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.MAWTedwCgHC0vkv2"
+    },
+    {
+      "text": "Why the leadership needs to change",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "gOsDbMGuoBu7xyle",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.gOsDbMGuoBu7xyle"
+    },
+    {
+      "text": "History from before the Ironlanders",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "fPiollEYVvOCeYM3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.fPiollEYVvOCeYM3"
+    },
+    {
+      "text": "Particular skills of a trade or craft",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "I1zz8Ew6sNUKnFTX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.I1zz8Ew6sNUKnFTX"
+    },
+    {
+      "text": "Particular equipment of a trade or craft",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "Qlk0mCmYksvtxfE4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.Qlk0mCmYksvtxfE4"
+    },
+    {
+      "text": "Common knowledge about an enemy",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "pN7ez9VkEyfEGu8C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.pN7ez9VkEyfEGu8C"
+    },
+    {
+      "text": "Small jobs or quests that need to be done",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "9ViB9eCAsjKsLrqI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.9ViB9eCAsjKsLrqI"
+    },
+    {
+      "text": "A recent inaction and the consequences",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "5cH1ecbtFXWGUG4A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.5cH1ecbtFXWGUG4A"
+    },
+    {
+      "text": "Difficulties in settling the Ironlands",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "pJL47BF39Q2N3YlQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.pJL47BF39Q2N3YlQ"
+    },
+    {
+      "text": "The decline of the Old World as told to them in childhood",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "EBY2onDvd9LCT8Ce",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.EBY2onDvd9LCT8Ce"
+    },
+    {
+      "text": "A minor plot point involving an iron vow",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "Mzu1Dsltu6HagfH2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.Mzu1Dsltu6HagfH2"
+    },
+    {
+      "text": "A major plot point involving an iron vow",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "9rLgeiIg1Z44HMXD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Wx0riTQFaJY4qkpT.9rLgeiIg1Z44HMXD"
+    }
+  ],
+  "folder": "RwdM0k88MkirBvKa",
+  "sort": 400000,
+  "_id": "Wx0riTQFaJY4qkpT",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161296,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!Wx0riTQFaJY4qkpT"
+}

@@ -1,0 +1,184 @@
+{
+  "name": "Mystical",
+  "type": "delve-theme",
+  "_id": "zSBTSth0Cp9mD5GG",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "This place bubbles over with arcane energy.",
+    "description": "<div class=\"page\" title=\"Page 243\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>This site is an expression of deep and ancient magic. It is almost as if the magic itself has a sentience and will of its own. Whether enchanted by powerful iron priests, attuned firstborn, or some otherworldly presence, this place is clearly a site of studying and practicing the mystical arts.</p>\n<div class=\"page\" title=\"Page 243\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Traveling around this site reveals opportunities to interact with the magic inhabiting it. However, each opportunity is a danger in and of itself as the energy threatens to grow unchecked in power and reach. It is possible that merely by being in this place an even deeper threat is unleashed upon the world.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          1,
+          4
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "A powerful ley line"
+      },
+      {
+        "range": [
+          5,
+          8
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Arcane symbols and runes"
+      },
+      {
+        "range": [
+          9,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Scrolls of mystical lore"
+      },
+      {
+        "range": [
+          13,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Objects of arcane might"
+      },
+      {
+        "range": [
+          17,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Chamber of mystical practices"
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          1,
+          5
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Magical trap"
+      },
+      {
+        "range": [
+          6,
+          10
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Magically blocked area"
+      },
+      {
+        "range": [
+          11,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen tending a mystical source"
+      },
+      {
+        "range": [
+          13,
+          14
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen mystically enhanced"
+      },
+      {
+        "range": [
+          15,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen warped by magic"
+      },
+      {
+        "range": [
+          17,
+          18
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Wild magic surges"
+      },
+      {
+        "range": [
+          19,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Magic grows dangerously unbound"
+      },
+      {
+        "range": [
+          21,
+          22
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Knowledge in the wrong hands"
+      },
+      {
+        "range": [
+          23,
+          24
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Relic with a frightening cost"
+      },
+      {
+        "range": [
+          25,
+          26
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Lost in the illusions"
+      },
+      {
+        "range": [
+          27,
+          28
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Not recognizing allies"
+      },
+      {
+        "range": [
+          29,
+          30
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Tempted to unleash a darker power"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703461111972,
+    "modifiedTime": 1703461359224,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!zSBTSth0Cp9mD5GG"
+}

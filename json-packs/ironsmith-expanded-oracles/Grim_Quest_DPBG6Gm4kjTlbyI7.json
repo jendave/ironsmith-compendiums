@@ -1,0 +1,181 @@
+{
+  "name": "Grim Quest",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Aid those who are suffering",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "AfwgwYien0alZznA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DPBG6Gm4kjTlbyI7.AfwgwYien0alZznA"
+    },
+    {
+      "text": "Atone for wrongs committed",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "MkPeFnmbwoUFBacL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DPBG6Gm4kjTlbyI7.MkPeFnmbwoUFBacL"
+    },
+    {
+      "text": "Avenge those who were wronged",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Ock6ZtU4A1mzydfc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DPBG6Gm4kjTlbyI7.Ock6ZtU4A1mzydfc"
+    },
+    {
+      "text": "Battle the devouring darkness",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "QE61eyDkEEgkeMVe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DPBG6Gm4kjTlbyI7.QE61eyDkEEgkeMVe"
+    },
+    {
+      "text": "Defend those who are weak",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "FryPXWPqvjPf8o1X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DPBG6Gm4kjTlbyI7.FryPXWPqvjPf8o1X"
+    },
+    {
+      "text": "Dismantle that which empowers evil",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "RLAjuoLKWXIUSTNp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DPBG6Gm4kjTlbyI7.RLAjuoLKWXIUSTNp"
+    },
+    {
+      "text": "Preserve that which provides succor",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "pr28DJPSZdgBZMTH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DPBG6Gm4kjTlbyI7.pr28DJPSZdgBZMTH"
+    },
+    {
+      "text": "Rebel against those who oppress",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "mmzwD782X6sLRcmP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DPBG6Gm4kjTlbyI7.mmzwD782X6sLRcmP"
+    },
+    {
+      "text": "Recover that which was lost",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "2J4UOhuuGwHIx1ep",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DPBG6Gm4kjTlbyI7.2J4UOhuuGwHIx1ep"
+    },
+    {
+      "text": "Rescue the innocent in distress",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "RoQQJkBfADtUBIBh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DPBG6Gm4kjTlbyI7.RoQQJkBfADtUBIBh"
+    }
+  ],
+  "folder": "gUr7gI7irOBJEEmD",
+  "sort": 200000,
+  "_id": "DPBG6Gm4kjTlbyI7",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>To continue the theme of gritty fantasy, the standard fantasy tropes are paired with a burden the characters must bear during this quest. While \"Defend those who are weak\" and \"Aid those who are suffering\" may sound similar, hopefully the different wording points your imagination in a new direction.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.DPBG6Gm4kjTlbyI7"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791158965,
+    "modifiedTime": 1702851830152,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!DPBG6Gm4kjTlbyI7"
+}

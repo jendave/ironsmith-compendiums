@@ -1,0 +1,163 @@
+{
+  "name": "Igdan",
+  "type": "foe",
+  "img": "icons/creatures/magical/humanoid-horned-rider.webp",
+  "items": [
+    {
+      "_id": "TcvH9NHitjyhEqws",
+      "name": "Idgan",
+      "type": "progress",
+      "img": "icons/creatures/magical/humanoid-horned-rider.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Humanoid with feathered wings</p>\n<p class=\"nogrow\">Head of a raptor and clawed feet</p>\n<p class=\"nogrow\">Chirps and clicks in their speech</p>\n<p class=\"nogrow\">Bamboo-like armor and bows held with their feet</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Protect their eyries</p>\n<p class=\"nogrow\">Hunt worthy prey</p>\n<p class=\"nogrow\">Harass the hofudi</p>\n<p class=\"nogrow\">Gather treasures and trophies</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Attack from above</p>\n<p class=\"nogrow\">Draw out the hunt and toy with prey</p>\n<p class=\"nogrow\">Use vertical terrain against prey</p>\n</div>\n</div>\n<p>The igdan people prefer the rocky heights at the border between the Tempest Hills and the Veiled Mountains, but their hunting parties range far afield. How their wings are able to sustain them in flight is unknown, but they are experts at gliding and firing their large bows with pinpoint precision. Settlements near igdan eyries tend to have underground shelters for protection when a pack of igdan hunters are spotted.</p>\n<p>In mannerism, the igdan are generally haughty towards \"earthers\" and enjoy demonstrating their superiority. They have a limited concept of ownership and believe they have the right to anything they have the might to take. We fear that may soon lead them to think they own us as well. Our only advantage is that their people seem limited in number, but still we must prepare for the eventual conflict.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A settlement close to an igdan eyrie was given an ultimatum: \"Choose one from among you to act as our prey. If they make it back to the settlement before dawn on the third day, we will not accost your settlement.\" The settlement has until dusk to produce their token prey. How will this conflict be settled? You have something to gain from an interaction with the igdan. What is it?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Igdan hunters have varied numbers of feathers dyed on one side or the other of their necks. What do the color and number of dyed feathers signify?</em></p>\n<p><em>An igdan legend speaks of a Sky Lord. Who or what is this? Why do the Ironlanders fear the legend may be true?</em></p>\n</blockquote>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!9K072yIpZEXmDpue.TcvH9NHitjyhEqws"
+    }
+  ],
+  "effects": [],
+  "folder": "mBkbJwKsXPugnfrb",
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "prototypeToken": {
+    "name": "Igdan",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/magical/humanoid-horned-rider.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741132743794,
+    "modifiedTime": 1741132743794,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "9K072yIpZEXmDpue",
+  "sort": 0,
+  "_key": "!actors!9K072yIpZEXmDpue"
+}

@@ -1,0 +1,75 @@
+{
+  "type": "asset",
+  "folder": "gs91iUqjl8GGuCs9",
+  "name": "Seiryuu",
+  "system": {
+    "requirement": "Your young azure dragon is loyal.",
+    "category": "Companion",
+    "color": null,
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>Of the Heavens: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by requesting your dragon to mystically manipulate rain or wood, roll +heart and add +1. On a hit, take +1 momentum.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Remember the Old Ways: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.be95ca063ded2b19]{Compel} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} using your dragon's connection to kami or symbolic status in tradition, you may roll +heart (instead of +wits). Add +1 and take +1 momentum on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Divine Strike: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} by asking your dragon to attack, roll +heart. If the foe has shown itself to be dishonorable or not a creature of natural origins, add +1. On a hit, your dragon inflicts 3 harm.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Azure Dragon"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/sea-dragon.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709072361915,
+    "modifiedTime": 1764387294197,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "sort": 100000,
+  "_id": "J3nS0nNa95U0u4MR",
+  "_key": "!items!J3nS0nNa95U0u4MR"
+}

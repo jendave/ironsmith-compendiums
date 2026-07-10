@@ -1,0 +1,165 @@
+{
+  "name": "Okiku",
+  "type": "foe",
+  "img": "icons/magic/death/undead-ghost-strike-white.webp",
+  "items": [
+    {
+      "_id": "3ySuUnpwbZdEX6RL",
+      "name": "Okiku",
+      "type": "progress",
+      "img": "icons/magic/death/undead-ghost-strike-white.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Ghost of innocent murdered</p>\n<p>Wailing of lack of guilt</p>\n<p>Uncontrollable sobbing</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Drive their killer mad</p>\n<p>Convince others of their innocence</p>\n<p>Torment other tormentors</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Induce madness</p>\n<p>Phase through objects</p>\n<p>Ear-piercing blasts of sound</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 34\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 45\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 48\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>When an innocent person is tormented and then killed, there is a chance that their spirit returns to the Firelands as a horror. The okiku horrors would be sympathetic for this reason except for their penchant for visiting torment on others. Usually an okiku will hunt down their own killer and visit madness upon them rather than kill them, but if the okiku thinks that anyone else they cross paths with is in any way guilty of causing pain, they are happy to visit torment upon them as well.</p>\n<p>In addition to the madness they can induce in others, they also can emit ear- shattering wails of their own grief. Often these cries are the first indication that an okiku is nearby.</p>\n<p>The ethereal form of an okiku cannot be touched with normal physical objects. They can phase through sword attacks as easily as they phase through walls. However, some of our mystics have found particular blessings that they can bestow upon weapons that for a time will allow a warrior to drive off okiku. Yes, drive off, for they cannot be killed. Only when they finish tormenting their own killer will the okiku fade from this world and finally find rest in the next.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A particularly ruthless ronin has created a number of okiku throughout the years and always managed to stay a step ahead of them by roaming the Firelands far and wide. Unfortunately, the ronin was killed in a simple climbing accident, and now the okiku are furious that they have lost the object of their torment. Who do you know that may have a way to stop these okiku and put them to rest?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Is it true that the okiku tell their victims they will finish tormenting them after they count to ten? If so, why?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!T48RF8WYS8BONdx4.3ySuUnpwbZdEX6RL"
+    }
+  ],
+  "effects": [],
+  "folder": "XnPy7Oh36oQPFJmF",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Okiku",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/magic/death/undead-ghost-strike-white.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741402636026,
+    "modifiedTime": 1741402744357,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "T48RF8WYS8BONdx4",
+  "sort": 100000,
+  "_key": "!actors!T48RF8WYS8BONdx4"
+}

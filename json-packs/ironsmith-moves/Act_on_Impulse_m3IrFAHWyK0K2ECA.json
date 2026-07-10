@@ -1,0 +1,97 @@
+{
+  "name": "Act on Impulse",
+  "type": "sfmove",
+  "_id": "m3IrFAHWyK0K2ECA",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "dfid": "",
+    "Category": "",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "When **you are tempted by a vice and don’t know how your character would react**, choose one:\n\n* Roll +heart. On a hit, they resist the impulse to act. On a miss, they give in to their vice in some way.\n* @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aba3e44b7e810c0f]{Ask the Oracle} if your character will act upon their vice with the odds of likely.",
+    "Trigger": {
+      "Text": "",
+      "Options": [
+        {
+          "Text": "",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Heart"
+          ]
+        },
+        {
+          "Text": "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aba3e44b7e810c0f]{Ask the Oracle}",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aba3e44b7e810c0f]{Ask the Oracle}"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      },
+      "Weak Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "",
+      "Authors": [],
+      "Page": null
+    },
+    "Suggestions": {},
+    "Display": {
+      "Images": []
+    }
+  },
+  "effects": [],
+  "folder": "u9ITbzIMLhPHkXKI",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": true
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1708671633170,
+    "modifiedTime": 1708678366923,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!m3IrFAHWyK0K2ECA"
+}

@@ -1,0 +1,165 @@
+{
+  "name": "Nure Onna",
+  "type": "foe",
+  "img": "icons/creatures/reptiles/snake-poised-white.webp",
+  "items": [
+    {
+      "_id": "bOdwS4pPn3sSCxro",
+      "name": "Nure Onna",
+      "type": "progress",
+      "img": "icons/creatures/reptiles/snake-poised-white.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Giant snake with the girth of a human</p>\n<p>Feminine human-like face</p>\n<p>Arm-like appendages just below the jaw</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Feast on human flesh</p>\n<p>Defend its territory</p>\n<p>Sun on giant rocks</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Surprise strike from hiding</p>\n<p>Blend in with driftwood</p>\n<p>Paralyzing bite</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 38\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>On the coasts of Kokuyoseki No Ha, vampiric sea serpents lie in wait among the obsidian shards for unsuspecting Firelanders to feast upon. But these aren&rsquo;t normal sea serpents. Like the jorogumo, these creatures have a vaguely feminine humanoid face, but their mouth is lined with fangs that they use to drain the blood from victims.</p>\n<p>Worse yet there are two varieties of nure onna, and the second kind has fledgling arm-like appendages just below its jaw that it uses to hold down its prey. Both varieties have muddy brown colored scales and are excellent swimmers.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>The merchant ship Hi Uku was shipwrecked on one of the Chisana Hi islands, and the vessel carried the local daimyo&rsquo;s spouse as well as goods needed for survival. Unfortunately, the vessel ran aground in an area known to be infested with nure onna. If the passengers survived the sea snakes, the volcano would be the next immediate danger. Who or what else was on the ship that makes you want to help with the rescue?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Are the nure onna faces truly human? If so, how did this amalgamation of a beast come about?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!h0iDiXNMyBfjeOi5.bOdwS4pPn3sSCxro"
+    }
+  ],
+  "effects": [],
+  "folder": "ECz3gB79yvA9MWKG",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Nure Onna",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/reptiles/snake-poised-white.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741384997446,
+    "modifiedTime": 1741384997446,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "h0iDiXNMyBfjeOi5",
+  "sort": 0,
+  "_key": "!actors!h0iDiXNMyBfjeOi5"
+}

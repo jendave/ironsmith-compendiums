@@ -1,0 +1,311 @@
+{
+  "name": "Major Plot Twist (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "It was all a diversion.",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "acPTSRp4eO6wKpI5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.acPTSRp4eO6wKpI5"
+    },
+    {
+      "text": "A dark secret is revealed.",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "wcdUKfTtNv75JX4r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.wcdUKfTtNv75JX4r"
+    },
+    {
+      "text": "A trap is sprung.",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "k9Tnx5P3WkGe7l7A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.k9Tnx5P3WkGe7l7A"
+    },
+    {
+      "text": "An assumption is revealed to be false.",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "y8p4rOT6d8MQyLKu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.y8p4rOT6d8MQyLKu"
+    },
+    {
+      "text": "A secret alliance is revealed.",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "m7AbqvZKGpd6IxgZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.m7AbqvZKGpd6IxgZ"
+    },
+    {
+      "text": "Your actions benefit an enemy.",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "THeSOhBpVaBkAi9o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.THeSOhBpVaBkAi9o"
+    },
+    {
+      "text": "Someone returns unexpectedly.",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "Mb7HcGl1diH4q8ZL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.Mb7HcGl1diH4q8ZL"
+    },
+    {
+      "text": "A more dangerous foe is revealed.",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "YnKDr3GnVlGPXyHI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.YnKDr3GnVlGPXyHI"
+    },
+    {
+      "text": "You and an enemy share a common goal.",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "CfMm2CCksoXRrubP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.CfMm2CCksoXRrubP"
+    },
+    {
+      "text": "A true identity is revealed.",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "72UjN9rSif3UQkvi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.72UjN9rSif3UQkvi"
+    },
+    {
+      "text": "You are betrayed by someone who was trusted.",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "1uP8ohMmKXsm4RKB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.1uP8ohMmKXsm4RKB"
+    },
+    {
+      "text": "You are too late.",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "yVQ8ALZgMsZ5MHp4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.yVQ8ALZgMsZ5MHp4"
+    },
+    {
+      "text": "The true enemy is revealed.",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "oIrSeGW6tOLklquA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.oIrSeGW6tOLklquA"
+    },
+    {
+      "text": "The enemy gains new allies.",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "nRLpYjjWAiVPv4tz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.nRLpYjjWAiVPv4tz"
+    },
+    {
+      "text": "A new danger appears.",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "RVTtKCtgeontUxHk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.RVTtKCtgeontUxHk"
+    },
+    {
+      "text": "Someone or something goes missing.",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "J58z70DcL9F67U1C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.J58z70DcL9F67U1C"
+    },
+    {
+      "text": "The truth of a relationship is revealed.",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "OLmwviXf6qHfLEgK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.OLmwviXf6qHfLEgK"
+    },
+    {
+      "text": "Two seemingly unrelated situations are shown to be connected.",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "rZ0HORQHN1h1Fjie",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.rZ0HORQHN1h1Fjie"
+    },
+    {
+      "text": "Unexpected powers or abilities are revealed.",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "gE4KbQngAgljFDlq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.gE4KbQngAgljFDlq"
+    },
+    {
+      "text": "Roll twice more on this table. Both results occur. If they are the same result, make it more dramatic.",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "XAbUoaCT15BTF04v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!joTd30CNcNw7ySbA.XAbUoaCT15BTF04v"
+    }
+  ],
+  "folder": "JGoBiGjNOZyH38MA",
+  "sort": -150000,
+  "_id": "joTd30CNcNw7ySbA",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.joTd30CNcNw7ySbA"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161640,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!joTd30CNcNw7ySbA"
+}

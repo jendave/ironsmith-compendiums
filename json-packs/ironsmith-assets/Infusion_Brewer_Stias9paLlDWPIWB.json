@@ -1,0 +1,80 @@
+{
+  "type": "asset",
+  "folder": "x2Im9vXS7mZXpCyJ",
+  "name": "Infusion Brewer",
+  "system": {
+    "requirement": "When you drink a decoction below, roll +wits. On a strong hit, set your infusion track to +6. On a weak hit, make it +3. Then, when you make a move with that stat, add +1 and suffer -1 infusion. If you roll a 1 on the action die for that move, also suffer -1 to the associated track.",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Strength of the Bear: Iron/Health</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Grace of the Panther: Edge/Health</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Cunning of the Fox: Shadow / Spirit</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Wisdom of the Owl: Wits / Spirit</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Infusion",
+      "current": 0,
+      "max": 6,
+      "value": 6,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Each decoction may only be used once per scene.",
+        "selected": false
+      }
+    ],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/square-bottle.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1708647982843,
+    "modifiedTime": 1764372570572,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Stias9paLlDWPIWB",
+  "sort": 1300000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!Stias9paLlDWPIWB"
+}

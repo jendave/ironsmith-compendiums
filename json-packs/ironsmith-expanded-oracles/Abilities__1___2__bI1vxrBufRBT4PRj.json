@@ -1,0 +1,627 @@
+{
+  "name": "Abilities (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Keen senses",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "BFHKn1MMXHnKwZxw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.BFHKn1MMXHnKwZxw"
+    },
+    {
+      "text": "Intimidating vocalization",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "JKagZEEZbdCWvC0t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.JKagZEEZbdCWvC0t"
+    },
+    {
+      "text": "Climber",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "QLC7HnIHO6mqaM4Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.QLC7HnIHO6mqaM4Q"
+    },
+    {
+      "text": "Intelligent",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "wGc0rh5rvOVO9Onu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.wGc0rh5rvOVO9Onu"
+    },
+    {
+      "text": "Swift",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "OzwpKhJMe4RuSMGa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.OzwpKhJMe4RuSMGa"
+    },
+    {
+      "text": "Powerful bite",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "hnxBr0Egtx5QG3OO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.hnxBr0Egtx5QG3OO"
+    },
+    {
+      "text": "Stealthy / ambusher",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "JlDfXofy2Os0ugE8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.JlDfXofy2Os0ugE8"
+    },
+    {
+      "text": "Horrid visage",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "iI2RPOYIAO6tNq95",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.iI2RPOYIAO6tNq95"
+    },
+    {
+      "text": "Strong",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "cJtSYKaylqqBWRcj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.cJtSYKaylqqBWRcj"
+    },
+    {
+      "text": "Camouflaged",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "hwuF11Kmw1sfEtwd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.hwuF11Kmw1sfEtwd"
+    },
+    {
+      "text": "Flier / glider",
+      "range": [
+        41,
+        43
+      ],
+      "_id": "Ip5eZGUNG7V0uQUT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.Ip5eZGUNG7V0uQUT"
+    },
+    {
+      "text": "Poisonous",
+      "range": [
+        44,
+        46
+      ],
+      "_id": "ydPwPKTmYFf3W6jJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.ydPwPKTmYFf3W6jJ"
+    },
+    {
+      "text": "Semiaquatic / swimmer",
+      "range": [
+        47,
+        49
+      ],
+      "_id": "8yqM33XOT8VrSj0U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.8yqM33XOT8VrSj0U"
+    },
+    {
+      "text": "Grappler / entangler",
+      "range": [
+        50,
+        52
+      ],
+      "_id": "RTrDT8Y5pHUxtMfd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.RTrDT8Y5pHUxtMfd"
+    },
+    {
+      "text": "Leaper",
+      "range": [
+        53,
+        55
+      ],
+      "_id": "wqhHNxMcifglx4aY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.wqhHNxMcifglx4aY"
+    },
+    {
+      "text": "Crusher / constrictor",
+      "range": [
+        56,
+        58
+      ],
+      "_id": "FzZdFuRbp9uqRl0g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.FzZdFuRbp9uqRl0g"
+    },
+    {
+      "text": "Armored",
+      "range": [
+        59,
+        61
+      ],
+      "_id": "uTRKZ5obddnEGZ0c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.uTRKZ5obddnEGZ0c"
+    },
+    {
+      "text": "Burrower",
+      "range": [
+        62,
+        64
+      ],
+      "_id": "ciVyXkk3JuONpoAT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.ciVyXkk3JuONpoAT"
+    },
+    {
+      "text": "Noxious smell",
+      "range": [
+        65,
+        67
+      ],
+      "_id": "5ISvlSRQkHMrBoKa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.5ISvlSRQkHMrBoKa"
+    },
+    {
+      "text": "Trap-setter",
+      "range": [
+        68,
+        69
+      ],
+      "_id": "JU4MGwzhaKqf1Mv2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.JU4MGwzhaKqf1Mv2"
+    },
+    {
+      "text": "Parasitic",
+      "range": [
+        70,
+        71
+      ],
+      "_id": "iSbWyzEttco5W4QS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.iSbWyzEttco5W4QS"
+    },
+    {
+      "text": "Vibration sense",
+      "range": [
+        72,
+        73
+      ],
+      "_id": "kseyF4OzeM79Pzoz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.kseyF4OzeM79Pzoz"
+    },
+    {
+      "text": "Breath weapon / toxic spew",
+      "range": [
+        74,
+        75
+      ],
+      "_id": "YCQZDzBBNNz77wqn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.YCQZDzBBNNz77wqn"
+    },
+    {
+      "text": "Mimicry",
+      "range": [
+        76,
+        77
+      ],
+      "_id": "xIYkNLkOA0I65Er8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.xIYkNLkOA0I65Er8"
+    },
+    {
+      "text": "Shapeshifting",
+      "range": [
+        78,
+        79
+      ],
+      "_id": "f2UBlzzxbxMZEACr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.f2UBlzzxbxMZEACr"
+    },
+    {
+      "text": "Control lesser creatures",
+      "range": [
+        80,
+        81
+      ],
+      "_id": "Txm3XtJ0o6iF4uoW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.Txm3XtJ0o6iF4uoW"
+    },
+    {
+      "text": "Echolocation",
+      "range": [
+        82,
+        83
+      ],
+      "_id": "OMwnl9wRpAFKv8zl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.OMwnl9wRpAFKv8zl"
+    },
+    {
+      "text": "Electric shock",
+      "range": [
+        84,
+        85
+      ],
+      "_id": "gj2jnUAhWD336I49",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.gj2jnUAhWD336I49"
+    },
+    {
+      "text": "Acidic",
+      "range": [
+        86,
+        87
+      ],
+      "_id": "GusdYfMP9Jj3HBb9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.GusdYfMP9Jj3HBb9"
+    },
+    {
+      "text": "Symbiotic",
+      "range": [
+        88,
+        89
+      ],
+      "_id": "5g7ADKUyJO51DoEK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.5g7ADKUyJO51DoEK"
+    },
+    {
+      "text": "Shoot projectiles",
+      "range": [
+        90,
+        91
+      ],
+      "_id": "JgWNUbkQjeivqtJX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.JgWNUbkQjeivqtJX"
+    },
+    {
+      "text": "Paralyzing",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "8T528E9i3qkuXzrJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.8T528E9i3qkuXzrJ"
+    },
+    {
+      "text": "Immune to iron",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "0qod2ngxUbDwOUfc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.0qod2ngxUbDwOUfc"
+    },
+    {
+      "text": "Feels no pain",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "urfITjFmhuwckVrT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.urfITjFmhuwckVrT"
+    },
+    {
+      "text": "Enact rituals",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "X8PJ6x9QpS52MOuA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.X8PJ6x9QpS52MOuA"
+    },
+    {
+      "text": "Create illusions",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "3sPumQVa6gyhGOnW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.3sPumQVa6gyhGOnW"
+    },
+    {
+      "text": "Mind control / telepathy",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "s1LyqFb8V3EMk9bs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.s1LyqFb8V3EMk9bs"
+    },
+    {
+      "text": "Move between realities",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "Oz7NECjwqeGEy6e5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.Oz7NECjwqeGEy6e5"
+    },
+    {
+      "text": "Wield weapons",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "qdOdfdvi6vW16vk7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.qdOdfdvi6vW16vk7"
+    },
+    {
+      "text": "Control elements",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "jOjE5d9vQaxVeqV4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bI1vxrBufRBT4PRj.jOjE5d9vQaxVeqV4"
+    }
+  ],
+  "folder": "QybiGAbDuTsW65s1",
+  "sort": 3,
+  "_id": "bI1vxrBufRBT4PRj",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946938739,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!bI1vxrBufRBT4PRj"
+}

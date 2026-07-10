@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "folder": "O630LBWkzJdjXwO9",
+  "name": "Icy Crocodile",
+  "system": {
+    "requirement": "Your croc is cold and calculating.",
+    "category": "Companion",
+    "color": null,
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>Aquatic: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} alongside your croc in a watery environment, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Death Roll: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aac3783710ad7499]{End the Fight} alongside your croc in a watery environment against a foe of formidable or less, you may reroll any dice.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Jaws of Iron: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} alongside your croc, inflict +1 harm on a hit. Once per fight on a strong hit, inflict +2 harm instead.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/croc-jaws.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1708647981642,
+    "modifiedTime": 1764372530096,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "d9AH09ofC9dQtHFq",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!d9AH09ofC9dQtHFq"
+}

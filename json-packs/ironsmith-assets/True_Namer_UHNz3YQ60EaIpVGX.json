@@ -1,0 +1,64 @@
+{
+  "type": "asset",
+  "folder": "LVZLVJKri5u9NlDk",
+  "name": "True Namer",
+  "system": {
+    "requirement": "After you spend significant time studying a specific animal, beast, element, or other narrow topic, you learn its true name that holds ancient power.",
+    "category": "Ritual",
+    "color": null,
+    "fields": [
+      {
+        "name": "True Name",
+        "value": ""
+      },
+      {
+        "name": "True Name",
+        "value": ""
+      },
+      {
+        "name": "True Name",
+        "value": ""
+      }
+    ],
+    "abilities": [],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "You may Secure an Advantage +wits by invoking a target's true name and claiming power over it. On a strong hit, for the rest of the scene or encounter, add +1 to any move where you primarily interact physically or socially with that target. Treat a weak hit as a miss. You may only attempt this once per scene or encounter per single target.",
+        "selected": false
+      }
+    ],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/lightning-shout.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1708648000285,
+    "modifiedTime": 1764372927859,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "UHNz3YQ60EaIpVGX",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!UHNz3YQ60EaIpVGX"
+}

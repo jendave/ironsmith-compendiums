@@ -1,0 +1,888 @@
+{
+  "name": "Background - Starting Assets",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "texWFIGLgil9vlVB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Artisan - Improviser (Path), Talisman (Ritual), Wright (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.texWFIGLgil9vlVB"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "z2ODtgWZDB5kx8Hv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Barbarian - Berserker (Combat Talent), Leech (Ritual), Young Wyvern (Companion)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.z2ODtgWZDB5kx8Hv"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "_id": "WLJ6ZuoPPuREWvKF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bard - Bonded (Path), Storyweaver (Path), Tether (Ritual)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.WLJ6ZuoPPuREWvKF"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "_id": "MhrIzGP23BN4tciH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beastmaster - Animal Kin (Path), Cave Lion (Companion), Totem (Ritual)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.MhrIzGP23BN4tciH"
+    },
+    {
+      "range": [
+        13,
+        15
+      ],
+      "_id": "eHRIAyNWJZEJE0RQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bladedancer - Dancer (Path), Duelist (Combat Talent), Keen (Ritual)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.eHRIAyNWJZEJE0RQ"
+    },
+    {
+      "range": [
+        16,
+        18
+      ],
+      "_id": "ItUediv8UOnLCROU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cleric - Devotant (Path), Herbalist (Path), Loyalist* (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.ItUediv8UOnLCROU"
+    },
+    {
+      "range": [
+        19,
+        21
+      ],
+      "_id": "9OgQ829gfqUrZNSJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cloak - Infiltrator (Path), Pretender (Path), Shadow-Walk (Ritual)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.9OgQ829gfqUrZNSJ"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "_id": "Z3VhLGCOvpaYaUi2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Delver - Improviser (Path), Lightbearer (Ritual), Lorekeeper (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.Z3VhLGCOvpaYaUi2"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "ONX1oY2mH4jwvkgH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Druid - Augur (Ritual), Long-Arm (Combat Talent), Wildblood (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.ONX1oY2mH4jwvkgH"
+    },
+    {
+      "range": [
+        28,
+        30
+      ],
+      "_id": "7hXq134MUVqZ9tdt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enchanter - Sway (Ritual), Talisman (Ritual), Trickster (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.7hXq134MUVqZ9tdt"
+    },
+    {
+      "range": [
+        31,
+        33
+      ],
+      "_id": "jNNDw47KnS3afWfO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forsaken Knight - Ironclad (Combat Talent), Rider (Path), Spirit-Bound (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.jNNDw47KnS3afWfO"
+    },
+    {
+      "range": [
+        34,
+        36
+      ],
+      "_id": "oTk0a4sQ6OjMx1jQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hunter - Bind (Ritual), Fletcher (Path), Hound (Companion)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.oTk0a4sQ6OjMx1jQ"
+    },
+    {
+      "range": [
+        37,
+        39
+      ],
+      "_id": "FqdGASiDtlzm33QZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Knight - Banner-Sworn (Path), Ironclad (Combat Talent), Kindred (Companion; squire)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.FqdGASiDtlzm33QZ"
+    },
+    {
+      "range": [
+        40,
+        42
+      ],
+      "_id": "2oq8DYnViruQzERC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mercenary Commander - Fortune Hunter (Path), Veteran (Path), Commander (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.2oq8DYnViruQzERC"
+    },
+    {
+      "range": [
+        43,
+        45
+      ],
+      "_id": "VsQuWurikWN8KBUG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monster Hunter - Fortune Hunter (Path), Slayer (Path), Skirmisher (Combat Talent)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.VsQuWurikWN8KBUG"
+    },
+    {
+      "range": [
+        46,
+        48
+      ],
+      "_id": "e3yMScZewRZBe45m",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Necromancer - Awakening (Ritual), Communion (Ritual), Raven (Companion)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.e3yMScZewRZBe45m"
+    },
+    {
+      "range": [
+        49,
+        51
+      ],
+      "_id": "Tqvi2LkQeTXCiWi9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nomad - Mammoth (Companion), Slinger (Combat Talent), Wayfinder (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.Tqvi2LkQeTXCiWi9"
+    },
+    {
+      "range": [
+        52,
+        54
+      ],
+      "_id": "vIz3OIEJdCwSWVzf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Outcast Elf - Archer (Combat Talent), Masked (Path), Outcast (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.vIz3OIEJdCwSWVzf"
+    },
+    {
+      "range": [
+        55,
+        57
+      ],
+      "_id": "3OHUFAD6LxMyej7i",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Paladin - Honorbound (Path), Swordmaster (Combat Talent), Lightbearer (Ritual)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.3OHUFAD6LxMyej7i"
+    },
+    {
+      "range": [
+        58,
+        60
+      ],
+      "_id": "us4LaWoUBvckvIuk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ranger - Hawk (Companion), Wayfinder (Path), Wildblood (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.us4LaWoUBvckvIuk"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "myRxRyckRnuJzpKh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reaver - Hound (Companion), Sunderer (Combat Talent), Visage (Ritual)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.myRxRyckRnuJzpKh"
+    },
+    {
+      "range": [
+        64,
+        66
+      ],
+      "_id": "eQNAviiKdRAluinH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sage - Lorekeeper (Path), Owl (Companion), Scry (Ritual)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.eQNAviiKdRAluinH"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "PNK5Ik8xNoLyoiRI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sea Witch - Dancer (Path), Invoke (Ritual), Waterborn (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.PNK5Ik8xNoLyoiRI"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "4Fum3tM8pivCVXlT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seer - Divination (Ritual), Scry (Ritual), Sighted (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.4Fum3tM8pivCVXlT"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "1EgCQUqsELCbe3Fr",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sorcerer - Giant Spider (Companion), Invoke (Ritual), Sighted (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.1EgCQUqsELCbe3Fr"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "UTDf3l6YNIQJ6exL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swordbearer - Blade-Bound (Path), Keen (Ritual), Swordmaster (Combat Talent)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.UTDf3l6YNIQJ6exL"
+    },
+    {
+      "range": [
+        79,
+        81
+      ],
+      "_id": "AJ2G3AxDnaQHxxe6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thief - Cutthroat (Combat Talent), Infiltrator (Path), Trickster (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.AJ2G3AxDnaQHxxe6"
+    },
+    {
+      "range": [
+        82,
+        84
+      ],
+      "_id": "AKvDhsUpEU0cb6Om",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "War Priest - Banner-Sworn (Path), Devotant (Path), Thunder-Bringer (Combat Talent)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.AKvDhsUpEU0cb6Om"
+    },
+    {
+      "range": [
+        85,
+        87
+      ],
+      "_id": "FqppoSyFIxYXUpXU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warden - Loyalist* (Path), Shield-Bearer (Combat Talent), Ward (Ritual)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.FqppoSyFIxYXUpXU"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "EEYjYTHp2MMKoZiQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warlord - Commander (Path), Empowered (Path), Horse (Companion)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.EEYjYTHp2MMKoZiQ"
+    },
+    {
+      "range": [
+        91,
+        93
+      ],
+      "_id": "WbRT8MbYtULe8AMH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wildling - Bind (Ritual), Brawler (Combat Talent), Wildblood (Path)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.WbRT8MbYtULe8AMH"
+    },
+    {
+      "range": [
+        94,
+        96
+      ],
+      "_id": "r968NfiGkdpC4Fc6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Witch - Alchemist (Path), Divination (Ritual), Raven (Companion)",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.r968NfiGkdpC4Fc6"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "NsI9uBZky39BoUsO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice - Envision a character whose history includes both backgrounds; choose three assets from among them.",
+      "name": "",
+      "_key": "!tables.results!ARfAkQNCv1vMSMDm.NsI9uBZky39BoUsO"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Some tips on using the background table: </p><ul><li><p>There is some overlap of assets between backgrounds. If you use this table to generate characters in a co-op or guided game with other players, feel free to reroll a result with duplicates, or swap the matching asset for another of your choosing.</p></li><li><p>Some backgrounds are straightforward — if you've played other fantasy RPGs. you likely have a good understanding of what role a Ranger or Paladin embodies. Others are more evocative. Not sure what role a Cloak or Reaver might play in your world? Take a moment to envision it.</p></li><li><p>If you prefer to customize, go for it! For example, if magic does not exist in your version of the Ironlands, swap a ritual for another asset of your choosing.</p></li><li><p>The Loyalist asset — marked with an asterisk(*) — is meant for co-op or guided play with allies. If you are playing solo, swap this asset for one of your choosing.</p></li><li><p>This table includes two bonus assets that were only released in digital form: Commander and Lorekeeper. To add those assets to your collection, visit the downloads page to grab the latest print-and-play version of the Ironsworn asset deck.</p></li></ul>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "3gZ82Py34K048pAT",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.23.7",
+    "createdTime": 1724700868680,
+    "modifiedTime": 1777589730277,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "ARfAkQNCv1vMSMDm",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "F1bbAr0GqBQd66Yt": 3
+  },
+  "_key": "!tables!ARfAkQNCv1vMSMDm"
+}

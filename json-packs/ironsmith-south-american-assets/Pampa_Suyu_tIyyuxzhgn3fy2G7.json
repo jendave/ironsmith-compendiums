@@ -1,0 +1,68 @@
+{
+  "type": "asset",
+  "folder": "k9qifJru6tySeyuL",
+  "name": "Pampa Suyu",
+  "system": {
+    "requirement": "When you ask the great jaguar spirit to inhabit your body, roll +wits. On a strong hit, you transform into a full jaguar. @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm} (1) and take +6 nuna. On a weak hit, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm} (2) and take +4 nuna. The tranformation ends if a full day has passed; if you have 0 health, spirit, or nuna; or if you choose to end it.",
+    "category": "Ritual",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you make a move relying on aspects of the new body, choose one.<ul><li>Add +1 and suffer -1 nuna.</li><li>Roll +nuna and suffer -2 nuna.</li></ul></p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>As above, but you may tranform into a humanoid jaguar form.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>As above, but you may tranform into a spectral version of either form. (You must take this upgrade last.)</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Nuna",
+      "current": 0,
+      "max": 6,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Shapechange"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/werewolf.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709598906613,
+    "modifiedTime": 1764393309429,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "tIyyuxzhgn3fy2G7",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!tIyyuxzhgn3fy2G7"
+}

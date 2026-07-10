@@ -1,0 +1,181 @@
+{
+  "name": "But...",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "The settlement is located in the way",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "FZDsGFW2CpXPDtPB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tG9ntqjZ7telppCh.FZDsGFW2CpXPDtPB"
+    },
+    {
+      "text": "A hunter took down its prey",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "Tfriu1aKFKzgcoWO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tG9ntqjZ7telppCh.Tfriu1aKFKzgcoWO"
+    },
+    {
+      "text": "A small group accidentally harmed it",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "iQn78NU4sXC3dtO3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tG9ntqjZ7telppCh.iQn78NU4sXC3dtO3"
+    },
+    {
+      "text": "Passers-by accidentally frightened it",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "gjyp1MyPj4FYMLLJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tG9ntqjZ7telppCh.gjyp1MyPj4FYMLLJ"
+    },
+    {
+      "text": "The terrain makes it difficult",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "2kVyxhTLKpNFBjKf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tG9ntqjZ7telppCh.2kVyxhTLKpNFBjKf"
+    },
+    {
+      "text": "It got injured by a hunting trap",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "KfxonsQuazvmHZJx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tG9ntqjZ7telppCh.KfxonsQuazvmHZJx"
+    },
+    {
+      "text": "A small group unknowingly offended it through action or trespass",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "6VhszfeJzJgiZIFY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tG9ntqjZ7telppCh.6VhszfeJzJgiZIFY"
+    },
+    {
+      "text": "A small group took aggressive action against it for sport",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "zwP8SV1Bw4LVtEx8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tG9ntqjZ7telppCh.zwP8SV1Bw4LVtEx8"
+    },
+    {
+      "text": "A small group gathered its last food",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "5fZ0YKghrIpqmK3k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tG9ntqjZ7telppCh.5fZ0YKghrIpqmK3k"
+    },
+    {
+      "text": "A small group disturbed its lair or nest",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "slVoQTaRaU8kW3fg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tG9ntqjZ7telppCh.slVoQTaRaU8kW3fg"
+    }
+  ],
+  "folder": "i3P1D2W2X351lvzT",
+  "sort": 200000,
+  "_id": "tG9ntqjZ7telppCh",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Usually there's something in the fiction that gives you a sense of urgency. What is the source of this increasing pressure that makes it important for you to complete your vow quickly?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.tG9ntqjZ7telppCh"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159591,
+    "modifiedTime": 1702854022465,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!tG9ntqjZ7telppCh"
+}

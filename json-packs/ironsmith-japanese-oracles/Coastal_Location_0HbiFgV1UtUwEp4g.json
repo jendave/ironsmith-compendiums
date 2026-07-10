@@ -1,0 +1,286 @@
+{
+  "name": "Coastal Location",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Sand Bar",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "qrPBuM7KNioBsXMp",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.qrPBuM7KNioBsXMp"
+    },
+    {
+      "text": "Volcano Tip",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "JWvuMSN1JEsd47Am",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.JWvuMSN1JEsd47Am"
+    },
+    {
+      "text": "Underwater Lava Vents",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "AY6VlaEjZ23lpY2u",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.AY6VlaEjZ23lpY2u"
+    },
+    {
+      "text": "Kawabune (River Boat)",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "hrMtajlGV6YdmhFJ",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.hrMtajlGV6YdmhFJ"
+    },
+    {
+      "text": "Beka (Seaweed Gathering Boat)",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "GHyPjVWCQ3dqEkFS",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.GHyPjVWCQ3dqEkFS"
+    },
+    {
+      "text": "Amibune (Net Fishing Boat)",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "Ud7dxan7dCCn5Ucn",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.Ud7dxan7dCCn5Ucn"
+    },
+    {
+      "text": "Dock",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "W3J9XYfgtNKqL6kh",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.W3J9XYfgtNKqL6kh"
+    },
+    {
+      "text": "Bezaisen (Trade Boat)",
+      "range": [
+        16,
+        23
+      ],
+      "_id": "91jkmk0qtYHd7sF3",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.91jkmk0qtYHd7sF3"
+    },
+    {
+      "text": "Crag",
+      "range": [
+        24,
+        30
+      ],
+      "_id": "iyrw3vu3dBYr9bVu",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.iyrw3vu3dBYr9bVu"
+    },
+    {
+      "text": "Cliffs",
+      "range": [
+        31,
+        38
+      ],
+      "_id": "1gSCgKHRrF2LQBcs",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.1gSCgKHRrF2LQBcs"
+    },
+    {
+      "text": "River Delta",
+      "range": [
+        39,
+        46
+      ],
+      "_id": "vleN9uYImNt4Mcd0",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.vleN9uYImNt4Mcd0"
+    },
+    {
+      "text": "Inlet",
+      "range": [
+        47,
+        54
+      ],
+      "_id": "GfaWo8NQp6BD2oNJ",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.GfaWo8NQp6BD2oNJ"
+    },
+    {
+      "text": "Peninsula",
+      "range": [
+        55,
+        62
+      ],
+      "_id": "ULXq1BSIo6GcCWQZ",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.ULXq1BSIo6GcCWQZ"
+    },
+    {
+      "text": "Rocky Beach",
+      "range": [
+        63,
+        70
+      ],
+      "_id": "iqBnvjLZ3OaK6N8e",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.iqBnvjLZ3OaK6N8e"
+    },
+    {
+      "text": "Archipelago",
+      "range": [
+        71,
+        85
+      ],
+      "_id": "eH4JxmmTZcPQXYeJ",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.eH4JxmmTZcPQXYeJ"
+    },
+    {
+      "text": "Turbulent Waters",
+      "range": [
+        86,
+        99
+      ],
+      "_id": "mTKiOPFgpk08Pyhr",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.mTKiOPFgpk08Pyhr"
+    },
+    {
+      "text": "Anomaly",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "dl3rfqUvph4oYLBY",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0HbiFgV1UtUwEp4g.dl3rfqUvph4oYLBY"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use both the regular Ironsworn oracle and the additional one provided here by rolling your action die with the 2d10. If your action die shows 1-3, use the regular Ironsworn oracle. If your action die shows 4-6, use the oracle provided here.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "lCBownpY290WYqSQ",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "12.331",
+    "createdTime": 1708932851292,
+    "modifiedTime": 1709074981876,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "0HbiFgV1UtUwEp4g",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!tables!0HbiFgV1UtUwEp4g"
+}

@@ -1,0 +1,331 @@
+{
+  "name": "Quirk",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Nervous eye twitch or head tilt",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "3fJGvEVZ0vzh6xEH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.3fJGvEVZ0vzh6xEH"
+    },
+    {
+      "text": "Constant cough or throat-clearing",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "gynTfThuUSSOctWa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.gynTfThuUSSOctWa"
+    },
+    {
+      "text": "Unquenchable thirst or insatiable hunger",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "wHdtUoD4eSa9VAlZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.wHdtUoD4eSa9VAlZ"
+    },
+    {
+      "text": "Sniffs people or objects before interacting with them",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "jWLHit51EEwIZetM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.jWLHit51EEwIZetM"
+    },
+    {
+      "text": "Only drinks from a single personal ale horn or water skin",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "WMbLBFrqeZCdpENe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.WMbLBFrqeZCdpENe"
+    },
+    {
+      "text": "Rolls two or three iron stones around in one hand",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "561jnml6RvSOJ5mQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.561jnml6RvSOJ5mQ"
+    },
+    {
+      "text": "Never removes their helmet and face plate",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "LjXURXQZTwXDHWJa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.LjXURXQZTwXDHWJa"
+    },
+    {
+      "text": "Only eats meat from an animal they have personally killed",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "MZdsddcwTaQcenp7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.MZdsddcwTaQcenp7"
+    },
+    {
+      "text": "Refrains from touching others and shirks away from touch",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "S6wtixHFSJHrZL2Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.S6wtixHFSJHrZL2Q"
+    },
+    {
+      "text": "Constantly rubs hands as if wiping off blood",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "xNNDx7ToIxgBFrXL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.xNNDx7ToIxgBFrXL"
+    },
+    {
+      "text": "Scratches head or pulls on hair often",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "DEojKvEkRbz1jTnv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.DEojKvEkRbz1jTnv"
+    },
+    {
+      "text": "Readjusts armor buckles or weapon belt frequently",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "dtHGHXDKXIHXVBMz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.dtHGHXDKXIHXVBMz"
+    },
+    {
+      "text": "Constantly looking over their shoulder as if being followed",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "8bbMRzWLArOivzzQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.8bbMRzWLArOivzzQ"
+    },
+    {
+      "text": "Always takes a deep breath and pauses before speaking as if straining to speak plainly",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "bbw5gjX61p91zUCC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.bbw5gjX61p91zUCC"
+    },
+    {
+      "text": "Cleans weapons meticulously and often",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "tda74MgrXXsAALvU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.tda74MgrXXsAALvU"
+    },
+    {
+      "text": "Squints and smiles oddly when talking",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "byP0K1ju8BwX1PDa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.byP0K1ju8BwX1PDa"
+    },
+    {
+      "text": "Cannot look another person in the eye",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "NZRCOz0jXVECw8g3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.NZRCOz0jXVECw8g3"
+    },
+    {
+      "text": "Does not laugh at jokes or even understand humor",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "0NdCr8BKNbiCH2vn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.0NdCr8BKNbiCH2vn"
+    },
+    {
+      "text": "Breathes heavily and rubs their chest as if a weight is pressing down on them",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "AvMxdjFbnJR8la84",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.AvMxdjFbnJR8la84"
+    },
+    {
+      "text": "Plays with a dagger or arrow head when speaking",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "KaFkuvf9MQqfrETL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DjQqDqKIcmjv6dN0.KaFkuvf9MQqfrETL"
+    }
+  ],
+  "folder": "iw9CdTaDyib9IgXg",
+  "sort": 100000,
+  "_id": "DjQqDqKIcmjv6dN0",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A quirk is similar to a compulsion in that it is an odd behavior that is repeated often, but quirks are usually subtler behavior and lack the urgency that compulsions have on a character. People with a quirk may not even notice that they have the quirk as it’s just part of their normal behavior. However, a quirk that comes about from corruption may come across to others more troubling than purely odd.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.DjQqDqKIcmjv6dN0"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791158542,
+    "modifiedTime": 1702851662034,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!DjQqDqKIcmjv6dN0"
+}

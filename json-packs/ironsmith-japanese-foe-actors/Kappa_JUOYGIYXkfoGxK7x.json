@@ -1,0 +1,165 @@
+{
+  "name": "Kappa",
+  "type": "foe",
+  "img": "icons/creatures/magical/humanoid-horned-rider.webp",
+  "items": [
+    {
+      "_id": "TcvH9NHitjyhEqws",
+      "name": "Kappa",
+      "type": "progress",
+      "img": "icons/creatures/magical/humanoid-horned-rider.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Turtle-like humanoid</p>\n<p>Short and scaly with beak mouths</p>\n<p>Indentation on top of their heads that holds magic water</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Trap souls in gems</p>\n<p>Drink the blood of victims</p>\n<p>Eat cucumbers</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Drown victims underwater</p>\n<p>Pounce and claw</p>\n<p>Retreat from powerful foes</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 218\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 39\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The people known as the Kappa are reptilian humanoids with a penchant for mischief and murder. They live in bogs and swamps using the landscape to their advantage when hunting Firelanders. Their claws are sharp as well as their beaks making them fierce fighters, particularly when they are cornered.</p>\n<p>The Kappa also have some innate waterbending powers that we think stems from the water inside the depression at the top of their skull. Once they have drained blood from a victim, they then use a dark ritual to force the person&rsquo;s soul into a tiny gem that they let soak in their head water.</p>\n<p>There are three ways to defeat the Kappa. First, travel in large groups as they readily retreat from a battle they know they will lose. Second, trick them into dumping out the water on their head causing them to freeze in place until the water naturally refills. Third, believe it or not, throw them a cucumber. They can&rsquo;t resist them.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A survivor of a Kappa attack was found with only minimal amounts of blood drained, but they are completely unresponsive leading the local mystic to believe their soul has already been trapped inside the Kappa&rsquo;s gem. Who is this person to you that you would undertake the quest to find their soul and return it to their body?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Do the Kappa live in large communities, or are they a solitary people?</em></p>\n<p><em>What do the Kappa use their soul gems for?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!JUOYGIYXkfoGxK7x.TcvH9NHitjyhEqws"
+    }
+  ],
+  "effects": [],
+  "folder": "kMS9EiFC0N5y5dPB",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Kappa",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/magical/humanoid-horned-rider.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741399746783,
+    "modifiedTime": 1741399889450,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "JUOYGIYXkfoGxK7x",
+  "sort": 100000,
+  "_key": "!actors!JUOYGIYXkfoGxK7x"
+}

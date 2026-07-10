@@ -1,0 +1,777 @@
+{
+  "name": "Target (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Control",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "LQPjbXzl32qun0LC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.LQPjbXzl32qun0LC"
+    },
+    {
+      "text": "Defense",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "7125D9WvoDfiY9GZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.7125D9WvoDfiY9GZ"
+    },
+    {
+      "text": "Limbs",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "Rdz0mcTRGfyTGuAc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.Rdz0mcTRGfyTGuAc"
+    },
+    {
+      "text": "Focus",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "WDdEUZNz4wBxa8bY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.WDdEUZNz4wBxa8bY"
+    },
+    {
+      "text": "Advantage",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "yDN5Q25a2jl2TtuH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.yDN5Q25a2jl2TtuH"
+    },
+    {
+      "text": "Range",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "uSkDvjLYL5nAI9cy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.uSkDvjLYL5nAI9cy"
+    },
+    {
+      "text": "Stress",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "S65i75sl9RGC4ubR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.S65i75sl9RGC4ubR"
+    },
+    {
+      "text": "Sense",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "0pUkrQfbfTaPImCd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.0pUkrQfbfTaPImCd"
+    },
+    {
+      "text": "Weakness",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "iNJnVCrI3ohbNeJI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.iNJnVCrI3ohbNeJI"
+    },
+    {
+      "text": "Opening",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "M959heiN3VUnsrza",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.M959heiN3VUnsrza"
+    },
+    {
+      "text": "Fear",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "fmVI7faSgUKID4xD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.fmVI7faSgUKID4xD"
+    },
+    {
+      "text": "Instinct",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "2QqyjHZ6nQugpcXM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.2QqyjHZ6nQugpcXM"
+    },
+    {
+      "text": "Footing",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "W48x9EBJsB5D5MRX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.W48x9EBJsB5D5MRX"
+    },
+    {
+      "text": "Maneuver",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "mgPiPH6x4boEsCQs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.mgPiPH6x4boEsCQs"
+    },
+    {
+      "text": "Reach",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "7VqxUu5JqLgZBcII",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.7VqxUu5JqLgZBcII"
+    },
+    {
+      "text": "Harm",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "o70CPvKZTiAzl9yO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.o70CPvKZTiAzl9yO"
+    },
+    {
+      "text": "Finesse",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "xOpFSEuYnyEzAucs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.xOpFSEuYnyEzAucs"
+    },
+    {
+      "text": "Weapon",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "XrAgxMcHMF7eQtdT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.XrAgxMcHMF7eQtdT"
+    },
+    {
+      "text": "Environment",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "gfuvhZb2o2KxMvYR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.gfuvhZb2o2KxMvYR"
+    },
+    {
+      "text": "Technique",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "byU7UlrFe0E5COdE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.byU7UlrFe0E5COdE"
+    },
+    {
+      "text": "Surprise",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "NriPcaeqb1jzrraa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.NriPcaeqb1jzrraa"
+    },
+    {
+      "text": "Pride",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "XwbaveOl8GFYJ5PN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.XwbaveOl8GFYJ5PN"
+    },
+    {
+      "text": "Wound",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "69VfQAkTUYBgRhtD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.69VfQAkTUYBgRhtD"
+    },
+    {
+      "text": "Precision",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "9thz72Vn3kjmvgIt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.9thz72Vn3kjmvgIt"
+    },
+    {
+      "text": "Ally",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "JcvHDSe2flhK2m2R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.JcvHDSe2flhK2m2R"
+    },
+    {
+      "text": "Ground",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "8c8B4g1Lc7KIfNDT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.8c8B4g1Lc7KIfNDT"
+    },
+    {
+      "text": "Courage",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "OxNKqYur0D7JsDXK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.OxNKqYur0D7JsDXK"
+    },
+    {
+      "text": "Companion",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "BupmFZ3nt7xB9Jsu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.BupmFZ3nt7xB9Jsu"
+    },
+    {
+      "text": "Object",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "xSyydXPWcfVVfRMW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.xSyydXPWcfVVfRMW"
+    },
+    {
+      "text": "Momentum",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "OL4mFf5lfk4hNPZF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.OL4mFf5lfk4hNPZF"
+    },
+    {
+      "text": "Speed",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "TiMn2zCAte4IzY17",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.TiMn2zCAte4IzY17"
+    },
+    {
+      "text": "Strength",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "qHBao5cOZi9U0WcR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.qHBao5cOZi9U0WcR"
+    },
+    {
+      "text": "Supply",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "EosDgg5YU7VG2vGk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.EosDgg5YU7VG2vGk"
+    },
+    {
+      "text": "Terrain",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "w27mVTwNE3YlQeac",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.w27mVTwNE3YlQeac"
+    },
+    {
+      "text": "Armor",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "oaFXiPLeUcc7zK19",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.oaFXiPLeUcc7zK19"
+    },
+    {
+      "text": "Skill",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "rvIfW01lpp9F4Tal",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.rvIfW01lpp9F4Tal"
+    },
+    {
+      "text": "Body",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "kfmRzobvmlabE8fA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.kfmRzobvmlabE8fA"
+    },
+    {
+      "text": "Protection",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "G3FDWftRDRPK6yyq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.G3FDWftRDRPK6yyq"
+    },
+    {
+      "text": "Resolve",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "qD8gat3L6qhKzWcp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.qD8gat3L6qhKzWcp"
+    },
+    {
+      "text": "Ferocity",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "BiTrvvbXFuQ19uQk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.BiTrvvbXFuQ19uQk"
+    },
+    {
+      "text": "Shield",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "RVOKYV3f0ZfU1jvM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.RVOKYV3f0ZfU1jvM"
+    },
+    {
+      "text": "Ammo",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "NVJPoQbwpFrRKDzy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.NVJPoQbwpFrRKDzy"
+    },
+    {
+      "text": "Anger",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "ZoYZluhicy4zA0qB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.ZoYZluhicy4zA0qB"
+    },
+    {
+      "text": "Opportunity",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "OVMOUvl7C1CzJJMV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.OVMOUvl7C1CzJJMV"
+    },
+    {
+      "text": "Balance",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "8K4aCb46dLSpHVLR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.8K4aCb46dLSpHVLR"
+    },
+    {
+      "text": "Position",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "eQprBinzYh0GZ3ei",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.eQprBinzYh0GZ3ei"
+    },
+    {
+      "text": "Barrier",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "WXSg2udSqbBOHkvn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.WXSg2udSqbBOHkvn"
+    },
+    {
+      "text": "Strategy",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "oZJbfTLrdlg6OMzL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.oZJbfTLrdlg6OMzL"
+    },
+    {
+      "text": "Grasp",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "69EF8uFf3QtnTEJI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.69EF8uFf3QtnTEJI"
+    },
+    {
+      "text": "Power",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "v6y2xDUbMiZJ1BN6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kucYoF4358jhz0Cz.v6y2xDUbMiZJ1BN6"
+    }
+  ],
+  "folder": "rwM3UEDy5DGioSkf",
+  "sort": 3,
+  "_id": "kucYoF4358jhz0Cz",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946268875,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!kucYoF4358jhz0Cz"
+}

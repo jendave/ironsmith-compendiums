@@ -1,0 +1,22 @@
+{
+  "name": "Beasts",
+  "sorting": "a",
+  "folder": null,
+  "type": "Actor",
+  "_id": "4NkK3ZazG5mYS9s2",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741240839027,
+    "modifiedTime": 1741240839027,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!4NkK3ZazG5mYS9s2"
+}

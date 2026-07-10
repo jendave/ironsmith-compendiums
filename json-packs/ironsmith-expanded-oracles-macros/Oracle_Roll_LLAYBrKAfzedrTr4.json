@@ -1,0 +1,29 @@
+{
+  "name": "Oracle Roll",
+  "type": "script",
+  "scope": "global",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "command": "// Macro by David Hudson under the MIT License.\n\nnew Roll('1d100').toMessage();",
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.331",
+    "createdTime": 1694385075580,
+    "modifiedTime": 1731306336385,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "LLAYBrKAfzedrTr4",
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "_key": "!macros!LLAYBrKAfzedrTr4"
+}

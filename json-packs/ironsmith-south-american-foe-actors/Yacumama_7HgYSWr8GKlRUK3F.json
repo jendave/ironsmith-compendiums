@@ -1,0 +1,165 @@
+{
+  "name": "Yacumama",
+  "type": "foe",
+  "img": "icons/magic/water/water-jet-wave-blue.webp",
+  "items": [
+    {
+      "_id": "TcvH9NHitjyhEqws",
+      "name": "Yacumama",
+      "type": "progress",
+      "img": "icons/magic/water/water-jet-wave-blue.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Mother Snake of Water</p>\n<p>Horned head and glowing eyes</p>\n<p>Primordial power</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Protect the waters</p>\n<p>Feast on the unworthy</p>\n<p>Increase her power</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Shoot water sprays the size of cyclones</p>\n<p>Hypnotize with her eyes</p>\n<p>Summon fog and whirlpools</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 218\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 43\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 46\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 53\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The third Mother Snake is Yacumama who holds power over the waters of the Junglelands. She prowls the oceans with her great bulk seeking to ever prove her power over all others. Where the other Mother Snakes have a benevolent or at least neutral side to their personality, Yacumama lords over her creation with pride and hubris.</p>\n<p>She has many powers at her disposal to destroy vessels in the open waters, but perhaps her favorite is to summon thick fog. As long as Huayramama is elsewhere, Yacumama can use the water temperature to reduce the wind to almost nothing so that the vessels barely move at all in the fog. Then, after this elaborate set-up, Yacumama begins to swirl the water beneath the vessels into a great whirlpool bringing all the occupants to a watery grave.</p>\n<p>Because of her aggressive nature, it is common practice to put criminals in smaller boats in front of trade vessels. They are told that if they can make the trade run unscathed by Yacumama, they can have their freedom back at the end of the journey. Most criminals jump at this chance, but few live to see their freedom.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>You have been sentenced to the criminal&rsquo;s journey in escorting a trade vessel on one of the longest voyages along the western coast of the Junglelands. What crime are you accused of, and did you do it?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>How does Yacumama patrol the inland waters? Does she send swarms of eels in her stead, can she shift down to a smaller size to travel through rivers, or does Boiuna act as her servant?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 5,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!7HgYSWr8GKlRUK3F.TcvH9NHitjyhEqws"
+    }
+  ],
+  "effects": [],
+  "folder": "izOT1xg31TMLwi80",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Yacumama",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/magic/water/water-jet-wave-blue.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741415859988,
+    "modifiedTime": 1741415859988,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "7HgYSWr8GKlRUK3F",
+  "sort": 0,
+  "_key": "!actors!7HgYSWr8GKlRUK3F"
+}

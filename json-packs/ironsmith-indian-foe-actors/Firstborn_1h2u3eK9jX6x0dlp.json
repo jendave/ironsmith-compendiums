@@ -1,0 +1,22 @@
+{
+  "name": "Firstborn",
+  "sorting": "a",
+  "folder": null,
+  "type": "Actor",
+  "_id": "1h2u3eK9jX6x0dlp",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741240844861,
+    "modifiedTime": 1741240844861,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!1h2u3eK9jX6x0dlp"
+}

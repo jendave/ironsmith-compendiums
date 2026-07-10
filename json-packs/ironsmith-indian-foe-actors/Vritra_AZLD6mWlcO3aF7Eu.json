@@ -1,0 +1,165 @@
+{
+  "name": "Vritra",
+  "type": "foe",
+  "img": "icons/creatures/reptiles/serpent-horned-green.webp",
+  "items": [
+    {
+      "_id": "bOdwS4pPn3sSCxro",
+      "name": "Vritra",
+      "type": "progress",
+      "img": "icons/creatures/reptiles/serpent-horned-green.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 226\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Gigantic, serpentine dragon</p>\n<p>Obsidian armor-like scales</p>\n<p>Great leathery wings</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Consume all water</p>\n<p class=\"nogrow\">Desolate the land</p>\n<p class=\"nogrow\">Desiccate bodies</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 226\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Consume the rain before it can fall</p>\n<p>Build earthen fortresses around river &nbsp;sources</p>\n<p>Overpower with size and might</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 226\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 39\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>There is only one Vritra, the great water dragon. It is more a force of nature than a beast, but none-the-less, it is a physical being. Its gargantuan size and ability to fly make it the most feared creature in all the Tigerlands.</p>\n<p>The only respite we get from attacks by Vritra are when it sleeps for years at a time after consuming great quantities of water. It can drink whole lakes in a few moments and will stop up rivers with earthen fortifications so it can drink all the water straight from the source. Settlements that one day are near a life-giving river may find themselves in a desert by week&rsquo;s end after one of Vritra&rsquo;s attacks.</p>\n<p>A cult of Vritra worshippers has sprung up in the Tigerlands claiming that once Vritra&rsquo;s thrist is satiated, it will take its rightful place in the pantheon and reward those who helped slake its thirst. The Vritran cult will spend years building great reservoirs of water as an enticing target for Vritra when it awakes.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A priest of the Vritran cult claims to have found the place of Vritra&rsquo;s slumber and is now diverting whole rivers to create an enormous lake for it when it awakens. A group of overseers met and decided to send a party of warriors to sneak past the Vritrans and kill Vritra while it sleeps. However, a powerful artifact must first be found that will enable the warriors to pierce the dragon&rsquo;s armor. What is this artifact? What tie does it have to your family history?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Does Vritra really have wings and fly, or is it a burrowing dragon who can tunnel across a region in minutes? If it burrows, what significant structure did it topple the last time it moved across the land?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 5,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!AZLD6mWlcO3aF7Eu.bOdwS4pPn3sSCxro"
+    }
+  ],
+  "effects": [],
+  "folder": "4NkK3ZazG5mYS9s2",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Vritra",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/reptiles/serpent-horned-green.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741381899184,
+    "modifiedTime": 1741381899184,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "AZLD6mWlcO3aF7Eu",
+  "sort": 0,
+  "_key": "!actors!AZLD6mWlcO3aF7Eu"
+}

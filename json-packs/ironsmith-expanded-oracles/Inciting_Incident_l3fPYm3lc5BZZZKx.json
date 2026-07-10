@@ -1,0 +1,181 @@
+{
+  "name": "Inciting Incident",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "A group of warriors have tracked you and accuse you of a crime.  You came to this Location for proof of your innocence.  What evidence do you need, and who else will suffer consequences if you are found guilty?",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "iWNOFRexHVdSSoQC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!l3fPYm3lc5BZZZKx.iWNOFRexHVdSSoQC"
+    },
+    {
+      "text": "Bandits have absconded with the Horn of Paragons.  What does the horn do, and who wants to use it?",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "Cw7w3rXQimqD9zJk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!l3fPYm3lc5BZZZKx.Cw7w3rXQimqD9zJk"
+    },
+    {
+      "text": "A cult of zealots has taken the iron priest and the Iron Star Staff to conduct a nefarious ritual during the full moon.  What is the cult's goal, and who will suffer the most if they succeed?",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Wga6HmM0WVk3e0N4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!l3fPYm3lc5BZZZKx.Wga6HmM0WVk3e0N4"
+    },
+    {
+      "text": "The murderer continues to evade you and may yet escape.  Who did they kill, and why do you feel like it is your fault?",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "kg4YIF1JZ3VswMpO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!l3fPYm3lc5BZZZKx.kg4YIF1JZ3VswMpO"
+    },
+    {
+      "text": "A group of Skulde threaten the area wielding strange powers.  What is the power, and who do they prey on?",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "G55W0iLsWQrEU57t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!l3fPYm3lc5BZZZKx.G55W0iLsWQrEU57t"
+    },
+    {
+      "text": "A curse has befallen your banner-kin that causes them to freeze in place for irregular amounts of time.  Who placed this curse, and what is needed to reverse it?",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "lkujP588mVBKQcVC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!l3fPYm3lc5BZZZKx.lkujP588mVBKQcVC"
+    },
+    {
+      "text": "A band of firstborn claim their god has returned and demands sacrifice.  Who did they take for these sacrifices, and what happens if the sacrifices are completed?",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "9RHAiDAlESsy8b0f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!l3fPYm3lc5BZZZKx.9RHAiDAlESsy8b0f"
+    },
+    {
+      "text": "A mystic commits dark experiments on Ironlanders seeking to unravel the secret to immortality.  What unnatural consequences have there been to these experiments, and who is now held captive by the mystic?",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "p50BIwo5qTR0rHBU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!l3fPYm3lc5BZZZKx.p50BIwo5qTR0rHBU"
+    },
+    {
+      "text": "A family heirloom was lost when a warrior fell at a great battle and must be returned to blood-kin.  Why was the battle significant, and in what way did it change the landscape forever?",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "ITryIDWde6eQGHp2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!l3fPYm3lc5BZZZKx.ITryIDWde6eQGHp2"
+    },
+    {
+      "text": "Raiders have decimated the population and food stores of a settlement.  Where is the nearest shelter for the survivors, and how is the leader of the raiders connected to you?",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "VzAPOtlvO3VfDKKT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!l3fPYm3lc5BZZZKx.VzAPOtlvO3VfDKKT"
+    }
+  ],
+  "folder": "UV5jKc1YOy1kQ6QZ",
+  "sort": 200000,
+  "_id": "l3fPYm3lc5BZZZKx",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>To choose an inciting incident, roll percentile dice (2d10) and your action die (1d6) on the table on the next page. The tens digit of the percentile dice will give you the inciting incident. Briefly discuss the questions asked to get the background set, and then decide on a difficulty level for the vow: Troublesome or Dangerous. Next, mark progress once on the progress track to represent the characters already having made it to this spot in the quest. This will also help you bring the vow to a conclusion in a single session.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.l3fPYm3lc5BZZZKx"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159432,
+    "modifiedTime": 1702852473618,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!l3fPYm3lc5BZZZKx"
+}

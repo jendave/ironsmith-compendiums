@@ -1,0 +1,282 @@
+{
+  "name": "Coastal Waters Location (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Breeding Waters",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "y2JsRg6B2JnRNAQT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.y2JsRg6B2JnRNAQT"
+    },
+    {
+      "text": "Thermal Vents",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "NqgHYjJKskkiIeNk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.NqgHYjJKskkiIeNk"
+    },
+    {
+      "text": "Sea Cave",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "uJrQohoowkQl89vw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.uJrQohoowkQl89vw"
+    },
+    {
+      "text": "Lighthouse",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "W2yEFD43TeC6xAyU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.W2yEFD43TeC6xAyU"
+    },
+    {
+      "text": "Solitary Dock",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "l59mlhp5B7lRim5F",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.l59mlhp5B7lRim5F"
+    },
+    {
+      "text": "Wetlands",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "RLdEUPfv8UQybQvl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.RLdEUPfv8UQybQvl"
+    },
+    {
+      "text": "Port",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "DT4BUxKAOx9Mc2FK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.DT4BUxKAOx9Mc2FK"
+    },
+    {
+      "text": "Barge",
+      "range": [
+        16,
+        23
+      ],
+      "_id": "fYRi6ZwLuD7SXZd1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.fYRi6ZwLuD7SXZd1"
+    },
+    {
+      "text": "River Delta",
+      "range": [
+        24,
+        30
+      ],
+      "_id": "rOe88vmaDCjXxKm3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.rOe88vmaDCjXxKm3"
+    },
+    {
+      "text": "White Cliffs",
+      "range": [
+        31,
+        38
+      ],
+      "_id": "jiyvVuA44ZnpdiFZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.jiyvVuA44ZnpdiFZ"
+    },
+    {
+      "text": "Sandy Beach",
+      "range": [
+        39,
+        46
+      ],
+      "_id": "kAq4Y2KZJrB9dEXT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.kAq4Y2KZJrB9dEXT"
+    },
+    {
+      "text": "Inlet",
+      "range": [
+        47,
+        54
+      ],
+      "_id": "qpGpSh4fqX95OmK6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.qpGpSh4fqX95OmK6"
+    },
+    {
+      "text": "Atoll",
+      "range": [
+        55,
+        62
+      ],
+      "_id": "u59AStE56RW2tapK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.u59AStE56RW2tapK"
+    },
+    {
+      "text": "Iceberg",
+      "range": [
+        63,
+        70
+      ],
+      "_id": "AstldnBPk7MdIX8q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.AstldnBPk7MdIX8q"
+    },
+    {
+      "text": "Ice Floe",
+      "range": [
+        71,
+        85
+      ],
+      "_id": "l5kRjoPjRMeNHsxI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.l5kRjoPjRMeNHsxI"
+    },
+    {
+      "text": "Glacier",
+      "range": [
+        86,
+        99
+      ],
+      "_id": "ntK1EfVI3VRbVBUQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.ntK1EfVI3VRbVBUQ"
+    },
+    {
+      "text": "Anomaly",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "trp4lucY8Ws0F8zM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NnYeEA7e3W2VNPRX.trp4lucY8Ws0F8zM"
+    }
+  ],
+  "folder": "XP9oOi86RAUmPdRl",
+  "sort": 350000,
+  "_id": "NnYeEA7e3W2VNPRX",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this oracle to identify a point-of-interest or destination when you are traveling by ship or boat.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791159912,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!NnYeEA7e3W2VNPRX"
+}

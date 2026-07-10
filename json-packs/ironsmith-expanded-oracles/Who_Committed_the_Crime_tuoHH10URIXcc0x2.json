@@ -1,0 +1,121 @@
+{
+  "name": "Who Committed the Crime",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Ally or rival from your past",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "9IQnBJb1g2TQci1h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tuoHH10URIXcc0x2.9IQnBJb1g2TQci1h"
+    },
+    {
+      "text": "Firstborn",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "KRqgXDmDzunbQ19k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tuoHH10URIXcc0x2.KRqgXDmDzunbQ19k"
+    },
+    {
+      "text": "Beast or Horror",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "5XqoNJmsTpG7T0br",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tuoHH10URIXcc0x2.5XqoNJmsTpG7T0br"
+    },
+    {
+      "text": "Mystic or Zealot",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "k3PO55S5AqQQ5JaI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tuoHH10URIXcc0x2.k3PO55S5AqQQ5JaI"
+    },
+    {
+      "text": "Warrior or Hunter",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "T9FWrqmYSLfUAqdv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tuoHH10URIXcc0x2.T9FWrqmYSLfUAqdv"
+    },
+    {
+      "text": "Craftsman or Civilian",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "yRclgODmYS2BtqMG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tuoHH10URIXcc0x2.yRclgODmYS2BtqMG"
+    }
+  ],
+  "folder": "ys0tLVTcvwcElQVg",
+  "sort": 700000,
+  "_id": "tuoHH10URIXcc0x2",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>After discovering the physical object, you can find out what type of information the physical clue gives you by rolling your action die (1d6) twice on the following tables. If needed, make an Action/Theme roll for more details.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.tuoHH10URIXcc0x2"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159359,
+    "modifiedTime": 1702852231730,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!tuoHH10URIXcc0x2"
+}

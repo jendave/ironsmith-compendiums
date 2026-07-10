@@ -1,0 +1,181 @@
+{
+  "name": "Actor",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "A prominent citizen",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "vU7uyfHKTbEAmC20",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SX6MdGYhmcpgwLcu.vU7uyfHKTbEAmC20"
+    },
+    {
+      "text": "The overseer",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "4VFiGcsdliBS1L3t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SX6MdGYhmcpgwLcu.4VFiGcsdliBS1L3t"
+    },
+    {
+      "text": "A social outcast",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "g4oSQ60TPt3PyGGf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SX6MdGYhmcpgwLcu.g4oSQ60TPt3PyGGf"
+    },
+    {
+      "text": "A forsaker of vows",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "sMPPXr3MgA2ccwGO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SX6MdGYhmcpgwLcu.sMPPXr3MgA2ccwGO"
+    },
+    {
+      "text": "A retired warrior",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "3Kyipkpf5WYx2d9F",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SX6MdGYhmcpgwLcu.3Kyipkpf5WYx2d9F"
+    },
+    {
+      "text": "A vocal zealot",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "yRhm0rHDl4qWYt6J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SX6MdGYhmcpgwLcu.yRhm0rHDl4qWYt6J"
+    },
+    {
+      "text": "A quiet hunter",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "yqhOBWTyJEuv71Dm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SX6MdGYhmcpgwLcu.yqhOBWTyJEuv71Dm"
+    },
+    {
+      "text": "A hidden group of raiders",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "VtwfLPJCy02rUE6g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SX6MdGYhmcpgwLcu.VtwfLPJCy02rUE6g"
+    },
+    {
+      "text": "A tradesman",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "WkOl0F3Tb6WJpYQ4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SX6MdGYhmcpgwLcu.WkOl0F3Tb6WJpYQ4"
+    },
+    {
+      "text": "Another ironsworn",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "7yGXLC6gzsygNNE5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SX6MdGYhmcpgwLcu.7yGXLC6gzsygNNE5"
+    }
+  ],
+  "folder": "TpbYX2W2xG1FFR9J",
+  "sort": 200000,
+  "_id": "SX6MdGYhmcpgwLcu",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Sometimes there's a darker secret that you must root out that either the people left out in their story about the monster or that they are unaware of. Perhaps rather than the monster, people were really the aggressive party and overreacted to the monster which in turn caused it to defend itself. Perhaps they are harboring a known criminal and using the monster as a smokescreen to allow nefarious activity.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.SX6MdGYhmcpgwLcu"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159534,
+    "modifiedTime": 1702853799523,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!SX6MdGYhmcpgwLcu"
+}

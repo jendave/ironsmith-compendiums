@@ -1,0 +1,297 @@
+{
+  "name": "Combat Action (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Offer to surrender for a price",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "uRkwbY2zJvXJDke7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.uRkwbY2zJvXJDke7"
+    },
+    {
+      "text": "Panic and flee",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "k4FECsIBFNiB0cQL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.k4FECsIBFNiB0cQL"
+    },
+    {
+      "text": "Disengage and show no further aggression",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "Wn0O3QbEogrCQl6y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.Wn0O3QbEogrCQl6y"
+    },
+    {
+      "text": "Retreat and move towards cover",
+      "range": [
+        10,
+        13
+      ],
+      "_id": "QLTkaiirMlJWAMEE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.QLTkaiirMlJWAMEE"
+    },
+    {
+      "text": "Take a calculated risk",
+      "range": [
+        14,
+        17
+      ],
+      "_id": "Jx5eEItrYY3cgcux",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.Jx5eEItrYY3cgcux"
+    },
+    {
+      "text": "Give an evil monologue",
+      "range": [
+        18,
+        21
+      ],
+      "_id": "SAASkdl992SqAOaa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.SAASkdl992SqAOaa"
+    },
+    {
+      "text": "Reveal a connection to an ally",
+      "range": [
+        22,
+        25
+      ],
+      "_id": "l6Oc0TOd0wjdJoQP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.l6Oc0TOd0wjdJoQP"
+    },
+    {
+      "text": "Sacrifice someone or something else",
+      "range": [
+        26,
+        29
+      ],
+      "_id": "iUA2f8D5WafMgynC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.iUA2f8D5WafMgynC"
+    },
+    {
+      "text": "Test an opponent's bond",
+      "range": [
+        30,
+        33
+      ],
+      "_id": "FheBkS5uTtJIb0Dy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.FheBkS5uTtJIb0Dy"
+    },
+    {
+      "text": "Wait for opponent to make the next move",
+      "range": [
+        34,
+        39
+      ],
+      "_id": "8PEiPc3QeOYANaZ5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.8PEiPc3QeOYANaZ5"
+    },
+    {
+      "text": "Probe opponent's defenses",
+      "range": [
+        40,
+        45
+      ],
+      "_id": "S31jkUsgWAok06wB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.S31jkUsgWAok06wB"
+    },
+    {
+      "text": "Drag out the fight to wear the opponent down",
+      "range": [
+        46,
+        52
+      ],
+      "_id": "EpsGA5P0KHUBSJyM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.EpsGA5P0KHUBSJyM"
+    },
+    {
+      "text": "Use the circumstances of the battle to gain an advantage",
+      "range": [
+        53,
+        60
+      ],
+      "_id": "Qi7of9pUiZf3OoUL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.Qi7of9pUiZf3OoUL"
+    },
+    {
+      "text": "Use opponent's weapon against them",
+      "range": [
+        61,
+        68
+      ],
+      "_id": "t5YzwCaatIMULQ3q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.t5YzwCaatIMULQ3q"
+    },
+    {
+      "text": "Press a tactical advantage",
+      "range": [
+        69,
+        78
+      ],
+      "_id": "emK86IT3EO9HEpwQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.emK86IT3EO9HEpwQ"
+    },
+    {
+      "text": "Make several attacks in quick succession",
+      "range": [
+        79,
+        89
+      ],
+      "_id": "UpnPglAyo6Pnm3fv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.UpnPglAyo6Pnm3fv"
+    },
+    {
+      "text": "Charge boldly",
+      "range": [
+        90,
+        99
+      ],
+      "_id": "8XNdC7uc26WwgZX8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.8XNdC7uc26WwgZX8"
+    },
+    {
+      "text": "Take a completely unexpected action",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "83UqTzlj8kDtpYeF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!OB9V3EZcGmrv5CTO.83UqTzlj8kDtpYeF"
+    }
+  ],
+  "folder": "JGoBiGjNOZyH38MA",
+  "sort": 0,
+  "_id": "OB9V3EZcGmrv5CTO",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this oracle to help inspire an action for an NPC in combat. When you’re not sure what your foe does next, particularly when they have initiative, roll on this table and interpret the result as appropriate to the situation.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161609,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!OB9V3EZcGmrv5CTO"
+}

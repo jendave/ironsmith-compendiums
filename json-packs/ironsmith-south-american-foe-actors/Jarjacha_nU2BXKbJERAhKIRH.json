@@ -1,0 +1,165 @@
+{
+  "name": "Jarjacha",
+  "type": "foe",
+  "img": "icons/creatures/mammals/wolf-shadow-black.webp",
+  "items": [
+    {
+      "_id": "3ySuUnpwbZdEX6RL",
+      "name": "Jarjacha",
+      "type": "progress",
+      "img": "icons/creatures/mammals/wolf-shadow-black.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Large quadruped with brown fur</p>\n<p>Long neck and glowing yellow eyes</p>\n<p>Flat face with a circular maw</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Hunt monkeys in the trees</p>\n<p>Proclaim its territory with a call of \"Jar, jar, jar, jar!\"</p>\n<p>Take long naps standing up</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Knock limbs out of trees</p>\n<p>Track by smell</p>\n<p>Bull rush and knock down</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 36\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 32\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 35\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Some may describe the jarjacha as cute or innocent looking when they first see one, but they learn the truth as soon as this colorful and furry creature opens its circular mouth of jagged teeth. It looks like a purple and blue furred giraffe that a child might have a doll of, but the jarjacha is a hunter who has developed a very specific taste for monkeys.</p>\n<p>The jarjacha&rsquo;s long neck allows it to reach the treetops with ease. It will smell for large quantities of monkey droppings and then go towards the trees in that area with its head and neck lowered toward the ground. This makes the monkeys think they are safe high up in the trees. Then the jarjacha swiftly thrusts its head up cracking and knocking down branches and possibly knocking monkeys out of the tree as well.</p>\n<p>The most disturbing thing about the jarjacha is the sound that it makes: a high-pitched, almost human voice saying &ldquo;Jar, jar, jar, jar!&rdquo; The word always comes in sets of four and is not the only sound that it can make. Some have been known to mimic human speech much like a parrot, but the tone of its voice can give you nightmares.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>The howler monkeys have been particularly vocal the past few days, and the overseer thinks this is a sign of a herd of jarjacha moving into the area. If there are jarjachas, the overseer needs them eliminated as there is only one safe path to this settlement that must remain open for supplies and trade. What makes you think the jarjacha is only the beginning of the problem?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Do the jarjacha have horns?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!nU2BXKbJERAhKIRH.3ySuUnpwbZdEX6RL"
+    }
+  ],
+  "effects": [],
+  "folder": "K3SmkFdl6vgzh1aw",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Jarjacha",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/mammals/wolf-shadow-black.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741414428359,
+    "modifiedTime": 1741414673015,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "nU2BXKbJERAhKIRH",
+  "sort": 700000,
+  "_key": "!actors!nU2BXKbJERAhKIRH"
+}

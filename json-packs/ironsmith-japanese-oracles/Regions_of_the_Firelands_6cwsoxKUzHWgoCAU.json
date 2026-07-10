@@ -1,0 +1,181 @@
+{
+  "name": "Regions of the Firelands",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Chisana Hi <i>Tiny Fires</i> (Barrier Islands)",
+      "range": [
+        1,
+        12
+      ],
+      "_id": "csH5Slef8gDCI6ZO",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6cwsoxKUzHWgoCAU.csH5Slef8gDCI6ZO"
+    },
+    {
+      "text": "Kokuyoseki no Ha <i>Obsidian Blades</i> (Ragged Coast)",
+      "range": [
+        13,
+        24
+      ],
+      "_id": "XbYhgS6TQx2nYXx9",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6cwsoxKUzHWgoCAU.XbYhgS6TQx2nYXx9"
+    },
+    {
+      "text": "Kyoki no Mori <i>Forest of Madness</i> (Deep Wilds)",
+      "range": [
+        25,
+        34
+      ],
+      "_id": "PQSuMzgD5Si9RGAJ",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6cwsoxKUzHWgoCAU.PQSuMzgD5Si9RGAJ"
+    },
+    {
+      "text": "Yurei Numachi <i>Ghostly Swamps</i> (Flooded Lands)",
+      "range": [
+        35,
+        46
+      ],
+      "_id": "K6iJSwcSInUwLn67",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6cwsoxKUzHWgoCAU.K6iJSwcSInUwLn67"
+    },
+    {
+      "text": "Sakura Tani <i>Cherry Valley</i> (Havens)",
+      "range": [
+        47,
+        60
+      ],
+      "_id": "NLYn035hsUbG7bsR",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6cwsoxKUzHWgoCAU.NLYn035hsUbG7bsR"
+    },
+    {
+      "text": "Hai no Kawa <i>River of Ash</i> (Hinterlands)",
+      "range": [
+        61,
+        72
+      ],
+      "_id": "PE9Ie8EofbcdqKbR",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6cwsoxKUzHWgoCAU.PE9Ie8EofbcdqKbR"
+    },
+    {
+      "text": "Madoromi Oka <i>Slumbering Hills</i> (Tempest Hills)",
+      "range": [
+        73,
+        84
+      ],
+      "_id": "FqzhABAqtTvWYUWe",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6cwsoxKUzHWgoCAU.FqzhABAqtTvWYUWe"
+    },
+    {
+      "text": "Geppu Kyojin <i>Belching Giants</i> (Veiled Mountains)",
+      "range": [
+        85,
+        94
+      ],
+      "_id": "j6nNravaYr9MUYBO",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6cwsoxKUzHWgoCAU.j6nNravaYr9MUYBO"
+    },
+    {
+      "text": "Aka Umi <i>Red Sea</i> (Shattered Wastes)",
+      "range": [
+        95,
+        99
+      ],
+      "_id": "VcGYmQXxOk51QToz",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6cwsoxKUzHWgoCAU.VcGYmQXxOk51QToz"
+    },
+    {
+      "text": "Elsewhere",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "qjTMZaJtFsHXcKvN",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6cwsoxKUzHWgoCAU.qjTMZaJtFsHXcKvN"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Each region in the Firelands corresponds to a region on the normal Ironsworn map. In this way, you can continue to use the same map while still getting a new flavor for the setting.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "lCBownpY290WYqSQ",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "12.331",
+    "createdTime": 1708932981698,
+    "modifiedTime": 1709420419279,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "6cwsoxKUzHWgoCAU",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!tables!6cwsoxKUzHWgoCAU"
+}

@@ -1,0 +1,165 @@
+{
+  "name": "Dwarf",
+  "type": "foe",
+  "img": "icons/creatures/magical/humanoid-horned-rider.webp",
+  "items": [
+    {
+      "_id": "TcvH9NHitjyhEqws",
+      "name": "Dwarf",
+      "type": "progress",
+      "img": "icons/creatures/magical/humanoid-horned-rider.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Small humanoids formed of Ymir's corpse</p>\n<p>Blue-tinted skins</p>\n<p>Bony protrusions</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Forge masterpieces, particularly weapons</p>\n<p>Avoid sunlight lest they turn to stone</p>\n<p>Prove their worth in battle</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Bluster and intimidation</p>\n<p>Overwhelm with numbers</p>\n<p>Attack from the shadows</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 218\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 43\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 46\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 50\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 39\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 40\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The dwarves of Nidavellir are said to have descended from the corpse of the first giant, Ymir, the same giant whose bones even now encircle Midgard. The dwarves certainly do have a similar blue-tinted skin as the remaining jotnar and often take scrapings of Ymir&rsquo;s Wall as payment for goods and services.</p>\n<p>Since long before we arrived in the Icelands, the dwarves have lived underground because of the effect sunlight has on their skin: it causes their skin to harden like stone. Scattered across Nidavellir, you can find what the crass among us call garden dwarves, dwarves turned to stone by sunlight and cursed to spend eternity as statues. The poor souls are often surrounded by offerings of family members who take pilgrimages to see them when night fully falls.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>Dwarven craftmasters are regarded as the most skilled in all the Icelands, and the new overseer of a multi-settlement compact seeks a ceremonial blade to act as a symbol of leadership. However, someone has to make the long trek to Nidavellir and convince the dwarves to take payment rather than lives from the messengers. What else have you heard lies in a dwarven hall that you seek?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>In the whole history of dwarven kind, only one dwarf has ever returned to life after being turned to stone. Who was this dwarf, and what were the circumstances of this miracle?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!2EV1xSHPSBrBaR9Y.TcvH9NHitjyhEqws"
+    }
+  ],
+  "effects": [],
+  "folder": "PwwrQhik4svkVLcV",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Dwarf",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/magical/humanoid-horned-rider.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741412485188,
+    "modifiedTime": 1741413396748,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "2EV1xSHPSBrBaR9Y",
+  "sort": 600000,
+  "_key": "!actors!2EV1xSHPSBrBaR9Y"
+}

@@ -1,0 +1,1529 @@
+{
+  "name": "Tigerland Settlement Names",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Akguna",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "sJp6H2hlbnc565XR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.sJp6H2hlbnc565XR"
+    },
+    {
+      "text": "Amarawan",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "bYuybRR7yhAzhv7t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.bYuybRR7yhAzhv7t"
+    },
+    {
+      "text": "Bandi",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "7LpImQ7TvcNFjrNi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.7LpImQ7TvcNFjrNi"
+    },
+    {
+      "text": "Bandigram",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "ZAiqB0Vn8H5LuuUP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.ZAiqB0Vn8H5LuuUP"
+    },
+    {
+      "text": "Barbandha",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "s64aOsrXjKwcbau1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.s64aOsrXjKwcbau1"
+    },
+    {
+      "text": "Barpathar",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "iOGekNiBCn9TxzEj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.iOGekNiBCn9TxzEj"
+    },
+    {
+      "text": "Basam",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "iMrSdD8trTzLFn4E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.iMrSdD8trTzLFn4E"
+    },
+    {
+      "text": "Buweligaginna",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "R4uikdcMIJWjlV3j",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.R4uikdcMIJWjlV3j"
+    },
+    {
+      "text": "Byasagudi",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "ncEc0wJoqxPrqu25",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.ncEc0wJoqxPrqu25"
+    },
+    {
+      "text": "Chainbagar",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "DnX9yl6HYm1mWPyg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.DnX9yl6HYm1mWPyg"
+    },
+    {
+      "text": "Chainmai",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "aFOsUpgHq0IEWw3Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.aFOsUpgHq0IEWw3Z"
+    },
+    {
+      "text": "Chandchhari",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "8zdASqwg2pfwfLjy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.8zdASqwg2pfwfLjy"
+    },
+    {
+      "text": "Chatganj",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "asNnwuWxj6vlOzJN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.asNnwuWxj6vlOzJN"
+    },
+    {
+      "text": "Chaujung",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "Z1XBr8EG1QAHWbYM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.Z1XBr8EG1QAHWbYM"
+    },
+    {
+      "text": "Chaukati",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "plHm36eIZhW16I0z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.plHm36eIZhW16I0z"
+    },
+    {
+      "text": "Cheganka",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "iWI3zRxeSZJCOSTv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.iWI3zRxeSZJCOSTv"
+    },
+    {
+      "text": "Chittara",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "ChAKy8tMavYuLP9R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.ChAKy8tMavYuLP9R"
+    },
+    {
+      "text": "Dhagram",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "UbHjH8GCl12rnMUR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.UbHjH8GCl12rnMUR"
+    },
+    {
+      "text": "Dhidhmulah",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "KhSoe5Pi4TtIr3lr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.KhSoe5Pi4TtIr3lr"
+    },
+    {
+      "text": "Dhidhvadhoo",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "Jf3ByvAfXTN8f5lY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.Jf3ByvAfXTN8f5lY"
+    },
+    {
+      "text": "Dumdukur",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "ALBZ0MwmhxjgFXaZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.ALBZ0MwmhxjgFXaZ"
+    },
+    {
+      "text": "Farla",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "4XP7SJjSFqikke8o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.4XP7SJjSFqikke8o"
+    },
+    {
+      "text": "Farooqtari",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "CqOGVhXNBRszahNX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.CqOGVhXNBRszahNX"
+    },
+    {
+      "text": "Farukolmandhoo",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "o9NPxUuA38Ld5WUA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.o9NPxUuA38Ld5WUA"
+    },
+    {
+      "text": "Fatehnagar",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "TOxYISBgeTVPLnQL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.TOxYISBgeTVPLnQL"
+    },
+    {
+      "text": "Gainagar",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "l96JGim0Lxx53oFB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.l96JGim0Lxx53oFB"
+    },
+    {
+      "text": "Gainaidah",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "ysOv2BxHlCGj1Grn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.ysOv2BxHlCGj1Grn"
+    },
+    {
+      "text": "Ghohari",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "jBsSUTH23iPXmWie",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.jBsSUTH23iPXmWie"
+    },
+    {
+      "text": "Gorpur",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "z9IB3AcwvHskDsCS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.z9IB3AcwvHskDsCS"
+    },
+    {
+      "text": "Gularuwa",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "kYAX4wsfGWUndFpz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.kYAX4wsfGWUndFpz"
+    },
+    {
+      "text": "Gumia",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "EJfAxKxysWiDQDcs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.EJfAxKxysWiDQDcs"
+    },
+    {
+      "text": "Gunnetura",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "3wJoROr8oLWq3h1C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.3wJoROr8oLWq3h1C"
+    },
+    {
+      "text": "Gurutra",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "Vu4vbJwRuNoqKB43",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.Vu4vbJwRuNoqKB43"
+    },
+    {
+      "text": "Harasona",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "8cNMdT53JZwgeDD5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.8cNMdT53JZwgeDD5"
+    },
+    {
+      "text": "Haticha",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "Cu3S5UI8goB32ZDc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.Cu3S5UI8goB32ZDc"
+    },
+    {
+      "text": "Jagkheri",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "2Z0GampagHfYas1y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.2Z0GampagHfYas1y"
+    },
+    {
+      "text": "Janakkha",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "ek8xRBbQ6ChHxQFy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.ek8xRBbQ6ChHxQFy"
+    },
+    {
+      "text": "Jhalopur",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "buDshAWPyP9Se4Ba",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.buDshAWPyP9Se4Ba"
+    },
+    {
+      "text": "Kanduvasi",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "y0MiqOpsARHAfXFw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.y0MiqOpsARHAfXFw"
+    },
+    {
+      "text": "Karimyar",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "ojgrcUiJ83Yxi1BK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.ojgrcUiJ83Yxi1BK"
+    },
+    {
+      "text": "Katola",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "28L8TzhGYWJsqaF8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.28L8TzhGYWJsqaF8"
+    },
+    {
+      "text": "Khandkhara",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "BXdzC1S8HrDLPYNG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.BXdzC1S8HrDLPYNG"
+    },
+    {
+      "text": "Kirtikot",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "4YqqGGayc9b95hsO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.4YqqGGayc9b95hsO"
+    },
+    {
+      "text": "Kirtiran",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "0rluccAQrQHrWptC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.0rluccAQrQHrWptC"
+    },
+    {
+      "text": "Kudahuffushi",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "udXVHVCMHStdgqnH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.udXVHVCMHStdgqnH"
+    },
+    {
+      "text": "Lakshmiganj",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "wvrYf1iP7N0IEWmF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.wvrYf1iP7N0IEWmF"
+    },
+    {
+      "text": "Lamemaito",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "YvrqUMWNkUMklty7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.YvrqUMWNkUMklty7"
+    },
+    {
+      "text": "Lobtu",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "XyvRXCUJEBaVS6XS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.XyvRXCUJEBaVS6XS"
+    },
+    {
+      "text": "Mangalpathur",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "x9H3lqhMBklMCOwh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.x9H3lqhMBklMCOwh"
+    },
+    {
+      "text": "Mavadhoo",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "sLNBbxHCuG2V8wSq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.sLNBbxHCuG2V8wSq"
+    },
+    {
+      "text": "Miwabage",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "3El5eALP2yt7fpjV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.3El5eALP2yt7fpjV"
+    },
+    {
+      "text": "Mudhuffushi",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "0EASpkvyicznHqCc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.0EASpkvyicznHqCc"
+    },
+    {
+      "text": "Nalanda",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "AgmlMmCKvEO3xjG5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.AgmlMmCKvEO3xjG5"
+    },
+    {
+      "text": "Naohani",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "51ME3k7kQ6Ho7Ale",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.51ME3k7kQ6Ho7Ale"
+    },
+    {
+      "text": "Narabari",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "BIrnFmXbJe9Y1XCK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.BIrnFmXbJe9Y1XCK"
+    },
+    {
+      "text": "Narwada",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "M8rzGVFt0pzSHb6e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.M8rzGVFt0pzSHb6e"
+    },
+    {
+      "text": "Nelagiri",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "WSUjFFVkWjAzzH0T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.WSUjFFVkWjAzzH0T"
+    },
+    {
+      "text": "Nelajogai",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "Ip0lJSFvydwzABho",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.Ip0lJSFvydwzABho"
+    },
+    {
+      "text": "Netrogail",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "8mapZldFhZMH0gvT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.8mapZldFhZMH0gvT"
+    },
+    {
+      "text": "Otasulla",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "aJTBazuGS57QZ8Qo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.aJTBazuGS57QZ8Qo"
+    },
+    {
+      "text": "Ounatu",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "g6iwRZsryRFMGHWh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.g6iwRZsryRFMGHWh"
+    },
+    {
+      "text": "Pabe",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "bZ0KhhIyVMxYIVFp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.bZ0KhhIyVMxYIVFp"
+    },
+    {
+      "text": "Pahamulla",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "rwixZbU0DYj2XtEh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.rwixZbU0DYj2XtEh"
+    },
+    {
+      "text": "Pahapitiya",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "KlDQ1W3soJuHFnH0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.KlDQ1W3soJuHFnH0"
+    },
+    {
+      "text": "Paharuppa",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "Ic5KjFhgJ81JXHGT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.Ic5KjFhgJ81JXHGT"
+    },
+    {
+      "text": "Pewatta",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "7iCbwmMNNuZFwI2g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.7iCbwmMNNuZFwI2g"
+    },
+    {
+      "text": "Phisusona",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "0YwsIPj5XH7rbDDQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.0YwsIPj5XH7rbDDQ"
+    },
+    {
+      "text": "Pinsosar",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "pgjqBnSzf8ZuzucW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.pgjqBnSzf8ZuzucW"
+    },
+    {
+      "text": "Pobari",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "xehwl2flgALsHdUP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.xehwl2flgALsHdUP"
+    },
+    {
+      "text": "Polhala",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "MBOthRoubLpXdelU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.MBOthRoubLpXdelU"
+    },
+    {
+      "text": "Polpana",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "lEOrOR8PDdPhRk94",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.lEOrOR8PDdPhRk94"
+    },
+    {
+      "text": "Poltipe",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "H0htWOTVyGrazC0S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.H0htWOTVyGrazC0S"
+    },
+    {
+      "text": "Rajjogai",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "6jczzNaJBG3q8G5t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.6jczzNaJBG3q8G5t"
+    },
+    {
+      "text": "Ramruwa",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "jj7F3tFMbbM4f0Bx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.jj7F3tFMbbM4f0Bx"
+    },
+    {
+      "text": "Randi",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "HIsfhDSkmoIgSEzh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.HIsfhDSkmoIgSEzh"
+    },
+    {
+      "text": "Rotiganga",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "blKQn8kLYaLXBjqe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.blKQn8kLYaLXBjqe"
+    },
+    {
+      "text": "Sagsi",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "AxTy0Fqpr4lwuKlL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.AxTy0Fqpr4lwuKlL"
+    },
+    {
+      "text": "Saksoperi",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "QGqaUPusXMVVbUtD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.QGqaUPusXMVVbUtD"
+    },
+    {
+      "text": "Saktse",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "4RzYwk68VyN2z4UY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.4RzYwk68VyN2z4UY"
+    },
+    {
+      "text": "Sarlunang",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "dALreE1wu7KpLtPv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.dALreE1wu7KpLtPv"
+    },
+    {
+      "text": "Shinchap",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "KgyFRdOY24opuEuG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.KgyFRdOY24opuEuG"
+    },
+    {
+      "text": "Shingpero",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "oGAYvfdyEN745cDM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.oGAYvfdyEN745cDM"
+    },
+    {
+      "text": "Shinkar",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "xXvbW5H0Qp5c2ldR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.xXvbW5H0Qp5c2ldR"
+    },
+    {
+      "text": "Sulmipur",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "JlHBDckOKUCZBq6Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.JlHBDckOKUCZBq6Z"
+    },
+    {
+      "text": "Sulmipur",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "HhgokHBnQg24svYv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.HhgokHBnQg24svYv"
+    },
+    {
+      "text": "Tankona",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "ZvaPiAMoQJjHwjqL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.ZvaPiAMoQJjHwjqL"
+    },
+    {
+      "text": "Tettagolla",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "NWs1lzuFBjg2SglK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.NWs1lzuFBjg2SglK"
+    },
+    {
+      "text": "Thagong",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "7TCuk6UyqmCFB38c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.7TCuk6UyqmCFB38c"
+    },
+    {
+      "text": "Thagura",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "8KvH19vIGDsmRZ31",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.8KvH19vIGDsmRZ31"
+    },
+    {
+      "text": "Thakurban",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "i1AwJyFP3QO6qbdw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.i1AwJyFP3QO6qbdw"
+    },
+    {
+      "text": "Thidhoo",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "ROm6s6LVdbTuT2Pe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.ROm6s6LVdbTuT2Pe"
+    },
+    {
+      "text": "Thigili",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "SLtwqxeWmC7POzmh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.SLtwqxeWmC7POzmh"
+    },
+    {
+      "text": "Thindafaaru",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "Pp4YzglgeXY1yRe3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.Pp4YzglgeXY1yRe3"
+    },
+    {
+      "text": "Torapola",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "rSbSm9lHbiJkr6qT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.rSbSm9lHbiJkr6qT"
+    },
+    {
+      "text": "Uppogolla",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "kTZBIiWnBGKlhBwU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.kTZBIiWnBGKlhBwU"
+    },
+    {
+      "text": "Urusa",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "ySVvtr2LXe3A5nGi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.ySVvtr2LXe3A5nGi"
+    },
+    {
+      "text": "Vakaragama",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "DWWv2OKKHraTvMFj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.DWWv2OKKHraTvMFj"
+    },
+    {
+      "text": "Veygoodhoo",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "qBpV6jnVV5vk9cA1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.qBpV6jnVV5vk9cA1"
+    },
+    {
+      "text": "Veyvaranfaru",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "ykAsv2RwSPyGmzIN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.ykAsv2RwSPyGmzIN"
+    },
+    {
+      "text": "Visvasi",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "0i8dk09x9a2mYiSH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuCCRL1FxblqHAg8.0i8dk09x9a2mYiSH"
+    }
+  ],
+  "folder": null,
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>To increase your immersion in the Hindu/Indian mythology, I've included some Tigerlander names that are from the Hindi language as well as settlement names.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1709152428321,
+    "modifiedTime": 1709422851058,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_id": "VuCCRL1FxblqHAg8",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!tables!VuCCRL1FxblqHAg8"
+}

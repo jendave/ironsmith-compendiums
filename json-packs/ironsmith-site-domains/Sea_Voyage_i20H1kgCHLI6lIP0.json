@@ -1,0 +1,184 @@
+{
+  "name": "Sea Voyage",
+  "type": "delve-domain",
+  "_id": "i20H1kgCHLI6lIP0",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "At the mercy of the winds and currents",
+    "description": "<div class=\"page\" title=\"Page 250\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Driving winds form perilous swells that can overtake any craft at sea. The darkness and mist hide dangerous reefs and denizens in both the shallows and the depths of the ocean. Masters of the seafaring folk of the Ironlands know that the only true master of the seas is the sea herself.</p>\n<div class=\"page\" title=\"Page 250\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Pirates prowl the area for vulnerable vessels as do the larger sea creatures who have learned that Ironlanders make good meals. While a small island or bay may provide momentary respite, one never knows what the fickleness of the sea will bring next.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          21,
+          43
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Vast open sea"
+      },
+      {
+        "range": [
+          44,
+          56
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Rocky and jagged coastline"
+      },
+      {
+        "range": [
+          57,
+          64
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Reef or sandbar"
+      },
+      {
+        "range": [
+          65,
+          68
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Flotsam and jetsam"
+      },
+      {
+        "range": [
+          69,
+          72
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Archipelago"
+      },
+      {
+        "range": [
+          73,
+          76
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Small bay or cove"
+      },
+      {
+        "range": [
+          77,
+          80
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Traveling pod of aquatic creatures"
+      },
+      {
+        "range": [
+          81,
+          84
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Volcanic island"
+      },
+      {
+        "range": [
+          85,
+          88
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Ship set adrift"
+      },
+      {
+        "range": [
+          89,
+          98
+        ],
+        "text": "Something unusual or unexpected",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          99,
+          99
+        ],
+        "text": "You transition into a new theme",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          100,
+          100
+        ],
+        "text": "You transition into a new domain",
+        "type": 0,
+        "flags": {}
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          31,
+          33
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Whirlpool"
+      },
+      {
+        "range": [
+          34,
+          36
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Raging storm and violent seas"
+      },
+      {
+        "range": [
+          37,
+          39
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Running aground"
+      },
+      {
+        "range": [
+          40,
+          42
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizens attack the vesssel"
+      },
+      {
+        "range": [
+          43,
+          45
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Opportunistic ship approaches"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703500732720,
+    "modifiedTime": 1703500874890,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!i20H1kgCHLI6lIP0"
+}

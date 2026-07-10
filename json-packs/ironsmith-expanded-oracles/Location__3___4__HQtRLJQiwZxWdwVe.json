@@ -1,0 +1,792 @@
+{
+  "name": "Location (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Watch Tower",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "VHFQiM85NLLwkLHS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.VHFQiM85NLLwkLHS"
+    },
+    {
+      "text": "Cabin",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "8ys1iyKZhgYX1fuS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.8ys1iyKZhgYX1fuS"
+    },
+    {
+      "text": "Large Crystal",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "ac2sZAEL3YqzI2hC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.ac2sZAEL3YqzI2hC"
+    },
+    {
+      "text": "Encampment",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "u1ZuolebLovroR3s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.u1ZuolebLovroR3s"
+    },
+    {
+      "text": "Tower",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "Jq4SpaWuX02uYvy2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.Jq4SpaWuX02uYvy2"
+    },
+    {
+      "text": "Longhouse",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "WOV7Ck1nVSLsYxpP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.WOV7Ck1nVSLsYxpP"
+    },
+    {
+      "text": "Crypt",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "d05vNVeK6P3HYZ8K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.d05vNVeK6P3HYZ8K"
+    },
+    {
+      "text": "Rope Bridge",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "kyvNlCjO4BMu9DGd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.kyvNlCjO4BMu9DGd"
+    },
+    {
+      "text": "Forest Fire",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "ncGjjHjtTD0sKLsu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.ncGjjHjtTD0sKLsu"
+    },
+    {
+      "text": "Landslide",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "6WfFP62aPaejyDii",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.6WfFP62aPaejyDii"
+    },
+    {
+      "text": "Flash Flood",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "yvHC5rojDjr3skQb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.yvHC5rojDjr3skQb"
+    },
+    {
+      "text": "Lean-To",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "anJz8pRPkWdKUG2i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.anJz8pRPkWdKUG2i"
+    },
+    {
+      "text": "Yurt",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "ZQDmCjiXGKbcKi20",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.ZQDmCjiXGKbcKi20"
+    },
+    {
+      "text": "Mud Hut",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "lrICLqHP3JHRiws4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.lrICLqHP3JHRiws4"
+    },
+    {
+      "text": "Fire Pit",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "TUJlgW8uOqOEo8Bl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.TUJlgW8uOqOEo8Bl"
+    },
+    {
+      "text": "Orchard",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "T3FTMdAVmYZugHrM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.T3FTMdAVmYZugHrM"
+    },
+    {
+      "text": "Island",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "scUk4HWY3nzzMzQg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.scUk4HWY3nzzMzQg"
+    },
+    {
+      "text": "Escarpment",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "XoHgL5lxR3ULLPKZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.XoHgL5lxR3ULLPKZ"
+    },
+    {
+      "text": "Crop Field",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "pkqpDtcHSuX9E5U8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.pkqpDtcHSuX9E5U8"
+    },
+    {
+      "text": "Mounds",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "x4QhSirOS7Qxyiiv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.x4QhSirOS7Qxyiiv"
+    },
+    {
+      "text": "Tiered Farmland",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "e8eY6vc5D50GgvKb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.e8eY6vc5D50GgvKb"
+    },
+    {
+      "text": "Stone Wall",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "IJ0ydNFuqhaSMovA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.IJ0ydNFuqhaSMovA"
+    },
+    {
+      "text": "Scorched Earth",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "DQfKd3uoSh7o7H9U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.DQfKd3uoSh7o7H9U"
+    },
+    {
+      "text": "Cavern System",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "lor7FVxP9wwn0OKa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.lor7FVxP9wwn0OKa"
+    },
+    {
+      "text": "Desert",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "GaBmQE5PXM08aOx4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.GaBmQE5PXM08aOx4"
+    },
+    {
+      "text": "Canyon",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "azkoal7RQhWNZPwU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.azkoal7RQhWNZPwU"
+    },
+    {
+      "text": "Beach",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "l7tfQtkny5eR9qXh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.l7tfQtkny5eR9qXh"
+    },
+    {
+      "text": "Tundra",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "xiUunWCXxAtZmD42",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.xiUunWCXxAtZmD42"
+    },
+    {
+      "text": "Salt Flats",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "7ao94og1p6HG2Hvq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.7ao94og1p6HG2Hvq"
+    },
+    {
+      "text": "Large Rock Formations",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "UfMn9K9AQG4LbVYo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.UfMn9K9AQG4LbVYo"
+    },
+    {
+      "text": "Mesa",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "PvWk7R6sPnZ3D6op",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.PvWk7R6sPnZ3D6op"
+    },
+    {
+      "text": "Butte",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "jBS3uHN8sLfT7bOv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.jBS3uHN8sLfT7bOv"
+    },
+    {
+      "text": "Game Trail",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "RBoPStb3RSFfXbcy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.RBoPStb3RSFfXbcy"
+    },
+    {
+      "text": "Wild Berry Patch",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "pHGeg4zXikyOLzNQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.pHGeg4zXikyOLzNQ"
+    },
+    {
+      "text": "Alluvial Fan",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "PJsr1uqtWGYWx76s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.PJsr1uqtWGYWx76s"
+    },
+    {
+      "text": "Wildflower Field",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "rhInRSsREcgscvM9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.rhInRSsREcgscvM9"
+    },
+    {
+      "text": "Underground River",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "Pax6zbddeMqRg6sX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.Pax6zbddeMqRg6sX"
+    },
+    {
+      "text": "Crystal Cave",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "GUkSPTnibuFenbSU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.GUkSPTnibuFenbSU"
+    },
+    {
+      "text": "Glacier",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "KOZZxJtn2m0LkNRQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.KOZZxJtn2m0LkNRQ"
+    },
+    {
+      "text": "Painted Hills",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "UHsdtupnoVcLZrrF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.UHsdtupnoVcLZrrF"
+    },
+    {
+      "text": "Basin",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "7oXrTMEzUx9731Mh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.7oXrTMEzUx9731Mh"
+    },
+    {
+      "text": "Ice Cave",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "YEFos9EGYe8fYNkB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.YEFos9EGYe8fYNkB"
+    },
+    {
+      "text": "Underground Lake Entrance",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "6WDv6nxkvlXAXViw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.6WDv6nxkvlXAXViw"
+    },
+    {
+      "text": "Steppe",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "1ARZJ6HmivyuZbA2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.1ARZJ6HmivyuZbA2"
+    },
+    {
+      "text": "Mount",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "4fH85gapInai9tcH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.4fH85gapInai9tcH"
+    },
+    {
+      "text": "Overhang",
+      "range": [
+        76,
+        79
+      ],
+      "_id": "Rg1QedbXzUtuLbBa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.Rg1QedbXzUtuLbBa"
+    },
+    {
+      "text": "Hunting Grounds",
+      "range": [
+        80,
+        83
+      ],
+      "_id": "5J60tXU6XPzzqHPR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.5J60tXU6XPzzqHPR"
+    },
+    {
+      "text": "Sparse Woods",
+      "range": [
+        84,
+        88
+      ],
+      "_id": "uEh7RuDQioxcK8ix",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.uEh7RuDQioxcK8ix"
+    },
+    {
+      "text": "Thick Undergrowth",
+      "range": [
+        89,
+        93
+      ],
+      "_id": "Ct6Kz0FQ1I3yBXnv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.Ct6Kz0FQ1I3yBXnv"
+    },
+    {
+      "text": "Canopied Forest",
+      "range": [
+        94,
+        99
+      ],
+      "_id": "x4w8QvIxCsllodjS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.x4w8QvIxCsllodjS"
+    },
+    {
+      "text": "Anomaly",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "JUiv9eiGuf0eFHhh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HQtRLJQiwZxWdwVe.JUiv9eiGuf0eFHhh"
+    }
+  ],
+  "folder": "XP9oOi86RAUmPdRl",
+  "sort": 200000,
+  "_id": "HQtRLJQiwZxWdwVe",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this oracle when traveling to generate a point-of-interest or to answer a question about a place where someone or something can be found.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791159871,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!HQtRLJQiwZxWdwVe"
+}

@@ -1,0 +1,165 @@
+{
+  "name": "Sachamama",
+  "type": "foe",
+  "img": "icons/magic/earth/barrier-stone-pillar-purple.webp",
+  "items": [
+    {
+      "_id": "TcvH9NHitjyhEqws",
+      "name": "Sachamama",
+      "type": "progress",
+      "img": "icons/magic/earth/barrier-stone-pillar-purple.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Mother Snake of Earth</p>\n<p>Scales of stone</p>\n<p>Earth moving plate on the underbelly</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Protect the earth</p>\n<p>Protect medicinal plants and ecosystem &nbsp;on &nbsp;its back</p>\n<p>Keep the balance in all things</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Magnetic pulls and pushes</p>\n<p>Illusions and trickery</p>\n<p>Brute force</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 218\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 43\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 46\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 52\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Another deity in the flesh, Sachamama is the Mother Snake of the Earth. Her great bulk may not rival Boiuna in size, but she is none-the-less large enough to have a whole landscape and ecosystem growing on her back. She is said to seek balance in the world and will coax rapid plant growth in barren areas and plow down other areas thick with trees and underbrush.</p>\n<p>Sachamama has a wide, bony plate on her underbelly near what might be considered the base of her neck. She can push huge mounds of earth to the side with this or raise up to drop it back down swiftly like a large hoe in a field of crops.</p>\n<p>This Mother Snake also has the ability to manipulate metal ores in the ground or in weapons with great magnetic pulses. She can push weapons to the side or pull armored folk up next to her great bulk. It may even be these magnetic waves that induce the hazy illusions that she can project to confound people.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A villager returned from a solitary hunting trip with an extremely rare plant claiming that Sachamama herself gifted them with it. However, tensions are now on the rise as many other people are claiming they should get the herb for one reason or another. Some say that none should have power of life or death with one of the Mother Snake&rsquo;s plants, and so the plant should be destroyed. Who do you know that you think needs this plant&rsquo;s healing ability more than any villagers here, and what are you willing to do to get it?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>What animal lives only on Sachamama&rsquo;s back, and why is it&rsquo;s existence significant?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 5,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!FHJHz4Wz8fi53imZ.TcvH9NHitjyhEqws"
+    }
+  ],
+  "effects": [],
+  "folder": "izOT1xg31TMLwi80",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Sachamama",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/magic/earth/barrier-stone-pillar-purple.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741415801874,
+    "modifiedTime": 1741415801874,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "FHJHz4Wz8fi53imZ",
+  "sort": 0,
+  "_key": "!actors!FHJHz4Wz8fi53imZ"
+}

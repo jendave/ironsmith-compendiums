@@ -1,0 +1,727 @@
+{
+  "name": "Focus (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Vision",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "9Ua8OMGS1Fd3SwPM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.9Ua8OMGS1Fd3SwPM"
+    },
+    {
+      "text": "Nightmare",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "MnWyR4DXizdvNoJF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.MnWyR4DXizdvNoJF"
+    },
+    {
+      "text": "Nexus",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "zZKKqVzy4YwN9hfg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.zZKKqVzy4YwN9hfg"
+    },
+    {
+      "text": "Omen",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "qpTJ1rba6ayiF4Gz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.qpTJ1rba6ayiF4Gz"
+    },
+    {
+      "text": "Incantation",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "nfjGv92TCHnJGKu1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.nfjGv92TCHnJGKu1"
+    },
+    {
+      "text": "Avatar",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "vZAlqPNYXHtS5q55",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.vZAlqPNYXHtS5q55"
+    },
+    {
+      "text": "Danger",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "cyzdVYVkiHb6uzuH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.cyzdVYVkiHb6uzuH"
+    },
+    {
+      "text": "Blade",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "9KfaAd8IkN4DSb7a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.9KfaAd8IkN4DSb7a"
+    },
+    {
+      "text": "Monstrosity",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "WLUrEslxXDxviKt9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.WLUrEslxXDxviKt9"
+    },
+    {
+      "text": "Illusion",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "9vkc8nxiTUhKVH2p",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.9vkc8nxiTUhKVH2p"
+    },
+    {
+      "text": "Pit",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "1GC0fm3MPXLcU3Lg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.1GC0fm3MPXLcU3Lg"
+    },
+    {
+      "text": "Energy",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "UGlIV4FVfzYRtElS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.UGlIV4FVfzYRtElS"
+    },
+    {
+      "text": "Altar",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "kbFiYfbxgLw2I8Wm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.kbFiYfbxgLw2I8Wm"
+    },
+    {
+      "text": "Defense",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "vl2LStbj1FHEuEUg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.vl2LStbj1FHEuEUg"
+    },
+    {
+      "text": "Gargoyle",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "B5CIoxb01wgBIpW8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.B5CIoxb01wgBIpW8"
+    },
+    {
+      "text": "Essence",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "QGg7dRhbqFGotWh7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.QGg7dRhbqFGotWh7"
+    },
+    {
+      "text": "Shield",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "oAH5kfnFvQ586UCz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.oAH5kfnFvQ586UCz"
+    },
+    {
+      "text": "Sanctuary",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "g1Wgpa5qBYnliiyi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.g1Wgpa5qBYnliiyi"
+    },
+    {
+      "text": "Enemy",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "P42ny3BGU2Z6hOcR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.P42ny3BGU2Z6hOcR"
+    },
+    {
+      "text": "Monolith",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "Zd6fCdzhodkyLS7n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.Zd6fCdzhodkyLS7n"
+    },
+    {
+      "text": "Runes",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "PlIm65ZAN5VnpM3P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.PlIm65ZAN5VnpM3P"
+    },
+    {
+      "text": "Bane",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "aBIgc14yu4Qq6Eb6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.aBIgc14yu4Qq6Eb6"
+    },
+    {
+      "text": "Firstborn",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "dVIBk1Bvmp4YQOp5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.dVIBk1Bvmp4YQOp5"
+    },
+    {
+      "text": "Knowledge",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "jTZUR2zCYWQBiYYt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.jTZUR2zCYWQBiYYt"
+    },
+    {
+      "text": "Wraith",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "a8XromNVw6XRb6pT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.a8XromNVw6XRb6pT"
+    },
+    {
+      "text": "Nest",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "Zz2JCi4lUEEztsqH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.Zz2JCi4lUEEztsqH"
+    },
+    {
+      "text": "Pillar",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "DxSSOZNFMxsnjSs9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.DxSSOZNFMxsnjSs9"
+    },
+    {
+      "text": "Trance",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "mRd0lrQb2zxM6i9V",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.mRd0lrQb2zxM6i9V"
+    },
+    {
+      "text": "Fog",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "sm62MM0zb7xffjo2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.sm62MM0zb7xffjo2"
+    },
+    {
+      "text": "Monument",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "oEieVL7FmAhXj9wo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.oEieVL7FmAhXj9wo"
+    },
+    {
+      "text": "Mirage",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "VgaCjOMsXU2Xyl9w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.VgaCjOMsXU2Xyl9w"
+    },
+    {
+      "text": "Leviathan",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "jGRw9MnubQpAE1S8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.jGRw9MnubQpAE1S8"
+    },
+    {
+      "text": "Lock",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "kWrXoKL3TfKIexbx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.kWrXoKL3TfKIexbx"
+    },
+    {
+      "text": "Tempest",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "dBVRIWp0ZeGkMzHr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.dBVRIWp0ZeGkMzHr"
+    },
+    {
+      "text": "Phantasm",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "WzkB8oxpMiltPnNS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.WzkB8oxpMiltPnNS"
+    },
+    {
+      "text": "Apparition",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "Ee1gDqIzVvHIcMzk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.Ee1gDqIzVvHIcMzk"
+    },
+    {
+      "text": "Key",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "cXJjhmHWcrvYTTK1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.cXJjhmHWcrvYTTK1"
+    },
+    {
+      "text": "Chest",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "L3Dv8L4iRKy0HjTg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.L3Dv8L4iRKy0HjTg"
+    },
+    {
+      "text": "Statue",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "6qk6P4FJgr9mKpbP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.6qk6P4FJgr9mKpbP"
+    },
+    {
+      "text": "Banner",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "M5lHnD1y54wkPY9J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.M5lHnD1y54wkPY9J"
+    },
+    {
+      "text": "Anomaly",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "4S2sxocVTvPkGjIk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.4S2sxocVTvPkGjIk"
+    },
+    {
+      "text": "Whisper",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "8M68BgruQmErqLy5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.8M68BgruQmErqLy5"
+    },
+    {
+      "text": "Catacomb",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "u5p7yhSOkA4mFd7O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.u5p7yhSOkA4mFd7O"
+    },
+    {
+      "text": "Grimace",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "wTH4MezMcwaA8xKF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.wTH4MezMcwaA8xKF"
+    },
+    {
+      "text": "Tome",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "BsLoSUDsB6PjwRkI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.BsLoSUDsB6PjwRkI"
+    },
+    {
+      "text": "Lore",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "5NszjtCfuaNbnzGb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.5NszjtCfuaNbnzGb"
+    },
+    {
+      "text": "Enigma",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "8DfQtcuI1IcVJgfb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.8DfQtcuI1IcVJgfb"
+    },
+    {
+      "text": "Crypt",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "48FlTA3zJ1Mq8RYA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.48FlTA3zJ1Mq8RYA"
+    },
+    {
+      "text": "Protection",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "FymszuWbT9TbIsqn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.FymszuWbT9TbIsqn"
+    },
+    {
+      "text": "Mechanism",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "ce3LQw03eyY1UgOU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HJvSyTKZOxE83Cay.ce3LQw03eyY1UgOU"
+    }
+  ],
+  "folder": "7XlALaoo4AUPlm5Z",
+  "sort": 4,
+  "_id": "HJvSyTKZOxE83Cay",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946160570,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!HJvSyTKZOxE83Cay"
+}

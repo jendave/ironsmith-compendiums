@@ -1,0 +1,163 @@
+{
+  "name": "Insect Swarm",
+  "type": "foe",
+  "img": "icons/creatures/invertebrates/wasp-swarm-movement.webp",
+  "items": [
+    {
+      "_id": "3ySuUnpwbZdEX6RL",
+      "name": "Insect Swarm",
+      "type": "progress",
+      "img": "icons/creatures/invertebrates/wasp-swarm-movement.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p>Thunderous sound of millions of wings</p>\n<p>Undulating sea of earth-toned insects</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p>Consume all</p>\n<p>Migrate</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p>Envelop and feed</p>\n<p>Blot out the sun</p>\n<p>Death by a thousand cuts</p>\n</div>\n</div>\n<p>Even here in the frozen Ironlands, there is enough vegetation and animal life to feed a swarm of insects. There are some swarms that we have learned their cycle and can predict their coming. But it seems every handful of years that a new type of insect is discovered that was lying dormant in the frozen earth until their pre-ordained time.</p>\n<p>We have found little that we can do to dissuade a swarm from their feast. While stone and iron are unpalatable to a swarm, we cannot cover every surface in stone. Sometimes the best that we can do is survive with what meager supplies we can protect and try to rebuild after their passing.</p>\n<blockquote>Quest Starter:\n<p>This winter a swarm was due to pass near the settlement of Stormfield. While the people have prepared as best they can, they were not prepared to hear news of a second swarm headed towards them from the opposite direction. This new swarm is of a type of insect never before seen and is particularly aggressive. Stormfield citizens are fighting between the options of evacuating or riding out the swarms. Time is limited to bring the settlement safely through this disaster.</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote><em>Your Truth:</em>\n<p><em>Are all swarms natural, or does another power control their seasons?</em></p>\n</blockquote>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.24.10",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!Icx0oV0lyr6i5eZP.3ySuUnpwbZdEX6RL"
+    }
+  ],
+  "effects": [],
+  "folder": "sZt4emiLaGTpHjFK",
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.24.10"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "prototypeToken": {
+    "name": "Insect Swarm",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/invertebrates/wasp-swarm-movement.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.10",
+    "createdTime": 1740955181130,
+    "modifiedTime": 1741195897193,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "Icx0oV0lyr6i5eZP",
+  "sort": 0,
+  "_key": "!actors!Icx0oV0lyr6i5eZP"
+}

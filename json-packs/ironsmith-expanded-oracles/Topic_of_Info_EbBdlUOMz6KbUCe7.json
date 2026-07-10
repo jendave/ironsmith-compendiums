@@ -1,0 +1,181 @@
+{
+  "name": "Topic of Info",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "A primary suspect",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "1rGZUGjO5TnHxEsI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EbBdlUOMz6KbUCe7.1rGZUGjO5TnHxEsI"
+    },
+    {
+      "text": "A tool used in the crime",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "VxOUlNTJc2YSAZnr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EbBdlUOMz6KbUCe7.VxOUlNTJc2YSAZnr"
+    },
+    {
+      "text": "A known physical clue",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "djXMwwxXPAPuljUk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EbBdlUOMz6KbUCe7.djXMwwxXPAPuljUk"
+    },
+    {
+      "text": "An undiscovered physical clue",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "FUmfUh80fFJlgyZP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EbBdlUOMz6KbUCe7.FUmfUh80fFJlgyZP"
+    },
+    {
+      "text": "A previously unknown locaiton of significance",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "akAKA1MmQr9vQ1m9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EbBdlUOMz6KbUCe7.akAKA1MmQr9vQ1m9"
+    },
+    {
+      "text": "A relative of a primary victim",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "4iNvdsKI0RJ5vqrO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EbBdlUOMz6KbUCe7.4iNvdsKI0RJ5vqrO"
+    },
+    {
+      "text": "A secondary threat",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "bec8AhYM0pzFCWTH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EbBdlUOMz6KbUCe7.bec8AhYM0pzFCWTH"
+    },
+    {
+      "text": "A recently missing item",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "BzqNNTNC42yhUhVT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EbBdlUOMz6KbUCe7.BzqNNTNC42yhUhVT"
+    },
+    {
+      "text": "A site or relic of power",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "MQv6tmRglJInU5Oy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EbBdlUOMz6KbUCe7.MQv6tmRglJInU5Oy"
+    },
+    {
+      "text": "A local leader",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "fAILdCu3bnc24y59",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EbBdlUOMz6KbUCe7.fAILdCu3bnc24y59"
+    }
+  ],
+  "folder": "ys0tLVTcvwcElQVg",
+  "sort": 300000,
+  "_id": "EbBdlUOMz6KbUCe7",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>If you're looking for specific emotional or information clues in a mystery, you may roll percentile dice (2d10) treating the tens digit and the ones digit as separate rolls.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.EbBdlUOMz6KbUCe7"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159392,
+    "modifiedTime": 1702852374653,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!EbBdlUOMz6KbUCe7"
+}

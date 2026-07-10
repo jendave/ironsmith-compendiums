@@ -1,0 +1,165 @@
+{
+  "name": "Huayramama",
+  "type": "foe",
+  "img": "icons/magic/lightning/bolt-forked-blue.webp",
+  "items": [
+    {
+      "_id": "TcvH9NHitjyhEqws",
+      "name": "Huayramama",
+      "type": "progress",
+      "img": "icons/magic/lightning/bolt-forked-blue.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Mother Snake of the Wind</p>\n<p>Old woman face with long hair</p>\n<p>Gargantuan length</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Protect the skies</p>\n<p>Seek out those worthy of her healing powers</p>\n<p>Continue changing creation</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 217\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Gale force wind blasts</p>\n<p>Lightning strikes and blinding rain</p>\n<p>Dodge like the wind despite her bulk</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 218\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 43\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 46\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 49\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The Mother Snake of the Wind is a deity figure credited with creating the wind to bring forth rain on the Junglelands so that it might grow and prosper. However, this deity is clearly visible and physically present in the world. She wanders the realms so high in the sky she looks like a tiny, thin cloud with her white and blue skin undulating.</p>\n<p>While contact with Huayramama is exceedingly rare, there are stories of Junglelanders receiving a blessing from her that healed them of an incurable disease. These same stories say that the Mother Snake can communicate mind to mind with any creature in the Junglelands and can soothe one who is pain with just her voice.</p>\n<p>However, don&rsquo;t think that Huayramama is only benevolent. The most severe lightning storms are ascribed to her as a punishment for abusing birds of the air or other members of nature. During these storms, huge lightning strikes cause raging fires despite the blinding rain. It is said that the smoke from these fires act as a cleansing offering to the skies and appease the Mother Snake.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A friend and ally has a fatal wound that will fester and kill them slowly over the next weeks. A local shaman cannot contain the infection and says that the only way to get healing is to prove your worth to Huayramama and ask for her mercy in healing your friend. What feat might you perform to demonstrate your worth, and what guilt do you secretly harbor that endangers your quest?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>What is the legendary resting place of Huayramama where she is said to sleep for a day and a year?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 5,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!hCdJwjSOzL5qdf4F.TcvH9NHitjyhEqws"
+    }
+  ],
+  "effects": [],
+  "folder": "izOT1xg31TMLwi80",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Huayramama",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/magic/lightning/bolt-forked-blue.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741415616189,
+    "modifiedTime": 1741415616189,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "hCdJwjSOzL5qdf4F",
+  "sort": 0,
+  "_key": "!actors!hCdJwjSOzL5qdf4F"
+}

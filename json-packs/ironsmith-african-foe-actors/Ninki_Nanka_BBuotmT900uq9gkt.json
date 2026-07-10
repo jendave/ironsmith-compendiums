@@ -1,0 +1,165 @@
+{
+  "name": "Ninki Nanka",
+  "type": "foe",
+  "img": "icons/creatures/reptiles/serpent-horned-green.webp",
+  "items": [
+    {
+      "_id": "bOdwS4pPn3sSCxro",
+      "name": "Ninki Nanka",
+      "type": "progress",
+      "img": "icons/creatures/reptiles/serpent-horned-green.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 226\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Long-necked dragon or wyrm</p>\n<p>Horse head with horns</p>\n<p>Four legs with claws</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Bask in the swamp</p>\n<p class=\"nogrow\">Hunt young, tender meat</p>\n<p class=\"nogrow\">Collect bones</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 226\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Pin with their horns</p>\n<p>Poisonous bite</p>\n<p>Hide in swamp water</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 226\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 39\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 37\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 40\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The ninki nanka resemble the mokele mbembe in some ways. They are only slightly smaller in size, and both have long necks. However, the similarities end there. The ninki nanka have rough and mottled skin rather than the smooth skin of the mokele mbembe. They are also carnivorous and have the natural weaponry to be crafty hunters despite their bulk.</p>\n<p>Their skin has markings similar to a giraffe that allows them to hide well among the twisted trees of a swamp. They are known to stay frozen in place for hours waiting for prey to come close enough for them to attack, and start most attacks with a poisonous bite followed by a headbutt meant to stun and trap their prey with their oddly shaped horns.</p>\n<p>For some reason unknown to us, the ninki nanka collect the bones of their kills and will sleep on mounds of them. It may be that the creatures use the bones simply to create a solid surface to sleep on in the muddy swamps, or it could be a show of their prowess as a hunter.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A ninki nanka is thought to be responsible for a group of missing adolescents who went out foraging. If the youth have any chance, a rescue mission must be mounted immediately.</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>The ninki nanka horns are used in a sacred ceremony. What is this ceremony, and how does it relate to the swamplands?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 3,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!BBuotmT900uq9gkt.bOdwS4pPn3sSCxro"
+    }
+  ],
+  "effects": [],
+  "folder": "dWVyk8EsCdTCJCFW",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Ninki Nanka",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/reptiles/serpent-horned-green.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741329974079,
+    "modifiedTime": 1741329974079,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "BBuotmT900uq9gkt",
+  "sort": 0,
+  "_key": "!actors!BBuotmT900uq9gkt"
+}

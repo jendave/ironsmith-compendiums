@@ -1,0 +1,331 @@
+{
+  "name": "Fear",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Total darkness",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "VbQkpP27AAXIlrVf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.VbQkpP27AAXIlrVf"
+    },
+    {
+      "text": "Bright lights",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "9tnSOilyMI8iziji",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.9tnSOilyMI8iziji"
+    },
+    {
+      "text": "Being alone",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "PFvPwSaUWW7sY7mn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.PFvPwSaUWW7sY7mn"
+    },
+    {
+      "text": "Being in a crowd or large group of people",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "17YKkmIlcjHqGqWd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.17YKkmIlcjHqGqWd"
+    },
+    {
+      "text": "Large, open spaces",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "hnGWQ8FXljxa3Scw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.hnGWQ8FXljxa3Scw"
+    },
+    {
+      "text": "Small, enclosed spaces",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "cXVh92f8GeCUQXvz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.cXVh92f8GeCUQXvz"
+    },
+    {
+      "text": "Insects with exoskeletons",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "5IVWTFDdfgqm6FNs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.5IVWTFDdfgqm6FNs"
+    },
+    {
+      "text": "Heights",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "n8cJQYbkZHcsIY1K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.n8cJQYbkZHcsIY1K"
+    },
+    {
+      "text": "Specific animal or beast",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "aLOBby4n9YR4yLze",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.aLOBby4n9YR4yLze"
+    },
+    {
+      "text": "Specific horror",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "mqxljhL0PpPqKL2Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.mqxljhL0PpPqKL2Y"
+    },
+    {
+      "text": "Fire",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "Q3lEetQfRp3d7kXm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.Q3lEetQfRp3d7kXm"
+    },
+    {
+      "text": "Blood and severe wounds",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "gY1A2ui2smsers1Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.gY1A2ui2smsers1Y"
+    },
+    {
+      "text": "Storms, particularly with thunder and lightning",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "KHTVbkZFQRGhJtml",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.KHTVbkZFQRGhJtml"
+    },
+    {
+      "text": "Water, particularly deep and murky pools",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "u1LT0du0OKBhNKZz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.u1LT0du0OKBhNKZz"
+    },
+    {
+      "text": "The opposite or a different gender",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "w5iNllHoHuLk24kh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.w5iNllHoHuLk24kh"
+    },
+    {
+      "text": "Dead bodies",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "RgE3IVmVY20BNw74",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.RgE3IVmVY20BNw74"
+    },
+    {
+      "text": "Boats",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "NSmKL1WRwN532twK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.NSmKL1WRwN532twK"
+    },
+    {
+      "text": "Flowing water, particularly swift rivers or rapids",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "UfUHZU1JhtGxk7s2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.UfUHZU1JhtGxk7s2"
+    },
+    {
+      "text": "Precipitation, particularly torrential rains or sleet",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "t7VFXbh5dMq5hJDy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.t7VFXbh5dMq5hJDy"
+    },
+    {
+      "text": "Disease",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "3hGzXbzvfTfeJSJz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!14JyzXAjiiKFBPzP.3hGzXbzvfTfeJSJz"
+    }
+  ],
+  "folder": "iw9CdTaDyib9IgXg",
+  "sort": 200000,
+  "_id": "14JyzXAjiiKFBPzP",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A fear can be a small, random phobia picked as a consequence of your corruption, or it could a deep-seated, panic-inducing fear that becomes a huge weakness to your character. The depth to which a fear affects your character is up to you, but the fear should be something that shows up in the narrative with some consistency. If you choose for the fear to be mildly debilitating, you can Endure Stress when it is encountered.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.14JyzXAjiiKFBPzP"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791158606,
+    "modifiedTime": 1702851675479,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!14JyzXAjiiKFBPzP"
+}

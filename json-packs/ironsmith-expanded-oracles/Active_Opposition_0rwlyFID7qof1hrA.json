@@ -1,0 +1,331 @@
+{
+  "name": "Active Opposition",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Another overseer works against you. What justification do they have for opposing you?",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "3oQm8N8SSWvBYbCm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.3oQm8N8SSWvBYbCm"
+    },
+    {
+      "text": "A crime is committed while you are working towards your vow. Is it related?",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "geN2WbbsuefpDWw0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.geN2WbbsuefpDWw0"
+    },
+    {
+      "text": "The guardian of a prominent citizen views your actions as a threat.  Why?",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "WsuEA2N880byUMEu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.WsuEA2N880byUMEu"
+    },
+    {
+      "text": "An ally or companion has turned against you.  What is it they fear will be the consequence of you fulfilling your vow?",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "JStTHeoLJ5gZIgEW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.JStTHeoLJ5gZIgEW"
+    },
+    {
+      "text": "Another warrior seeks to accomplish the same goal before you.  What's in it for them?",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "2UilHatcLf9B080z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.2UilHatcLf9B080z"
+    },
+    {
+      "text": "Time is the critical factor.  What happens if it takes too long to fulfill your vow?",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "9iKQApIXq6E4VmHH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.9iKQApIXq6E4VmHH"
+    },
+    {
+      "text": "A rival wants to see you fail.  What occurred between you in the past that they hold a grudge?",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "n3OdgDLsYwF18l2n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.n3OdgDLsYwF18l2n"
+    },
+    {
+      "text": "A mystic seer has a vision foretelling your failure.  What fate do they see lies ahead for you?",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "VLI86bUgoYzNaddy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.VLI86bUgoYzNaddy"
+    },
+    {
+      "text": "You must access a specific location.  Why is it necessary, and what is dangerous there?",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "1wDuDTFNyqdSBlqm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.1wDuDTFNyqdSBlqm"
+    },
+    {
+      "text": "You need a specific item or special permission.  Why is it difficult to obtain?",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "8mwpOtwy2dKWpuRg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.8mwpOtwy2dKWpuRg"
+    },
+    {
+      "text": "An oathbreaker opposes you.  How may your failure lead to their redemption?",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "COy0cbBFYhvvLRMM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.COy0cbBFYhvvLRMM"
+    },
+    {
+      "text": "A secret society opposes you.  How do they benefit from the conflict?",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "hBXF8zfS1XakIWWH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.hBXF8zfS1XakIWWH"
+    },
+    {
+      "text": "A zealot feels you are not devout enough and opposes you.  Why do people follow this zealot?",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "l73lI29uPx9vcds6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.l73lI29uPx9vcds6"
+    },
+    {
+      "text": "An Ironlander is under a curse or geas to work against you.  Who did this to them and why?",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "8RTqgR7vBfyULSk7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.8RTqgR7vBfyULSk7"
+    },
+    {
+      "text": "You are hunted by an assassin.  What crime are you accused of, and did you do it?",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "ZfFADJfxi0vnZWWG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.ZfFADJfxi0vnZWWG"
+    },
+    {
+      "text": "A malevolent curse on the land slowly grows in power.  What effect does it have, and who enacted it?",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "ZbZqclPryXPBCnMv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.ZbZqclPryXPBCnMv"
+    },
+    {
+      "text": "A conspiracy undermines your progress.  Why?  What do they stand to gain?",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "fUrH0cZc3TOloPvj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.fUrH0cZc3TOloPvj"
+    },
+    {
+      "text": "A sentient artifact or malevolent force of will works against you.  Why, and what is their goal?",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "UdvgLvTYq61OTLOK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.UdvgLvTYq61OTLOK"
+    },
+    {
+      "text": "The spirit of a dead ally or family member haunts you about this quest.  How were they involved?",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "4bVUO5W44evr3k83",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.4bVUO5W44evr3k83"
+    },
+    {
+      "text": "An enigmatic mystic wants power for themself.  How does their goal conflict with yours?",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "9WDNPAGQnWKdeV1G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0rwlyFID7qof1hrA.9WDNPAGQnWKdeV1G"
+    }
+  ],
+  "folder": "VAY2CFAKr23S9VJK",
+  "sort": 1000000,
+  "_id": "0rwlyFID7qof1hrA",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Another close relative of obstacles is when there is active opposition to the vow. Overcoming this active opposition may count as additional milestones on your current vow, could turn into side vows which need to be completed to count as a milestone on the original vow, or could become threats that will deny you the ability to fulfill your vow as described in Ironsworn: Delve.</p><p>If you would like to roll a random active opposition for your quest, roll percentile dice (2d10) on the following table</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.0rwlyFID7qof1hrA"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159130,
+    "modifiedTime": 1702852098337,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!0rwlyFID7qof1hrA"
+}

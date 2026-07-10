@@ -1,0 +1,181 @@
+{
+  "name": "Archetype",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Attack the target",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "7ydscv9qewZQim4q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ftSp0SlfBdaZaxNu.7ydscv9qewZQim4q"
+    },
+    {
+      "text": "Broker the peace",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "z6ZyHmPTVsKJkwP4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ftSp0SlfBdaZaxNu.z6ZyHmPTVsKJkwP4"
+    },
+    {
+      "text": "Cure the plague",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "YnqW05J1eMDH6K24",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ftSp0SlfBdaZaxNu.YnqW05J1eMDH6K24"
+    },
+    {
+      "text": "Defend the people",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "HCuY8VX6tlujEw3t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ftSp0SlfBdaZaxNu.HCuY8VX6tlujEw3t"
+    },
+    {
+      "text": "Deliver justice",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "RQQ3ovKELgoKy5ua",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ftSp0SlfBdaZaxNu.RQQ3ovKELgoKy5ua"
+    },
+    {
+      "text": "Expand the influence",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "QiR90uPU71XYp89J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ftSp0SlfBdaZaxNu.QiR90uPU71XYp89J"
+    },
+    {
+      "text": "Lead the rebellion",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "HLRXJDEafcXLSimp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ftSp0SlfBdaZaxNu.HLRXJDEafcXLSimp"
+    },
+    {
+      "text": "Recover the treasure",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "R28HnehwwHfhTbW0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ftSp0SlfBdaZaxNu.R28HnehwwHfhTbW0"
+    },
+    {
+      "text": "Rescue the innocent",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "i33efMYcRdLZv44N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ftSp0SlfBdaZaxNu.i33efMYcRdLZv44N"
+    },
+    {
+      "text": "Slay the beast",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "jEHlTyl7nqM7Nn38",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ftSp0SlfBdaZaxNu.jEHlTyl7nqM7Nn38"
+    }
+  ],
+  "folder": "Kj7f4Bqpgi9CfkHi",
+  "sort": 100000,
+  "_id": "ftSp0SlfBdaZaxNu",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>These are the standard fantasy tropes boiled down to a phrase in the form of \"Verb the Noun.\" While these are common particularly in high fantasy, this section also includes a modifying adjective to help get the creative juices flowing and ground you in the grittier world of the Ironlands. Feel free to make your own list of modifiers that fit your world better. For example, an easy way to swap out your modifiers is to put in the different types of themes for sites such as Contested, Floating, Frozen, etc. available in Ironsworn: Delve and in this supplement on pg. 227.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ftSp0SlfBdaZaxNu"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791158947,
+    "modifiedTime": 1702851794022,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!ftSp0SlfBdaZaxNu"
+}

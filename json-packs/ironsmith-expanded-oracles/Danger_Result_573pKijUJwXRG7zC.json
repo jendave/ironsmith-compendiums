@@ -1,0 +1,207 @@
+{
+  "folder": "9aOcRDYP756GIXDc",
+  "name": "Danger Result",
+  "_id": "573pKijUJwXRG7zC",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>You may use these Themes and Domains in another RPG system to help build a site to explore. Choose a single Theme to pair with a single Domain to create a new site. As the site is explored, you may roll 1d100 to find features of new areas using the Features table on the Theme and Domain cards. If a dangerous situation is presented, you may roll 1d100 using the Dangers table on the Theme and Domain cards to help you define that danger. While the full 1d100 chart for Features is created by combining a Theme card with a Domain card, you will need an additional table to complete the possible Dangers as follows</p>",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        30
+      ],
+      "drawn": false,
+      "_id": "pOxDmpg2lSURczYJ",
+      "text": "Look up the corresponding Danger on the Theme card.",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!573pKijUJwXRG7zC.pOxDmpg2lSURczYJ"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        31,
+        45
+      ],
+      "drawn": false,
+      "_id": "UYwJcQsP4FJTzvnU",
+      "text": "Look up the corresponding Danger on the Domain card.",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!573pKijUJwXRG7zC.UYwJcQsP4FJTzvnU"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        46,
+        57
+      ],
+      "drawn": false,
+      "_id": "GJNBMzH23ZSGxMdz",
+      "text": "You are ambushed.",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!573pKijUJwXRG7zC.GJNBMzH23ZSGxMdz"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        58,
+        68
+      ],
+      "drawn": false,
+      "_id": "QxDfnHhxNGvPuaHd",
+      "text": "You trigger a deadly trap.",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!573pKijUJwXRG7zC.QxDfnHhxNGvPuaHd"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        69,
+        76
+      ],
+      "drawn": false,
+      "_id": "NWYJtgemFLqqql6p",
+      "text": "The environment itself poses a hazard.",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!573pKijUJwXRG7zC.NWYJtgemFLqqql6p"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        77,
+        79
+      ],
+      "drawn": false,
+      "_id": "1JE8HS9CvkirOWtY",
+      "text": "Dark magic assaults you.",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!573pKijUJwXRG7zC.1JE8HS9CvkirOWtY"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        80,
+        82
+      ],
+      "drawn": false,
+      "_id": "s9P3CqV3z3mlfe3n",
+      "text": "You disturb an aggressive animal, beast, pack, or swarm.",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!573pKijUJwXRG7zC.s9P3CqV3z3mlfe3n"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        83,
+        85
+      ],
+      "drawn": false,
+      "_id": "SmFpUzYIcW7ikfPx",
+      "text": "You need the right equipment to move forward.",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!573pKijUJwXRG7zC.SmFpUzYIcW7ikfPx"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        86,
+        88
+      ],
+      "drawn": false,
+      "_id": "bMukBw055oZAmOug",
+      "text": "Pitch darkness, a blocked passage, or a broken bridge impedes your progress.",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!573pKijUJwXRG7zC.bMukBw055oZAmOug"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        89,
+        91
+      ],
+      "drawn": false,
+      "_id": "cSYLETXZEsatw2RB",
+      "text": "Your expectations turn out to be wrong and make matters worse.",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!573pKijUJwXRG7zC.cSYLETXZEsatw2RB"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        92,
+        94
+      ],
+      "drawn": false,
+      "_id": "3ud5yefBZGJro8oe",
+      "text": "Ethereal horrors stalk you.",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!573pKijUJwXRG7zC.3ud5yefBZGJro8oe"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        95,
+        100
+      ],
+      "drawn": false,
+      "_id": "9WJSDasn6OG1KRLC",
+      "text": "Roll twice and combine the results.",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!573pKijUJwXRG7zC.9WJSDasn6OG1KRLC"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1702767538825,
+    "modifiedTime": 1702854462169,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "formula": "",
+  "_key": "!tables!573pKijUJwXRG7zC"
+}

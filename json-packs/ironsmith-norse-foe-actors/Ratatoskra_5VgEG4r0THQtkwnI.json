@@ -1,0 +1,165 @@
+{
+  "name": "Ratatoskra",
+  "type": "foe",
+  "img": "icons/creatures/mammals/rodent-rat-green.webp",
+  "items": [
+    {
+      "_id": "3ySuUnpwbZdEX6RL",
+      "name": "Ratatoskra",
+      "type": "progress",
+      "img": "icons/creatures/mammals/rodent-rat-green.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Large semi-intelligent squirrel</p>\n<p>Enjoys getting allies to fight each other</p>\n<p>Steals food while others fight</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Cause mischief</p>\n<p>Find and store food</p>\n<p>Run free through the forests</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Get others to fight</p>\n<p>Swarm foes</p>\n<p>Sharp teeth and club-like tail if necessary</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 36\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 32\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 31\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Who knew that the squirrels in the Icelands would be such a problem. Compared to the struggle of everyday existence, they would seem a small thing, but oh, they are clever. They drop nuts on our heads to make us think someone else threw it at us, and some even work in tandem to make another Icelander laugh at the same time to increase the enmity between us. As we rough and tumble &ldquo;for our honor,&rdquo; they are chewing through the sides of our packs and making off with our food.</p>\n<p>Worse yet, their large size, that of a normal dog, makes them veritable fighters in their own right, particularly if they attack as a group. They sharpen their teeth by rubbing them against sandstone and have thick- boned tails that they can lock in place as if it were a stout club or mace. We all laugh at the one hurt by the little devils, but then there&rsquo;s not a one of us that hasn&rsquo;t been made the fool by them at some point.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A trade caravan was pilfered by an efficient group of ratatoskra when they stopped for a break somewhere along the trade route. Before entering the next settlement, they took stock and noticed several small items missing. While it was mostly foodstuff taken, something very valuable also went missing. The lead trader is willing to pay a high price for its return but is keeping the exact nature of the object secret. What exactly is this lost trinket? And if only a group of squirrels took it, why do they need a warrior to get it back?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>How large do the ratatoskra get? Are they poodle-sized or mastiff-sized?</em></p>\n<p><em>Do the ratatoskra have a symbiotic relationship with another type of creature? If so, what is the nature of that relationship?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 1,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!5VgEG4r0THQtkwnI.3ySuUnpwbZdEX6RL"
+    }
+  ],
+  "effects": [],
+  "folder": "MoUsx3IDJnuUX6gY",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Ratatoskra",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/mammals/rodent-rat-green.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741410510621,
+    "modifiedTime": 1741411412225,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "5VgEG4r0THQtkwnI",
+  "sort": 100000,
+  "_key": "!actors!5VgEG4r0THQtkwnI"
+}

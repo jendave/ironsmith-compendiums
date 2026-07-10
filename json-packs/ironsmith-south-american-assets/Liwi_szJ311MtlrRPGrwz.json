@@ -1,0 +1,68 @@
+{
+  "type": "asset",
+  "folder": "d1DiTCUZf5dlsZYA",
+  "name": "Liwi",
+  "system": {
+    "requirement": "If you wield liwi, weighted stones on straps or ropes...",
+    "category": "Combat Talent",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} +edge by throwing your bolas to tangle up the legs of your foe (formidable or less), add +1 and take +1 momentum on a hit.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>As above, but you inflict I harm on a strong hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.8d90dd472856be27]{Resupply} by hunting with your bolas, roll +edge (instead of +wits) and choose your approach.<ul><li>Game hunting: Add +1 and take +1 momentum on a hit.</li><li>Bird hunting: Add +2 and on a hit, take only +1 supply (instead of +2).</li></ul></p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Bolas"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/hunting-bolas.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709598831490,
+    "modifiedTime": 1764392500402,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "szJ311MtlrRPGrwz",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!szJ311MtlrRPGrwz"
+}

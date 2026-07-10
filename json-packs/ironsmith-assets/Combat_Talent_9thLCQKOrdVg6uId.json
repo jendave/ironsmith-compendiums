@@ -1,0 +1,19 @@
+{
+  "name": "Combat Talent",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "9thLCQKOrdVg6uId",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1708648332734,
+    "modifiedTime": 1708648332734,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!folders!9thLCQKOrdVg6uId"
+}

@@ -1,0 +1,157 @@
+{
+  "name": "Mangroppa",
+  "img": "icons/creatures/fish/squid-kraken-teal.webp",
+  "type": "foe",
+  "folder": "PhtC6865BqJuajtM",
+  "prototypeToken": {
+    "actorLink": true,
+    "name": "Mangroppa",
+    "displayName": 0,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "icons/creatures/fish/squid-kraken-teal.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "system": {
+    "dfid": ""
+  },
+  "items": [
+    {
+      "name": "Mangroppa",
+      "type": "progress",
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Bulbous central body mass</p>\n<p class=\"nogrow\">Multiple tentacles</p>\n<p class=\"nogrow\">Beaked maw</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Lurk</p>\n<p class=\"nogrow\">Spawn</p>\n<p class=\"nogrow\">Hunt</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Strike while submerged</p>\n<p class=\"nogrow\">Multi-tentacled attack</p>\n<p class=\"nogrow\">Seize and drag to the depths</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Weaknesses</h4>\n<p class=\"nogrow\">Fire</p>\n<p class=\"nogrow\">Cannot remain out of water for long</p>\n</div>\n</div>\n<p>A mangroppa is probably closest in nature to a squid or octopus but dwell in deep freshwater lakes, rivers, and occasionally swamps instead of the sea. They can flatten their bodies to remain submerged in the shallow edges of a water source enabling them to hunt prey that come seeking water such as deer, cave lions, bears, and even Ironlanders. Mangroppas are also capable of walking on dry land for short stretches using their tentacles for locomotion.</p>\n<p>We have long been plagued by mangroppas as they tend to inhabit the best sources of water that are ideal spots for building settlements. Rather than continue to fight these beasts off, many give up and seek smaller sources of water such as a woodland creek to be their water source. Those brave enough to build next to a known mangroppa hunting ground will place torches on poles in the water in hopes that the fires will allow them to access the shallows unmolested. However, when rain, snow or wind put out these beacons, mangroppas may attack with even more aggression than normal.</p>\n<p>The size of mangroppas can vary greatly with their age, and we know not how long these beasts may live. They spawn hundreds of eggs at a time but few of their young make it to hunting age as they fight and devour their own siblings. May the old gods protect the one who is thrown into the midst of a freshly hatched pod of mangroppa young.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>An ambitious Ironlander wants to build a waterwheel in a river, but every time construction begins, a particularly large mangroppa makes short work of the crew and building material. Worse yet, this mangroppa seems to be able to stay on land much longer than normal. The building effort cannot be sustained in the face of such losses, and the nearby settlements who donated to the cause were counting on the trade and provisions that the water wheel would bring to them. Is there a way to provide for these settlements who now desperately need the water wheel to be completed?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Do mangroppas have suction cups, spikes, or hand-like appendages on their tentacles?</em></p>\n</blockquote>",
+        "rank": 3,
+        "current": 0,
+        "completed": false,
+        "subtype": "foe",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      "_id": "b0cwy6uj5UYssRRM",
+      "img": "icons/creatures/fish/squid-kraken-teal.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "e1Oag2SXzEND5oPH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "coreVersion": "12.331",
+        "createdTime": 1708682828652,
+        "modifiedTime": 1741213187890,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!actors.items!a1p0Vw9X86DHyZMP.b0cwy6uj5UYssRRM"
+    }
+  ],
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "12.331",
+    "createdTime": 1708682811724,
+    "modifiedTime": 1741212843482,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "a1p0Vw9X86DHyZMP",
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!actors!a1p0Vw9X86DHyZMP"
+}

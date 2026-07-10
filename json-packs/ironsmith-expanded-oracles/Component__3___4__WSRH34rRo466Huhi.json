@@ -1,0 +1,402 @@
+{
+  "name": "Component (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Grate",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "5GufJrNV6gwtuCl7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.5GufJrNV6gwtuCl7"
+    },
+    {
+      "text": "Catapult",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "RuMc5pwtvtp25skI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.RuMc5pwtvtp25skI"
+    },
+    {
+      "text": "Sleep",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "WWlLE3xnHgrRwmDt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.WWlLE3xnHgrRwmDt"
+    },
+    {
+      "text": "Alchemy",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "2LkH1QzJzVwIHS2a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.2LkH1QzJzVwIHS2a"
+    },
+    {
+      "text": "Weight",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "RUnJ1IH8NlOtIY51",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.RUnJ1IH8NlOtIY51"
+    },
+    {
+      "text": "Wall",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "ENbcpW0Hf853qo3g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.ENbcpW0Hf853qo3g"
+    },
+    {
+      "text": "Hook",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "fm2KUs6YYTJb7tnz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.fm2KUs6YYTJb7tnz"
+    },
+    {
+      "text": "Oil",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "JXU8RroGCH9Tmqin",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.JXU8RroGCH9Tmqin"
+    },
+    {
+      "text": "Slab",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "MmnP2Tnyu8av2hsl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.MmnP2Tnyu8av2hsl"
+    },
+    {
+      "text": "Sludge",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "nIPpdPKa9nx0DrYw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.nIPpdPKa9nx0DrYw"
+    },
+    {
+      "text": "Gap",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "fkuaIUx2fOUIVuoC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.fkuaIUx2fOUIVuoC"
+    },
+    {
+      "text": "Boulder",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "PrfNE3ef6NCFoyQE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.PrfNE3ef6NCFoyQE"
+    },
+    {
+      "text": "Smoke",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "QyFx4z4KCMUddkgC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.QyFx4z4KCMUddkgC"
+    },
+    {
+      "text": "Pillar",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "DqCu9CdRWsIX3POG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.DqCu9CdRWsIX3POG"
+    },
+    {
+      "text": "Hole",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "4mqx8IW4Xl03Olpn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.4mqx8IW4Xl03Olpn"
+    },
+    {
+      "text": "Acid",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "NqvJx4AmeLJJOxUM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.NqvJx4AmeLJJOxUM"
+    },
+    {
+      "text": "Gear",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "bxvKHqUShSHqigYb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.bxvKHqUShSHqigYb"
+    },
+    {
+      "text": "Fence",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "GhW6HVUGl3OU2sdE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.GhW6HVUGl3OU2sdE"
+    },
+    {
+      "text": "Ceiling",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "bsinR01hQqFIyjDX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.bsinR01hQqFIyjDX"
+    },
+    {
+      "text": "Pump",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "Fb6tmdoxTqeBjXv8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.Fb6tmdoxTqeBjXv8"
+    },
+    {
+      "text": "Chains",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "wYsSXpRr6lYA2ziD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.wYsSXpRr6lYA2ziD"
+    },
+    {
+      "text": "Choice",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "nLekC6vj6GzUnpXx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.nLekC6vj6GzUnpXx"
+    },
+    {
+      "text": "Door",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "CDwwiQhnYFPxNjvG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.CDwwiQhnYFPxNjvG"
+    },
+    {
+      "text": "Iron",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "0aRJvLAOJ6KJQyh2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.0aRJvLAOJ6KJQyh2"
+    },
+    {
+      "text": "Ice",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "zoUIz1zzysbA49ze",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WSRH34rRo466Huhi.zoUIz1zzysbA49ze"
+    }
+  ],
+  "folder": "8Ys4LafUGUk7Tu2I",
+  "sort": 4,
+  "_id": "WSRH34rRo466Huhi",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946295621,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!WSRH34rRo466Huhi"
+}

@@ -1,0 +1,179 @@
+{
+  "name": "Regions of the Junglelands",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Rumi Uma Wat'a <i>Stone Head Isles</i> (Barrier Islands)",
+      "range": [
+        1,
+        12
+      ],
+      "_id": "4ONjdkNqq9I4fxCY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!D4VtGkGiBXEuGhrC.4ONjdkNqq9I4fxCY"
+    },
+    {
+      "text": "Kiru Chhukruna <i>The Toothed Beak</i> (Ragged Coast)",
+      "range": [
+        13,
+        24
+      ],
+      "_id": "Zhogq83k3wBGi6R0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!D4VtGkGiBXEuGhrC.Zhogq83k3wBGi6R0"
+    },
+    {
+      "text": "Unu Sach’ara <i>The Drowning Wood</i> (Deep Wilds)",
+      "range": [
+        25,
+        34
+      ],
+      "_id": "5Cv38Wr9c1YJHoz8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!D4VtGkGiBXEuGhrC.5Cv38Wr9c1YJHoz8"
+    },
+    {
+      "text": "Thuniy Nan <i>The Shattered Road</i> (Flooded Lands)",
+      "range": [
+        35,
+        46
+      ],
+      "_id": "yjY7JTtj1iK5XUuA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!D4VtGkGiBXEuGhrC.yjY7JTtj1iK5XUuA"
+    },
+    {
+      "text": "Chinka Wayta Pata <i>The Lost Garden</i> (Havens)",
+      "range": [
+        47,
+        60
+      ],
+      "_id": "gmwmlWKLeDSsRmqy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!D4VtGkGiBXEuGhrC.gmwmlWKLeDSsRmqy"
+    },
+    {
+      "text": "Q'umir Amaru Pikchu <i>The Green Snake Hills</i> (Hinterlands)",
+      "range": [
+        61,
+        72
+      ],
+      "_id": "q660yKNOTsMTkYsP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!D4VtGkGiBXEuGhrC.q660yKNOTsMTkYsP"
+    },
+    {
+      "text": "Qincha Phaqcha <i>Wall of Waterfalls</i> (Tempest Hills)",
+      "range": [
+        73,
+        84
+      ],
+      "_id": "T4F3NsbkqHTR6WbJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!D4VtGkGiBXEuGhrC.T4F3NsbkqHTR6WbJ"
+    },
+    {
+      "text": "Yana Hirka <i>The Obsidian Mountains</i> (Veiled Mountains)",
+      "range": [
+        85,
+        94
+      ],
+      "_id": "ZmVONqD8NEFWwg7j",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!D4VtGkGiBXEuGhrC.ZmVONqD8NEFWwg7j"
+    },
+    {
+      "text": "P'uruna T'urr <i>Red Sea</i> (The Sinking Plains of Mud)",
+      "range": [
+        95,
+        99
+      ],
+      "_id": "KGKVoQJrCDEAbOPI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!D4VtGkGiBXEuGhrC.KGKVoQJrCDEAbOPI"
+    },
+    {
+      "text": "Elsewhere",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "HPOZhBgFQNDJ6wem",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!D4VtGkGiBXEuGhrC.HPOZhBgFQNDJ6wem"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Each region in the Junglelands corresponds to a region on the normal Ironsworn map. In this way, you can continue to use the same map while still getting a new flavor for the setting.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1709422565630,
+    "modifiedTime": 1709422706669,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_id": "D4VtGkGiBXEuGhrC",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!tables!D4VtGkGiBXEuGhrC"
+}

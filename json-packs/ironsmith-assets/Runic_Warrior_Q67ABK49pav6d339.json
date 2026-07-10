@@ -1,0 +1,68 @@
+{
+  "type": "asset",
+  "folder": "9thLCQKOrdVg6uId",
+  "name": "Runic Warrior",
+  "system": {
+    "requirement": "",
+    "category": "Combat Talent",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Once per fight, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} +wits and add +1 by tracing the Sign of Drepa to push your foe with a blast of force. On a weak hit, you have the initiative (instead of losing it).</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>You may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} +wits (instead of +iron or +edge) by tracing the Sign of Skina to blast your foe with mystic energy (inflicts 2 harm).</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you burn momentum to improve a result while using this asset, choose one:<ul><li>You have the initiative.</li><li>Take +1 momentum.</li><li>Inflict +1 harm.</li></ul></p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/fire-punch.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1708647988983,
+    "modifiedTime": 1764388096086,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Q67ABK49pav6d339",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!Q67ABK49pav6d339"
+}

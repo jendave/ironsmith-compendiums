@@ -1,0 +1,19 @@
+{
+  "name": "Path",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "292WrNSrx7F9caMX",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1709072431982,
+    "modifiedTime": 1709072437982,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!folders!292WrNSrx7F9caMX"
+}

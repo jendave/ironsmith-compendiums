@@ -1,0 +1,163 @@
+{
+  "name": "Glade of Eternal Rest",
+  "type": "foe",
+  "img": "icons/magic/nature/root-vines-entwined-leaves.webp",
+  "items": [
+    {
+      "_id": "3ySuUnpwbZdEX6RL",
+      "name": "Bear",
+      "type": "progress",
+      "img": "icons/creatures/abilities/bear-roar-bite-brown-green.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Lush fruit trees</p>\n<p class=\"nogrow\">Otherworldly, musical sounds</p>\n<p class=\"nogrow\">Visions of peace and plenty</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Drain the life energy of the living</p>\n<p class=\"nogrow\">Enforce peace</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Lure with illusions and compulsions</p>\n<p class=\"nogrow\">Darken the outside world</p>\n<p class=\"nogrow\">Overcome with weariness and content</p>\n</div>\n</div>\n<p>Long before we arrived on these shores, glades of eternal rest were possibly created by some species of firstborn as a safe space where they could sign treaties and conduct business with each other. They imbued these areas with mystic power that sent out overwhelming waves of peace to wash over those in the glade. Perhaps this led to more mutually beneficial pacts and less bloodshed, or perhaps they were just waypoints for the firstborn to find rest and relaxation.</p>\n<p>At some point in history, the mystic energies began to deplete or perhaps a more malevolent force twisted their initial purposes. No matter how it happened, these places now lure in travelers with the promise of rest only to slowly them drain them of life. People will enter the glades, lay on the lush grasses, and contentedly stay there until death. They say that if you are far enough away to see the center of a glade without being under its influence, you would see the bones of animals and people alike that have happily entered into the glade and surrendered to the false comfort found there. As things go, it is not a bad way to die, but you will still be dead.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A group of zealots stumbled upon a glade of eternal rest and use it as a humane end to Ironlanders as a way to restore the land to its rightful owners: the firstborn. The zealots view themselves as righteous warriors on a sacred mission of cleansing the realms of the cancerous existence of humans. They travel to settlements offering the people a choice of purification by the glade or by the blade. What caused whole settlements to volunteer to enter the glade?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>What corrupted these once peaceful places?</em></p>\n</blockquote>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.24.10",
+        "createdTime": null,
+        "modifiedTime": 1740903702359,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!actors.items!1mDStguTaZC31f1Y.3ySuUnpwbZdEX6RL"
+    }
+  ],
+  "effects": [],
+  "folder": "sZt4emiLaGTpHjFK",
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.24.10"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "prototypeToken": {
+    "name": "Glade of Eternal Rest",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/magic/nature/root-vines-entwined-leaves.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.10",
+    "createdTime": 1740903623295,
+    "modifiedTime": 1741195887099,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "1mDStguTaZC31f1Y",
+  "sort": 0,
+  "_key": "!actors!1mDStguTaZC31f1Y"
+}

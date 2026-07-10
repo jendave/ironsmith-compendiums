@@ -1,0 +1,165 @@
+{
+  "name": "Tsukumogami",
+  "type": "foe",
+  "img": "icons/tools/hand/hammer-mason-white-grey.webp",
+  "items": [
+    {
+      "_id": "3ySuUnpwbZdEX6RL",
+      "name": "Tsukumogami",
+      "type": "progress",
+      "img": "icons/tools/hand/hammer-mason-white-grey.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>100 year old sentient item</p>\n<p>Abused and discarded tool</p>\n<p>Vengeful to previous owner's family</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Avenge their abuse</p>\n<p>Free other similar items</p>\n<p>Drain life energy</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Pose as a normal item</p>\n<p>Surprise attack</p>\n<p>Only attacks living, organic matter</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 34\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 45\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 50\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Also known the smith&rsquo;s bane, tsukumogami are any item that was treated with constant abuse and disrespect that then returns 100 years later to seek revenge on the descendants of its previous master. Whether or not these bloodthirsty items actually exist or not is a matter of debate, but no one can deny the peculiar circumstances of some deaths: a person who died falling on a hammer, one who died with a pair of rusted tongs in the eye, or another found with a horseshoe wrapped around their neck. Were these items come to life? Doubtful, but some still believe the stories.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A fourth generation blacksmith is renowned for the quality of katana they make, but recently their blades have been snapping prematurely or detaching the tang from the handle. The smith claims that he is still using his great-grandmother&rsquo;s tools and that they are turning into tsukumogami. He seeks someone who can help him reverse the curse on his tools. While the story sounds outrageous, what special knowledge do you have that may lend some credence to this smith&rsquo;s story?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Are tsukumogami truly alive and sentient, or are they simply animated by another more malevolent spirit?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 1,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!uYPCA9LWbkELk3Mm.3ySuUnpwbZdEX6RL"
+    }
+  ],
+  "effects": [],
+  "folder": "XnPy7Oh36oQPFJmF",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Tsukumogami",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/tools/hand/hammer-mason-white-grey.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741402744332,
+    "modifiedTime": 1741402744357,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "uYPCA9LWbkELk3Mm",
+  "sort": 200000,
+  "_key": "!actors!uYPCA9LWbkELk3Mm"
+}

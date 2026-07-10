@@ -1,0 +1,282 @@
+{
+  "name": "Coastal Waters Location (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Fishing Village",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "JQoI3le4bFuod0Iq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.JQoI3le4bFuod0Iq"
+    },
+    {
+      "text": "Pirate Camp",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "uGPrnHEpsfCOzufY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.uGPrnHEpsfCOzufY"
+    },
+    {
+      "text": "Jetsam",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "FxUwOVwlmls65DIw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.FxUwOVwlmls65DIw"
+    },
+    {
+      "text": "Lava Flow",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Hwu93RzMHVffV4k5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.Hwu93RzMHVffV4k5"
+    },
+    {
+      "text": "Coral Reef",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "rDq4BpjZkJPieKNM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.rDq4BpjZkJPieKNM"
+    },
+    {
+      "text": "Barrier Reef",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "DJcjo1PMTII58Hs9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.DJcjo1PMTII58Hs9"
+    },
+    {
+      "text": "Glacial Wall",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "5tXUUe6VUfEl7rkS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.5tXUUe6VUfEl7rkS"
+    },
+    {
+      "text": "Derelict",
+      "range": [
+        16,
+        23
+      ],
+      "_id": "bBB3ngoFFJ80IjpJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.bBB3ngoFFJ80IjpJ"
+    },
+    {
+      "text": "Storm Debris",
+      "range": [
+        24,
+        30
+      ],
+      "_id": "hQHAfG82tMMs2YLL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.hQHAfG82tMMs2YLL"
+    },
+    {
+      "text": "Peninsula",
+      "range": [
+        31,
+        38
+      ],
+      "_id": "JczsP6aykM11BIak",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.JczsP6aykM11BIak"
+    },
+    {
+      "text": "Archipelago",
+      "range": [
+        39,
+        46
+      ],
+      "_id": "OfA4ZR2irfyaaLXM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.OfA4ZR2irfyaaLXM"
+    },
+    {
+      "text": "Rocky Beach",
+      "range": [
+        47,
+        54
+      ],
+      "_id": "WV4KVQQ07JDOVzws",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.WV4KVQQ07JDOVzws"
+    },
+    {
+      "text": "Island Chain",
+      "range": [
+        55,
+        62
+      ],
+      "_id": "74cqxXJ6eyk4V938",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.74cqxXJ6eyk4V938"
+    },
+    {
+      "text": "Natural Arches",
+      "range": [
+        63,
+        70
+      ],
+      "_id": "EBdEaA7VzBa5u4QH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.EBdEaA7VzBa5u4QH"
+    },
+    {
+      "text": "Stacks",
+      "range": [
+        71,
+        85
+      ],
+      "_id": "PWIUbFFSzREIII11",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.PWIUbFFSzREIII11"
+    },
+    {
+      "text": "Sand Bars",
+      "range": [
+        86,
+        99
+      ],
+      "_id": "RFyMyImwoysiUDiT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.RFyMyImwoysiUDiT"
+    },
+    {
+      "text": "Anomaly",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "fsq6GZ6lHSIaAnXH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GevfByTd4FIrfGpb.fsq6GZ6lHSIaAnXH"
+    }
+  ],
+  "folder": "XP9oOi86RAUmPdRl",
+  "sort": 325000,
+  "_id": "GevfByTd4FIrfGpb",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this oracle to identify a point-of-interest or destination when you are traveling by ship or boat.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791159925,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!GevfByTd4FIrfGpb"
+}

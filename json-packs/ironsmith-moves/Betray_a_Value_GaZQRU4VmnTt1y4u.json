@@ -1,0 +1,98 @@
+{
+  "name": "Betray a Value",
+  "type": "sfmove",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "dfid": "",
+    "Category": "",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "When **you are tempted to betray one of your core values and don’t know how your character would react**, choose one:\n\n* Roll +heart. On a hit, they resist the impulse to act contrary to their values. On a miss, they act against their value in some way.\n* @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aba3e44b7e810c0f]{Ask the Oracle} if your character will act against their value with the odds of unlikely.",
+    "Trigger": {
+      "Text": "When you are tempted to betray one of your core values and don’t know how your character would react...",
+      "Options": [
+        {
+          "Text": "",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Heart"
+          ]
+        },
+        {
+          "Text": "@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aba3e44b7e810c0f]{Ask the Oracle}",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Iron"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      },
+      "Weak Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "",
+      "Authors": [],
+      "Page": null
+    },
+    "Suggestions": {},
+    "Display": {
+      "Images": []
+    }
+  },
+  "effects": [],
+  "folder": "u9ITbzIMLhPHkXKI",
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1708671633170,
+    "modifiedTime": 1708678368206,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_id": "GaZQRU4VmnTt1y4u",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "_key": "!items!GaZQRU4VmnTt1y4u"
+}

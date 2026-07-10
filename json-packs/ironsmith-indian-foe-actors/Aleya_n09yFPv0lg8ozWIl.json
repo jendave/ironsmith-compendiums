@@ -1,0 +1,165 @@
+{
+  "name": "Aleya",
+  "type": "foe",
+  "img": "icons/magic/light/explosion-star-small-teal.webp",
+  "items": [
+    {
+      "_id": "jq7T1LdxduDOgDgT",
+      "name": "Aleya",
+      "type": "progress",
+      "img": "icons/magic/light/explosion-star-small-teal.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Ethereal green orb floating over swamps</p>\n<p>Thin tendrils writhing out of the center</p>\n<p>Slowly pulsing light as if breathing</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Consume the spirits of the living</p>\n<p>Confound the living</p>\n<p>Protect sacred places</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Lead people astray so they become hopelessly lost</p>\n<p>Touch with tendrils causing memory loss and confusion</p>\n<p>Embed themselves in the chest of victim</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 49\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The ghostly lights of aleya are found in many of the swamps and marshes of the Tigerlands, particularly in the ghost swamps of Nadiyon Kee Maut. Legend says that these are the souls of fishermen drowned in the swamps whose only desire is to see others befall the same fate.</p>\n<p>Usually an aleya will simply try to confuse a victim&rsquo;s sense of direction in the hopes of getting them lost as eventually the victim will succumb to one of the myriad dangers of the swamp. However, sometimes an aleya will take more aggressive actions. If the light approaches close enough that it can brush its tendrils across your head, you are likely to be filled with confusion. You won&rsquo;t remember where you are or where you are going, and you&rsquo;ll likely allow the aleya to lead you to your death.</p>\n<p>The worst attack an aleya can make is to directly enter your body in an attempt to possess you. If this happens, your only hope is singing one of the sacred hymns until the aleya leaves your body.</p>\n<p><strong>Design Note:</strong> You may treat an aleya like an anomaly instead of a traditional foe if you prefer.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>Aleya lights are known to haunt a nearby swamp, but recently five aleya each of different color have been seen working in concert. What do the different colors signify? Why are the aleya working together?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Is there a physical center to aleya, or are they completely ethereal?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 1,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!n09yFPv0lg8ozWIl.jq7T1LdxduDOgDgT"
+    }
+  ],
+  "effects": [],
+  "folder": "b2kATktQcePR0CZh",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.x7lUU3cer4uWnTUm"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Aleya",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/magic/light/explosion-star-small-teal.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.x7lUU3cer4uWnTUm",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741383456825,
+    "modifiedTime": 1741383789526,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "n09yFPv0lg8ozWIl",
+  "sort": 100000,
+  "_key": "!actors!n09yFPv0lg8ozWIl"
+}

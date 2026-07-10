@@ -1,0 +1,792 @@
+{
+  "name": "Location (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Hideout",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "45UvFz2IFWTpMs4v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.45UvFz2IFWTpMs4v"
+    },
+    {
+      "text": "Ruin",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "ZzCPRd7MSRYt5kr3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.ZzCPRd7MSRYt5kr3"
+    },
+    {
+      "text": "Mine",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "ezZ16fP6rYEt9Vnp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.ezZ16fP6rYEt9Vnp"
+    },
+    {
+      "text": "Waste",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "zKfEtuHQcLJLCpi0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.zKfEtuHQcLJLCpi0"
+    },
+    {
+      "text": "Mystical Site",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "D22t5JduGyCU7E27",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.D22t5JduGyCU7E27"
+    },
+    {
+      "text": "Path",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "g8isMY3bY7LqhMXY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.g8isMY3bY7LqhMXY"
+    },
+    {
+      "text": "Outpost",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "qJxGYHmdO9NinWmZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.qJxGYHmdO9NinWmZ"
+    },
+    {
+      "text": "Wall",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "C1fmnVU0Wpb5ysZC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.C1fmnVU0Wpb5ysZC"
+    },
+    {
+      "text": "Battlefield",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "sYFP8lszi6aEsmGw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.sYFP8lszi6aEsmGw"
+    },
+    {
+      "text": "Hovel",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "le5mmXgv77oWWSjZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.le5mmXgv77oWWSjZ"
+    },
+    {
+      "text": "Spring",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "QJtmQxmk9YKOAWwj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.QJtmQxmk9YKOAWwj"
+    },
+    {
+      "text": "Lair",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "T3rMtMcKrvRpRjNS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.T3rMtMcKrvRpRjNS"
+    },
+    {
+      "text": "Fort",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "Beh1LkxtLw7hnzPe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.Beh1LkxtLw7hnzPe"
+    },
+    {
+      "text": "Bridge",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "p0T7hhzKNQ3I1elf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.p0T7hhzKNQ3I1elf"
+    },
+    {
+      "text": "Camp",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "7aVpjcnHVevU8yoP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.7aVpjcnHVevU8yoP"
+    },
+    {
+      "text": "Cairn/Grave",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "ecHo2InOULShMW3Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.ecHo2InOULShMW3Q"
+    },
+    {
+      "text": "Caravan",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "tuiMMh3qei3ggSdX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.tuiMMh3qei3ggSdX"
+    },
+    {
+      "text": "Waterfall",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "14N00sgJMPvYav8p",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.14N00sgJMPvYav8p"
+    },
+    {
+      "text": "Cave",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "ErvWnJYN0wMnBdzS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.ErvWnJYN0wMnBdzS"
+    },
+    {
+      "text": "Swamp",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "7t8QqUShF2pg28mY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.7t8QqUShF2pg28mY"
+    },
+    {
+      "text": "Fen",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "US2iQiRxvzmOIfdM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.US2iQiRxvzmOIfdM"
+    },
+    {
+      "text": "Ravine",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "YWqYmg8bAmxcXP1Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.YWqYmg8bAmxcXP1Q"
+    },
+    {
+      "text": "Road",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "I2td0zzceUrKiBvI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.I2td0zzceUrKiBvI"
+    },
+    {
+      "text": "Tree",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "lZPNpOt1D7UfXKix",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.lZPNpOt1D7UfXKix"
+    },
+    {
+      "text": "Pond",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "5AG38EunTC8YwHYF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.5AG38EunTC8YwHYF"
+    },
+    {
+      "text": "Fields",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "agaNCMFJ8rJLgzpG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.agaNCMFJ8rJLgzpG"
+    },
+    {
+      "text": "Marsh",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "paupieWIUP9LvQ1b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.paupieWIUP9LvQ1b"
+    },
+    {
+      "text": "Steading",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "4TDkRvfha57NKOVR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.4TDkRvfha57NKOVR"
+    },
+    {
+      "text": "Rapids",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "1JCoBjfMW3pxvcdj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.1JCoBjfMW3pxvcdj"
+    },
+    {
+      "text": "Pass",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "FZRQVJVmomg6PGJA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.FZRQVJVmomg6PGJA"
+    },
+    {
+      "text": "Trail",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "pU1IxdwHfNAMnBQB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.pU1IxdwHfNAMnBQB"
+    },
+    {
+      "text": "Glade",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "Vm3T2ApHKQzoL6wa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.Vm3T2ApHKQzoL6wa"
+    },
+    {
+      "text": "Plain",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "j7CrWcj5cUdMcqMh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.j7CrWcj5cUdMcqMh"
+    },
+    {
+      "text": "Ridge",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "KPenXYUlpWYLiYAm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.KPenXYUlpWYLiYAm"
+    },
+    {
+      "text": "Cliff",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "kSSqDIMusWEUh8HE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.kSSqDIMusWEUh8HE"
+    },
+    {
+      "text": "Grove",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "ZfAnOn7cKziDwqXw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.ZfAnOn7cKziDwqXw"
+    },
+    {
+      "text": "Village",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "c0xXAmR13lPO4VHG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.c0xXAmR13lPO4VHG"
+    },
+    {
+      "text": "Moor",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "rSlugY8XJTCB6yV7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.rSlugY8XJTCB6yV7"
+    },
+    {
+      "text": "Thicket",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "sE3wPTmRwEAnm223",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.sE3wPTmRwEAnm223"
+    },
+    {
+      "text": "River Ford",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "KltmwTyIeXODhYII",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.KltmwTyIeXODhYII"
+    },
+    {
+      "text": "Valley",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "ltS16ZsHiOGSiXIi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.ltS16ZsHiOGSiXIi"
+    },
+    {
+      "text": "Bay/Fjord",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "3hMhCQJrhgDkhtTm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.3hMhCQJrhgDkhtTm"
+    },
+    {
+      "text": "Foothills",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "mFMZy5p8G72yRfoF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.mFMZy5p8G72yRfoF"
+    },
+    {
+      "text": "Lake",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "iYfMSwKKXmB6GGKc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.iYfMSwKKXmB6GGKc"
+    },
+    {
+      "text": "River",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "s4MORjWrV3lzUpJ9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.s4MORjWrV3lzUpJ9"
+    },
+    {
+      "text": "Forest",
+      "range": [
+        76,
+        79
+      ],
+      "_id": "B6fA07ys99Q4Hb76",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.B6fA07ys99Q4Hb76"
+    },
+    {
+      "text": "Coast",
+      "range": [
+        80,
+        83
+      ],
+      "_id": "F5Z9RoqNLcFVauz2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.F5Z9RoqNLcFVauz2"
+    },
+    {
+      "text": "Hill",
+      "range": [
+        84,
+        88
+      ],
+      "_id": "HHPZ1EPiPZiKmfdd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.HHPZ1EPiPZiKmfdd"
+    },
+    {
+      "text": "Mountain",
+      "range": [
+        89,
+        93
+      ],
+      "_id": "dOGl4Biz7viHZMFD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.dOGl4Biz7viHZMFD"
+    },
+    {
+      "text": "Woods",
+      "range": [
+        94,
+        99
+      ],
+      "_id": "2KdjstswNAXV7ugE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.2KdjstswNAXV7ugE"
+    },
+    {
+      "text": "Anomaly",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "J1S1PQV3HJU4j5LE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0SMbpiwJm9DVdAt3.J1S1PQV3HJU4j5LE"
+    }
+  ],
+  "folder": "XP9oOi86RAUmPdRl",
+  "sort": 100000,
+  "_id": "0SMbpiwJm9DVdAt3",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this oracle when traveling to generate a point-of-interest or to answer a question about a place where someone or something can be found.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791159857,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!0SMbpiwJm9DVdAt3"
+}

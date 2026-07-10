@@ -1,0 +1,184 @@
+{
+  "name": "Ziggurat",
+  "type": "delve-domain",
+  "_id": "AVffRyyhVUNT8Gst",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "A temple dedicated to a forgotten city.",
+    "description": "<div class=\"page\" title=\"Page 255\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Made of sun-baked bricks placed together to form flat platforms on top of each other and then glazed with the colors of local plant roots, this site comes from a time before the Ironlanders made this land their home. Atop the structure sits a temple or shrine, and its insides consist of a maze of passages and ceremonial chambers serving all sorts of purposes.</p>\n<div class=\"page\" title=\"Page 255\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>While nothing is known for sure, it is assumed this site was used as a religious place for gatherings, community ceremonies, and living quarters for the priests.</p>\n<div class=\"page\" title=\"Page 255\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Traveling through this site&nbsp;gives one a false sense of&nbsp;ease. Most think it's a&nbsp;simple climb to the top,&nbsp;but those who delve here&nbsp;are often forced inside the&nbsp;ziggurat by collapsing stairs, fallen pillars, or other damage. Once inside, the darkness only adds to the disorientation and danger.</p>\n<div class=\"page\" title=\"Page 255\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Some claim that a malevolent mystic power still lingers deep within this site which is capable of influencing mortals who would dare to disturb this once hallowed ground.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          21,
+          43
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Stone staircase"
+      },
+      {
+        "range": [
+          44,
+          56
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Ceremonial chamber"
+      },
+      {
+        "range": [
+          57,
+          64
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Etched mystic sigils"
+      },
+      {
+        "range": [
+          65,
+          68
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Labyrinthine passages"
+      },
+      {
+        "range": [
+          69,
+          72
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Contemplation garden"
+      },
+      {
+        "range": [
+          73,
+          76
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Meditation chamber"
+      },
+      {
+        "range": [
+          77,
+          80
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Altar of sacrifice"
+      },
+      {
+        "range": [
+          81,
+          84
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Unlit beacon"
+      },
+      {
+        "range": [
+          85,
+          88
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Towering totems"
+      },
+      {
+        "range": [
+          89,
+          98
+        ],
+        "text": "Something unusual or unexpected",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          99,
+          99
+        ],
+        "text": "You transition into a new theme",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          100,
+          100
+        ],
+        "text": "You transition into a new domain",
+        "type": 0,
+        "flags": {}
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          31,
+          33
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen guards"
+      },
+      {
+        "range": [
+          34,
+          36
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Hidden trap"
+      },
+      {
+        "range": [
+          37,
+          39
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Cursed item"
+      },
+      {
+        "range": [
+          40,
+          42
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Crumbling archway, ceiling or wall"
+      },
+      {
+        "range": [
+          43,
+          45
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Oppressive presence pushes its will"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703542351581,
+    "modifiedTime": 1703542530924,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!AVffRyyhVUNT8Gst"
+}

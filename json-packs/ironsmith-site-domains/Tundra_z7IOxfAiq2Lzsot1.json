@@ -1,0 +1,184 @@
+{
+  "name": "Tundra",
+  "type": "delve-domain",
+  "_id": "z7IOxfAiq2Lzsot1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "This place is windswept, cold and dry",
+    "description": "<div class=\"page\" title=\"Page 253\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Despite the perpetual cold and regular snowfall, no moisture stays at this site for long. It is a place where strong winds are constant and swiftly carry all precipitation away. Ironlanders have been known to die from dehydration or exposure after getting lost in near whiteout conditions trying to cross a frozen tundra. In places, a glacier may make itself known by presenting a huge,&nbsp;impenetrable&nbsp;blocking the path forward for those who have lost their way.</p>\n</div>\n</div>\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 253\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Centuries of shifting glaciers have left the landscape dotted with small landmarks that help travelers to cross the tundra, but these clefts and indentations are often already home to clever and territorial denizens.</p>\n<div class=\"page\" title=\"Page 253\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>In some places, a retreating glacier has left a deep crevasse that lead further into the dry, cracked earth.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          21,
+          43
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Pock-marked open tundra"
+      },
+      {
+        "range": [
+          44,
+          56
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Ancient riverbed"
+      },
+      {
+        "range": [
+          57,
+          64
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Glacial wall"
+      },
+      {
+        "range": [
+          65,
+          68
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Tiny pools of ice"
+      },
+      {
+        "range": [
+          69,
+          72
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Small scrub plants"
+      },
+      {
+        "range": [
+          73,
+          76
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Sand dunes cold to touch"
+      },
+      {
+        "range": [
+          77,
+          80
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Remains of a large creature"
+      },
+      {
+        "range": [
+          81,
+          84
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Rock cleft out of the wind"
+      },
+      {
+        "range": [
+          85,
+          88
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Wind-carved, low hills"
+      },
+      {
+        "range": [
+          89,
+          98
+        ],
+        "text": "Something unusual or unexpected",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          99,
+          99
+        ],
+        "text": "You transition into a new theme",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          100,
+          100
+        ],
+        "text": "You transition into a new domain",
+        "type": 0,
+        "flags": {}
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          31,
+          33
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Gale force winds"
+      },
+      {
+        "range": [
+          34,
+          36
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Lost in the blankness"
+      },
+      {
+        "range": [
+          37,
+          39
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Deep crevasse"
+      },
+      {
+        "range": [
+          40,
+          42
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen lair"
+      },
+      {
+        "range": [
+          43,
+          45
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen on the hunt"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703541934356,
+    "modifiedTime": 1703542106145,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!z7IOxfAiq2Lzsot1"
+}

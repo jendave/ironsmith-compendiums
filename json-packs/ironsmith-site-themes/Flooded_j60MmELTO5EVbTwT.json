@@ -1,0 +1,184 @@
+{
+  "name": "Flooded",
+  "type": "delve-theme",
+  "_id": "j60MmELTO5EVbTwT",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "Murky water have overtaken this place.",
+    "description": "<div class=\"page\" title=\"Page 239\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>This site once served another purpose, but then the waters came. A river entering flood stage, an earthquake changing the course of a river, torrential rains, or a tsunami flowing inland created a swirling cesspool of flotsam and detritus. While some of the water receded, much of the land was too low to allow all of it to drain away. Now the area is an aquatic wasteland whose original purpose has been washed away.</p>\n<div class=\"page\" title=\"Page 239\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Making your way through this site takes a dangerous mixture of wading through areas thick with mud, fording swift flowing rapids, traversing deep and dark waters, and swimming through underwater tunnels hoping that a pocket of air is nearby.</p>\n<div class=\"page\" title=\"Page 239\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Worse yet, when the waters drove out the original inhabitants, a new ecosystem of denizens sprung up in their place. These denizens are often crafty hunters and powerful combatants, a dangerous combination.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          1,
+          4
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Deep water"
+      },
+      {
+        "range": [
+          5,
+          8
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Patch of dry land"
+      },
+      {
+        "range": [
+          9,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Impressive aquatic plants"
+      },
+      {
+        "range": [
+          13,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Signs of what once was"
+      },
+      {
+        "range": [
+          17,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Bloated remains or flostam"
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          1,
+          5
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Swift undertow"
+      },
+      {
+        "range": [
+          6,
+          10
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Icy waters"
+      },
+      {
+        "range": [
+          11,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Eroding path"
+      },
+      {
+        "range": [
+          13,
+          14
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Slick, moss-covered path"
+      },
+      {
+        "range": [
+          15,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen hunting"
+      },
+      {
+        "range": [
+          17,
+          18
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen strikes from below"
+      },
+      {
+        "range": [
+          19,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Tangles of aquatic plants"
+      },
+      {
+        "range": [
+          21,
+          22
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Thundering rapids"
+      },
+      {
+        "range": [
+          23,
+          24
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Waterfall into darkness"
+      },
+      {
+        "range": [
+          25,
+          26
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Large, swift moving debris"
+      },
+      {
+        "range": [
+          27,
+          28
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Absolute darkness"
+      },
+      {
+        "range": [
+          29,
+          30
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Rising water level"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703457300395,
+    "modifiedTime": 1703459298643,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!j60MmELTO5EVbTwT"
+}

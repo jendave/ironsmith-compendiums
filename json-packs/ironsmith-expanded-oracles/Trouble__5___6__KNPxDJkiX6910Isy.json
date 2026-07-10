@@ -1,0 +1,717 @@
+{
+  "name": "Trouble (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Falling star lands explosively",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "xYSelLX6SFvLwSyS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.xYSelLX6SFvLwSyS"
+    },
+    {
+      "text": "Large creature burrows under structures",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "CSUv1MFK525AJHBc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.CSUv1MFK525AJHBc"
+    },
+    {
+      "text": "Epic beast on the move",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "OgyhaGpmqGTx6D56",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.OgyhaGpmqGTx6D56"
+    },
+    {
+      "text": "Bounty hunter seeks an innocent",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "vhlywqYBaVgk6p97",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.vhlywqYBaVgk6p97"
+    },
+    {
+      "text": "Strange formation carved in the hillside",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "h33A5cmht42E3EDY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.h33A5cmht42E3EDY"
+    },
+    {
+      "text": "Local graveyard has been desecrated",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "zwaq8kkxMpa2VHeE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.zwaq8kkxMpa2VHeE"
+    },
+    {
+      "text": "Celestial event causes hysteria",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "yRa67wImy47b5Qye",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.yRa67wImy47b5Qye"
+    },
+    {
+      "text": "Game hunters injured",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "04QEW28sxTXxXWhX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.04QEW28sxTXxXWhX"
+    },
+    {
+      "text": "Cavern of creatures unearthed",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "AdWU6X4VS6monub8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.AdWU6X4VS6monub8"
+    },
+    {
+      "text": "Inexplicable deaths",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "esSSjjkL8u2eCp9Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.esSSjjkL8u2eCp9Z"
+    },
+    {
+      "text": "Need to create safe trade route",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "yNihhrhGBKqLeNeY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.yNihhrhGBKqLeNeY"
+    },
+    {
+      "text": "Truce threatened",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "25IZOzkUSHjXSgmG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.25IZOzkUSHjXSgmG"
+    },
+    {
+      "text": "Elaborate hoax",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "1i4rYr5P6wGgTn5y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.1i4rYr5P6wGgTn5y"
+    },
+    {
+      "text": "Collapsed bridge",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "hgE2cFTra6Zl9aa0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.hgE2cFTra6Zl9aa0"
+    },
+    {
+      "text": "Ancestral weapon lost",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "nH0Dhfgpyye70aQR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.nH0Dhfgpyye70aQR"
+    },
+    {
+      "text": "Pillar of iron discovered",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "JZT9jwPD0XG4421q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.JZT9jwPD0XG4421q"
+    },
+    {
+      "text": "Rune-covered monolith has appeared",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "cnnHI1kkutToDNwr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.cnnHI1kkutToDNwr"
+    },
+    {
+      "text": "Permafrost spreading",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "3CzUt1B6JH5YxJUr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.3CzUt1B6JH5YxJUr"
+    },
+    {
+      "text": "Livestock on the loose",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "I9rBfzCxFOxVLkN8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.I9rBfzCxFOxVLkN8"
+    },
+    {
+      "text": "Citizens trapped in the wilderness",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "PPE2aDyiRyyCiUMm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.PPE2aDyiRyyCiUMm"
+    },
+    {
+      "text": "Animal traps have been destroyed",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "kSU1OXAkjGBPjF8E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.kSU1OXAkjGBPjF8E"
+    },
+    {
+      "text": "Mystic trapped in the throes of a ritual",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "namcmVMOrBMlDhkP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.namcmVMOrBMlDhkP"
+    },
+    {
+      "text": "All the children have disappeared",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "glbcs3kPj1PRrW3E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.glbcs3kPj1PRrW3E"
+    },
+    {
+      "text": "Rebuilding from a recent battle",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "8bTsjTC7ORbSYW6e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.8bTsjTC7ORbSYW6e"
+    },
+    {
+      "text": "Citizen who was lost returns but can't speak",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "IDNr6dZ7rP4E6PR8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.IDNr6dZ7rP4E6PR8"
+    },
+    {
+      "text": "Pack of hunting animals",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "5YKuuyQq0FCX6gQP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.5YKuuyQq0FCX6gQP"
+    },
+    {
+      "text": "Grief-stricken over significant loss",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "VuIxjJB2xCcNtYXS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.VuIxjJB2xCcNtYXS"
+    },
+    {
+      "text": "Untrusted criminal seeks redemption",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "mKJ63lnsCrzygmNF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.mKJ63lnsCrzygmNF"
+    },
+    {
+      "text": "Settlement's chief defender has died",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "K5mfDTrYfsfUVcRu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.K5mfDTrYfsfUVcRu"
+    },
+    {
+      "text": "Sinkhole damages settlement",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "qie8IEcBmWCOYHm1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.qie8IEcBmWCOYHm1"
+    },
+    {
+      "text": "Surge of refugees",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "XbByCXYzJoeKbNJe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.XbByCXYzJoeKbNJe"
+    },
+    {
+      "text": "Sickness hits livestock",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "gSHduiiHmAVDoJHr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.gSHduiiHmAVDoJHr"
+    },
+    {
+      "text": "Stampede",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "xnjSV9VGZ1zvcl0c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.xnjSV9VGZ1zvcl0c"
+    },
+    {
+      "text": "Vermin infestation",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "S6yz5yqvKrOxnp4v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.S6yz5yqvKrOxnp4v"
+    },
+    {
+      "text": "Water source poisoned",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "nUogGxhukuSJ0PQy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.nUogGxhukuSJ0PQy"
+    },
+    {
+      "text": "Crops are ablaze",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "KiQAy2RktHeru1gU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.KiQAy2RktHeru1gU"
+    },
+    {
+      "text": "Dueling mystics",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "p67NtB0IT8AEeZO7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.p67NtB0IT8AEeZO7"
+    },
+    {
+      "text": "Forced to quarter bandits",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "aYxXYQoLqMn63bHa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.aYxXYQoLqMn63bHa"
+    },
+    {
+      "text": "Leader has been poisoned",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "mapttPNC3m198yAQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.mapttPNC3m198yAQ"
+    },
+    {
+      "text": "Assassination attempt on leader",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "AUZOKLqPasOJ3Jzz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.AUZOKLqPasOJ3Jzz"
+    },
+    {
+      "text": "Smithing forge destroyed",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "fAnQryWkfZgEkHXt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.fAnQryWkfZgEkHXt"
+    },
+    {
+      "text": "Beacon fires go out",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "g3xOkw2mc9Ejo0CF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.g3xOkw2mc9Ejo0CF"
+    },
+    {
+      "text": "Need impartial judge for a trial",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "SS0XIvfWLh3JOdVO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.SS0XIvfWLh3JOdVO"
+    },
+    {
+      "text": "Territory dispute",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "MDUnMgQMgbb5a1XV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.MDUnMgQMgbb5a1XV"
+    },
+    {
+      "text": "Supplies stolen",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "yLQeX7oTduE2IKwx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.yLQeX7oTduE2IKwx"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "zWoftQNI9eWkSHTX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KNPxDJkiX6910Isy.zWoftQNI9eWkSHTX"
+    }
+  ],
+  "folder": "6B9UAC7H5jYXUrLc",
+  "sort": 50000,
+  "_id": "KNPxDJkiX6910Isy",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this table to generate a narrative hook for a problem faced by a community. This oracle can help inspire a vow for your character or serve as a prompt for a trouble you encounter when you interact with a settlement.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791160073,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!KNPxDJkiX6910Isy"
+}

@@ -1,0 +1,68 @@
+{
+  "type": "asset",
+  "folder": "d1DiTCUZf5dlsZYA",
+  "name": "Macuahuitl",
+  "system": {
+    "requirement": "If you wield a macuahuitl, an obsidian edged wooden paddle...",
+    "category": "Combat Talent",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} with the intent to permanently maim your opponent (decide before rolling), change the lower challenge die value to the higher challenge die value. Then, inflict +2 harm on a strong hit.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>As above, but add +1.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} with the flat of the macuahuitl to daze your foe, add +1. On a hit, inflict I harm (instead of 2) and you have the initiative.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Serrated Club,"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/wood-club.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709598827654,
+    "modifiedTime": 1764393362478,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "KQquLOssz8lR6Z4t",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!KQquLOssz8lR6Z4t"
+}

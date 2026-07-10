@@ -1,0 +1,181 @@
+{
+  "name": "What Has the Monster Done?",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Killed people",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "v7PHJveZiTPlToMy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1jSxbgVP1CWKB1TS.v7PHJveZiTPlToMy"
+    },
+    {
+      "text": "Injured people",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "CNO0byDJ9FvVgWcP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1jSxbgVP1CWKB1TS.CNO0byDJ9FvVgWcP"
+    },
+    {
+      "text": "Captured people",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "6sqQ95wegJZXdzsy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1jSxbgVP1CWKB1TS.6sqQ95wegJZXdzsy"
+    },
+    {
+      "text": "Attacked livestock",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "9zTIHkc9FEBgJQqy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1jSxbgVP1CWKB1TS.9zTIHkc9FEBgJQqy"
+    },
+    {
+      "text": "Driven off game",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "QAbR9iDiWaKoDbhO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1jSxbgVP1CWKB1TS.QAbR9iDiWaKoDbhO"
+    },
+    {
+      "text": "Damaged structures",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "CiZWPujiZOXoMU6g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1jSxbgVP1CWKB1TS.CiZWPujiZOXoMU6g"
+    },
+    {
+      "text": "Damaged crops",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "h4rVj6n3KqKL9Hq8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1jSxbgVP1CWKB1TS.h4rVj6n3KqKL9Hq8"
+    },
+    {
+      "text": "Caused disease or blight",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "i5fQE1ZLaerCxpgQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1jSxbgVP1CWKB1TS.i5fQE1ZLaerCxpgQ"
+    },
+    {
+      "text": "Destroyed needed supplies",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "Cw1It8ZBvDmOsoRY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1jSxbgVP1CWKB1TS.Cw1It8ZBvDmOsoRY"
+    },
+    {
+      "text": "Brought a mystical malady or curse upon the community",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "bZ2n6C7b4Kg917wO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1jSxbgVP1CWKB1TS.bZ2n6C7b4Kg917wO"
+    }
+  ],
+  "folder": "DR4prmmNlNwWqwpV",
+  "sort": 100000,
+  "_id": "1jSxbgVP1CWKB1TS",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The first thing that generally happens in game is that the player characters get a plea for help from a settlement or group of people. To find out what these people tell you about the monster problem, roll percentile dice (2d10 treating the tens digit and ones digit separately) and action die (1d6) using the following tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.1jSxbgVP1CWKB1TS"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159459,
+    "modifiedTime": 1702718220519,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!1jSxbgVP1CWKB1TS"
+}

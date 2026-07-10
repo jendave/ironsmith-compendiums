@@ -1,0 +1,181 @@
+{
+  "name": "How Have People Tried to Stop the Monster?",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Hunting party",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "gmaCa2blB0GsF9Q7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PoWbQ8Uk0Atcv9Vu.gmaCa2blB0GsF9Q7"
+    },
+    {
+      "text": "Setting traps",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "6MZNFrVqt5simRta",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PoWbQ8Uk0Atcv9Vu.6MZNFrVqt5simRta"
+    },
+    {
+      "text": "Luring it away",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "z9ff6BJu8SgnGmTR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PoWbQ8Uk0Atcv9Vu.z9ff6BJu8SgnGmTR"
+    },
+    {
+      "text": "Scaring it off",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "whmWZqbQmNBp2yUj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PoWbQ8Uk0Atcv9Vu.whmWZqbQmNBp2yUj"
+    },
+    {
+      "text": "Destroying its nest or lair",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "t0NB8HUUcLfSdR6F",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PoWbQ8Uk0Atcv9Vu.t0NB8HUUcLfSdR6F"
+    },
+    {
+      "text": "Poisoning its food",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "BnI58qpw38HiqVG6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PoWbQ8Uk0Atcv9Vu.BnI58qpw38HiqVG6"
+    },
+    {
+      "text": "Destroying its food supply",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "wAH6SGI0LVaAoPnj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PoWbQ8Uk0Atcv9Vu.wAH6SGI0LVaAoPnj"
+    },
+    {
+      "text": "Defensive fortifications",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "cMRFgsYuwq5HdGxU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PoWbQ8Uk0Atcv9Vu.cMRFgsYuwq5HdGxU"
+    },
+    {
+      "text": "Posting guards or patrols",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "n3WR2rGzpGScc0vQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PoWbQ8Uk0Atcv9Vu.n3WR2rGzpGScc0vQ"
+    },
+    {
+      "text": "Mystic wards or rituals",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "8wvhCwg3Vs6FT2gL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PoWbQ8Uk0Atcv9Vu.8wvhCwg3Vs6FT2gL"
+    }
+  ],
+  "folder": "DR4prmmNlNwWqwpV",
+  "sort": 200000,
+  "_id": "PoWbQ8Uk0Atcv9Vu",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The first thing that generally happens in game is that the player characters get a plea for help from a settlement or group of people. To find out what these people tell you about the monster problem, roll percentile dice (2d10 treating the tens digit and ones digit separately) and action die (1d6) using the following tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.PoWbQ8Uk0Atcv9Vu"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159476,
+    "modifiedTime": 1702718260936,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!PoWbQ8Uk0Atcv9Vu"
+}

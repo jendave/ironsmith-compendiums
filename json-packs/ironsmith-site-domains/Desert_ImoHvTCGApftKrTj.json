@@ -1,0 +1,184 @@
+{
+  "name": "Desert",
+  "type": "delve-domain",
+  "_id": "ImoHvTCGApftKrTj",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "Sand, rocks, and heat everywhere",
+    "description": "<div class=\"page\" title=\"Page 247\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Hot, dry landscapes are not the norm in the Ironlands, but they do exist. The unfamiliarity of these sites cause them to be even more dangerous to the Ironlanders who seek to cross or explore them. The extreme heat of the day is followed by the extreme cold in the night with no moderation between the two.</p>\n<div class=\"page\" title=\"Page 247\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Traversing a desert takes grit and determination, but most importantly, water. Many a traveler has had their wits dulled by dehydration making them a prime target for those denizens adapted to these harsh environments.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          21,
+          43
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Shifting sand dunes"
+      },
+      {
+        "range": [
+          44,
+          56
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Scrub-like plants"
+      },
+      {
+        "range": [
+          57,
+          64
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Bleached skeletal remains"
+      },
+      {
+        "range": [
+          65,
+          68
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Cluster of small boulders"
+      },
+      {
+        "range": [
+          69,
+          72
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Large rock formation"
+      },
+      {
+        "range": [
+          73,
+          76
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Cliff, canyon, or plateau"
+      },
+      {
+        "range": [
+          77,
+          80
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Dried out salt flats"
+      },
+      {
+        "range": [
+          81,
+          84
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Large water-filled plant"
+      },
+      {
+        "range": [
+          85,
+          88
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Tranquil oasis"
+      },
+      {
+        "range": [
+          89,
+          98
+        ],
+        "text": "Something unusual or unexpected",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          99,
+          99
+        ],
+        "text": "You transition into a new theme",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          100,
+          100
+        ],
+        "text": "You transition into a new domain",
+        "type": 0,
+        "flags": {}
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          31,
+          33
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Temperature extremes"
+      },
+      {
+        "range": [
+          34,
+          36
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Dust/Sandstorm"
+      },
+      {
+        "range": [
+          37,
+          39
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Scavenging denizen"
+      },
+      {
+        "range": [
+          40,
+          42
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen on the hunt"
+      },
+      {
+        "range": [
+          43,
+          45
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Heat mirage or false visions"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703498985571,
+    "modifiedTime": 1703499156183,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!ImoHvTCGApftKrTj"
+}

@@ -1,0 +1,163 @@
+{
+  "name": "Weaver Fox",
+  "type": "foe",
+  "img": "icons/creatures/mammals/dog-husky-white-blue.webp",
+  "items": [
+    {
+      "_id": "3ySuUnpwbZdEX6RL",
+      "name": "Weaver Fox",
+      "type": "progress",
+      "img": "icons/creatures/mammals/dog-husky-white-blue.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Gray and white fur</p>\n<p class=\"nogrow\">Tail overflowing with goassamer threads</p>\n<p class=\"nogrow\">Create large webs in undergrowth</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Trap food</p>\n<p class=\"nogrow\">Protect the den</p>\n<p class=\"nogrow\">Drive out the interlopers</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Throw their voice to confuse</p>\n<p class=\"nogrow\">Stay hidden, stay safe</p>\n<p class=\"nogrow\">Charge from hiding to push prey into webs</p>\n</div>\n</div>\n<p>Weaver foxes are not inherently aggressive but are superstitiously viewed that way because of their spider-like nature. Each hair on their long tails is actually a tiny strand of webbing like that of a spider which they rub on the trees and bushes near their dens as a defense and hunting mechanism. Smaller animals, such as a young fawn or squirrel, will get caught in the webbing and wrap themselves up tighter as they thrash to escape. After these victims die, the weaver fox will eat them at their leisure so that the closer you get to a den, the more webbing and remains of prey you find.</p>\n<p>Due to the fact that their hair is the webbing, the weaver foxes do not get caught in their own webs. They have been known to leave open paths through their webbing in hopes of leading other animals to their demise in a dead end of sticky webbing. If need be, the foxes leap out of hiding and throw their body into a creature to try to push them into their webs. Because it is nearly impossible to see a weaver fox in its own webbing, we have learned to give these dens a wide berth.</p>\n<blockquote>Quest Starter:\n<p>A child wandered alone into the woods and is thought to have gone in the direction of three large weaver fox dens. The settlement needs help to save this child, but many say disturbing the foxes will bring a curse and refuse to help. What other dangers lurk here that saving a child is considered too risky?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote><em>Your Truth: </em>\n<p><em>What creature has a symbiotic relationship with weaver foxes?</em></p>\n</blockquote>",
+        "rank": 1,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.24.10",
+        "createdTime": null,
+        "modifiedTime": 1740903453097,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!actors.items!g5umjOuKR1HH2iaJ.3ySuUnpwbZdEX6RL"
+    }
+  ],
+  "effects": [],
+  "folder": "nKcSMhNVNsXhTiaY",
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.24.10"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "prototypeToken": {
+    "name": "Weaver Fox",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/mammals/dog-husky-white-blue.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.10",
+    "createdTime": 1740902548372,
+    "modifiedTime": 1740902548372,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "g5umjOuKR1HH2iaJ",
+  "sort": 0,
+  "_key": "!actors!g5umjOuKR1HH2iaJ"
+}

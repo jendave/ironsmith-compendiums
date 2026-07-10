@@ -1,0 +1,121 @@
+{
+  "name": "Why?",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "For personal wealth",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "isQrnboHNoeqaR8I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0FMRdoHhJnWuBb2M.isQrnboHNoeqaR8I"
+    },
+    {
+      "text": "To complete a dark ritual",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "uykW8Skv4b9a2Vhy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0FMRdoHhJnWuBb2M.uykW8Skv4b9a2Vhy"
+    },
+    {
+      "text": "For revenge",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "cCzC6zGx0mHRh8OR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0FMRdoHhJnWuBb2M.cCzC6zGx0mHRh8OR"
+    },
+    {
+      "text": "Because they were ordered to",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "3XBwn2qpc5pLceqk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0FMRdoHhJnWuBb2M.3XBwn2qpc5pLceqk"
+    },
+    {
+      "text": "Because they are under a dark geas",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "j6oqzWxZ2QUwyJ6r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0FMRdoHhJnWuBb2M.j6oqzWxZ2QUwyJ6r"
+    },
+    {
+      "text": "To cover up a previous crime",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "QCiYdiWL6PljbC9U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0FMRdoHhJnWuBb2M.QCiYdiWL6PljbC9U"
+    }
+  ],
+  "folder": "TpbYX2W2xG1FFR9J",
+  "sort": 300000,
+  "_id": "0FMRdoHhJnWuBb2M",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Sometimes there's a darker secret that you must root out that either the people left out in their story about the monster or that they are unaware of. Perhaps rather than the monster, people were really the aggressive party and overreacted to the monster which in turn caused it to defend itself. Perhaps they are harboring a known criminal and using the monster as a smokescreen to allow nefarious activity.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.0FMRdoHhJnWuBb2M"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159546,
+    "modifiedTime": 1702853813320,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!0FMRdoHhJnWuBb2M"
+}

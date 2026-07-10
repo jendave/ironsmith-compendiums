@@ -1,0 +1,165 @@
+{
+  "name": "Popobawa",
+  "type": "foe",
+  "img": "icons/creatures/abilities/wing-batlike-purple-blue.webp",
+  "items": [
+    {
+      "_id": "TcvH9NHitjyhEqws",
+      "name": "Popobawa",
+      "type": "progress",
+      "img": "icons/creatures/abilities/wing-batlike-purple-blue.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>One-eyed bat people</p>\n<p>Can shapechange to be more human-like</p>\n<p>Fanged maws</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Assault other firstborn</p>\n<p>Claim territory</p>\n<p>Inspire fear</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Hunt at night</p>\n<p>Enslave others</p>\n<p>Bite and claw</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 220\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 40\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 42\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 44\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The popobawa are generally a war-like people who believe that perpetual expansion is their right by destiny and power. They value a ritualistic version of hunting and have a strange sense of a warrior&rsquo;s honor that can tolerate deceit and ill behavior as long as it is not openly seen.</p>\n<p>Might makes right in their tribes, and they even war with each other which has helped us to stay safer when near them. But you are never truly safe when near the popobawa. They almost always attack at night and will happily rush in to take prisoners and swiftly retreat night after night to wear down an enemy force by attrition.</p>\n<p>Their skin is usually some shade of red, and their eye is large and bulbous. These things along with their ability to shapechange and fly have led many to believe that the popobawa are really a species of demons that decided to live on the surface of this mortal realm rather than in the bowels and abandoned portions of the next realm.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>An unexpected nighttime assault by popobawa has led to the capture of several citizens of the settlement Karikos. They had no idea they were near popobawa territory and are worried about further attacks if they provoke the bat people by sending out a rescue party. Can the villagers be saved without escalating the situation? Who do you know that is desperate to lead the rescue mission, and why don&rsquo;t you trust them?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Are the popobawa actually firstborn of the Grasslands, or are they sentient horrors that have invaded from another realm?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!x2AV8qCBcqEbW1vN.TcvH9NHitjyhEqws"
+    }
+  ],
+  "effects": [],
+  "folder": "UqHyDhOAB1scgxn8",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Popobawa",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/abilities/wing-batlike-purple-blue.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741330461992,
+    "modifiedTime": 1741330462016,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "x2AV8qCBcqEbW1vN",
+  "sort": 200000,
+  "_key": "!actors!x2AV8qCBcqEbW1vN"
+}

@@ -1,0 +1,165 @@
+{
+  "name": "Impundulu",
+  "type": "foe",
+  "img": "icons/creatures/birds/corvid-call-sound-glowing.webp",
+  "items": [
+    {
+      "_id": "3ySuUnpwbZdEX6RL",
+      "name": "Impundulu",
+      "type": "progress",
+      "img": "icons/creatures/birds/corvid-call-sound-glowing.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 33\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Over-sized beak</p>\n<p>White to yellow crests with red-feathered wings</p>\n<p>Lightning writhing across its body</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 33\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Follow lightning storms</p>\n<p>Be struck by lightning</p>\n<p>Guard those with mystic power over lightning</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 33\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Attract lightning strikes</p>\n<p>Bury itself in the ground to hide</p>\n<p>Speed strikes with lightning laced beak</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 31\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 31\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 32\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 33\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Impundulu, or lightning birds as they are commonly called, are about the&nbsp;size of a peacock. The stalks of their feathers are infused with some form of ultra-light metal that allows them to act as a Faraday cage for the birds. Small jolts of electricity are constantly pulsing over their bodies which we believe are used primarily as an energy source for the birds.</p>\n<p>Perhaps due to their gradual consumption of this energy, the birds are constantly seeking out storms where they use their ability to attract bolts of lightning to themselves in order to replenish their own electricity. Some say that the lightning birds can even summon lightning with their wings.</p>\n<p>If you find lightning birds staying away from a nearby storm, be very careful. That usually means the birds are in the service of a mystic who can wield and harness the power of lightning. Not only will the birds themselves be more aggressive, their master is often nearby and usually will go to great lengths to not be interrupted in their work.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>One flock of impundulu have learned to work together to channel thick lightning strikes to specific spots on the ground. Using this ability as a kind of drill, they have left shallow tunnels pockmarked across the area. What is it that the flock is looking for, and why would it better if they didn&rsquo;t find it?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Do the impundulu in your world truly have the ability to summon lightning with their wings? If so, give this foe the rank of Dangerous instead of Troublesome.</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 1,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!X3qA5lF2Tb8FE0Ho.3ySuUnpwbZdEX6RL"
+    }
+  ],
+  "effects": [],
+  "folder": "SmvrzHp7i9e8PowK",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Impundulu",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/birds/corvid-call-sound-glowing.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741328487808,
+    "modifiedTime": 1741328487832,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "X3qA5lF2Tb8FE0Ho",
+  "sort": 200000,
+  "_key": "!actors!X3qA5lF2Tb8FE0Ho"
+}

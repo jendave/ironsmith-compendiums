@@ -1,0 +1,777 @@
+{
+  "name": "Detail (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Cauldron",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "pqhOiBo2mF2bn0kD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.pqhOiBo2mF2bn0kD"
+    },
+    {
+      "text": "Demon",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "NhWT8hFnheJ6PaJC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.NhWT8hFnheJ6PaJC"
+    },
+    {
+      "text": "Enigma",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "5GbNsjXZq2FzT6M0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.5GbNsjXZq2FzT6M0"
+    },
+    {
+      "text": "Gold",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "mG2OBZvMGgf8cwIj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.mG2OBZvMGgf8cwIj"
+    },
+    {
+      "text": "Woe",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "3dPv2TMpcZ81691u",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.3dPv2TMpcZ81691u"
+    },
+    {
+      "text": "Lock",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "5zpI8bCjm3Vde9hC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.5zpI8bCjm3Vde9hC"
+    },
+    {
+      "text": "Portal",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "7J4YLcu0YV6gDc8H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.7J4YLcu0YV6gDc8H"
+    },
+    {
+      "text": "Magic",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "QvPjreadxvxKzTsy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.QvPjreadxvxKzTsy"
+    },
+    {
+      "text": "Eye",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "4Smd310F94MCqD2N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.4Smd310F94MCqD2N"
+    },
+    {
+      "text": "Death",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "ofaRMa0m4d4OmYfT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.ofaRMa0m4d4OmYfT"
+    },
+    {
+      "text": "Void",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "BeBqSuIgP3PUuQcK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.BeBqSuIgP3PUuQcK"
+    },
+    {
+      "text": "Regret",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "adqhsgwViWYdq5VN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.adqhsgwViWYdq5VN"
+    },
+    {
+      "text": "Obsidian",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "9z3trmIgGqWxEDtb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.9z3trmIgGqWxEDtb"
+    },
+    {
+      "text": "Nightmare",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "9xA0fhnPGC9s5ULG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.9xA0fhnPGC9s5ULG"
+    },
+    {
+      "text": "Maze",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "RGLIJg5pNeApQQfp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.RGLIJg5pNeApQQfp"
+    },
+    {
+      "text": "Tragedy",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "TCBuqp81NxQJSKTm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.TCBuqp81NxQJSKTm"
+    },
+    {
+      "text": "Oracle",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "GdJQ1Xb213UlhkWY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.GdJQ1Xb213UlhkWY"
+    },
+    {
+      "text": "Coffin",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "E6Nl8G9IHsQUvdz1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.E6Nl8G9IHsQUvdz1"
+    },
+    {
+      "text": "Chest",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "R3c4SIJCSt7s3Dyj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.R3c4SIJCSt7s3Dyj"
+    },
+    {
+      "text": "Judgment",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "0zUX6eGrXOz4VhuW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.0zUX6eGrXOz4VhuW"
+    },
+    {
+      "text": "Grief",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "OVO2aTvPSZzB1TW4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.OVO2aTvPSZzB1TW4"
+    },
+    {
+      "text": "Insanity",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "aP8Qfbk2I2b3H511",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.aP8Qfbk2I2b3H511"
+    },
+    {
+      "text": "Ghost",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "Zu3t4Ga0C6fOQxpa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.Zu3t4Ga0C6fOQxpa"
+    },
+    {
+      "text": "Spirit",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "knPsBpUPke6s4dxP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.knPsBpUPke6s4dxP"
+    },
+    {
+      "text": "Guilt",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "k27jhaU6z6EEAJZ7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.k27jhaU6z6EEAJZ7"
+    },
+    {
+      "text": "Famine",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "2kCNuvoNVD1YTlx5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.2kCNuvoNVD1YTlx5"
+    },
+    {
+      "text": "Curse",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "cw3YgXaPKUQ2S20y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.cw3YgXaPKUQ2S20y"
+    },
+    {
+      "text": "Dream",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "W5PenyHuIIdnULea",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.W5PenyHuIIdnULea"
+    },
+    {
+      "text": "Horn",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "fhoshzq0YMFQVa7k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.fhoshzq0YMFQVa7k"
+    },
+    {
+      "text": "Bones",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "h6UgqeKuMgRGZhXc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.h6UgqeKuMgRGZhXc"
+    },
+    {
+      "text": "Mystery",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "yQOd5RRUdgj7vi9E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.yQOd5RRUdgj7vi9E"
+    },
+    {
+      "text": "Offering",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "P9InH5nmq3C7Ry6K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.P9InH5nmq3C7Ry6K"
+    },
+    {
+      "text": "Essence",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "jLJMf222eGLAzdXx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.jLJMf222eGLAzdXx"
+    },
+    {
+      "text": "Fire",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "Ah6mL2TFxaoZwrfB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.Ah6mL2TFxaoZwrfB"
+    },
+    {
+      "text": "Dragon",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "8LaCxbSWo3djNj1w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.8LaCxbSWo3djNj1w"
+    },
+    {
+      "text": "Memory",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "ZhbrcvT6690YK2wd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.ZhbrcvT6690YK2wd"
+    },
+    {
+      "text": "Sorrow",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "fNF87W6PHM8U9dV5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.fNF87W6PHM8U9dV5"
+    },
+    {
+      "text": "Illusion",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "I3uB8ZcDenb8BknM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.I3uB8ZcDenb8BknM"
+    },
+    {
+      "text": "Vengeance",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "O2kVjhw0ivBx29vK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.O2kVjhw0ivBx29vK"
+    },
+    {
+      "text": "Fortune",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "LhnsuCItbEN8THDV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.LhnsuCItbEN8THDV"
+    },
+    {
+      "text": "Damnation",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "L4n94yZX368kzJTf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.L4n94yZX368kzJTf"
+    },
+    {
+      "text": "Rune",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "uX67IURVTsRuxxje",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.uX67IURVTsRuxxje"
+    },
+    {
+      "text": "Mask",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "mz0ElUK7VTTs2vEI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.mz0ElUK7VTTs2vEI"
+    },
+    {
+      "text": "Horror",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "GiXUlEL7lMst2ruN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.GiXUlEL7lMst2ruN"
+    },
+    {
+      "text": "Grimoire",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "hKPVIfMBJ2EKH31N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.hKPVIfMBJ2EKH31N"
+    },
+    {
+      "text": "Flesh",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "Y5CJlb2fU9iqd3Hy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.Y5CJlb2fU9iqd3Hy"
+    },
+    {
+      "text": "Hatred",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "So6n96LbkueAK7gb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.So6n96LbkueAK7gb"
+    },
+    {
+      "text": "Evil",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "OnrGNkRDAWFGog57",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.OnrGNkRDAWFGog57"
+    },
+    {
+      "text": "Enchantment",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "jLexi6KtvBkUQ0Xa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.jLexi6KtvBkUQ0Xa"
+    },
+    {
+      "text": "Greed",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "VBD4dhbOSqTg5Eq0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IUY5ENgMBCAVPZjt.VBD4dhbOSqTg5Eq0"
+    }
+  ],
+  "folder": "ILlD67xOUXYz9XjN",
+  "sort": 5,
+  "_id": "IUY5ENgMBCAVPZjt",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946417833,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!IUY5ENgMBCAVPZjt"
+}

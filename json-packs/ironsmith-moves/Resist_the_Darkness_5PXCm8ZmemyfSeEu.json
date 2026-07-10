@@ -1,0 +1,90 @@
+{
+  "name": "Resist the Darkness",
+  "type": "sfmove",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "dfid": "",
+    "Category": "",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "When you **encounter a manifestation of the darkness within you and try to resist its pull**, roll +heart and change any challenge die below your darkness level to your darkness level.\n\nOn a **strong hit**, you stave off the darkness and affirm your control over it. Take +1 momentum.\n\nOn a **weak hit**, you stave off the darkness for now but still feel its grip on you. You press on.\n\nOn a **miss**, the darkness nearly overwhelms you. Mark darkness, and choose one:\n* Wield the Darkness to Act (not Interrupt or Empower) and add +1.\n* Indulge the Darkness: You act against your better nature to your detriment.\n* @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c10d64f58dd8c5bf]{Pay the Price}\n\nYou may not Wield the Darkness to Interrupt this move.",
+    "Trigger": {
+      "Text": "When you encounter a manifestation of the darkness within you and try to resist its pull",
+      "Options": [
+        {
+          "Text": "",
+          "Method": "Any",
+          "Roll type": "Action roll",
+          "Using": [
+            "Heart"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "Take +1 momentum.",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      },
+      "Weak Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "Mark darkness, and choose one:\n    * Wield the Darkness to Act (not Interrupt or Empower) and add +1.\n    * Indulge the Darkness: You act against your better nature to your detriment.\n    * @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c10d64f58dd8c5bf]{Pay the Price}",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "",
+      "Authors": [],
+      "Page": null
+    },
+    "Suggestions": {},
+    "Display": {
+      "Images": []
+    }
+  },
+  "effects": [],
+  "folder": "v6vGfxHTWgeEKRul",
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1708671633170,
+    "modifiedTime": 1708678769391,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_id": "5PXCm8ZmemyfSeEu",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!5PXCm8ZmemyfSeEu"
+}

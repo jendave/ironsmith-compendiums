@@ -1,0 +1,121 @@
+{
+  "name": "Type of Evidence of Corruption",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Quirk",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "fHVht1n2wp6TMivz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ji5qZAxZoO2VIBKy.fHVht1n2wp6TMivz"
+    },
+    {
+      "text": "Fear",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "YKrGtEf2O8a2rdDD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ji5qZAxZoO2VIBKy.YKrGtEf2O8a2rdDD"
+    },
+    {
+      "text": "Compulsion",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "TgrrthPqYKc0IjGP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ji5qZAxZoO2VIBKy.TgrrthPqYKc0IjGP"
+    },
+    {
+      "text": "Physical Signs",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "u3xdTkAXbH6q8h7C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ji5qZAxZoO2VIBKy.u3xdTkAXbH6q8h7C"
+    },
+    {
+      "text": "Supernatural Signs",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "dgAhMHAp1ix7fJEG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ji5qZAxZoO2VIBKy.dgAhMHAp1ix7fJEG"
+    },
+    {
+      "text": "Typical NPC Reaction",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "EbPOIvSERa67LC8p",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ji5qZAxZoO2VIBKy.EbPOIvSERa67LC8p"
+    }
+  ],
+  "folder": "iw9CdTaDyib9IgXg",
+  "sort": 700000,
+  "_id": "Ji5qZAxZoO2VIBKy",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>If you prefer random evidence of corruption or simply need some inspiration, you may roll your action die (1d6) on the following table</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Ji5qZAxZoO2VIBKy"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791158346,
+    "modifiedTime": 1702851640747,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!Ji5qZAxZoO2VIBKy"
+}

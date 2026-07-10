@@ -1,0 +1,311 @@
+{
+  "name": "Major Plot Twist (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Bad news arrives from afar.",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "h4lzu45lLvBytku1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.h4lzu45lLvBytku1"
+    },
+    {
+      "text": "A fracture forms in a previously solid alliance.",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "NzzUyZYqVigDXmwK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.NzzUyZYqVigDXmwK"
+    },
+    {
+      "text": "An old foe you thought defeated returns.",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "Psg88udFvVwmaxMR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.Psg88udFvVwmaxMR"
+    },
+    {
+      "text": "The wrong person shows up at the wrong time.",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "p8ibdWcLeyE0j2bq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.p8ibdWcLeyE0j2bq"
+    },
+    {
+      "text": "A friend, ally, or companion abandons the quest.",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "PiO2xB6G4znruX16",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.PiO2xB6G4znruX16"
+    },
+    {
+      "text": "An important item is broken or destroyed.",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "GPzf2eraubrz62xR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.GPzf2eraubrz62xR"
+    },
+    {
+      "text": "A reliable ability is suddenly unreliable.",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "jqhNrln5hPQjQnoS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.jqhNrln5hPQjQnoS"
+    },
+    {
+      "text": "You are tempted by a bribe to abandon your vow.",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "3epnqgljd0LgDh2Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.3epnqgljd0LgDh2Q"
+    },
+    {
+      "text": "The enemy exploits your weakness.",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "2mfCxz3LiHYTLQRn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.2mfCxz3LiHYTLQRn"
+    },
+    {
+      "text": "An odd symbol begins to show up in multiple places.  What does it mean?",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "xHmFrGc492a5wUk2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.xHmFrGc492a5wUk2"
+    },
+    {
+      "text": "A friend, ally, or companion is captured.",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "RyQfqBq8Ry827hnC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.RyQfqBq8Ry827hnC"
+    },
+    {
+      "text": "The weather or terrain becomes a hindrance.",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "R7YSoOLQMCUsgbgr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.R7YSoOLQMCUsgbgr"
+    },
+    {
+      "text": "A past action comes back to haunt you.",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "gBzyyoHPYOWqAwFZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.gBzyyoHPYOWqAwFZ"
+    },
+    {
+      "text": "You are faced with a choice of the lesser of two evils.",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "PfUCAU7dW6Pu0zzd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.PfUCAU7dW6Pu0zzd"
+    },
+    {
+      "text": "A friend, ally, or companion suddenly becomes hesitant.",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "B3brITwd0kbnORmc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.B3brITwd0kbnORmc"
+    },
+    {
+      "text": "A trusted authority is shown to be corrupt.",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "ZkBUwOMBa6ocYqjj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.ZkBUwOMBa6ocYqjj"
+    },
+    {
+      "text": "A friend, ally, or companion is cursed.",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "H46eoDhxd18oZvTA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.H46eoDhxd18oZvTA"
+    },
+    {
+      "text": "It is revealed that the enemy has gathered new information about your plans.",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "OCJ6YBZYeXfeJ83h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.OCJ6YBZYeXfeJ83h"
+    },
+    {
+      "text": "Critical information is lost or withheld.",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "n9dvF6DXMXOlaRhS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.n9dvF6DXMXOlaRhS"
+    },
+    {
+      "text": "Roll twice more on this table. Both results occur. If they are the same result, make it more dramatic.",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "dTM9iXeEdHXov5q8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tV0hmp97KlSC1OBo.dTM9iXeEdHXov5q8"
+    }
+  ],
+  "folder": "JGoBiGjNOZyH38MA",
+  "sort": -50000,
+  "_id": "tV0hmp97KlSC1OBo",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.tV0hmp97KlSC1OBo"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161656,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!tV0hmp97KlSC1OBo"
+}

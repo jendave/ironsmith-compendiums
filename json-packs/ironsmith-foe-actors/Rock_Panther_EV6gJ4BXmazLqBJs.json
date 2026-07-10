@@ -1,0 +1,163 @@
+{
+  "name": "Rock Panther",
+  "type": "foe",
+  "img": "icons/creatures/abilities/cougar-pounce-stalk-black.webp",
+  "items": [
+    {
+      "_id": "3ySuUnpwbZdEX6RL",
+      "name": "Rock Panther",
+      "type": "progress",
+      "img": "icons/creatures/abilities/cougar-pounce-stalk-black.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Fur that blends in with stone</p>\n<p class=\"nogrow\">Larger back legs for jumping</p>\n<p class=\"nogrow\">Eyes the color of amethyst</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Hunt</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Lie in wait on a boulder</p>\n<p class=\"nogrow\">Jump, pin and rend</p>\n<p class=\"nogrow\">Claw and bite</p>\n</div>\n</div>\n<p>Rock panthers are famous for their ability to hunt birds in the mountain regions. They sit atop rocky peaks for hours without moving and then lunge across chasms catching a low-flying bird mid-jump. While stealth is a powerful weapon for these creatures, it is their speed that is particularly dangerous. When they tire of birds or seek larger prey, they will chase deer, mountain goats, or other animals up a slope where they use their large hind legs to outpace the prey less adapted to uphill movements.</p>\n<p>At first, we thought to simply kill or drive off any rock panthers found in the mountain passages we needed to use, but we quickly saw this as futile. Any arrow shot or spear thrown at them is easily avoided by a powerful and well-timed jump. We now carry deer haunches with us to throw out as a distraction when we need to traverse an area in rock panther territory. Every time, we hope that the panther is more in the mood to eat our meat than hunt us, and unfortunately, sometimes we find that hope untrue.</p>\n<blockquote>Quest Starter:\n<p>A particularly large rock panther has been seen taking down igdan warriors, yet they do not retaliate. They instead have led the animal down to an Ironlander community where it is harassing livestock and people alike. Can the animal be stopped? What stake do the igdan have in this dangerous game?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote><em>Your Truth: </em>\n<p><em>Rock panthers have an uncanny ability to maintain balance and climb near vertical rock faces. What physical adaptations do these animals have to live in the mountains?</em></p>\n</blockquote>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.24.10",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!EV6gJ4BXmazLqBJs.3ySuUnpwbZdEX6RL"
+    }
+  ],
+  "effects": [],
+  "folder": "nKcSMhNVNsXhTiaY",
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.24.10"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "prototypeToken": {
+    "name": "Rock Panther",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/abilities/cougar-pounce-stalk-black.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.10",
+    "createdTime": 1740901683199,
+    "modifiedTime": 1741195842328,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "EV6gJ4BXmazLqBJs",
+  "sort": 200000,
+  "_key": "!actors!EV6gJ4BXmazLqBJs"
+}

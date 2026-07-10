@@ -1,0 +1,19 @@
+{
+  "name": "Monstrosity",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "QybiGAbDuTsW65s1",
+  "folder": null,
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695946938672,
+    "modifiedTime": 1702841774483,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "color": null,
+  "_key": "!folders!QybiGAbDuTsW65s1"
+}

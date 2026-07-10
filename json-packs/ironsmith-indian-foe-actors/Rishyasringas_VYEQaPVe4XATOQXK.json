@@ -1,0 +1,165 @@
+{
+  "name": "Rishyasringas",
+  "type": "foe",
+  "img": "icons/creatures/mammals/deer-antlers-blue.webp",
+  "items": [
+    {
+      "_id": "DCchL0z4pPWdXT4L",
+      "name": "Rishyasringas",
+      "type": "progress",
+      "img": "icons/creatures/mammals/deer-antlers-blue.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 215\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 55\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Human with deer antlers</p>\n<p>Ability to seer possible futures</p>\n<p>Engulfed in flame when overwhelmed</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 215\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 55\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Guide others to avoid horrible fates</p>\n<p>Search for patterns in the chaos of fate</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 215\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 55\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Disable with a vision of the future</p>\n<p>Burn with a touch</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 214\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 216\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 55\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The rishyasringas are those who have been touched by Yama, god of the dead and the first of those to die. Those who experience an encounter with the god often go into a fevered dream state for several days during which time a pair of antlers grow on their head. From that point forward, they are no longer fully human and gain the ability to look into the chaotic swirls of the river of fate.</p>\n<p>A rishyasringa may be sought out before making significant decisions, but many times the message the rishyasringa delivers is cryptic and not what one expects. Through a mystic ritual, they can pull visions out of their own mind and place them into the mind of one who seeks answers. This induces a vision in the person and incapacitates them until the vision is finished.</p>\n<p>Unfortunately, the chaos that rishyasringas navigate can also drive them mad. The closer they get to breaking, the warmer their body gets, and a spectral flame begins to surround their body and grow. At some point, the rishyasringa can contain the chaos no longer, and their mind breaks. The energy of pure chaos then manifests as a blazing inferno around them as they destroy themselves and those around them.</p>\n<p>You may seek the wisdom a rishyasringa can give, but is it worth the potential cost?</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A messenger approaches you claiming that a rishyasringa has summoned you. They have a vision to share with you of dire importance. The messenger says the rishyasringa is near the point of conflagration, but is attempting to hold on until you can see the vision. What have you seen in your dreams of late that give a clue to this vision? How did you know this rishyasringa before they gained their power?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Are the antlers the only manifestation of a rishyasringa&rsquo;s power? If not, what other physical changes take place?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!VYEQaPVe4XATOQXK.DCchL0z4pPWdXT4L"
+    }
+  ],
+  "effects": [],
+  "folder": "rIV321Bwtg92X2zR",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.xDT8BgVJ49uDUZ2V"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Rishyasringas",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/mammals/deer-antlers-blue.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.xDT8BgVJ49uDUZ2V",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741384143043,
+    "modifiedTime": 1741384239583,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "VYEQaPVe4XATOQXK",
+  "sort": 300000,
+  "_key": "!actors!VYEQaPVe4XATOQXK"
+}

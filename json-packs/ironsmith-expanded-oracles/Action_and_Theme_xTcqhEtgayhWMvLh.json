@@ -1,0 +1,19 @@
+{
+  "name": "Action and Theme",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "xTcqhEtgayhWMvLh",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791878531,
+    "modifiedTime": 1695962347360,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!folders!xTcqhEtgayhWMvLh"
+}

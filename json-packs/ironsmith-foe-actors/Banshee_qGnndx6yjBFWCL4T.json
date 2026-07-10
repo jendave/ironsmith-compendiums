@@ -1,0 +1,163 @@
+{
+  "name": "Banshee",
+  "type": "foe",
+  "img": "icons/magic/death/undead-ghost-strike-white.webp",
+  "items": [
+    {
+      "_id": "jq7T1LdxduDOgDgT",
+      "name": "Banshee",
+      "type": "progress",
+      "img": "icons/magic/death/undead-ghost-strike-white.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Ethereal and vaguely humanoid body</p>\n<p class=\"nogrow\">Screams of torment</p>\n<p class=\"nogrow\">Floating off the ground</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Torment the living</p>\n<p class=\"nogrow\">Find escape through thin places</p>\n<p class=\"nogrow\">Find rest</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Ear-piercing screams</p>\n<p class=\"nogrow\">Touch of madness</p>\n</div>\n</div>\n<p>Banshees are spirits of those killed unjustly who also suffered traumatically before death usually at the hands of an oppressor. Their scream is just as powerful as any blade and has been known to shatter teeth and bone of those who attempt to fight them. Not only that, if touched on the head by one of these spirits, a person goes mad for a time sharing in the grief and torment of the banshee.</p>\n<p>Banshees usually stay in the location of their death and take out their grief and rage on the living who happen by, but they can leave the location if they are following and harassing a living target. While a banshee cannot truly be defeated in this world, only driven away temporarily, they can be lured towards the thin places between worlds where they may pass through and never return.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>The overseer of Lowbrook had refused to give in to the demands of the raiders and was forced to watch the slaughter of his people before experiencing a slow death of his own. It took months to stop the raiders, and now the few survivors of the Lowbrook attack want to rebuild but found the overseer returned as a banshee in the ruins of the settlement. They seek help to put down this evil remnant of their overseer and end the legacy of pain and suffering the raiders caused.</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Some claim that banshees can be invisible to all but the one person they haunt and never cause physical damage but psychological trauma as they constantly harass the person in their mind. Is this true? If so, how are these banshees forced to physically manifest so that they can be driven away?</em></p>\n</blockquote>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!qGnndx6yjBFWCL4T.jq7T1LdxduDOgDgT"
+    }
+  ],
+  "effects": [],
+  "folder": "lEK8lBFa4VdUphsn",
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "prototypeToken": {
+    "name": "Banshee",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/magic/death/undead-ghost-strike-white.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741133840774,
+    "modifiedTime": 1741195968320,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "qGnndx6yjBFWCL4T",
+  "sort": 0,
+  "_key": "!actors!qGnndx6yjBFWCL4T"
+}

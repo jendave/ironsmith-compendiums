@@ -1,0 +1,181 @@
+{
+  "name": "The Monster Wants to...",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Hunt food",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "ACNAzQxt4LxgGRwp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZQifTar4YBtXBrVN.ACNAzQxt4LxgGRwp"
+    },
+    {
+      "text": "Defend its territory",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "K6WyJjDZycVyzh8D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZQifTar4YBtXBrVN.K6WyJjDZycVyzh8D"
+    },
+    {
+      "text": "Find a mate",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "eBWZhVF4lFEgbsk0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZQifTar4YBtXBrVN.eBWZhVF4lFEgbsk0"
+    },
+    {
+      "text": "Protect offspring",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "x2ND4lsFC22UsjoA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZQifTar4YBtXBrVN.x2ND4lsFC22UsjoA"
+    },
+    {
+      "text": "Forage for food",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "EQ1F8nt7y6aUrJVa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZQifTar4YBtXBrVN.EQ1F8nt7y6aUrJVa"
+    },
+    {
+      "text": "Expand its territory",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "FzxGZsG5P02LcVyG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZQifTar4YBtXBrVN.FzxGZsG5P02LcVyG"
+    },
+    {
+      "text": "Build a new lair or nest",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "1MKqkkfJcwesyzlE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZQifTar4YBtXBrVN.1MKqkkfJcwesyzlE"
+    },
+    {
+      "text": "Flee a larger threat",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "dC8ApU52059Cq6eD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZQifTar4YBtXBrVN.dC8ApU52059Cq6eD"
+    },
+    {
+      "text": "Connect with others of its kind",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "4VQyAxJKQIs08OrL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZQifTar4YBtXBrVN.4VQyAxJKQIs08OrL"
+    },
+    {
+      "text": "Fight off rivals",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "ZIdCOpC0xJ95cHN8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZQifTar4YBtXBrVN.ZIdCOpC0xJ95cHN8"
+    }
+  ],
+  "folder": "i3P1D2W2X351lvzT",
+  "sort": 100000,
+  "_id": "ZQifTar4YBtXBrVN",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Usually there's something in the fiction that gives you a sense of urgency. What is the source of this increasing pressure that makes it important for you to complete your vow quickly?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ZQifTar4YBtXBrVN"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159581,
+    "modifiedTime": 1702854004054,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!ZQifTar4YBtXBrVN"
+}

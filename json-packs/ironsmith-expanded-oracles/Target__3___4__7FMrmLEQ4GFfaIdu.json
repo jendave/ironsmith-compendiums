@@ -1,0 +1,777 @@
+{
+  "name": "Target (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Expertise",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "SuoXdyUlimFBPPq2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.SuoXdyUlimFBPPq2"
+    },
+    {
+      "text": "Person",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "CFe9gEluwjYGfxTb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.CFe9gEluwjYGfxTb"
+    },
+    {
+      "text": "Chance",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "cHqD3EtTFEtt1r7M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.cHqD3EtTFEtt1r7M"
+    },
+    {
+      "text": "Honor",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "SKS9s9jtczJL3uRr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.SKS9s9jtczJL3uRr"
+    },
+    {
+      "text": "Capacity",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "5hnLXytHjbZS1jzW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.5hnLXytHjbZS1jzW"
+    },
+    {
+      "text": "Joint",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "xYFqNNwUun8c43ET",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.xYFqNNwUun8c43ET"
+    },
+    {
+      "text": "Talent",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "8f9e72WgMBDCcgfd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.8f9e72WgMBDCcgfd"
+    },
+    {
+      "text": "Gear",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "G9EnYGtnbxsHc8d5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.G9EnYGtnbxsHc8d5"
+    },
+    {
+      "text": "Item",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "cJaYUrcW1Il87HFY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.cJaYUrcW1Il87HFY"
+    },
+    {
+      "text": "Sight",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "t8ilZZeroBcI16Xw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.t8ilZZeroBcI16Xw"
+    },
+    {
+      "text": "Innocent",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "CTCfizTOt5gNGtE6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.CTCfizTOt5gNGtE6"
+    },
+    {
+      "text": "Fracture",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "b3Euq79ffP9zpEMN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.b3Euq79ffP9zpEMN"
+    },
+    {
+      "text": "Means",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "5Al1ODO8FLjecq4n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.5Al1ODO8FLjecq4n"
+    },
+    {
+      "text": "Stealth",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "Ivk8q5ZhsawlZB6d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.Ivk8q5ZhsawlZB6d"
+    },
+    {
+      "text": "Outcome",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "NwDiqQmooMfn20qe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.NwDiqQmooMfn20qe"
+    },
+    {
+      "text": "Place",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "auXQm0vzO3UQhElw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.auXQm0vzO3UQhElw"
+    },
+    {
+      "text": "Intelligence",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "UgRcpbDLb63mmcIC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.UgRcpbDLb63mmcIC"
+    },
+    {
+      "text": "Space",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "jyC6J8iq7qHvfWs9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.jyC6J8iq7qHvfWs9"
+    },
+    {
+      "text": "Command",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "XRM2WnQH0LNdUkMD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.XRM2WnQH0LNdUkMD"
+    },
+    {
+      "text": "Mobility",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "UDmkVoesQh6EpK8I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.UDmkVoesQh6EpK8I"
+    },
+    {
+      "text": "Injury",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "xOA5c4nQQrurqDQO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.xOA5c4nQQrurqDQO"
+    },
+    {
+      "text": "Banner",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "JeEzUhIrsdSGmzF9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.JeEzUhIrsdSGmzF9"
+    },
+    {
+      "text": "Vanguard",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "hul5cXkndZFMgLH4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.hul5cXkndZFMgLH4"
+    },
+    {
+      "text": "Calm",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "53GCNBOvvABf0mga",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.53GCNBOvvABf0mga"
+    },
+    {
+      "text": "Friend",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "53u1YADd7Pwuka1T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.53u1YADd7Pwuka1T"
+    },
+    {
+      "text": "Event",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "NY9gimXA1vYHRduG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.NY9gimXA1vYHRduG"
+    },
+    {
+      "text": "Capability",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "YhJdt3poCkj5bLil",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.YhJdt3poCkj5bLil"
+    },
+    {
+      "text": "Communication",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "5P8799LodExcDmKx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.5P8799LodExcDmKx"
+    },
+    {
+      "text": "Wisdom",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "JZ8eWyV7W6BrE9HA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.JZ8eWyV7W6BrE9HA"
+    },
+    {
+      "text": "Prize",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "ohDMX2ui94Xcg2p2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.ohDMX2ui94Xcg2p2"
+    },
+    {
+      "text": "Equipment",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "6bZt8d2KCMHYLizR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.6bZt8d2KCMHYLizR"
+    },
+    {
+      "text": "Offense",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "vIpxNkL4SNAPeHbe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.vIpxNkL4SNAPeHbe"
+    },
+    {
+      "text": "Shelter",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "PPHmqgylqfjKFXNn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.PPHmqgylqfjKFXNn"
+    },
+    {
+      "text": "Head",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "MmWVJ3S99XGTLLAm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.MmWVJ3S99XGTLLAm"
+    },
+    {
+      "text": "Legacy",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "JvYqSzC607b8kDFH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.JvYqSzC607b8kDFH"
+    },
+    {
+      "text": "Safety",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "6KCfGwWkhO7MdSjF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.6KCfGwWkhO7MdSjF"
+    },
+    {
+      "text": "Dexterity",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "t9hOlHgEqUEh5Ovo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.t9hOlHgEqUEh5Ovo"
+    },
+    {
+      "text": "Mastery",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "u8CQ3EieP14q5r27",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.u8CQ3EieP14q5r27"
+    },
+    {
+      "text": "Loyalty",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "ljVrrwBn7b1Jxepn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.ljVrrwBn7b1Jxepn"
+    },
+    {
+      "text": "Attack",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "FzToGxKNQVIKHGWP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.FzToGxKNQVIKHGWP"
+    },
+    {
+      "text": "Faculty",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "CMC1nC5WkwRMVDvu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.CMC1nC5WkwRMVDvu"
+    },
+    {
+      "text": "Anchor",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "SKOxHtsx6gl8Ze53",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.SKOxHtsx6gl8Ze53"
+    },
+    {
+      "text": "Plan",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "PoOxpHG2Z87XyUo8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.PoOxpHG2Z87XyUo8"
+    },
+    {
+      "text": "Vanity",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "3eitmkLoGd6svCDr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.3eitmkLoGd6svCDr"
+    },
+    {
+      "text": "Potential",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "LqH8yOLwMsmRPMZX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.LqH8yOLwMsmRPMZX"
+    },
+    {
+      "text": "Influence",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "BIjxrpCHOIuvebqg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.BIjxrpCHOIuvebqg"
+    },
+    {
+      "text": "Ideal",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "gsTX1LwKSfOihbLy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.gsTX1LwKSfOihbLy"
+    },
+    {
+      "text": "Leverage",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "LiT5BcsaxEVnJ56G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.LiT5BcsaxEVnJ56G"
+    },
+    {
+      "text": "Awareness",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "imRYA0b3isIYwXvi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.imRYA0b3isIYwXvi"
+    },
+    {
+      "text": "Identity",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "JLPoqgPHxYag2NHo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7FMrmLEQ4GFfaIdu.JLPoqgPHxYag2NHo"
+    }
+  ],
+  "folder": "rwM3UEDy5DGioSkf",
+  "sort": 4,
+  "_id": "7FMrmLEQ4GFfaIdu",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946268888,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!7FMrmLEQ4GFfaIdu"
+}

@@ -1,0 +1,71 @@
+{
+  "type": "asset",
+  "folder": "BMFZH2vIDpNGTmyC",
+  "name": "Ingulule",
+  "system": {
+    "requirement": "Your cheetah is swift and fierce.",
+    "category": "Companion",
+    "color": null,
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>Sprint: When your cat chases down small game, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.8d90dd472856be27]{Resupply} with +edge (instead of +wits). If you do, take +1 supply or +1 momentum on a strong hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Stalk: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} by following your cat's lead in hunting your quarry, you may roll +shadow (instead of +wits). If you do, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Clamp: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by having your cat bite down and restrain a foe of formidable or lower rank, roll +edge and add +1. On a strong hit, inflict I harm.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Cheetah"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/flat-paw-print.svg",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709375394034,
+    "modifiedTime": 1764376909069,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "sort": 100000,
+  "_id": "quvQ9hhUluMT1sql",
+  "_key": "!items!quvQ9hhUluMT1sql"
+}

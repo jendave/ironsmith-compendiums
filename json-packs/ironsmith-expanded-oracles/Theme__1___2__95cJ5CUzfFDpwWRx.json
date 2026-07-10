@@ -1,0 +1,1527 @@
+{
+  "name": "Theme (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Risk",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "CXs2btFgupdR9e8H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.CXs2btFgupdR9e8H"
+    },
+    {
+      "text": "Ability",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "FmXnjB6drOVQPFna",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.FmXnjB6drOVQPFna"
+    },
+    {
+      "text": "Price",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "kfvjZIirUTy5ijgw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.kfvjZIirUTy5ijgw"
+    },
+    {
+      "text": "Ally",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "vloaR5rqJfjBaFTe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.vloaR5rqJfjBaFTe"
+    },
+    {
+      "text": "Battle",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "5INHwoW22NqPHLir",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.5INHwoW22NqPHLir"
+    },
+    {
+      "text": "Safety",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "8n7XW74V553oPuTw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.8n7XW74V553oPuTw"
+    },
+    {
+      "text": "Survival",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "xPbO8XBqtp2GJjDA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.xPbO8XBqtp2GJjDA"
+    },
+    {
+      "text": "Weapon",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "1bkm9rNn78USrcha",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.1bkm9rNn78USrcha"
+    },
+    {
+      "text": "Wound",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "kfOGtp7J8QFKCBIT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.kfOGtp7J8QFKCBIT"
+    },
+    {
+      "text": "Shelter",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "g37mJfu3mgSlG19q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.g37mJfu3mgSlG19q"
+    },
+    {
+      "text": "Leader",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "jHHiNNe4t8fb8SV1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.jHHiNNe4t8fb8SV1"
+    },
+    {
+      "text": "Fear",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "KyL3JOVjph4T8wE3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.KyL3JOVjph4T8wE3"
+    },
+    {
+      "text": "Time",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "Ywy5otxshalJE3ge",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.Ywy5otxshalJE3ge"
+    },
+    {
+      "text": "Duty",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "BYxGVaY3LobajZxp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.BYxGVaY3LobajZxp"
+    },
+    {
+      "text": "Secret",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "iaXlWSdStDdUnDlW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.iaXlWSdStDdUnDlW"
+    },
+    {
+      "text": "Innocence",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "4WRfnwkerZRx5cDU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.4WRfnwkerZRx5cDU"
+    },
+    {
+      "text": "Renown",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "8UT1qUgXEr5JVTas",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.8UT1qUgXEr5JVTas"
+    },
+    {
+      "text": "Direction",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "Rh9I1jwtMTzTsMD8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.Rh9I1jwtMTzTsMD8"
+    },
+    {
+      "text": "Death",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "qxpGmuMxY25tetDK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.qxpGmuMxY25tetDK"
+    },
+    {
+      "text": "Honor",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "67WVYBwsayD6ivGe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.67WVYBwsayD6ivGe"
+    },
+    {
+      "text": "Labor",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "3tK2ZZ6mlsBsi0aR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.3tK2ZZ6mlsBsi0aR"
+    },
+    {
+      "text": "Solution",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "CL4wG7AyegBlw8M1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.CL4wG7AyegBlw8M1"
+    },
+    {
+      "text": "Tool",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "I5Bkm3XL0J1BD1Oc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.I5Bkm3XL0J1BD1Oc"
+    },
+    {
+      "text": "Balance",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "U2blHzjpks99SmhS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.U2blHzjpks99SmhS"
+    },
+    {
+      "text": "Love",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "kndo9MeznF51nHB4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.kndo9MeznF51nHB4"
+    },
+    {
+      "text": "Barrier",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "Ay5kgpmdywiLmNUR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.Ay5kgpmdywiLmNUR"
+    },
+    {
+      "text": "Creation",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "uK2pPuZZ75ZNJXTU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.uK2pPuZZ75ZNJXTU"
+    },
+    {
+      "text": "Decay",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "KlhLIuQirEWmkDXe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.KlhLIuQirEWmkDXe"
+    },
+    {
+      "text": "Trade",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "qsdHiSL6EbNoBaM2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.qsdHiSL6EbNoBaM2"
+    },
+    {
+      "text": "Bond",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "BeoNHVZrYhMZPnGX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.BeoNHVZrYhMZPnGX"
+    },
+    {
+      "text": "Hope",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "w6srT5ygyq3sbpdJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.w6srT5ygyq3sbpdJ"
+    },
+    {
+      "text": "Superstition",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "dgBHyGKgmCFbrjRp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.dgBHyGKgmCFbrjRp"
+    },
+    {
+      "text": "Peace",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "22sIdWGvTA6ar1OJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.22sIdWGvTA6ar1OJ"
+    },
+    {
+      "text": "Deception",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "iqK5ujITz64xUoiU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.iqK5ujITz64xUoiU"
+    },
+    {
+      "text": "History",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "byVq1MIYbffyMqVE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.byVq1MIYbffyMqVE"
+    },
+    {
+      "text": "World",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "PG3CAmBunOuN7xmj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.PG3CAmBunOuN7xmj"
+    },
+    {
+      "text": "Vow",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "ELkTcAWnQANB4BYu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.ELkTcAWnQANB4BYu"
+    },
+    {
+      "text": "Protection",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "DZumGZxnzxHGAJHc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.DZumGZxnzxHGAJHc"
+    },
+    {
+      "text": "Nature",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "cy3jqffdC6MzxWz0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.cy3jqffdC6MzxWz0"
+    },
+    {
+      "text": "Opinion",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "K7Bgf5I0Dcpnadyv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.K7Bgf5I0Dcpnadyv"
+    },
+    {
+      "text": "Burden",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "xk8TctaU93krwVyg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.xk8TctaU93krwVyg"
+    },
+    {
+      "text": "Vengeance",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "C6ay1a1CcedvqUjn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.C6ay1a1CcedvqUjn"
+    },
+    {
+      "text": "Opportunity",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "5u0l2p3c8c8yXrPq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.5u0l2p3c8c8yXrPq"
+    },
+    {
+      "text": "Faction",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "nNYyoEXpU9vyKRYJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.nNYyoEXpU9vyKRYJ"
+    },
+    {
+      "text": "Danger",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "goYq7gr7aiJ4xHQP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.goYq7gr7aiJ4xHQP"
+    },
+    {
+      "text": "Corruption",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "1aRDekyuEoAoBjyG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.1aRDekyuEoAoBjyG"
+    },
+    {
+      "text": "Freedom",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "niO99yzWxAn6w0OA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.niO99yzWxAn6w0OA"
+    },
+    {
+      "text": "Debt",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "9JBSLj9nLcT1htdm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.9JBSLj9nLcT1htdm"
+    },
+    {
+      "text": "Hate",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "C2cJbJlVj88h7O5s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.C2cJbJlVj88h7O5s"
+    },
+    {
+      "text": "Possession",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "4t40dKRCphPMFPT8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.4t40dKRCphPMFPT8"
+    },
+    {
+      "text": "Stranger",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "kNVu0itgbnIBhL8r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.kNVu0itgbnIBhL8r"
+    },
+    {
+      "text": "Passage",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "6pB4GyXKh9gw1BVq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.6pB4GyXKh9gw1BVq"
+    },
+    {
+      "text": "Land",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "DIMwPPpjUj4T8x29",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.DIMwPPpjUj4T8x29"
+    },
+    {
+      "text": "Creature",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "XqNM4WViEr5jCxWR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.XqNM4WViEr5jCxWR"
+    },
+    {
+      "text": "Disease",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "PKrUAV9pq8a8lD1z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.PKrUAV9pq8a8lD1z"
+    },
+    {
+      "text": "Advantage",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "PM2yOyTRoEyzAUen",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.PM2yOyTRoEyzAUen"
+    },
+    {
+      "text": "Blood",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "anaSpHMJw4a8uyJZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.anaSpHMJw4a8uyJZ"
+    },
+    {
+      "text": "Language",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "QNJ3zKyAVpcLgOQc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.QNJ3zKyAVpcLgOQc"
+    },
+    {
+      "text": "Rumor",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "cR16kTgyQjpCt8su",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.cR16kTgyQjpCt8su"
+    },
+    {
+      "text": "Weakness",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "RPNJwqkd2pld7cpR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.RPNJwqkd2pld7cpR"
+    },
+    {
+      "text": "Greed",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "mXjduQ7Yb0IVSokH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.mXjduQ7Yb0IVSokH"
+    },
+    {
+      "text": "Family",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "O4ESDMydeJw8LE3L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.O4ESDMydeJw8LE3L"
+    },
+    {
+      "text": "Resource",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "DwVSITScCmlG8Bmk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.DwVSITScCmlG8Bmk"
+    },
+    {
+      "text": "Structure",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "uDfyA54mbpJUflon",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.uDfyA54mbpJUflon"
+    },
+    {
+      "text": "Dream",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "vSDKFRZBQb1wBK52",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.vSDKFRZBQb1wBK52"
+    },
+    {
+      "text": "Community",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "sUrS6WpYSSK7XT8a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.sUrS6WpYSSK7XT8a"
+    },
+    {
+      "text": "War",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "CDe3riwUFjyVj5mR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.CDe3riwUFjyVj5mR"
+    },
+    {
+      "text": "Portent",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "ZYXuaFi1CUj43lTB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.ZYXuaFi1CUj43lTB"
+    },
+    {
+      "text": "Prize",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "kkKVQhmc2TkotB5x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.kkKVQhmc2TkotB5x"
+    },
+    {
+      "text": "Destiny",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "qP7fbgXEIPXcxjtN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.qP7fbgXEIPXcxjtN"
+    },
+    {
+      "text": "Momentum",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "oIcqpcV0nNpFOHyU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.oIcqpcV0nNpFOHyU"
+    },
+    {
+      "text": "Power",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "eGCG2xD2LK33GvrK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.eGCG2xD2LK33GvrK"
+    },
+    {
+      "text": "Memory",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "8Ow3Z3Uu7448CnHr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.8Ow3Z3Uu7448CnHr"
+    },
+    {
+      "text": "Ruin",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "jXnMuyEKkwhJ9GCT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.jXnMuyEKkwhJ9GCT"
+    },
+    {
+      "text": "Mysticism",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "V2os2uAbNW7HdEIZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.V2os2uAbNW7HdEIZ"
+    },
+    {
+      "text": "Rival",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "S7NKQNnrrYEeKWWH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.S7NKQNnrrYEeKWWH"
+    },
+    {
+      "text": "Problem",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "CEVidqmzNgnjsWFU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.CEVidqmzNgnjsWFU"
+    },
+    {
+      "text": "Idea",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "6HBe5s09TIl6d69i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.6HBe5s09TIl6d69i"
+    },
+    {
+      "text": "Revenge",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "qpB0593te2zKwqVj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.qpB0593te2zKwqVj"
+    },
+    {
+      "text": "Health",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "1Z2knDpSKRW5yOG8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.1Z2knDpSKRW5yOG8"
+    },
+    {
+      "text": "Fellowship",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "ZUufixHeR2ctgJkx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.ZUufixHeR2ctgJkx"
+    },
+    {
+      "text": "Enemy",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "NpzLzWVvRVLZkObb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.NpzLzWVvRVLZkObb"
+    },
+    {
+      "text": "Religion",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "rVjYQaxQ0RURWIO0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.rVjYQaxQ0RURWIO0"
+    },
+    {
+      "text": "Spirit",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "xUBubMTXIEfMVvoG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.xUBubMTXIEfMVvoG"
+    },
+    {
+      "text": "Fame",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "vTI5UC7kaebXuu6B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.vTI5UC7kaebXuu6B"
+    },
+    {
+      "text": "Desolation",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "PWYgZnAa8LVhAHPJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.PWYgZnAa8LVhAHPJ"
+    },
+    {
+      "text": "Strength",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "PYM0Tejo7TCYGd0h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.PYM0Tejo7TCYGd0h"
+    },
+    {
+      "text": "Knowledge",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "rUZLC9mUYOZcCGUv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.rUZLC9mUYOZcCGUv"
+    },
+    {
+      "text": "Truth",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "rXBfIlplkf2KGAuo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.rXBfIlplkf2KGAuo"
+    },
+    {
+      "text": "Quest",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "bB1AZlbH4A1IUOss",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.bB1AZlbH4A1IUOss"
+    },
+    {
+      "text": "Pride",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "K7cZdGOLMZb0EtfT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.K7cZdGOLMZb0EtfT"
+    },
+    {
+      "text": "Loss",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "7lQslrqGNO301YzX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.7lQslrqGNO301YzX"
+    },
+    {
+      "text": "Law",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "qo79ohQxhFL9xQx4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.qo79ohQxhFL9xQx4"
+    },
+    {
+      "text": "Path",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "mh9wpheo7QZc3joU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.mh9wpheo7QZc3joU"
+    },
+    {
+      "text": "Warning",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "eYjeEcrYKvFmcHd2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.eYjeEcrYKvFmcHd2"
+    },
+    {
+      "text": "Relationship",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "fsm8tnUeWpkBsBtB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.fsm8tnUeWpkBsBtB"
+    },
+    {
+      "text": "Wealth",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "oFydDf2T9WHZJehV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.oFydDf2T9WHZJehV"
+    },
+    {
+      "text": "Home",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "4PahC2o8zyluwLSr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.4PahC2o8zyluwLSr"
+    },
+    {
+      "text": "Strategy",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "B0aKjJZ0Iriite7G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.B0aKjJZ0Iriite7G"
+    },
+    {
+      "text": "Supply",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "i7DDmSv9I8ddUGE4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!95cJ5CUzfFDpwWRx.i7DDmSv9I8ddUGE4"
+    }
+  ],
+  "folder": "xTcqhEtgayhWMvLh",
+  "sort": 400000,
+  "_id": "95cJ5CUzfFDpwWRx",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>As with the Action oracle, this is an interpretative table which you can use to answer questions or generate new situations. Combined, the Action and Theme tables provide creative prompts suitable for most situations and questions. In fact, with some creative interpretations, it’s entirely possible to play with only these two tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791159766,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!95cJ5CUzfFDpwWRx"
+}

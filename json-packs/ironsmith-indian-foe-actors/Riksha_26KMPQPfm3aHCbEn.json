@@ -1,0 +1,165 @@
+{
+  "name": "Riksha",
+  "type": "foe",
+  "img": "icons/creatures/abilities/bear-roar-bite-brown.webp",
+  "items": [
+    {
+      "_id": "TcvH9NHitjyhEqws",
+      "name": "Riksha",
+      "type": "progress",
+      "img": "icons/creatures/abilities/bear-roar-bite-brown.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Humanoid bears</p>\n<p>Thick fur of various colors</p>\n<p>Kiln-hardened wooden armor</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Defend their dens</p>\n<p>Gather and fortify for hibernation</p>\n<p>Be masters of the mountains</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Deadly chakram throw</p>\n<p>Stout hammer blows</p>\n<p>Overwhelming brute force</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 220\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 47\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The riksha consist of several different groups of bear folk. While it&rsquo;s not uncommon to see brown and black bear folk mixed in groups, the white- furred riksha rarely mingle with others. There are also tribes of bear folk with a bright sun burst on their chests and tribes with bear folk that resemble sloths.</p>\n<p>While each tribe favors different weapons, the adoption of the chakram seems to be near universal. With the strength the riksha possess, they can deeply embed the bladed discs into their foes and sometimes even cut a Tigerlander in two with a single throw. We believe their reliance on these weapons is due to their large claws interfering with the use of a more traditional bow and arrow.</p>\n<p>During our first few winters in the Tigerlands, we noticed that the riksha were never spotted during the depths of winter. We believe that they hibernate during this time, but we cannot confirm it because they often collapse entrances to their dens for the winter.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>One riksha tribe appears to have exquisitely crafted weapons including hammers made from an iron unlike any other previously seen in the Tigerlands. What is this new iron ore, and what properties does it have? What secrets to smithing iron do these riksha posses?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>A select few riksha are chosen to not hibernate and assigned to guard the den during the winter. Is this position considered a great honor? If so, how are the guardians chosen? What are the effects on a riksha who does not hibernate?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 3,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!26KMPQPfm3aHCbEn.TcvH9NHitjyhEqws"
+    }
+  ],
+  "effects": [],
+  "folder": "1h2u3eK9jX6x0dlp",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Riksha",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/abilities/bear-roar-bite-brown.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741382890153,
+    "modifiedTime": 1741382890181,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "26KMPQPfm3aHCbEn",
+  "sort": 400000,
+  "_key": "!actors!26KMPQPfm3aHCbEn"
+}

@@ -1,0 +1,163 @@
+{
+  "name": "Ember",
+  "type": "foe",
+  "img": "icons/magic/fire/elemental-fire-humanoid.webp",
+  "items": [
+    {
+      "_id": "jq7T1LdxduDOgDgT",
+      "name": "Ember",
+      "type": "progress",
+      "img": "icons/magic/fire/elemental-fire-humanoid.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Smoldering flesh</p>\n<p class=\"nogrow\">Blazing eyes</p>\n<p class=\"nogrow\">Smoke slowly curling upwards</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Burn the living</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Embrace of flames</p>\n<p class=\"nogrow\">Rake with claws</p>\n</div>\n</div>\n<p>An ember is created when someone dies in a fire or occasionally when someone unjustly killed has their corpse burned in a pyre. They normally appear in settlements ravaged by forest fires or torched by raiders. Their grief and rage compel them to consign others to the flames. Embers have a blackened body burnt down to the bone in some places that continuously smoke and smolder.</p>\n<p>Because they are still literally on fire, embers have been known to spawn whole outbreaks of creating other embers. If a home burns down and a single ember is created from that tragedy, that ember can then spread fires to more homes and create even more embers. Yet in other cases, an ember will not rise from the ashes until days later.</p>\n<p>Sometimes, once an ember emerges, it will follow the one responsible for their death and leave a trail of singed destruction in their wake. While the ice and snow ever threatening the Ironlands can limit the damage a roving ember like this can do, many a town's fields have been set ablaze by a fresh ember only compounding that place's loss.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>Lightning started a fire on the forest&rsquo;s edge near the settlement of Grimhall. The main hunter for the settlement was in a small hunting hut at the time and quickly arose as an ember. The forest fire is now raging in one direction while the ember burns in another threatening to surround Grimhall in flames. One of the fires will need to be stopped to have the time necessary to evacuate the settlement. The hunter who is now an ember was known to you. In what way did your paths intersect?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Are the embers of your world smoldering corpses or are they instead ghostly spirits of flame? If the latter, increase the rank of embers to Extreme.</em></p>\n</blockquote>",
+        "rank": 3,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!3eRzkuXoOCeS23dl.jq7T1LdxduDOgDgT"
+    }
+  ],
+  "effects": [],
+  "folder": "lEK8lBFa4VdUphsn",
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "prototypeToken": {
+    "name": "Ember",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/magic/fire/elemental-fire-humanoid.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741135137983,
+    "modifiedTime": 1741195975169,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "3eRzkuXoOCeS23dl",
+  "sort": 0,
+  "_key": "!actors!3eRzkuXoOCeS23dl"
+}

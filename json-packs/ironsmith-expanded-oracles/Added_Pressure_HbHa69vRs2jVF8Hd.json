@@ -1,0 +1,121 @@
+{
+  "name": "Added Pressure",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Feral screams of the broken sound all around.",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "qPxQteIqGK7RYGXR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HbHa69vRs2jVF8Hd.qPxQteIqGK7RYGXR"
+    },
+    {
+      "text": "You just found a corpse.  Time is running out for the hostages.",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "Pj6LNDeTC4exfSpe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HbHa69vRs2jVF8Hd.Pj6LNDeTC4exfSpe"
+    },
+    {
+      "text": "An unnatural storm rages and intensifies.",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Awpwbyq9MIur8W3E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HbHa69vRs2jVF8Hd.Awpwbyq9MIur8W3E"
+    },
+    {
+      "text": "An ally who you were sworn to protect has just disappeared.",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "94MeEu7vK2iVdCF7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HbHa69vRs2jVF8Hd.94MeEu7vK2iVdCF7"
+    },
+    {
+      "text": "Your banner leader has fallen, plunging the clan into turmoil and in-fighting.",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "4IQQwdc2B4GrK9du",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HbHa69vRs2jVF8Hd.4IQQwdc2B4GrK9du"
+    },
+    {
+      "text": "Arcane chanting is carried to you by the wind, and the pungent smell of hot iron fills the air.",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "6uG0VAb1ph1005B2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HbHa69vRs2jVF8Hd.6uG0VAb1ph1005B2"
+    }
+  ],
+  "folder": "UV5jKc1YOy1kQ6QZ",
+  "sort": 100000,
+  "_id": "HbHa69vRs2jVF8Hd",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>To choose an inciting incident, roll percentile dice (2d10) and your action die (1d6) on the table on the next page. The tens digit of the percentile dice will give you the inciting incident. Briefly discuss the questions asked to get the background set, and then decide on a difficulty level for the vow: Troublesome or Dangerous. Next, mark progress once on the progress track to represent the characters already having made it to this spot in the quest. This will also help you bring the vow to a conclusion in a single session.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.HbHa69vRs2jVF8Hd"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159452,
+    "modifiedTime": 1702852490420,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!HbHa69vRs2jVF8Hd"
+}

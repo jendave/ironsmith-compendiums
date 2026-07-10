@@ -1,0 +1,66 @@
+{
+  "type": "asset",
+  "folder": "nDIGmSA4JsG55e8U",
+  "name": "Bifrost",
+  "system": {
+    "requirement": "",
+    "category": "Ritual",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ac19f4c7f3fe31be]{Undertake a Journey} by summoning the Bifrost, roll +heart (instead of +wits). On a strong hit, mark progress twice. On a weak hit, as above but envision how the Bifrost draws unwanted attention.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you use the magic of the Bifrost to @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} on a friend or ally in a distant place, roll +heart (instead of +wits). On a strong hit, you may briefly communicate with them. On a weak hit, they are only aware of your attempted communication.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you attempt to pull a willing friend or ally in a distant location to you through the Bifrost, roll +heart and change any challenge die below 5 to a 5. On a strong hit, you succeed. On a weak hit, they appear at a nearby precarious spot or suffer in some way during transit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Rainbow Bridge"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/shiny-omega.svg",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709611388728,
+    "modifiedTime": 1764389319323,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "sort": 100000,
+  "_id": "3qtWpMYJUw2ZiDRG",
+  "_key": "!items!3qtWpMYJUw2ZiDRG"
+}

@@ -1,0 +1,71 @@
+{
+  "type": "asset",
+  "folder": "LNtWLsrZ58yZFnac",
+  "name": "Baagh",
+  "system": {
+    "requirement": "Your cat stalks and ambushes.",
+    "category": "Companion",
+    "color": null,
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>Ambush: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ed343c963b08f301]{Enter the Fray} +shadow with your tiger, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Hunter: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} by having your tiger attack from hiding while you distract your foe, you may roll +shadow (instead of +iron or +edge). If you do, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Neck Snap: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aac3783710ad7499]{End the Fight} by having your tiger attempt a death blow on a foe (formidable or less), you may reroll any dice.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Tiger"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/tiger-head.svg",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709328658309,
+    "modifiedTime": 1764382145498,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "sort": 100000,
+  "_id": "eHnWEsiHB3tkf8DC",
+  "_key": "!items!eHnWEsiHB3tkf8DC"
+}

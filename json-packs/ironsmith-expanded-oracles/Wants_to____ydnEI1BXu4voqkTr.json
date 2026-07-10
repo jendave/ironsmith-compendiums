@@ -1,0 +1,181 @@
+{
+  "name": "Wants to...",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Build walls around the settlement and leave the monster alone",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "qcYpUgPkEKXSNqk6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ydnEI1BXu4voqkTr.qcYpUgPkEKXSNqk6"
+    },
+    {
+      "text": "Sedate the monster for a time before killing it",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "yTjuSi6IP5klSe9W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ydnEI1BXu4voqkTr.yTjuSi6IP5klSe9W"
+    },
+    {
+      "text": "Guide the monster to a safer location",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Sf5bJ8vXVF1bhqMz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ydnEI1BXu4voqkTr.Sf5bJ8vXVF1bhqMz"
+    },
+    {
+      "text": "Take away the monster's greatest weapon and then leave it alone",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "KphqK4MTRx33gaUg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ydnEI1BXu4voqkTr.KphqK4MTRx33gaUg"
+    },
+    {
+      "text": "Abandon the settlement to the monster",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "rEqx3kRzuoERvxF8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ydnEI1BXu4voqkTr.rEqx3kRzuoERvxF8"
+    },
+    {
+      "text": "Capture the monster alive",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "LGjWqeD3Ns13Zjwf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ydnEI1BXu4voqkTr.LGjWqeD3Ns13Zjwf"
+    },
+    {
+      "text": "Use the monster",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "7h1FqnIrYuKOTiw3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ydnEI1BXu4voqkTr.7h1FqnIrYuKOTiw3"
+    },
+    {
+      "text": "Kill the monster but take its offspring",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "y8DmVmoxBoFihSSJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ydnEI1BXu4voqkTr.y8DmVmoxBoFihSSJ"
+    },
+    {
+      "text": "Breed the monster",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "BeIMCbcKQtldWksL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ydnEI1BXu4voqkTr.BeIMCbcKQtldWksL"
+    },
+    {
+      "text": "Tame the monster",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "Yovj5uHFNoMr2itP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ydnEI1BXu4voqkTr.Yovj5uHFNoMr2itP"
+    }
+  ],
+  "folder": "ZFajJH2Qwjjv6f8p",
+  "sort": 200000,
+  "_id": "ydnEI1BXu4voqkTr",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>What if someone openly opposes killing off the monster? They support keeping the monster around or at least have another suggestion other than death for the monster.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ydnEI1BXu4voqkTr"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159568,
+    "modifiedTime": 1702853900783,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!ydnEI1BXu4voqkTr"
+}

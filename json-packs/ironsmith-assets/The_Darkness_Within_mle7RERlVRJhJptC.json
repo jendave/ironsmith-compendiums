@@ -1,0 +1,75 @@
+{
+  "type": "asset",
+  "folder": "x2Im9vXS7mZXpCyJ",
+  "name": "The Darkness Within",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>You gain access to the moves Wield the Darkness, Resist the Darkness, and Succumb to Darkness.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>You gain access to the Cleanse the Darkness move. Envision your method for combating the dark influence inside you.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you Wield the Darkness, you may make major alterations instead of minor and also perform minor acts of creation with aspects.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you Wield the Darkness, you may perform major acts of creation and also bend reality with aspects. You must have all other upgrades before choosing this one.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/cursed-star.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1708647996822,
+    "modifiedTime": 1764372783845,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "mle7RERlVRJhJptC",
+  "sort": 1400000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!mle7RERlVRJhJptC"
+}

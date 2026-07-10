@@ -1,0 +1,102 @@
+{
+  "folder": "VAY2CFAKr23S9VJK",
+  "name": "Difficulty Level",
+  "_id": "P2iBppnx0884EteE",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>If you are unsure of the difficulty of the quest or would like to have a random difficulty to help you solidify your quest premise, you may roll your percentile using the following table</p>",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        20
+      ],
+      "drawn": false,
+      "_id": "1J5khSj0qCRRZgh1",
+      "text": "Troublesome",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P2iBppnx0884EteE.1J5khSj0qCRRZgh1"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        21,
+        50
+      ],
+      "drawn": false,
+      "_id": "uO4JFHkOXPcgZEWJ",
+      "text": "Dangerous",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P2iBppnx0884EteE.uO4JFHkOXPcgZEWJ"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        51,
+        90
+      ],
+      "drawn": false,
+      "_id": "HbuvSOQc9lwgjlWx",
+      "text": "Formidable",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P2iBppnx0884EteE.HbuvSOQc9lwgjlWx"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        91,
+        98
+      ],
+      "drawn": false,
+      "_id": "BrKiJbkoRk2OqlnR",
+      "text": "Extreme",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P2iBppnx0884EteE.BrKiJbkoRk2OqlnR"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "_id": "WhcvBBj60JyJXxcm",
+      "text": "Epic",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P2iBppnx0884EteE.WhcvBBj60JyJXxcm"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1702687435504,
+    "modifiedTime": 1702687520458,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "formula": "",
+  "_key": "!tables!P2iBppnx0884EteE"
+}

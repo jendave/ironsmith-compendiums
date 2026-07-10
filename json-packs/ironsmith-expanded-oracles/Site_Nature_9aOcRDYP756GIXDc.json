@@ -1,0 +1,19 @@
+{
+  "name": "Site Nature",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "9aOcRDYP756GIXDc",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1702767525551,
+    "modifiedTime": 1702767525551,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!folders!9aOcRDYP756GIXDc"
+}

@@ -1,0 +1,477 @@
+{
+  "name": "Role (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Alchemist",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "mxkIV51MZbH3FQwq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.mxkIV51MZbH3FQwq"
+    },
+    {
+      "text": "Historian",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "v95BoC7J3ISn4clG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.v95BoC7J3ISn4clG"
+    },
+    {
+      "text": "Scribe",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "P6fPotFDYkCNM86M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.P6fPotFDYkCNM86M"
+    },
+    {
+      "text": "Baker",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "asTx16CwhFZrLVtS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.asTx16CwhFZrLVtS"
+    },
+    {
+      "text": "Minstrel",
+      "range": [
+        10,
+        12
+      ],
+      "_id": "RDHmSdCwD9eWOvXl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.RDHmSdCwD9eWOvXl"
+    },
+    {
+      "text": "Apothecary",
+      "range": [
+        13,
+        15
+      ],
+      "_id": "jIMuShYh5pmjp3HQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.jIMuShYh5pmjp3HQ"
+    },
+    {
+      "text": "Chandler",
+      "range": [
+        16,
+        18
+      ],
+      "_id": "KhDCUpOYIOi6Q5ay",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.KhDCUpOYIOi6Q5ay"
+    },
+    {
+      "text": "Rope Maker",
+      "range": [
+        19,
+        21
+      ],
+      "_id": "L0gwHlBMnBNJr2do",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.L0gwHlBMnBNJr2do"
+    },
+    {
+      "text": "Acolyte",
+      "range": [
+        22,
+        24
+      ],
+      "_id": "BP9qZUoi03qH9dBt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.BP9qZUoi03qH9dBt"
+    },
+    {
+      "text": "Clergy",
+      "range": [
+        25,
+        27
+      ],
+      "_id": "3ZcyGiCaIsPI6JWM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.3ZcyGiCaIsPI6JWM"
+    },
+    {
+      "text": "Cooper",
+      "range": [
+        28,
+        30
+      ],
+      "_id": "DnHpGFlTMfLRNcOu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.DnHpGFlTMfLRNcOu"
+    },
+    {
+      "text": "Equine Trainer",
+      "range": [
+        31,
+        33
+      ],
+      "_id": "jNuN1uY0wi7tF20p",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.jNuN1uY0wi7tF20p"
+    },
+    {
+      "text": "Falconer",
+      "range": [
+        34,
+        36
+      ],
+      "_id": "BPRmnz3pr2m5c5SM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.BPRmnz3pr2m5c5SM"
+    },
+    {
+      "text": "Farrier",
+      "range": [
+        37,
+        39
+      ],
+      "_id": "diIRqBvoE5vcFUiw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.diIRqBvoE5vcFUiw"
+    },
+    {
+      "text": "Bowyer/Fletcher",
+      "range": [
+        40,
+        42
+      ],
+      "_id": "d0fVAPZVZJ2i3Qpi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.d0fVAPZVZJ2i3Qpi"
+    },
+    {
+      "text": "Messenger",
+      "range": [
+        43,
+        45
+      ],
+      "_id": "HmIc2Ql0LAwU1Uke",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.HmIc2Ql0LAwU1Uke"
+    },
+    {
+      "text": "Herbalist",
+      "range": [
+        46,
+        48
+      ],
+      "_id": "4j0yktXPu7jhDwmW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.4j0yktXPu7jhDwmW"
+    },
+    {
+      "text": "Brewer",
+      "range": [
+        49,
+        51
+      ],
+      "_id": "d2VovnGZhjnI2TH9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.d2VovnGZhjnI2TH9"
+    },
+    {
+      "text": "Animal Healer",
+      "range": [
+        52,
+        54
+      ],
+      "_id": "mdprEExdtYMuY4ax",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.mdprEExdtYMuY4ax"
+    },
+    {
+      "text": "Shipwright",
+      "range": [
+        55,
+        58
+      ],
+      "_id": "Cer3PjJMH3DVlHL6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.Cer3PjJMH3DVlHL6"
+    },
+    {
+      "text": "Mason",
+      "range": [
+        59,
+        62
+      ],
+      "_id": "vGsamtglhoHi5vFR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.vGsamtglhoHi5vFR"
+    },
+    {
+      "text": "Shaman",
+      "range": [
+        63,
+        66
+      ],
+      "_id": "4obqpWJaSUNmOE8z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.4obqpWJaSUNmOE8z"
+    },
+    {
+      "text": "Midwife",
+      "range": [
+        67,
+        70
+      ],
+      "_id": "496epEce98XHuqKW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.496epEce98XHuqKW"
+    },
+    {
+      "text": "Fur Trader",
+      "range": [
+        71,
+        74
+      ],
+      "_id": "1qZG3JXBl5XQAwRk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.1qZG3JXBl5XQAwRk"
+    },
+    {
+      "text": "Livestock Farmer",
+      "range": [
+        75,
+        79
+      ],
+      "_id": "oEzBeqrdPrUKdacn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.oEzBeqrdPrUKdacn"
+    },
+    {
+      "text": "Carpenter",
+      "range": [
+        80,
+        84
+      ],
+      "_id": "BkmJDnJ0OceYExbc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.BkmJDnJ0OceYExbc"
+    },
+    {
+      "text": "Blacksmith",
+      "range": [
+        85,
+        89
+      ],
+      "_id": "8wrXiOIQ0O1FeEqW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.8wrXiOIQ0O1FeEqW"
+    },
+    {
+      "text": "Shepherd",
+      "range": [
+        90,
+        94
+      ],
+      "_id": "0z5HKVHqtdp3HxAi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.0z5HKVHqtdp3HxAi"
+    },
+    {
+      "text": "Tanner",
+      "range": [
+        95,
+        99
+      ],
+      "_id": "r9SMGiYRFjOXyLk7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.r9SMGiYRFjOXyLk7"
+    },
+    {
+      "text": "Unusual",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "OkTfGs9dAybfazVo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vVIwIneKy2NoNOQg.OkTfGs9dAybfazVo"
+    }
+  ],
+  "folder": "RwdM0k88MkirBvKa",
+  "sort": 0,
+  "_id": "vVIwIneKy2NoNOQg",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this oracle to define the background for a character, or to generate a random encounter.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791160102,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!vVIwIneKy2NoNOQg"
+}

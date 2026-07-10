@@ -1,0 +1,157 @@
+{
+  "name": "Gryphon",
+  "img": "icons/creatures/claws/claw-talons-glowing-orange.webp",
+  "type": "foe",
+  "folder": "PhtC6865BqJuajtM",
+  "prototypeToken": {
+    "actorLink": true,
+    "name": "Gryphon",
+    "displayName": 0,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "icons/creatures/claws/claw-talons-glowing-orange.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "system": {
+    "dfid": ""
+  },
+  "items": [
+    {
+      "name": "Gryphon",
+      "type": "progress",
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Eagle, hawk, falcon, vulture or owl head</p>\n<p class=\"nogrow\">Jagged beak</p>\n<p class=\"nogrow\">Taloned forelegs</p>\n<p class=\"nogrow\">Back legs and tail of a lion</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Protect the nest and eggs</p>\n<p class=\"nogrow\">Perform aggressive mating flight</p>\n<p class=\"nogrow\">Hunt</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Rend and bite</p>\n<p class=\"nogrow\">Dive bomb and pin</p>\n<p class=\"nogrow\">Seize and carry off</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Weaknesses</h4>\n<p class=\"nogrow\">Poor weather conditions hinder flight</p>\n<p class=\"nogrow\">Poor sense of smell and sound</p>\n</div>\n</div>\n<p>Gryphons make their eyries in the far north of the Ironlands in the Veiled Mountains and Tempest Hills, but they have been known to come as far south as the Hinterlands at times. These creatures are as big as a large horse and could serve as a mount if one could be tamed. Many have died in the attempt because they are also aggressive and wildly unpredictable.</p>\n<p>We learned long ago to remain perfectly still when the shadow of a gryphon flies overhead. While their main tool in hunting is their excellent sight, camouflage can keep a traveler safe as long as they don't move because gryphon eyes seem to lock onto movement more than color contrast. Their ears can't often pick up our voices from as high up as they fly, and even when they land, they typically can't detect us by smell until they are within a stone's throw.</p>\n<p>It is true that gryphons are almost always aggressive, but they become even more easily enraged during their furious flights of mating. They often drive their potential mates to the ground knocking over trees and anything else in their way. If they are interrupted in this process, both beasts pounce on the creature unlucky enough to have disturbed them. The prey is viciously slashed and rent to pieces and then saved as a post- coital snack for the pair.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A lone gryphon has begun to harass a settlement at the start of mating season. This far south, it is possible there is not another gryphon available to mate with which further enrages the beast. Can more bloodshed be avoided?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Do gryphons serve the firstborn as mounts or otherwise?</em></p>\n</blockquote>",
+        "rank": 3,
+        "current": 0,
+        "completed": false,
+        "subtype": "foe",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      "_id": "b0cwy6uj5UYssRRM",
+      "img": "icons/creatures/claws/claw-talons-glowing-orange.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "e1Oag2SXzEND5oPH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "coreVersion": "12.331",
+        "createdTime": 1708682828652,
+        "modifiedTime": 1741212680482,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!actors.items!CxPZvH9DB0VAB8o4.b0cwy6uj5UYssRRM"
+    }
+  ],
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "12.331",
+    "createdTime": 1708682811724,
+    "modifiedTime": 1741212360962,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "CxPZvH9DB0VAB8o4",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!actors!CxPZvH9DB0VAB8o4"
+}

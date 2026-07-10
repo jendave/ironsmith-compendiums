@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "folder": "x2Im9vXS7mZXpCyJ",
+  "name": "Silent Stalker",
+  "system": {
+    "requirement": "When you...",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage}+shadow by hiding from...</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by making a trap or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.48f642fd361e9c03]{Check Your Gear} to build such a trap for...</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>@UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ed343c963b08f301]{Enter the Fray} +shadow against...</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "A monstrous beast or horror, add +1 and take +1 momentum on a hit.",
+        "selected": false
+      }
+    ],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/hooded-assassin.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1708647991439,
+    "modifiedTime": 1764373496299,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "lkzBu3HIehFuANYo",
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!lkzBu3HIehFuANYo"
+}

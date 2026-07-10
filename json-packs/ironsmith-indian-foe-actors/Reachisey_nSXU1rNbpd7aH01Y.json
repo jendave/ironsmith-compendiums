@@ -1,0 +1,165 @@
+{
+  "name": "Reachisey",
+  "type": "foe",
+  "img": "icons/creatures/abilities/lion-roar-yellow.webp",
+  "items": [
+    {
+      "_id": "bOdwS4pPn3sSCxro",
+      "name": "Reachisey",
+      "type": "progress",
+      "img": "icons/creatures/abilities/lion-roar-yellow.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 226\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Head of a lion with a short elephant trunk</p>\n<p>Body of a dragon with armor-like scales</p>\n<p>Bright green scales</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div>\n<p>Hunt and gorge</p>\n<p>Defend its territory</p>\n<p>Make a den for hibernation</p>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 226\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Stand on its hind legs in a show of power</p>\n<p>Slash or impale with claws</p>\n<p>Bite legs of prey</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 226\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 37\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The reachisey is a form of dragon that was long ago imbued with the characteristics &nbsp;of the lion and elephant. It&rsquo;s lion-like head and mane seem oddly out of place on the reptilian body but no more out of place than the short elephant snout the reachisey uses to drink the blood of its victims while it gorges on their flesh.</p>\n<p>At the size of a wyvern or large bear, the reachisey is a dominant predator in any region. However, their lack of cunning and stealth means that they can be killed by a large baagh on the prowl. We also exploit this lack of intelligence to lead reachiseys into traps or pitfalls where we can more easily kill them.</p>\n<p>It is said that the reachisey was once a pure dragon but was warped by an encounter with wayward arcane energies. If they were related to dragons or wyverns, the wings are no longer part of their anatomy, but the armor- like scales remain making this a difficult foe to take down.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>An arrogant warrior wants a suit of armor made the bodies of slain reachisey. They have hunted and killed three already, enough to make two suits of armor, but they want each piece of the armor to be taken from a single reachisey. While it is good that the reachisey population is being culled, something else is taking its place in the food chain. What is this new creature, and what dire threat does it pose?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Are there different colors of reachisey? If so, what does each color signify?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 3,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!nSXU1rNbpd7aH01Y.bOdwS4pPn3sSCxro"
+    }
+  ],
+  "effects": [],
+  "folder": "4NkK3ZazG5mYS9s2",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Reachisey",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/abilities/lion-roar-yellow.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741381737541,
+    "modifiedTime": 1741381813950,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "nSXU1rNbpd7aH01Y",
+  "sort": 300000,
+  "_key": "!actors!nSXU1rNbpd7aH01Y"
+}

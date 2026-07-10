@@ -1,0 +1,165 @@
+{
+  "name": "Haya Siras",
+  "type": "foe",
+  "img": "icons/magic/fire/elemental-creature-horse.webp",
+  "items": [
+    {
+      "_id": "jq7T1LdxduDOgDgT",
+      "name": "Haya Siras",
+      "type": "progress",
+      "img": "icons/magic/fire/elemental-creature-horse.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Blazing flame for a body</p>\n<p>Top of the flame takes the shape of a horse</p>\n<p>Uncanny speed</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Burn the living</p>\n<p>Free working animals</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Flaming charge</p>\n<p>Surround in a circle of fire</p>\n<p>Separate individual victims from the group</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 50\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The haya siras are said be either tears of Agni that fell to the earth and were corrupted by contact with mortals or conjured servants of Keshi the horse demon. Whatever their origins, these horrors are particularly dangerous because of their speed. If they are not spotted in time, it is nearly impossible to escape them.</p>\n<p>Luckily, the haya siras can be temporarily removed from our plane of existence. There is a physical core at the center of their flames that can be attacked with normal weapons, but the mystic arts are a much more reliable means of exorcising these demons. They fear the ritual retelling of the tale of how Keshi was defeated, cower before the sacred hymns, and are most vulnerable to water blessed by an enlightened guru.</p>\n<p>Whether out of a sense of companionship or the desire to make life harder for Tigerlanders, we have noticed that the haya siras often try to free our horses, cattle, goats and other livestock. They will burn through any restraints and then chase off the animals before turning back to deal with us. For this reason, when traversing the swamps, we always blindfold our horses at night so they are not as easily spooked.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A settlement was recently destroyed in a great conflagration set by several haya siras. Another nearby settlement has decided to set out on a mission to rescue the now free roaming livestock before they die in the jungles. They have charms supposedly blessed with holy water to protect them, but what makes you think the charms are fake? Who is going on this mission that you desperately need to keep safe?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Was Keshi the horse demon truly defeated, or has the demon returned for revenge?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!6qVVuqMgdqgGNlIM.jq7T1LdxduDOgDgT"
+    }
+  ],
+  "effects": [],
+  "folder": "b2kATktQcePR0CZh",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.x7lUU3cer4uWnTUm"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Haya Siras",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/magic/fire/elemental-creature-horse.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.x7lUU3cer4uWnTUm",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741383597988,
+    "modifiedTime": 1741383789526,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "6qVVuqMgdqgGNlIM",
+  "sort": 200000,
+  "_key": "!actors!6qVVuqMgdqgGNlIM"
+}

@@ -1,0 +1,402 @@
+{
+  "name": "Component (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Pit",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "Px6LDo938dIkU9Qt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.Px6LDo938dIkU9Qt"
+    },
+    {
+      "text": "Water",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "Dx1criA2samYjxql",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.Dx1criA2samYjxql"
+    },
+    {
+      "text": "Fire",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "OUJNTLeVze6BR18O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.OUJNTLeVze6BR18O"
+    },
+    {
+      "text": "Projectile",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "cBDIj5lfVgvfVvlY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.cBDIj5lfVgvfVvlY"
+    },
+    {
+      "text": "Passage",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "QqNXUMjZZKrSNN0J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.QqNXUMjZZKrSNN0J"
+    },
+    {
+      "text": "Fall",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "KDBhsG0nJGrtSyu9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.KDBhsG0nJGrtSyu9"
+    },
+    {
+      "text": "Debris",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "2Z1crwMjmuXWq1iE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.2Z1crwMjmuXWq1iE"
+    },
+    {
+      "text": "Fear",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "sBRoF12lTNmbdRVq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.sBRoF12lTNmbdRVq"
+    },
+    {
+      "text": "Alarm",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "MiDtMSmY4vdphTpK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.MiDtMSmY4vdphTpK"
+    },
+    {
+      "text": "Trigger",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "d5A2ONTLxFEG3KFa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.d5A2ONTLxFEG3KFa"
+    },
+    {
+      "text": "Cold",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "6Iq4REsTIImFjxz0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.6Iq4REsTIImFjxz0"
+    },
+    {
+      "text": "Weapon",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "fRYtTR656AQF78yj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.fRYtTR656AQF78yj"
+    },
+    {
+      "text": "Darkness",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "VuDWE1uMG1KKGQtY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.VuDWE1uMG1KKGQtY"
+    },
+    {
+      "text": "Decay",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "gtlvq55gdDFUN4KP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.gtlvq55gdDFUN4KP"
+    },
+    {
+      "text": "Path",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "P0oOKMk2unmkClcV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.P0oOKMk2unmkClcV"
+    },
+    {
+      "text": "Stone",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "Wbxd3E700pWoZ4jV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.Wbxd3E700pWoZ4jV"
+    },
+    {
+      "text": "Terrain",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "ISn1NUZMDsxufXH3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.ISn1NUZMDsxufXH3"
+    },
+    {
+      "text": "Poison",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "Y9y0jWKStb2VfmMf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.Y9y0jWKStb2VfmMf"
+    },
+    {
+      "text": "Barrier",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "7t3wC1AUHWW01D3C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.7t3wC1AUHWW01D3C"
+    },
+    {
+      "text": "Overhead",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "daihvM1pGFohSHGs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.daihvM1pGFohSHGs"
+    },
+    {
+      "text": "Magic",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "AEhCfsEekkOEeJE3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.AEhCfsEekkOEeJE3"
+    },
+    {
+      "text": "Toxin",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "MxK7Dmj39RJqXXQw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.MxK7Dmj39RJqXXQw"
+    },
+    {
+      "text": "Earth",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "CTui9sfZSZIJ5XBJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.CTui9sfZSZIJ5XBJ"
+    },
+    {
+      "text": "Light",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "6lwsKTH9KPU2CLF9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.6lwsKTH9KPU2CLF9"
+    },
+    {
+      "text": "Denizen",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "v1Af8EC6ldWMRNNm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yCJvciPpUDzcaCFJ.v1Af8EC6ldWMRNNm"
+    }
+  ],
+  "folder": "8Ys4LafUGUk7Tu2I",
+  "sort": 3,
+  "_id": "yCJvciPpUDzcaCFJ",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946295613,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!yCJvciPpUDzcaCFJ"
+}

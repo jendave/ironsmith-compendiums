@@ -1,0 +1,19 @@
+{
+  "name": "Monster Hunting",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "ZeFm1JwvYNR84lHH",
+  "sort": 300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695959048126,
+    "modifiedTime": 1695962309193,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!folders!ZeFm1JwvYNR84lHH"
+}

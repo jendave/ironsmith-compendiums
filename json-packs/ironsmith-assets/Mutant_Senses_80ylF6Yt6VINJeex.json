@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "folder": "x2Im9vXS7mZXpCyJ",
+  "name": "Mutant Senses",
+  "system": {
+    "requirement": "Your body mutates and gains an enhanced sense of...",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Darkvision, like an owl or cat</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Smell, like a hound or elephant</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Hearing, like a bat or moth</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Envision how this enhancement changes your body. When you Face Danger, Gather Information, or Secure an Advantage by relying primarily on this enhanced sense, add +1 and take +1 momentum on a hit.",
+        "selected": false
+      }
+    ],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/beast-eye.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1708647985882,
+    "modifiedTime": 1764373469062,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "80ylF6Yt6VINJeex",
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!80ylF6Yt6VINJeex"
+}

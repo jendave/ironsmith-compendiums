@@ -1,0 +1,331 @@
+{
+  "name": "Physical Sign",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Streak of odd color in their hair",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "i4eWxXOVqV6cXMUZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.i4eWxXOVqV6cXMUZ"
+    },
+    {
+      "text": "Scars that form an odd shape or pattern",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "8x7NzR6zqjTAUeiN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.8x7NzR6zqjTAUeiN"
+    },
+    {
+      "text": "Birthmark that resembles an evil symbol",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "xwAVRYVVSLC9HfCa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.xwAVRYVVSLC9HfCa"
+    },
+    {
+      "text": "Strange burn mark",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "odzGQKCMJ19yBWRU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.odzGQKCMJ19yBWRU"
+    },
+    {
+      "text": "Pock marks in a disquieting configuration",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "Yff5XEwNCV2p2LZ6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.Yff5XEwNCV2p2LZ6"
+    },
+    {
+      "text": "Total loss of hair",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "Zijn404tZPKPSwnM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.Zijn404tZPKPSwnM"
+    },
+    {
+      "text": "Skin of an unnatural color as if dyed or tattooed",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "mMb9NgmfpkhKRolp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.mMb9NgmfpkhKRolp"
+    },
+    {
+      "text": "Fully white eyes that lack an iris or pupil",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "ycjM9c4SfgKexC1r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.ycjM9c4SfgKexC1r"
+    },
+    {
+      "text": "Sharper and more pronounced teeth",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "4MuevpafNIQ0xVtD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.4MuevpafNIQ0xVtD"
+    },
+    {
+      "text": "Skin drained of color",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "7Dm8B3whGy8CAXXB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.7Dm8B3whGy8CAXXB"
+    },
+    {
+      "text": "Wounds that fester and won’t heal",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "Sz4Xct4k5zEw64ht",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.Sz4Xct4k5zEw64ht"
+    },
+    {
+      "text": "Persistent fever, nausea and sweats",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "wXriPC2GIJCM379X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.wXriPC2GIJCM379X"
+    },
+    {
+      "text": "Disproportionate body part (much stronger sword arm, etc.)",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "J8ToUz1pC4qaznLp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.J8ToUz1pC4qaznLp"
+    },
+    {
+      "text": "Skin unnaturally hot or cold to the touch",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "d0yySpuRIi2eJtVZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.d0yySpuRIi2eJtVZ"
+    },
+    {
+      "text": "Eyes permanently closed yet still seeing",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "xyW6g34G6Lr8jrwp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.xyW6g34G6Lr8jrwp"
+    },
+    {
+      "text": "Sudden change in height, stature, or body composition",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "1MIXVmV4D4MXEbTP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.1MIXVmV4D4MXEbTP"
+    },
+    {
+      "text": "Mouth much wider than usual",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "oiQoYEkbIFs6XxBF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.oiQoYEkbIFs6XxBF"
+    },
+    {
+      "text": "Joints that bend further than normally possible",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "soNlsxh8g8AKmk0W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.soNlsxh8g8AKmk0W"
+    },
+    {
+      "text": "Inability to use a body part except at certain times",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "kn279NuH0ePKcJSv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.kn279NuH0ePKcJSv"
+    },
+    {
+      "text": "Sleeping with eyes open",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "ZSa5R78pdJU6AmxQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Fcove2nD0gY7dvXQ.ZSa5R78pdJU6AmxQ"
+    }
+  ],
+  "folder": "iw9CdTaDyib9IgXg",
+  "sort": 400000,
+  "_id": "Fcove2nD0gY7dvXQ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A physical sign of corruption is a noticeable change to your character’s body that can range from subtle to glaringly obvious. Many of these signs can be rationalized by others as existing naturally but are nevertheless found to be strange or off-putting by the every day Ironlander. While it is true that your character could have the condition maimed marked on their character sheet from corruption, I left that off the list below.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Fcove2nD0gY7dvXQ"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791158798,
+    "modifiedTime": 1702851699466,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!Fcove2nD0gY7dvXQ"
+}

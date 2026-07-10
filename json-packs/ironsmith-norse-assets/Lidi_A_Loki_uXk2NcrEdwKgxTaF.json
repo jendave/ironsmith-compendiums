@@ -1,0 +1,66 @@
+{
+  "type": "asset",
+  "folder": "VmHzWRXNfsCyAFKO",
+  "name": "Lidi A Loki",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage}, or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.be95ca063ded2b19]{Compel} through trickery or deceit, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>As above, but you may swap the value of your action die and the highest challenge die. If you do, the next time you make an action roll where any two dice have the same value, treat it as a miss with a match. You may not use this ability again until the miss with a match is resolved.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>You may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.25421995c803340e]{Sojourn} +shadow (instead of +heart). If you do, add +1, and on a strong hit, choose one additional benefit and take +1 momentum. Treat a weak hit as a miss as they see through your lies. If you share a bond with the community, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.421b379cb40b6ab7]{Test Your Bond}.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Disciple Of Loki"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/ringed-tentacle.svg",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709611388728,
+    "modifiedTime": 1764390124701,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "sort": 200000,
+  "_id": "uXk2NcrEdwKgxTaF",
+  "_key": "!items!uXk2NcrEdwKgxTaF"
+}

@@ -1,0 +1,157 @@
+{
+  "name": "Werebeast",
+  "img": "icons/creatures/mammals/humanoid-cat-skulking-teal.webp",
+  "type": "foe",
+  "folder": "PhtC6865BqJuajtM",
+  "prototypeToken": {
+    "actorLink": true,
+    "name": "Werebeast",
+    "displayName": 0,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "icons/creatures/mammals/humanoid-cat-skulking-teal.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "system": {
+    "dfid": ""
+  },
+  "items": [
+    {
+      "name": "Werebeast",
+      "type": "progress",
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Powerful animal-human hybrid form of a predator</p>\n<p class=\"nogrow\">Dangerous natural weapons</p>\n<p class=\"nogrow\">Extreme speed, strength and senses</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Thrill of the hunt</p>\n<p class=\"nogrow\">Kill to satiate bloodlust</p>\n<p class=\"nogrow\">Spread the curse</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Infecting bite</p>\n<p class=\"nogrow\">Eviscerating strike</p>\n<p class=\"nogrow\">Run down prey</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Weaknesses</h4>\n<p class=\"nogrow\">Direct sunlight</p>\n<p class=\"nogrow\">The person is still alive inside the bestial body</p>\n</div>\n</div>\n<p>Is it a disease or sickness? Is it a curse? We don't know for sure, but soon after we arrived in the Ironlands, some began to undergo a terrible change. Their bodies contorted painfully, and they transformed into a bestial version of themselves. Some became wolf-like, others more like a cave lion, and still others like a great boar. While the source is unknown, the effects are not. These werebeasts roam the lands in search of blood. They know nothing but death.</p>\n<p>At first, we thought this was a disease that could be cured, but we have yet to find a way to return one under this curse to their natural, human form. If their mind still exists within the head of the beast, it must be tortured and in the throes of madness at its inability to escape the clutches of its new bestial nature.</p>\n<p>At first, we thought this was a disease that could be cured, but we have yet to find a way to return one under this curse to their natural, human form. If their mind still exists within the head of the beast, it must be tortured and in the throes of madness at its inability to escape the clutches of its new bestial nature.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>The current lover of a mystic has transformed into a werebeast and is killing former lovers of the mystic. The settlement overseer deems it obvious that the mystic is responsible, but the mystic maintains their innocence. Moreover, the mystic claims they have proof of the true cause of this sudden transformation and subsequent killing spree. Can the killing be stopped? Is there a definitive cause of this transformation?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Do werebeasts ever revert back to their human form? If so, do they retain memories from their time as a beast?</em></p>\n</blockquote>",
+        "rank": 3,
+        "current": 0,
+        "completed": false,
+        "subtype": "foe",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      "_id": "b0cwy6uj5UYssRRM",
+      "img": "icons/creatures/mammals/humanoid-cat-skulking-teal.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "e1Oag2SXzEND5oPH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "coreVersion": "12.331",
+        "createdTime": 1708682828652,
+        "modifiedTime": 1741215124054,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!actors.items!PPTTqLT5JFQoH0nP.b0cwy6uj5UYssRRM"
+    }
+  ],
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "12.331",
+    "createdTime": 1708682811724,
+    "modifiedTime": 1741214740389,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "PPTTqLT5JFQoH0nP",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!actors!PPTTqLT5JFQoH0nP"
+}

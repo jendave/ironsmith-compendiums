@@ -1,0 +1,163 @@
+{
+  "name": "Ironclaw Bear",
+  "type": "foe",
+  "img": "icons/creatures/abilities/bear-roar-bite-brown-green.webp",
+  "items": [
+    {
+      "_id": "3ySuUnpwbZdEX6RL",
+      "name": "Ironclaw Bear",
+      "type": "progress",
+      "img": "icons/creatures/abilities/bear-roar-bite-brown-green.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Stone-like skin with occasional gems</p>\n<p class=\"nogrow\">Rock-shatterning claws</p>\n<p class=\"nogrow\">Larger than any Ironlander</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Delve ever deeper</p>\n<p class=\"nogrow\">Hibernate</p>\n<p class=\"nogrow\">Find food</p>\n<p class=\"nogrow\">Protect cubs</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Overrun</p>\n<p class=\"nogrow\">Overpower</p>\n<p class=\"nogrow\">Claw and bite</p>\n</div>\n</div>\n<p>Ironclaw bears live in the Hinterlands, Tempest Hills and even the Veiled Mountains. They make their homes in stone caves that they carve themselves with their iron-like claws and can sleep for years at a time. As they hibernate, tiny stalagmites form on their skin giving them a protective coating of armor. Rarely, an ironclaw bear will have the beginnings of a gem form on its skin if it&rsquo;s a particularly long hibernation period. Among some Ironlander subcultures, these gems are sought after as the prize of a true warrior.</p>\n<p>When they are not hunting for food, ironclaws are often found inside their caves digging deeper and deeper. We know not what they are digging for, but stories abound of evil things coming out of particularly old ironclaw caves. We fear they seek to uncover things that are best left lost to time.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A party of warriors went out with the intent of prying a gem from the body of an ironclaw bear and succeeded at their task. Now, that bear is tracking them and killing them one by one, and their party of ten is down to three. What will it take to make it home safely?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth: </em></p>\n<p><em>What is it that ironclaw bears instinctively seek underground?</em></p>\n</blockquote>",
+        "rank": 3,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.24.10",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!cmZCsN3n7tAjnHTk.3ySuUnpwbZdEX6RL"
+    }
+  ],
+  "effects": [],
+  "folder": "nKcSMhNVNsXhTiaY",
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.24.10"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "prototypeToken": {
+    "name": "Ironclaw Bear",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/abilities/bear-roar-bite-brown-green.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.10",
+    "createdTime": 1740710297855,
+    "modifiedTime": 1740901683226,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "cmZCsN3n7tAjnHTk",
+  "sort": 300000,
+  "_key": "!actors!cmZCsN3n7tAjnHTk"
+}

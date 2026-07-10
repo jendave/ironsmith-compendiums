@@ -1,0 +1,66 @@
+{
+  "type": "asset",
+  "folder": "292WrNSrx7F9caMX",
+  "name": "Bushido",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.be95ca063ded2b19]{Compel} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by telling a hard truth with compassion, add +1 and take +1 momentum on a hit. On a weak hit, envision how the hearer may take offense and complicate your situation.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} with heroic courage or exceptional loyalty, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm} in direct pursuit of fulfilling an iron vow, add +1. Additionally, you may roll +heart instead of +health or +iron.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Code Of Honor"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/samurai-helmet.svg",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709072361915,
+    "modifiedTime": 1764387339704,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "sort": 200000,
+  "_id": "XHeC3440aTDdw2XP",
+  "_key": "!items!XHeC3440aTDdw2XP"
+}

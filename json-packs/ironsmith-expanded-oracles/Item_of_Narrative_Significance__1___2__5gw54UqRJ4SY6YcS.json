@@ -1,0 +1,1531 @@
+{
+  "name": "Item of Narrative Significance (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Torn scrap of leather",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "CvLgcdj9guwwgCI4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.CvLgcdj9guwwgCI4"
+    },
+    {
+      "text": "Distinctive fur wrap",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "D19xExswCqAKvW16",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.D19xExswCqAKvW16"
+    },
+    {
+      "text": "Chain shirt",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "zSjjRvA0cHShfs9F",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.zSjjRvA0cHShfs9F"
+    },
+    {
+      "text": "Broken shield",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "onNBCkfbMcTSU6lK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.onNBCkfbMcTSU6lK"
+    },
+    {
+      "text": "Mystic focus of power",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "YdIA180wQMGM2HUH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.YdIA180wQMGM2HUH"
+    },
+    {
+      "text": "Scorched fragment of a map",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "Ia3MjwOtU47uRaHt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.Ia3MjwOtU47uRaHt"
+    },
+    {
+      "text": "Scratched ring of iron",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "X3uEPA7DizLY02re",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.X3uEPA7DizLY02re"
+    },
+    {
+      "text": "Melted iron necklace",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "0eSN3mpkbjQuKWI7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.0eSN3mpkbjQuKWI7"
+    },
+    {
+      "text": "Hastily discarded axe head",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "H4FW86jAd1usxD0X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.H4FW86jAd1usxD0X"
+    },
+    {
+      "text": "Cracked crucible",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "Kf6slPft0ocf688Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.Kf6slPft0ocf688Q"
+    },
+    {
+      "text": "Broken mortar and pestle",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "IftjXWqj1tNwHiyd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.IftjXWqj1tNwHiyd"
+    },
+    {
+      "text": "Pouch of rare herbs",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "UiTwljDNcRJqwxKj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.UiTwljDNcRJqwxKj"
+    },
+    {
+      "text": "Blood stain",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "WxS3Alaux263iR4d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.WxS3Alaux263iR4d"
+    },
+    {
+      "text": "Sprung trap",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "NoPxi2IiYqrGV3DS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.NoPxi2IiYqrGV3DS"
+    },
+    {
+      "text": "Book written in runes",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "MIIXKcfDvnzY056A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.MIIXKcfDvnzY056A"
+    },
+    {
+      "text": "Clan or family sigil",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "G5KkWQ7hvYuoNOXX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.G5KkWQ7hvYuoNOXX"
+    },
+    {
+      "text": "Arcane runes scrawled in blood",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "lX1y0sLQLU7R2jA3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.lX1y0sLQLU7R2jA3"
+    },
+    {
+      "text": "Sign of recent passage",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "Y2wGzPHXwr90FEwY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.Y2wGzPHXwr90FEwY"
+    },
+    {
+      "text": "Vial of alchemical supplies",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "7jSqDYIBkpSntKnF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.7jSqDYIBkpSntKnF"
+    },
+    {
+      "text": "Crushed helmet",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "jMpa5u9WOWxGx44C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.jMpa5u9WOWxGx44C"
+    },
+    {
+      "text": "Broken blade with a missing hilt",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "iNLh5Kxp3VubFJHg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.iNLh5Kxp3VubFJHg"
+    },
+    {
+      "text": "Bloodied dagger",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "LlOOlDoYQOn2HwXx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.LlOOlDoYQOn2HwXx"
+    },
+    {
+      "text": "Hammer with a split head",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "sCjAC1tzX8mMQsK7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.sCjAC1tzX8mMQsK7"
+    },
+    {
+      "text": "Arrow with colorful fletching",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "j3T6Pvc1x73qNHHd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.j3T6Pvc1x73qNHHd"
+    },
+    {
+      "text": "Crystal shard humming with power",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "6njO5L2dsdBpoxIS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.6njO5L2dsdBpoxIS"
+    },
+    {
+      "text": "Ingot of black iron",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "x6MfWI3OaSRFRej9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.x6MfWI3OaSRFRej9"
+    },
+    {
+      "text": "Wolf pelt",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "u1gGbQNKvasw2CFA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.u1gGbQNKvasw2CFA"
+    },
+    {
+      "text": "Unnatural skull",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "srGdahQxcZH4eA5D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.srGdahQxcZH4eA5D"
+    },
+    {
+      "text": "Etched bone fragment",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "xIsvhiuVubM5DHLC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.xIsvhiuVubM5DHLC"
+    },
+    {
+      "text": "Torch and other discarded supplies",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "uKOQaQYuuoEjpzyA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.uKOQaQYuuoEjpzyA"
+    },
+    {
+      "text": "Ripped leather pouch",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "tEz6wcvRp4qERVOy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.tEz6wcvRp4qERVOy"
+    },
+    {
+      "text": "Punctured waterskin",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "Sl7kjBNAl8HY4sQf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.Sl7kjBNAl8HY4sQf"
+    },
+    {
+      "text": "Circle of salt disturbed in one direction",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "te6KkYYHFDhdWeHF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.te6KkYYHFDhdWeHF"
+    },
+    {
+      "text": "Scroll sealed with wax",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "YlBD4lscCAOJtyoO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.YlBD4lscCAOJtyoO"
+    },
+    {
+      "text": "Crumpled remains of a letter",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "gXWhGuaH7qd9D5jv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.gXWhGuaH7qd9D5jv"
+    },
+    {
+      "text": "Hidden wooden chest",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "oDvEkL2DhqIhx0Cs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.oDvEkL2DhqIhx0Cs"
+    },
+    {
+      "text": "Corpse of an Ironlander*",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "mACQlMPAS8j7egna",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.mACQlMPAS8j7egna"
+    },
+    {
+      "text": "Corpse of a firstborn*",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "ZaJPhHnbUMEE9PWO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.ZaJPhHnbUMEE9PWO"
+    },
+    {
+      "text": "Freshly killed animal corpse",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "RXiWiMFEIpL39bKR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.RXiWiMFEIpL39bKR"
+    },
+    {
+      "text": "Decaying corpse of a beast",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "NK61FCtg5Mw6QV3p",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.NK61FCtg5Mw6QV3p"
+    },
+    {
+      "text": "Residue of war paint",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "LmYBLRZAn0GginrP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.LmYBLRZAn0GginrP"
+    },
+    {
+      "text": "Carefully constructed fire pit",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "WboDqrJuq8VpXJQ8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.WboDqrJuq8VpXJQ8"
+    },
+    {
+      "text": "Tooth of a poisonous beast",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "Vwfvgz3UZyCb1RGS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.Vwfvgz3UZyCb1RGS"
+    },
+    {
+      "text": "Claw of a rare beast",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "3NOlRXvNL9Pb03JA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.3NOlRXvNL9Pb03JA"
+    },
+    {
+      "text": "Broken bow and empty quiver",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "Cqq4YRDN1IJ1GUiF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.Cqq4YRDN1IJ1GUiF"
+    },
+    {
+      "text": "Shard of a mirror",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "OoAlOOcITz4bCZ0x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.OoAlOOcITz4bCZ0x"
+    },
+    {
+      "text": "Carved wooden figure",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "WMF3saqBLGjBVc7Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.WMF3saqBLGjBVc7Y"
+    },
+    {
+      "text": "Drinking stein",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "M3bT4Cgxp7ib94UU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.M3bT4Cgxp7ib94UU"
+    },
+    {
+      "text": "Well-used forge hammer",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "aRJK1dQmgTTquZM4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.aRJK1dQmgTTquZM4"
+    },
+    {
+      "text": "Forge tongs made of an unknown material",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "ypCGSK01io2jzkv9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.ypCGSK01io2jzkv9"
+    },
+    {
+      "text": "Woodcarving chisel",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "cuybuPVHirUkejF5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.cuybuPVHirUkejF5"
+    },
+    {
+      "text": "Torn and bloodied boot",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "wEqYbyRA5znYasNL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.wEqYbyRA5znYasNL"
+    },
+    {
+      "text": "Rusted fishhooks",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "ADSosiFoZzrsR9R8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.ADSosiFoZzrsR9R8"
+    },
+    {
+      "text": "Small empty cage",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "g1IMRuZdbiuxhkcu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.g1IMRuZdbiuxhkcu"
+    },
+    {
+      "text": "Ripped woven basket",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "ZNm6UeuZdJiJAno1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.ZNm6UeuZdJiJAno1"
+    },
+    {
+      "text": "Lingering smell of incense",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "qdfs2hOxpybMKfKi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.qdfs2hOxpybMKfKi"
+    },
+    {
+      "text": "Bear pelt",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "EcBQqYBiLXSL1I5o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.EcBQqYBiLXSL1I5o"
+    },
+    {
+      "text": "Cave lion pelt",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "eyvqHuJjJyRamWKI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.eyvqHuJjJyRamWKI"
+    },
+    {
+      "text": "Wyvern egg",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "q91BcczLXLP2HWBo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.q91BcczLXLP2HWBo"
+    },
+    {
+      "text": "Wet and frozen cloak",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "cuZyyBFFFWyxCoUq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.cuZyyBFFFWyxCoUq"
+    },
+    {
+      "text": "Intricate iron circlet",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "nQ2ftVXcXkiJZdrr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.nQ2ftVXcXkiJZdrr"
+    },
+    {
+      "text": "Large pearl",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "G9SMURyMrpAx4QAo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.G9SMURyMrpAx4QAo"
+    },
+    {
+      "text": "Drum with a torn head",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "zBaWmyM793OvqpqX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.zBaWmyM793OvqpqX"
+    },
+    {
+      "text": "Gnarled and twisted staff",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "17O6tl1fX7bHXcdJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.17O6tl1fX7bHXcdJ"
+    },
+    {
+      "text": "Quill snapped in half",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "xmgGmEyYGQZuYxY3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.xmgGmEyYGQZuYxY3"
+    },
+    {
+      "text": "Fur-trimmed glove slick with gore",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "sfyF6SoYRxkTKVJH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.sfyF6SoYRxkTKVJH"
+    },
+    {
+      "text": "Arm band of iron",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "tT7rufuISOYD3Ldv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.tT7rufuISOYD3Ldv"
+    },
+    {
+      "text": "Pouch of smoking weed",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "JeoKBTay7lfckMtq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.JeoKBTay7lfckMtq"
+    },
+    {
+      "text": "Small crate broken on the ground",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "PFEe51IPA2YzagTw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.PFEe51IPA2YzagTw"
+    },
+    {
+      "text": "Cart with a broken wheel",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "kkfbFdqaVqJQ3fE3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.kkfbFdqaVqJQ3fE3"
+    },
+    {
+      "text": "Cracked clay pot depicting a battle",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "NPxYtSfndBdydzQU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.NPxYtSfndBdydzQU"
+    },
+    {
+      "text": "Iron urn with a recognizable symbol",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "j0bjpMdNzeJWh6K3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.j0bjpMdNzeJWh6K3"
+    },
+    {
+      "text": "Empty ink well",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "d1AsPslzznGELz3g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.d1AsPslzznGELz3g"
+    },
+    {
+      "text": "Spear attached to torn rope",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "eBS4PsuTf2XCggN2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.eBS4PsuTf2XCggN2"
+    },
+    {
+      "text": "Star chart for navigation",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "VDPBUatUVAbWV2Mq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.VDPBUatUVAbWV2Mq"
+    },
+    {
+      "text": "Heavy brass sextant",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "DCWxnsyOfXgFPBVy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.DCWxnsyOfXgFPBVy"
+    },
+    {
+      "text": "Shattered conch shell",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "IgElCq8Q9Bng30no",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.IgElCq8Q9Bng30no"
+    },
+    {
+      "text": "Compass with the iron needle missing",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "C23eyCKKWRAaGCji",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.C23eyCKKWRAaGCji"
+    },
+    {
+      "text": "Iron key with a bestial head",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "OpMeR5mJmRjPfc48",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.OpMeR5mJmRjPfc48"
+    },
+    {
+      "text": "Broken length of chain",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "kESewu1IHMNdTDyE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.kESewu1IHMNdTDyE"
+    },
+    {
+      "text": "Dice made of bone and etched with runes",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "J4SGskLS5DXirjhz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.J4SGskLS5DXirjhz"
+    },
+    {
+      "text": "Evidence of a ritual gone wrong",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "0ii082l3I3xcQk54",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.0ii082l3I3xcQk54"
+    },
+    {
+      "text": "Remains of a thick, viscous poison",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "org08QDi8u0dsrNI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.org08QDi8u0dsrNI"
+    },
+    {
+      "text": "Skin of pungent alcohol",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "SMquzYDHVeP3oSc5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.SMquzYDHVeP3oSc5"
+    },
+    {
+      "text": "Feathers from a rare creature",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "hz6h0PjnGSPLNW0c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.hz6h0PjnGSPLNW0c"
+    },
+    {
+      "text": "Lock of hair tied in a leather thong",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "6XGksbnah6yAJ5kg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.6XGksbnah6yAJ5kg"
+    },
+    {
+      "text": "Shovel next to freshly churned earth",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "K3AfSKrQLUGNnnoJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.K3AfSKrQLUGNnnoJ"
+    },
+    {
+      "text": "Knife used in preparing meat",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "NYEM7YveG7HCjTwC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.NYEM7YveG7HCjTwC"
+    },
+    {
+      "text": "A single broken antler",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "1T1Bn8y2JoH6xlDk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.1T1Bn8y2JoH6xlDk"
+    },
+    {
+      "text": "Blanket and supplies left by a smoldering fire",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "b64X6QIr1M8VwAJ0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.b64X6QIr1M8VwAJ0"
+    },
+    {
+      "text": "Broken belt buckle and leather bits",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "N0p6xWUtbqS95BI3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.N0p6xWUtbqS95BI3"
+    },
+    {
+      "text": "Clay pipe for smoking",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "VRNaNScYN9ncN6f6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.VRNaNScYN9ncN6f6"
+    },
+    {
+      "text": "Whetstone with an etched sigil on the back",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "PImB0rPxYUnf59DZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.PImB0rPxYUnf59DZ"
+    },
+    {
+      "text": "Elven mask of a precious wood",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "t4QlwtvFmvvpPywe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.t4QlwtvFmvvpPywe"
+    },
+    {
+      "text": "Totem of a fierce animal",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "0vgMfvLjbJVFlD3d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.0vgMfvLjbJVFlD3d"
+    },
+    {
+      "text": "Talisman with a torn and bloodied chain",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "28p1Y32bpUyk3pQL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.28p1Y32bpUyk3pQL"
+    },
+    {
+      "text": "Stones stacked as a memorial",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "6u8mqmt6gqGlGWUs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.6u8mqmt6gqGlGWUs"
+    },
+    {
+      "text": "Small nub of a burnt candle of unusual color",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "YQNBADVdzld5IVVl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.YQNBADVdzld5IVVl"
+    },
+    {
+      "text": "Broken lute of superior craftsmanship",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "mfblWapdT61J28Dm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.mfblWapdT61J28Dm"
+    },
+    {
+      "text": "Flute carved of a sacred wood",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "VSEmY5XTnKzMdK0y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5gw54UqRJ4SY6YcS.VSEmY5XTnKzMdK0y"
+    }
+  ],
+  "folder": "ys0tLVTcvwcElQVg",
+  "sort": 112500,
+  "_id": "5gw54UqRJ4SY6YcS",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Items of narrative significance may at first glance seem like completely random objects, but because they are narratively significant in a mystery vow, they do connect to the plot in some way. I’ll talk about how they connect to the plot after the tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.5gw54UqRJ4SY6YcS"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159204,
+    "modifiedTime": 1702845024473,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!5gw54UqRJ4SY6YcS"
+}

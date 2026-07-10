@@ -1,0 +1,165 @@
+{
+  "name": "Samurai",
+  "type": "foe",
+  "img": "icons/weapons/swords/sword-katana.webp",
+  "items": [
+    {
+      "_id": "DCchL0z4pPWdXT4L",
+      "name": "Samurai",
+      "type": "progress",
+      "img": "icons/weapons/swords/sword-katana.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Trained warrior</p>\n<p>Weapon and armor expert</p>\n<p>Loyalty and honor above all</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Follow the daimyo's orders</p>\n<p>Follow the way of Bushido</p>\n<p>Bring honor to their family and clan</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Draw the circle</p>\n<p>Blades of strongest iron</p>\n<p>Never run from a battle</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 214\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 53\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The samurai are held in the highest respect in the Firelands. Unfortunately, they are not always viewed positively as their code forces them to obedience to their lord over their own judgments of right or wrong. At times they are saviors, and at times they are executioners. While there are some corrupt samurai, most are honorable but find that honor at times binds too tightly, forcing their hand.</p>\n<p>To become a samurai, one must train for years with a lord as their sponsor. At the end of their training, they reaffirm their fealty and are gifted with a suit of armor in the daimyo&rsquo;s motif. At that point, their word is nearly equivalent to law in the daimyo&rsquo;s domain.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A samurai recently turned rogue against a corrupt daimyo. The people love the samurai and are thankful to be rid of the daimyo, but the samurai deeply feels their betrayal of their daimyo makes them no longer worthy of life. The samurai has declared that once a new leader is installed for the settlement, they will leave and rid the world of their own presence. How do you know this samurai, and what would it take to convince them of their purity and heroism?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>What clan of samurai is known, respected, and fear throughout the Firelands?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!In7YB2czRMfN866V.DCchL0z4pPWdXT4L"
+    }
+  ],
+  "effects": [],
+  "folder": "EeGymg8PXcn71LIo",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.xDT8BgVJ49uDUZ2V"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Samurai",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/weapons/swords/sword-katana.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.xDT8BgVJ49uDUZ2V",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741399524704,
+    "modifiedTime": 1741399584195,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "In7YB2czRMfN866V",
+  "sort": 400000,
+  "_key": "!actors!In7YB2czRMfN866V"
+}

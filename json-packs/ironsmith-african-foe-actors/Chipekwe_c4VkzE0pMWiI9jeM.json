@@ -1,0 +1,165 @@
+{
+  "name": "Chipekwe",
+  "type": "foe",
+  "img": "icons/creatures/abilities/paw-print-orange.webp",
+  "items": [
+    {
+      "_id": "3ySuUnpwbZdEX6RL",
+      "name": "Chipekwe",
+      "type": "progress",
+      "img": "icons/creatures/abilities/paw-print-orange.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Elephant-rhino cross</p>\n<p>Single, large horn</p>\n<p>Thick hide, clawed feet</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Hunt elephants and hippos</p>\n<p>Drive out humans</p>\n<p>Defend territory</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Charge and gore</p>\n<p>Tear out throats</p>\n<p>Stomp and crush</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 31\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 31\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The hippopotamus is a dangerous creature that we must be cautious of every time we approach water. Imagine our surprise when we found there was a creature that even the hippos feared. The chipekwe seems to be a cross between an elephant and a rhinoceros. It has the same thick, gray skin, a single horn on its stubby snout, and ears smaller and more rigid than an elephant that act as protection for the chipekwe&rsquo;s head.</p>\n<p>The chipekwe are apex hunters in the Grasslands. While lions or hyenas will occasionally try to take one down, they rarely succeed, and if they do, it is usually at the cost of several of their pack mates&rsquo; lives. The chipekwe views lions or hyenas as simply a nuisance not worthy of being hunted.</p>\n<p>The main prey of chipekwe are elephants or hippos which they take down with a single charge and strong upward thrust of their horn. Once they mortally wound their prey in this fashion, they then use the claws at the edges of their elephant-like feet to rend great strips of flesh and muscle to feast on.</p>\n<p>We have found no reliable way to protect ourselves form these brutes.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A rogue chipekwe has developed a taste for human flesh rather than pachyderms. It now seeks out villages to use as its food source. Who did it maim that you hold dear?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Do the chipekwe in your world have the normal, upward pointing horn on their snout, or do they have a downward curving horn that looks similar to an elephant&rsquo;s snout?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 3,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": 1741314027980,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!actors.items!c4VkzE0pMWiI9jeM.3ySuUnpwbZdEX6RL"
+    }
+  ],
+  "effects": [],
+  "folder": "SmvrzHp7i9e8PowK",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Chipekwe",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/abilities/paw-print-orange.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741313779362,
+    "modifiedTime": 1741328487832,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "c4VkzE0pMWiI9jeM",
+  "sort": 100000,
+  "_key": "!actors!c4VkzE0pMWiI9jeM"
+}

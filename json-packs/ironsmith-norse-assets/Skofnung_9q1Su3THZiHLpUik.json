@@ -1,0 +1,66 @@
+{
+  "type": "asset",
+  "folder": "BcJX1E79xQ7TrHSY",
+  "name": "Skofnung",
+  "system": {
+    "requirement": "After you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.725a21e2f02d7e12]{Fulfill Your Vow} to be found worthy of Skofnung, quest to find it, and wield it, set your essence to +6 representing spiritual bodyguards in gems on the blade. When you draw your own blood and @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm} to honor those spirits, add +1 essence. When you use an ability below, roll +essence. On a strong hit, the ability occurs. On a weak hit, as above but @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.e09e2fc8bb709320]{Endure Stress} (1 stress). On a miss, suffer the -essence and Pay the Price.",
+    "category": "Combat Talent",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Suffer -1 essence to gain the Kindred asset with Skilled and Shield-Kin upgrades until the next dawn.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Suffer -2 essence to gain the Cutthroat asset with all three upgrades unlocked until the next dawn.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Suffer -3 essence. Gain the benefit of a strong hit on the Leech ritual's first ability.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Essence",
+      "current": 0,
+      "max": 6,
+      "value": 6,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Dagger"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/rune-sword.svg",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709611388728,
+    "modifiedTime": 1764388287808,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "sort": 400000,
+  "_id": "9q1Su3THZiHLpUik",
+  "_key": "!items!9q1Su3THZiHLpUik"
+}

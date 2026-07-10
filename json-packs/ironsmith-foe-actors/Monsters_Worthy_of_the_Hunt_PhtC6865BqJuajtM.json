@@ -1,0 +1,22 @@
+{
+  "name": "Monsters Worthy of the Hunt",
+  "sorting": "a",
+  "folder": null,
+  "type": "Actor",
+  "_id": "PhtC6865BqJuajtM",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1740694258729,
+    "modifiedTime": 1740694258729,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!PhtC6865BqJuajtM"
+}

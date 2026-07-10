@@ -1,0 +1,381 @@
+{
+  "name": "Mystic Backlash (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Your ritual affects the wrong target.",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "AOHZJnddJbFewUfc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.AOHZJnddJbFewUfc"
+    },
+    {
+      "text": "You become obsessed with performing more and more powerful rituals for a time.",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "sQ7DvmAR6YbEDkC2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.sQ7DvmAR6YbEDkC2"
+    },
+    {
+      "text": "A nearby innocent is adversely affected.",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "wLPPk2ErYbi4ndcJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.wLPPk2ErYbi4ndcJ"
+    },
+    {
+      "text": "An important object is damaged.",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "VxUq7n1WQSTuS0Oi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.VxUq7n1WQSTuS0Oi"
+    },
+    {
+      "text": "You inadvertently create a horror near a place or person you share a bond with.",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "1S3mKfH3mEj5V3mC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.1S3mKfH3mEj5V3mC"
+    },
+    {
+      "text": "Your spirit leaves your body and wanders for a time.",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "YrnZgbfBeYnfh06x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.YrnZgbfBeYnfh06x"
+    },
+    {
+      "text": "You undergo a mental torment which leaves its mark upon you.",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "t7RwkGpGmMQIAzO6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.t7RwkGpGmMQIAzO6"
+    },
+    {
+      "text": "You have a vision of two possible futures: one dark and the other darker still.",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "yvYR8zyEI0kAvl5e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.yvYR8zyEI0kAvl5e"
+    },
+    {
+      "text": "Your ritual binds you to the target in an unexpected and problematic way.",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "ceEaA0odROQzcJx7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.ceEaA0odROQzcJx7"
+    },
+    {
+      "text": "You draw out a nearby beast.",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "1Vb6F7h3tnwbLbyS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.1Vb6F7h3tnwbLbyS"
+    },
+    {
+      "text": "You inadvertently cause a friend, ally, or companion to act against you.",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "V17L4sqaca3I7jg0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.V17L4sqaca3I7jg0"
+    },
+    {
+      "text": "Your ritual causes a friend, ally, or companion to exhibit strange or aggressive behavior.",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "CDrKKMTsI5F8bvGx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.CDrKKMTsI5F8bvGx"
+    },
+    {
+      "text": "You waste time.",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "MoQZ12lMe6a10Tg9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.MoQZ12lMe6a10Tg9"
+    },
+    {
+      "text": "You are overwhelmed by despair.",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "JFYlPwYC62i17orY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.JFYlPwYC62i17orY"
+    },
+    {
+      "text": "You lose your sense of discernment and become impulsive for several hours.",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "956inGMugIoEfQZz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.956inGMugIoEfQZz"
+    },
+    {
+      "text": "You collapse and awake days later.",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "OHf2hl6zFApPNu2c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.OHf2hl6zFApPNu2c"
+    },
+    {
+      "text": "You are tempted by greed or lust.",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "Ll6tOkzUZzyD80sx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.Ll6tOkzUZzyD80sx"
+    },
+    {
+      "text": "Your ritual reveals a previously held truth to actually be false.",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "6sJMYPpnw9L6dtUi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.6sJMYPpnw9L6dtUi"
+    },
+    {
+      "text": "You see a troubling vision of a future for a friend, ally, or companion.",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "s3YxfX7CRlEt920M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.s3YxfX7CRlEt920M"
+    },
+    {
+      "text": "You may only perform this ritual and no other for a time.",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "ACQhjfosnSaUZall",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.ACQhjfosnSaUZall"
+    },
+    {
+      "text": "You develop a strange obsession or fascination.",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "EU8rSv64dRpuwEfN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.EU8rSv64dRpuwEfN"
+    },
+    {
+      "text": "You affect your surroundings causing rapid growth of dangerous plants or fungus.",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "uLCc89TsV74aitJR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.uLCc89TsV74aitJR"
+    },
+    {
+      "text": "You are sent into a state of madness.",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "n2hW78SETmzFgaqZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.n2hW78SETmzFgaqZ"
+    },
+    {
+      "text": "A friend, ally, or companion is tormented by an apparition from their past.",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "LxjjNO0pUakOPRhE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.LxjjNO0pUakOPRhE"
+    },
+    {
+      "text": "Roll twice more on this table. Both results occur. If they are the same result, make it worse.",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "egbiGXQW0FoQ37NZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!BuIjwttl9aypuw6u.egbiGXQW0FoQ37NZ"
+    }
+  ],
+  "folder": "JGoBiGjNOZyH38MA",
+  "sort": 50000,
+  "_id": "BuIjwttl9aypuw6u",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.BuIjwttl9aypuw6u"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161624,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!BuIjwttl9aypuw6u"
+}

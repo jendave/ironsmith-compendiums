@@ -1,0 +1,184 @@
+{
+  "name": "Time-Touched",
+  "type": "delve-theme",
+  "_id": "8odymGFWjmUuejiM",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "Thin places shunt travelers through time.",
+    "description": "<div class=\"page\" title=\"Page 244\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Some say that the thin places of the world were how the firstborn arrived in the Ironlands. Others say that mystics get their power by harnessing arcane energies from whatever world these thin places lead to. The truth, or at least part of the truth, is that these gossamer veils can separate discrete spots in time.</p>\n<div class=\"page\" title=\"Page 244\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Travelers in this site may&nbsp;find themselves flung 100&nbsp;years into the past to a&nbsp;time when the room they&nbsp;were standing in hadn't&nbsp;been formed yet, leaving&nbsp;them encased in stone.&nbsp;Worse yet, they may find&nbsp;themselves transported to&nbsp;a future that they can't&nbsp;interact with and witness&nbsp;events that seem destined&nbsp;to be. Even the rooms,&nbsp;walls, and passages can&nbsp;shift due to the effects of&nbsp;chronal energy emanating from this place.</p>\n<div class=\"page\" title=\"Page 244\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Some denizens have adapted to flourish in this strange environment. They hunt by phasing through time and striking at the worst possible moment.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          1,
+          4
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Mystic focus or conduit"
+      },
+      {
+        "range": [
+          5,
+          8
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Glimpses of the past"
+      },
+      {
+        "range": [
+          9,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Visions of the future"
+      },
+      {
+        "range": [
+          13,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Sigils untouched by time"
+      },
+      {
+        "range": [
+          17,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Evidence of future affecting the past"
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          1,
+          5
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Area ages instantly"
+      },
+      {
+        "range": [
+          6,
+          10
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Area de-ages instantly"
+      },
+      {
+        "range": [
+          11,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "You are shunted back in time"
+      },
+      {
+        "range": [
+          13,
+          14
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "You are shunted forward in time"
+      },
+      {
+        "range": [
+          15,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "You loop in time"
+      },
+      {
+        "range": [
+          17,
+          18
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen from the past"
+      },
+      {
+        "range": [
+          19,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen from the future"
+      },
+      {
+        "range": [
+          21,
+          22
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen affects time flow"
+      },
+      {
+        "range": [
+          23,
+          24
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Dangerous environment change"
+      },
+      {
+        "range": [
+          25,
+          26
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Equipment decays in time"
+      },
+      {
+        "range": [
+          27,
+          28
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Resources lost to time"
+      },
+      {
+        "range": [
+          29,
+          30
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Evil from another time"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703496240195,
+    "modifiedTime": 1703496643538,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!8odymGFWjmUuejiM"
+}

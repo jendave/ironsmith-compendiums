@@ -1,0 +1,251 @@
+{
+  "name": "Pay the Price (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Roll again and apply that result but make it worse. If you roll this result yet again, think of something dreadful that changes the course of your quest (Ask the Oracle if unsure) and make it happen.",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "67ciUHZybCJxaE59",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.67ciUHZybCJxaE59"
+    },
+    {
+      "text": "You encounter signs of a looming threat.",
+      "range": [
+        3,
+        5
+      ],
+      "_id": "HI6ooxX3FuWPuwdv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.HI6ooxX3FuWPuwdv"
+    },
+    {
+      "text": "You create an opportunity for an enemy.",
+      "range": [
+        6,
+        9
+      ],
+      "_id": "1Jk7Wf9QbYH5Pifr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.1Jk7Wf9QbYH5Pifr"
+    },
+    {
+      "text": "You face a tough choice.",
+      "range": [
+        10,
+        16
+      ],
+      "_id": "5MOmBBIqNaxYZoff",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.5MOmBBIqNaxYZoff"
+    },
+    {
+      "text": "You are tempted to abandon a vow.",
+      "range": [
+        17,
+        23
+      ],
+      "_id": "jR9dpQQlMYLMndIB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.jR9dpQQlMYLMndIB"
+    },
+    {
+      "text": "An unexpected guardian impedes your progress.",
+      "range": [
+        24,
+        32
+      ],
+      "_id": "5gg4XIcfypolQM7b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.5gg4XIcfypolQM7b"
+    },
+    {
+      "text": "You are falsely accused.",
+      "range": [
+        33,
+        41
+      ],
+      "_id": "Bsa4yj3ATpu5Obse",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.Bsa4yj3ATpu5Obse"
+    },
+    {
+      "text": "Something of value is stolen.",
+      "range": [
+        42,
+        50
+      ],
+      "_id": "pBJ1G1lnaHHE2AGX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.pBJ1G1lnaHHE2AGX"
+    },
+    {
+      "text": "A trap or environmental circumstance forces you to work with the enemy.",
+      "range": [
+        51,
+        59
+      ],
+      "_id": "ttcdQul1BIR2rz52",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.ttcdQul1BIR2rz52"
+    },
+    {
+      "text": "A foe thought defeated returns.",
+      "range": [
+        60,
+        68
+      ],
+      "_id": "jpkWdADLdTZvF9fn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.jpkWdADLdTZvF9fn"
+    },
+    {
+      "text": "A friend, ally, or companion is captured.",
+      "range": [
+        69,
+        76
+      ],
+      "_id": "NT0fGgjZgHShQ9XI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.NT0fGgjZgHShQ9XI"
+    },
+    {
+      "text": "You cross paths with someone or something best avoided.",
+      "range": [
+        77,
+        85
+      ],
+      "_id": "hZq5gm66pukJscGM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.hZq5gm66pukJscGM"
+    },
+    {
+      "text": "You draw unwanted attention to yourself.",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "py4FgpooPfenXl2M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.py4FgpooPfenXl2M"
+    },
+    {
+      "text": "A tactical advantage is lost.",
+      "range": [
+        91,
+        94
+      ],
+      "_id": "9UpjXgUJ5Aloj5Xq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.9UpjXgUJ5Aloj5Xq"
+    },
+    {
+      "text": "The wrong person shows up at the wrong time.",
+      "range": [
+        95,
+        98
+      ],
+      "_id": "eK23FEDyRxIR8y9n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.eK23FEDyRxIR8y9n"
+    },
+    {
+      "text": "Roll twice more on this table. Both results occur. If they are the same result, make it worse.",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "XEcpjO9nA4BegK9T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5mbaAMTDSpyIBh9m.XEcpjO9nA4BegK9T"
+    }
+  ],
+  "folder": "qVZwUtpBoNriLLjc",
+  "sort": 1,
+  "_id": "5mbaAMTDSpyIBh9m",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946450857,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!5mbaAMTDSpyIBh9m"
+}

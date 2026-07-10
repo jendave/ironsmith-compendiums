@@ -1,0 +1,68 @@
+{
+  "type": "asset",
+  "folder": "LVZLVJKri5u9NlDk",
+  "name": "Protection",
+  "system": {
+    "requirement": "When you perform the Ceremony of Iron and Stone to mark a rune in ash on an ally, companion, or yourself, roll +wits. On a hit, the effect below occurs once before the next dawn. On a strong hit, as above and take +1 momentum.",
+    "category": "Ritual",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>From Harm: The next time the target suffers harm, reduce the harm inflicted by X where X is the result of your action die for this ritual.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>From Despair: The next time the target suffers a loss of spirt, reduce the amount suffered by X where X is the result of your action die for this ritual.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>From Danger: The next time the target makes the @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} move, they add +X where X is the result of your action die for this ritual.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/rosa-shield.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1708647988046,
+    "modifiedTime": 1764372917261,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "wq7R3ephzuLZyRFS",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!wq7R3ephzuLZyRFS"
+}

@@ -1,0 +1,251 @@
+{
+  "name": "Pay the Price (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Roll again and apply that result but make it worse. If you roll this result yet again, think of something dreadful that changes the course of your quest (Ask the Oracle if unsure) and make it happen.",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "XDkEbjbgxyU1QVwY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.XDkEbjbgxyU1QVwY"
+    },
+    {
+      "text": "A person or community you trusted loses faith in you, or acts against you.",
+      "range": [
+        3,
+        5
+      ],
+      "_id": "MXd4SuuR0lyXBhIS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.MXd4SuuR0lyXBhIS"
+    },
+    {
+      "text": "A person or community you care about is exposed to danger.",
+      "range": [
+        6,
+        9
+      ],
+      "_id": "JCNc1H4kbMwl34ze",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.JCNc1H4kbMwl34ze"
+    },
+    {
+      "text": "You are separated from something or someone.",
+      "range": [
+        10,
+        16
+      ],
+      "_id": "adTIkKhfiCzgDtva",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.adTIkKhfiCzgDtva"
+    },
+    {
+      "text": "Your action has an unintended effect.",
+      "range": [
+        17,
+        23
+      ],
+      "_id": "N3BjIlNLjaQzyeZN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.N3BjIlNLjaQzyeZN"
+    },
+    {
+      "text": "Something of value is lost or destroyed.",
+      "range": [
+        24,
+        32
+      ],
+      "_id": "ALBnmFYkKJeP2Lyt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.ALBnmFYkKJeP2Lyt"
+    },
+    {
+      "text": "The current situation worsens.",
+      "range": [
+        33,
+        41
+      ],
+      "_id": "7AH4OkkA1zrd0QMe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.7AH4OkkA1zrd0QMe"
+    },
+    {
+      "text": "A new danger or foe is revealed.",
+      "range": [
+        42,
+        50
+      ],
+      "_id": "GepQm5udSpKdBw1B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.GepQm5udSpKdBw1B"
+    },
+    {
+      "text": "It causes a delay or puts you at a disadvantage.",
+      "range": [
+        51,
+        59
+      ],
+      "_id": "fxo8hmvCsxARP9fA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.fxo8hmvCsxARP9fA"
+    },
+    {
+      "text": "It is harmful.",
+      "range": [
+        60,
+        68
+      ],
+      "_id": "i6lwcyONhWzIp0En",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.i6lwcyONhWzIp0En"
+    },
+    {
+      "text": "It is stressful.",
+      "range": [
+        69,
+        76
+      ],
+      "_id": "B7LdTxwhdcrA5znm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.B7LdTxwhdcrA5znm"
+    },
+    {
+      "text": "A surprising development complicates your quest.",
+      "range": [
+        77,
+        85
+      ],
+      "_id": "e6SseLF8sym9LYvP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.e6SseLF8sym9LYvP"
+    },
+    {
+      "text": "It wastes resources.",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "mabhOwbHhA6l15Rx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.mabhOwbHhA6l15Rx"
+    },
+    {
+      "text": "It forces you to act against your best intentions.",
+      "range": [
+        91,
+        94
+      ],
+      "_id": "pkX1sOMznrFIl5Nr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.pkX1sOMznrFIl5Nr"
+    },
+    {
+      "text": "A friend, companion, or ally is put in harm’s way (or you are, if alone).",
+      "range": [
+        95,
+        98
+      ],
+      "_id": "R8sUibdy6FkGpVOC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.R8sUibdy6FkGpVOC"
+    },
+    {
+      "text": "Roll twice more on this table. Both results occur. If they are the same result, make it worse.",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "51pfwQaInTrL8d5d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kBpArcUlL0MBiLSE.51pfwQaInTrL8d5d"
+    }
+  ],
+  "folder": "qVZwUtpBoNriLLjc",
+  "sort": 0,
+  "_id": "kBpArcUlL0MBiLSE",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946450852,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!kBpArcUlL0MBiLSE"
+}

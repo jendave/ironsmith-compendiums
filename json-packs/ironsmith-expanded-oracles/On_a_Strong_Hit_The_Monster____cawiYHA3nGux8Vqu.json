@@ -1,0 +1,181 @@
+{
+  "name": "On a Strong Hit The Monster...",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Is killed outright.",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "56P23ZnnAh20ZKOi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cawiYHA3nGux8Vqu.56P23ZnnAh20ZKOi"
+    },
+    {
+      "text": "Falls unconscious and is at your mercy.",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "erfyLXL4WmKD319z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cawiYHA3nGux8Vqu.erfyLXL4WmKD319z"
+    },
+    {
+      "text": "Has you at its mercy but fails to follow through and then calmly retreats.",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "CF7FbpoynmmZZ3AG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cawiYHA3nGux8Vqu.CF7FbpoynmmZZ3AG"
+    },
+    {
+      "text": "Ceases attacking and cowers submissively.",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "iMXnybAfTKvTHPWF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cawiYHA3nGux8Vqu.iMXnybAfTKvTHPWF"
+    },
+    {
+      "text": "Is maimed and no longer poses a threat.",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "cS2IRyjuPSILjyrt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cawiYHA3nGux8Vqu.cS2IRyjuPSILjyrt"
+    },
+    {
+      "text": "Is gravely injured and lays dying.",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "WWOtSPTVuPw0DfVz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cawiYHA3nGux8Vqu.WWOtSPTVuPw0DfVz"
+    },
+    {
+      "text": "Loses its most powerful weapon or attack and is impotent in the fight.",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "n3D1r3WucETEbMqI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cawiYHA3nGux8Vqu.n3D1r3WucETEbMqI"
+    },
+    {
+      "text": "Obtains a recognizable injury and flees in fear.",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "BLacT7CywhYBLZUl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cawiYHA3nGux8Vqu.BLacT7CywhYBLZUl"
+    },
+    {
+      "text": "Realizes it has lost this battle and flees in a rage to regroup.",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "paQ73D1CJcTF3xhv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cawiYHA3nGux8Vqu.paQ73D1CJcTF3xhv"
+    },
+    {
+      "text": "Changes its stance from aggressive to grudging respect and ceases its attack.",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "m6ce2TsyMLeaey4n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cawiYHA3nGux8Vqu.m6ce2TsyMLeaey4n"
+    }
+  ],
+  "folder": "lC26cBW2dVSF1D1F",
+  "sort": 100000,
+  "_id": "cawiYHA3nGux8Vqu",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>There may be ways other than a fight to the death to fulfill your monster hunting vow. If you get a hit on the End the Fight move and are unsure as to the outcome, you may roll percentile dice (2d10) on the following table. Note that for a strong hit on your End the Fight, you only use the tens digit of the percentile dice. On a weak hit, you use both the tens and the ones digit separately.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.cawiYHA3nGux8Vqu"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159601,
+    "modifiedTime": 1702854175324,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!cawiYHA3nGux8Vqu"
+}

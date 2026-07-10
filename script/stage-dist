@@ -1,0 +1,20 @@
+#! /bin/bash
+# Assemble the distributable module under dist/ by copying the static files
+# (manifest, esmodules, assets, licenses) alongside the compiled compendium
+# packs produced by script/build-packs.
+
+set -eu
+
+mkdir -p dist
+
+# Required static files and directories.
+cp module.json dist/
+cp -R esmodules dist/
+cp -R assets dist/
+
+# Optional files/directories — copy each only if present.
+for item in docs README.md CHANGELOG.md LICENSE LICENSE-Oracles; do
+	if [ -e "$item" ]; then
+		cp -R "$item" dist/
+	fi
+done

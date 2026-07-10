@@ -1,0 +1,522 @@
+{
+  "name": "Goal (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Hedonism",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "2eQwygxkP9Nc1yax",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.2eQwygxkP9Nc1yax"
+    },
+    {
+      "text": "Raise a family",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "iYGDxBVAqSAInRH2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.iYGDxBVAqSAInRH2"
+    },
+    {
+      "text": "Help the helpless",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "09finCyBpFQisW1G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.09finCyBpFQisW1G"
+    },
+    {
+      "text": "Voice for the voiceless",
+      "range": [
+        10,
+        12
+      ],
+      "_id": "G2XjK2XcMvtSftxv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.G2XjK2XcMvtSftxv"
+    },
+    {
+      "text": "Raise others from poverty",
+      "range": [
+        13,
+        15
+      ],
+      "_id": "vai3zRgO6DVknlnT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.vai3zRgO6DVknlnT"
+    },
+    {
+      "text": "Seek wisdom and knowledge",
+      "range": [
+        16,
+        18
+      ],
+      "_id": "IzGoLUlG3cKnHKpl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.IzGoLUlG3cKnHKpl"
+    },
+    {
+      "text": "Destroy an item",
+      "range": [
+        19,
+        21
+      ],
+      "_id": "lBnVwQrRvSC0bIN2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.lBnVwQrRvSC0bIN2"
+    },
+    {
+      "text": "Find a soulmate",
+      "range": [
+        22,
+        24
+      ],
+      "_id": "5uRgeO6TSSwXaXy2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.5uRgeO6TSSwXaXy2"
+    },
+    {
+      "text": "Teach others",
+      "range": [
+        25,
+        27
+      ],
+      "_id": "LgSBOUSkXyDjSEt4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.LgSBOUSkXyDjSEt4"
+    },
+    {
+      "text": "Be a hero",
+      "range": [
+        28,
+        30
+      ],
+      "_id": "Xc7FjFNFVfpNI4cZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.Xc7FjFNFVfpNI4cZ"
+    },
+    {
+      "text": "Liberate those in bondage",
+      "range": [
+        31,
+        33
+      ],
+      "_id": "tpPOHxDGoxo6LIMO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.tpPOHxDGoxo6LIMO"
+    },
+    {
+      "text": "Bring order to chaos",
+      "range": [
+        34,
+        36
+      ],
+      "_id": "HCAoDRTar0YiFv7Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.HCAoDRTar0YiFv7Z"
+    },
+    {
+      "text": "Achieve moral perfection",
+      "range": [
+        37,
+        39
+      ],
+      "_id": "LW3Ll97Oq5QJUi8w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.LW3Ll97Oq5QJUi8w"
+    },
+    {
+      "text": "Achieve spiritual enlightenment",
+      "range": [
+        40,
+        42
+      ],
+      "_id": "KkL0gtpJ3Pds7voC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.KkL0gtpJ3Pds7voC"
+    },
+    {
+      "text": "Oppress others",
+      "range": [
+        43,
+        45
+      ],
+      "_id": "KhYREFXK1EcX7FrT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.KhYREFXK1EcX7FrT"
+    },
+    {
+      "text": "Scheme machinations",
+      "range": [
+        46,
+        48
+      ],
+      "_id": "v1LCfsuzCvziYx63",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.v1LCfsuzCvziYx63"
+    },
+    {
+      "text": "Serve the rightful ruler",
+      "range": [
+        49,
+        51
+      ],
+      "_id": "Kj0bCXKdFQaKza2h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.Kj0bCXKdFQaKza2h"
+    },
+    {
+      "text": "Feed an addiction",
+      "range": [
+        52,
+        54
+      ],
+      "_id": "oLSh2oUwf8XSQkT4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.oLSh2oUwf8XSQkT4"
+    },
+    {
+      "text": "Discover the truth of their past",
+      "range": [
+        55,
+        57
+      ],
+      "_id": "hPZDoaNStVYoYI5r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.hPZDoaNStVYoYI5r"
+    },
+    {
+      "text": "Learn of the Old World",
+      "range": [
+        58,
+        60
+      ],
+      "_id": "9Xr8TnG1sbcZKcNo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.9Xr8TnG1sbcZKcNo"
+    },
+    {
+      "text": "Make contact with firstborn",
+      "range": [
+        61,
+        63
+      ],
+      "_id": "rO8vHD842YNrc7a1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.rO8vHD842YNrc7a1"
+    },
+    {
+      "text": "Survive the winter",
+      "range": [
+        64,
+        66
+      ],
+      "_id": "wGwlSCVGl4GZmuF8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.wGwlSCVGl4GZmuF8"
+    },
+    {
+      "text": "Change the system",
+      "range": [
+        67,
+        69
+      ],
+      "_id": "ZS9ADUlcKheJO4ck",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.ZS9ADUlcKheJO4ck"
+    },
+    {
+      "text": "Defeat a foe",
+      "range": [
+        70,
+        72
+      ],
+      "_id": "BLMppZf4MkVU5YgM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.BLMppZf4MkVU5YgM"
+    },
+    {
+      "text": "Be the best",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "gwAKNWZrXhVbIPcd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.gwAKNWZrXhVbIPcd"
+    },
+    {
+      "text": "Avoid ridicule",
+      "range": [
+        76,
+        78
+      ],
+      "_id": "ymra3dHNy6n30jx3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.ymra3dHNy6n30jx3"
+    },
+    {
+      "text": "Be left alone",
+      "range": [
+        79,
+        81
+      ],
+      "_id": "icnp0Ajrk14YtEku",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.icnp0Ajrk14YtEku"
+    },
+    {
+      "text": "Stay true to friends and family",
+      "range": [
+        82,
+        84
+      ],
+      "_id": "iEnuChN78AUmebDo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.iEnuChN78AUmebDo"
+    },
+    {
+      "text": "Win affection",
+      "range": [
+        85,
+        87
+      ],
+      "_id": "38RuzVmDO7HViLfZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.38RuzVmDO7HViLfZ"
+    },
+    {
+      "text": "Defeat romantic rival",
+      "range": [
+        88,
+        90
+      ],
+      "_id": "BOM8MCv8oOJObkh2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.BOM8MCv8oOJObkh2"
+    },
+    {
+      "text": "Find settlement resources",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "tS5Qgk2YjA9UdlZZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.tS5Qgk2YjA9UdlZZ"
+    },
+    {
+      "text": "Seek forgiveness",
+      "range": [
+        93,
+        95
+      ],
+      "_id": "1K5PSaZZ0MqfIGsF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.1K5PSaZZ0MqfIGsF"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "INWApl7akftn9Vip",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HVcyCucZYQlq0vyS.INWApl7akftn9Vip"
+    }
+  ],
+  "folder": "RwdM0k88MkirBvKa",
+  "sort": -50000,
+  "_id": "HVcyCucZYQlq0vyS",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this oracle to define the primary motivation of an NPC or a faction. It can also be used to kick-off a personal quest for your own character.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791160150,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!HVcyCucZYQlq0vyS"
+}

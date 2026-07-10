@@ -1,0 +1,19 @@
+{
+  "name": "Vows and Milestones",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "VAY2CFAKr23S9VJK",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695957996178,
+    "modifiedTime": 1702715783904,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!folders!VAY2CFAKr23S9VJK"
+}

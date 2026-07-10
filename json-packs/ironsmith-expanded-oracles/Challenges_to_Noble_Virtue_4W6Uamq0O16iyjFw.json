@@ -1,0 +1,19 @@
+{
+  "name": "Challenges to Noble Virtue",
+  "sorting": "a",
+  "folder": "VAY2CFAKr23S9VJK",
+  "type": "RollTable",
+  "_id": "4W6Uamq0O16iyjFw",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695960791710,
+    "modifiedTime": 1702844778113,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!folders!4W6Uamq0O16iyjFw"
+}

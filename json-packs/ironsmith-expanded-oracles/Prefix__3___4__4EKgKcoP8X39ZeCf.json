@@ -1,0 +1,402 @@
+{
+  "name": "Prefix (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "North",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "hzprATNldBr5qLa1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.hzprATNldBr5qLa1"
+    },
+    {
+      "text": "South",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "NxioopoCQvYIWSIf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.NxioopoCQvYIWSIf"
+    },
+    {
+      "text": "East",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "hlfDY6X3VvpIKDmN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.hlfDY6X3VvpIKDmN"
+    },
+    {
+      "text": "West",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "UXxvxac0QkL2XIdc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.UXxvxac0QkL2XIdc"
+    },
+    {
+      "text": "Summer",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "lUpsHQhdYIj2sKxS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.lUpsHQhdYIj2sKxS"
+    },
+    {
+      "text": "Winter",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "P83R2e14Af1dNS3v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.P83R2e14Af1dNS3v"
+    },
+    {
+      "text": "Fall",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "ZyaSR3D8tsZ4k7UA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.ZyaSR3D8tsZ4k7UA"
+    },
+    {
+      "text": "Spring",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "DO6ySc4ST7GLQUzC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.DO6ySc4ST7GLQUzC"
+    },
+    {
+      "text": "Iron",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "7GKrXfrhqon8G8ZH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.7GKrXfrhqon8G8ZH"
+    },
+    {
+      "text": "Sweet",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "2xh9m2a9GirNH5Tv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.2xh9m2a9GirNH5Tv"
+    },
+    {
+      "text": "Wind",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "3znsehKh0C3brZ1O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.3znsehKh0C3brZ1O"
+    },
+    {
+      "text": "Eagle",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "5DxL3WARs9CVjftv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.5DxL3WARs9CVjftv"
+    },
+    {
+      "text": "Bear",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "fR6NECEuEBvajOzF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.fR6NECEuEBvajOzF"
+    },
+    {
+      "text": "Ash",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "mJiuEL6GuuZcqaTv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.mJiuEL6GuuZcqaTv"
+    },
+    {
+      "text": "Pine",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "bwbyYPo9GRaWCIB0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.bwbyYPo9GRaWCIB0"
+    },
+    {
+      "text": "Oak",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "liG1faausgw7ExGr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.liG1faausgw7ExGr"
+    },
+    {
+      "text": "Timber",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "uQoHWe5jTZQ4kmuz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.uQoHWe5jTZQ4kmuz"
+    },
+    {
+      "text": "Gold",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "FxQntP3wSdUDIoHC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.FxQntP3wSdUDIoHC"
+    },
+    {
+      "text": "Silver",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "N7T9sw34P9exfyA1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.N7T9sw34P9exfyA1"
+    },
+    {
+      "text": "Hill",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "WKaw3z3hE2B3PXu9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.WKaw3z3hE2B3PXu9"
+    },
+    {
+      "text": "Hawk",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "M2XPaCEAxMmsZh9x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.M2XPaCEAxMmsZh9x"
+    },
+    {
+      "text": "Hound",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "1IguYkDzR1VO5aL7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.1IguYkDzR1VO5aL7"
+    },
+    {
+      "text": "Lion",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "CLg5hGBPJT6oweWE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.CLg5hGBPJT6oweWE"
+    },
+    {
+      "text": "Wyrm",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "QSCUF3S4FszFn0od",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.QSCUF3S4FszFn0od"
+    },
+    {
+      "text": "Vintner",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "d1bEH4rg2wwsVyJx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4EKgKcoP8X39ZeCf.d1bEH4rg2wwsVyJx"
+    }
+  ],
+  "folder": "DZ4DBghELnbCxsOf",
+  "sort": 200000,
+  "_id": "4EKgKcoP8X39ZeCf",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791159986,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!4EKgKcoP8X39ZeCf"
+}

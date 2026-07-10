@@ -1,0 +1,82 @@
+{
+  "type": "asset",
+  "folder": "LVZLVJKri5u9NlDk",
+  "name": "Bestial Aspect",
+  "system": {
+    "requirement": "When you partake of the stalk of a rare Kykvendi plant, wear the ceremonial trappings of an animal listed below, and focus your will for an hour, roll +wits. On a hit, you are filled with the power of that animal on take on its dominant characteristics. Envision this transformation and take +1 to the listed stat until dusk. On a strong hit, also take +1 momentum.",
+    "category": "Ritual",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Green Wolf: Heart</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Ironclaw Bear: Iron</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Rock Panther: Edge</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Weaver Fox: Shadow</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Crowned Owl: Wits</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/trap-mask.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1708647974539,
+    "modifiedTime": 1764372899227,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "9Yt59yEQll46Xfj7",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!9Yt59yEQll46Xfj7"
+}

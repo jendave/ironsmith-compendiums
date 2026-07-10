@@ -1,0 +1,184 @@
+{
+  "name": "Contested",
+  "type": "delve-theme",
+  "_id": "tqYWXYZhT7StB4KI",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "This place is an active war zone.",
+    "description": "<div class=\"page\" title=\"Page 236\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>This site is the center of an active battle between two forces. Yelled orders and horn blasts fly across the battlefield almost as often as arrows and javelins. Chaos reigns as it is difficult in the heat of battle to even tell which side each combatant is on. The wounded and dying are everywhere and call out for aid.</p>\n<div class=\"page\" title=\"Page 236\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>It will be difficult to travel through this site unnoticed and unscathed. You will most certainly be defending yourself in combat, dodging denizen patrols, and making use of whatever cover is available.</p>\n<div class=\"page\" title=\"Page 236\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>As an optional rule, you&nbsp;may set up a Threat track&nbsp;in this site for each side in&nbsp;the battle. After every&nbsp;Delve the Depths move&nbsp;you make, Ask the Oracle&nbsp;which side is winning and mark progress on the appropriate track. When a Threat track is full, the battle is over and the side whose Threat track is full wins the battle. Now envision how this impacts your further exploration of this site and transition to the Fortified or Infested Theme as appropriate.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          1,
+          4
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "War banner planted in the ground"
+      },
+      {
+        "range": [
+          5,
+          8
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Cacophony of clashes and screams"
+      },
+      {
+        "range": [
+          9,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Fallen combatants"
+      },
+      {
+        "range": [
+          13,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Supply area"
+      },
+      {
+        "range": [
+          17,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Command area"
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          1,
+          5
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizens in battle"
+      },
+      {
+        "range": [
+          6,
+          10
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Reinforcements arrive"
+      },
+      {
+        "range": [
+          11,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Barrage of arrows"
+      },
+      {
+        "range": [
+          13,
+          14
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Hurled spears"
+      },
+      {
+        "range": [
+          15,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Looting denizens"
+      },
+      {
+        "range": [
+          17,
+          18
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Retreating group of denizens"
+      },
+      {
+        "range": [
+          19,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Raging fires and thick smoke"
+      },
+      {
+        "range": [
+          21,
+          22
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizens in desperate need"
+      },
+      {
+        "range": [
+          23,
+          24
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Lost in the chaos"
+      },
+      {
+        "range": [
+          25,
+          26
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Loss of equipment or item"
+      },
+      {
+        "range": [
+          27,
+          28
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Ambushed bu denizen"
+      },
+      {
+        "range": [
+          29,
+          30
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Mistaken for the enemy"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703447124677,
+    "modifiedTime": 1703447368339,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!items!tqYWXYZhT7StB4KI"
+}

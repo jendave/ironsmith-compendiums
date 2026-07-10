@@ -1,0 +1,406 @@
+{
+  "name": "Elder Futhark (Runes as Oracles)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Fehu     - Wealth    - Abundance, luck, hope, prosperity",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "5A5Cg9GcNKc4JCnJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.5A5Cg9GcNKc4JCnJ"
+    },
+    {
+      "text": "Uruz     - Ox        - Strength, endurance, health, courage",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "8NoFbNxqUhI67CYn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.8NoFbNxqUhI67CYn"
+    },
+    {
+      "text": "Thurisaz - Hammer    - Defense, challenge, danger",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "Y9eOobVwtL7CN7mV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.Y9eOobVwtL7CN7mV"
+    },
+    {
+      "text": "Ansuz    - Message   - Revelation, signs, visions",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "Yq9hBVeU37QFlUB7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.Yq9hBVeU37QFlUB7"
+    },
+    {
+      "text": "Raidho   - Journey   - Progress, movement, evolution, perspective",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "KhU8dvolOKlw7BXs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.KhU8dvolOKlw7BXs"
+    },
+    {
+      "text": "Kenaz    - Torch     - Enlightenment, knowledge, comprehension",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "fy2lNy3aHPEpDh0G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.fy2lNy3aHPEpDh0G"
+    },
+    {
+      "text": "Gebo     - Gift      - Generosity, partnership, gifts",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "9gt1E379dHVsH985",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.9gt1E379dHVsH985"
+    },
+    {
+      "text": "Wunjo    - Joy       - Pleasure, joy, feast, celebration, comfort",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "sgv4EWAnhL5cxUjd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.sgv4EWAnhL5cxUjd"
+    },
+    {
+      "text": "Hagalaz  - Hail      - Destruction, natural wrath, uncontrolled forces, test",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "wS5M6giCSnatGfBP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.wS5M6giCSnatGfBP"
+    },
+    {
+      "text": "Nauthiz  - Needs     - Need, restriction, disagreements, resistance, survival",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "HzpnclKtPJ5uHfLo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.HzpnclKtPJ5uHfLo"
+    },
+    {
+      "text": "Isa      - Ice       - Suspension, delay, stillness, frustration",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "UkK6XE02LX7NnKJi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.UkK6XE02LX7NnKJi"
+    },
+    {
+      "text": "Jera     - Harvest   - Year, conclusion, harvest, life cycle",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "5jn32S2iIImWeWms",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.5jn32S2iIImWeWms"
+    },
+    {
+      "text": "Eithwaz  - Yew       - Survival, inspiration, endurance, sacred knowledge",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "fonlvUmyL63Qzp8r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.fonlvUmyL63Qzp8r"
+    },
+    {
+      "text": "Perthro  - Destiny   - Fate, mysteries, occult",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "wGeAvZ1XJdnGpZI2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.wGeAvZ1XJdnGpZI2"
+    },
+    {
+      "text": "Algiz    - Elk       - Protection, guardian, awakening, courage",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "gfSVyFhXtggwa3Bv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.gfSVyFhXtggwa3Bv"
+    },
+    {
+      "text": "Sowilo   - Sun       - Success, vitality, inspiration, justice",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "IapN4cUSMv8c4PqZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.IapN4cUSMv8c4PqZ"
+    },
+    {
+      "text": "Tiwaz    - Victory   - Leadership, rationality, victory, honor",
+      "range": [
+        64,
+        68
+      ],
+      "_id": "4gSvgwNOAhoo2bNQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.4gSvgwNOAhoo2bNQ"
+    },
+    {
+      "text": "Berkana  - Birch     - Growth, renewal, new beginnings",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "C19F89NE72uz7RMN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.C19F89NE72uz7RMN"
+    },
+    {
+      "text": "Ehwaz    - Horse     - Progress, movement, harmony, trust, loyalty",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "yyrsGnmCt814IxTc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.yyrsGnmCt814IxTc"
+    },
+    {
+      "text": "Mannaz   - Man       - Humanity, social order, mortality, community, relationships",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "HWtRj3kMotANSU4d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.HWtRj3kMotANSU4d"
+    },
+    {
+      "text": "Laguz    - Lake      - Sea, intuition, imagination, healing, dreams, mysteries",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "JvHO2A43ARHpCF6I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.JvHO2A43ARHpCF6I"
+    },
+    {
+      "text": "Ingwaz   - Fertility - Pregnancy, inner growth, virtue, peace",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "92Pq2HbjHeFurHOt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.92Pq2HbjHeFurHOt"
+    },
+    {
+      "text": "Othala   - Heritage  - Legacy, inheritance, spiritual growth, abundance",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "OBupKc2124G626XX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.OBupKc2124G626XX"
+    },
+    {
+      "text": "Dagaz    - Dawn      - Day, awakening, consciousness, clarity, hope, balance, growth",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "pRUeYkieg56teY8I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.pRUeYkieg56teY8I"
+    },
+    {
+      "text": "Blank    - Odin      - Secrets, knowledge withheld",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "FIzisqnvR3GDx8am",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Bmuo471dLLuT5nZN.FIzisqnvR3GDx8am"
+    }
+  ],
+  "_id": "Bmuo471dLLuT5nZN",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>We can also use the runes to replace an Action/Theme roll in Ironsworn. To do so, we’ll again roll percentile three times to get three runes that represent action, theme, and modifier. While this is not a traditional way of interpreting the runes, I’m taking a common three-rune casting and making it fit our Ironsworn structure. I’m not attempting to teach you actual divination practices nor insult those traditions, just giving you a cool way to play a game! In addition to the three runes we’ll roll for, you can also look for which of three categories the runes fall in. If the three runes you roll all come from the same Aett (Freyr, Heimdall, or Tyr), you may consider that like a match on the challenge dice which intensifies the degree of your interpretation of the runes. However, remember that typically an Action/Theme roll doesn’t deal with matches, so it’s up to you if you want to introduce that mechanic. Roll percentile three times on the following table</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.Bmuo471dLLuT5nZN"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1709601815616,
+    "modifiedTime": 1709602057394,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!Bmuo471dLLuT5nZN"
+}

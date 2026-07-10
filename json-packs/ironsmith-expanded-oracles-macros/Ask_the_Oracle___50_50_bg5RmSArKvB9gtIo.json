@@ -1,0 +1,27 @@
+{
+  "name": "Ask the Oracle - 50/50",
+  "type": "script",
+  "command": "ot = await CONFIG.IRONSWORN.OracleTable.getByDsId('move.oracle_rollable:classic/fate/ask_the_oracle.fifty_fifty')\not.draw()",
+  "img": "icons/svg/dice-target.svg",
+  "author": "MmM06BuCrG9h1GLg",
+  "scope": "global",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.7",
+    "createdTime": 1731306338702,
+    "modifiedTime": 1731306338702,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "bg5RmSArKvB9gtIo",
+  "sort": 0,
+  "_key": "!macros!bg5RmSArKvB9gtIo"
+}

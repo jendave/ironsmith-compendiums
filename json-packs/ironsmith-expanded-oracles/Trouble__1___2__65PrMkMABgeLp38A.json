@@ -1,0 +1,717 @@
+{
+  "name": "Trouble (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Outsiders rejected",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "ZaJNEylw5MrtYEUx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.ZaJNEylw5MrtYEUx"
+    },
+    {
+      "text": "Dangerous discovery",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "gjFkHWNYgCyQOQ2N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.gjFkHWNYgCyQOQ2N"
+    },
+    {
+      "text": "Dreadful omens",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "8FX5cCNF90ZvGDPr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.8FX5cCNF90ZvGDPr"
+    },
+    {
+      "text": "Natural disaster",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "ry6SftMIBJGfUWL1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.ry6SftMIBJGfUWL1"
+    },
+    {
+      "text": "Old wounds reopened",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "Cq923Zu64kilLlkP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.Cq923Zu64kilLlkP"
+    },
+    {
+      "text": "Important object is lost",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "cOFdw6DA4gjbn2hg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.cOFdw6DA4gjbn2hg"
+    },
+    {
+      "text": "Someone is captured",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "jszCLkszzl14jxmD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.jszCLkszzl14jxmD"
+    },
+    {
+      "text": "Mysterious phenomenon",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "QjTKDiwAn0vw7tzF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.QjTKDiwAn0vw7tzF"
+    },
+    {
+      "text": "Revolt against a leader",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "i9xROuVYWdhl8Uj7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.i9xROuVYWdhl8Uj7"
+    },
+    {
+      "text": "Vengeful outcast",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "U97VRNbneBbXvKVA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.U97VRNbneBbXvKVA"
+    },
+    {
+      "text": "Rival settlement",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "0pq3jTX8VBobXw0R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.0pq3jTX8VBobXw0R"
+    },
+    {
+      "text": "Nature strikes back",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "2ExxINLC7IyueJak",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.2ExxINLC7IyueJak"
+    },
+    {
+      "text": "Someone is missing",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "w1J7GE7BP3otdvYe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.w1J7GE7BP3otdvYe"
+    },
+    {
+      "text": "Production halts",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "XfXNQRkfTmE1wI9w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.XfXNQRkfTmE1wI9w"
+    },
+    {
+      "text": "Mysterious murders",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "8ryRx5GYY2CuuTLH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.8ryRx5GYY2CuuTLH"
+    },
+    {
+      "text": "Debt comes due",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "PQuJVCHcXwsm25JG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.PQuJVCHcXwsm25JG"
+    },
+    {
+      "text": "Unjust leadership",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "zXL9tXqc4wxI14jS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.zXL9tXqc4wxI14jS"
+    },
+    {
+      "text": "Disastrous accident",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "vUBjiVEnvfcAMzTB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.vUBjiVEnvfcAMzTB"
+    },
+    {
+      "text": "In league with the enemy",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "dfTw6xRvXbOIqQBw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.dfTw6xRvXbOIqQBw"
+    },
+    {
+      "text": "Raiders prey on the weak",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "Q5WdEYTtW28QyMO1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.Q5WdEYTtW28QyMO1"
+    },
+    {
+      "text": "Cursed past",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "yNmDscyZrCaFankj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.yNmDscyZrCaFankj"
+    },
+    {
+      "text": "An innocent is accused",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "PBz5rZLmgJQPPX5g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.PBz5rZLmgJQPPX5g"
+    },
+    {
+      "text": "Corrupted by dark magic",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "R5cBHIQhKkCaVzGG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.R5cBHIQhKkCaVzGG"
+    },
+    {
+      "text": "Isolated by brutal weather",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "KB4jbXyRlyqU7tyl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.KB4jbXyRlyqU7tyl"
+    },
+    {
+      "text": "Provisions are scarce",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "uOxMDG4rZboRO2kN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.uOxMDG4rZboRO2kN"
+    },
+    {
+      "text": "Sickness run amok",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "8F9BZtCYohRjanbu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.8F9BZtCYohRjanbu"
+    },
+    {
+      "text": "Allies become enemies",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "hnPCGm5jVFlCo6KI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.hnPCGm5jVFlCo6KI"
+    },
+    {
+      "text": "Attack is imminent",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "QOps74RtWEB9BBMy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.QOps74RtWEB9BBMy"
+    },
+    {
+      "text": "Lost caravan",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "n4Ctd6SnrqmFscEU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.n4Ctd6SnrqmFscEU"
+    },
+    {
+      "text": "Dark secret revealed",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "kO2FnqruNC1Cx08s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.kO2FnqruNC1Cx08s"
+    },
+    {
+      "text": "Urgent expedition",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "HYInPahqn68RlCV4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.HYInPahqn68RlCV4"
+    },
+    {
+      "text": "A leader falls",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "rriE1xJu8pmNkK8q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.rriE1xJu8pmNkK8q"
+    },
+    {
+      "text": "Families in conflict",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "kwB1UbuJIYIjrFV4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.kwB1UbuJIYIjrFV4"
+    },
+    {
+      "text": "Incompetent leadership",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "xyMj1e5pZhsTy6ZM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.xyMj1e5pZhsTy6ZM"
+    },
+    {
+      "text": "Reckless warmongering",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "eoy22XuOmRn3FFcA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.eoy22XuOmRn3FFcA"
+    },
+    {
+      "text": "Beast on the hunt",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "IZKA9oaJ7GLPXPtZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.IZKA9oaJ7GLPXPtZ"
+    },
+    {
+      "text": "Betrayed from within",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "dGbYRFjHoWLuHLrt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.dGbYRFjHoWLuHLrt"
+    },
+    {
+      "text": "Broken truce",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "UUbPkNikyJgY4io1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.UUbPkNikyJgY4io1"
+    },
+    {
+      "text": "Wrathful haunt",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "6x2a1uL7fBXRcstI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.6x2a1uL7fBXRcstI"
+    },
+    {
+      "text": "Conflict with firstborn",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "ujwPGsgREjIHchqZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.ujwPGsgREjIHchqZ"
+    },
+    {
+      "text": "Trade route blocked",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "jTcCuK60Co9Tjyxj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.jTcCuK60Co9Tjyxj"
+    },
+    {
+      "text": "In the crossfire",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "tDdbuhNScak6DWuK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.tDdbuhNScak6DWuK"
+    },
+    {
+      "text": "Stranger causes discord",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "1kLIMZbSQl8jdwOV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.1kLIMZbSQl8jdwOV"
+    },
+    {
+      "text": "Important event threatened",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "UnBnCy8DGi905IaQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.UnBnCy8DGi905IaQ"
+    },
+    {
+      "text": "Dangerous tradition",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "OaIXGQm5kGffwAfq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.OaIXGQm5kGffwAfq"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "0BkpkRCgWBLSq8vr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!65PrMkMABgeLp38A.0BkpkRCgWBLSq8vr"
+    }
+  ],
+  "folder": "6B9UAC7H5jYXUrLc",
+  "sort": 100000,
+  "_id": "65PrMkMABgeLp38A",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this table to generate a narrative hook for a problem faced by a community. This oracle can help inspire a vow for your character or serve as a prompt for a trouble you encounter when you interact with a settlement.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791160035,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!65PrMkMABgeLp38A"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Trap",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "8Ys4LafUGUk7Tu2I",
+  "folder": null,
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695946295548,
+    "modifiedTime": 1702841734977,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "color": null,
+  "_key": "!folders!8Ys4LafUGUk7Tu2I"
+}

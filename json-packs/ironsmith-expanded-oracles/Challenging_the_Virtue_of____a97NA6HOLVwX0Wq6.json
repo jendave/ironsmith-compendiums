@@ -1,0 +1,181 @@
+{
+  "name": "Challenging the Virtue of...",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Courage",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "k0KWV1WXCBWylmea",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!a97NA6HOLVwX0Wq6.k0KWV1WXCBWylmea"
+    },
+    {
+      "text": "Diligence",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "IPQfbvY7UKt0MKAE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!a97NA6HOLVwX0Wq6.IPQfbvY7UKt0MKAE"
+    },
+    {
+      "text": "Discipline",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "7V1BAqM9dhcFPd84",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!a97NA6HOLVwX0Wq6.7V1BAqM9dhcFPd84"
+    },
+    {
+      "text": "Honor",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "sBa3gEaGd5vDolqp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!a97NA6HOLVwX0Wq6.sBa3gEaGd5vDolqp"
+    },
+    {
+      "text": "Hospitality",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "1PpVO6MIIIqEskLB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!a97NA6HOLVwX0Wq6.1PpVO6MIIIqEskLB"
+    },
+    {
+      "text": "Justice",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "IcS1YSYleLVqdHpP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!a97NA6HOLVwX0Wq6.IcS1YSYleLVqdHpP"
+    },
+    {
+      "text": "Loyalty",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "1dKRv3SlwyyJ3pRM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!a97NA6HOLVwX0Wq6.1dKRv3SlwyyJ3pRM"
+    },
+    {
+      "text": "Perseverance",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "nW8Oml3z0fwWaLQA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!a97NA6HOLVwX0Wq6.nW8Oml3z0fwWaLQA"
+    },
+    {
+      "text": "Self-Reliance",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "UFx3zI8KrZmDGyXu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!a97NA6HOLVwX0Wq6.UFx3zI8KrZmDGyXu"
+    },
+    {
+      "text": "Truth",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "9nzhhLS3Bf80lHhP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!a97NA6HOLVwX0Wq6.9nzhhLS3Bf80lHhP"
+    }
+  ],
+  "folder": "4W6Uamq0O16iyjFw",
+  "sort": 200000,
+  "_id": "a97NA6HOLVwX0Wq6",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Brainstorm what conflict or central tension this loss causes for the characters that they will need to overcome. Additionally, one of the ten noble virtues (originally nine in Viking culture) will be challenged. This may be a subplot or an expansion of the central tension as you see fit.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.a97NA6HOLVwX0Wq6"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791158989,
+    "modifiedTime": 1702851847302,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!a97NA6HOLVwX0Wq6"
+}

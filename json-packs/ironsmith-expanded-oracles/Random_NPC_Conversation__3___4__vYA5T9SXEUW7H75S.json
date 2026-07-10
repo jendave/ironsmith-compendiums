@@ -1,0 +1,327 @@
+{
+  "name": "Random NPC Conversation (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "The future of the community",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "BP7SajwE4xdAXhJj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.BP7SajwE4xdAXhJj"
+    },
+    {
+      "text": "The heritage of the community",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "dPLf9BhZwXi4Pp56",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.dPLf9BhZwXi4Pp56"
+    },
+    {
+      "text": "The value of experience",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "yddZPoGGrtiilpdg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.yddZPoGGrtiilpdg"
+    },
+    {
+      "text": "The most valuable experiences",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "VWH8GPat3n2AAzS9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.VWH8GPat3n2AAzS9"
+    },
+    {
+      "text": "Rumors of a PC's past",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "TZMdNdiYMktZXK3J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.TZMdNdiYMktZXK3J"
+    },
+    {
+      "text": "Rumors of an NPC's past",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "HpK4ATPesTXtTXLs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.HpK4ATPesTXtTXLs"
+    },
+    {
+      "text": "Important social connections",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "74Eb213eK8ttqQ9o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.74Eb213eK8ttqQ9o"
+    },
+    {
+      "text": "New life",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "wKGhL8puTBfN6xZH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.wKGhL8puTBfN6xZH"
+    },
+    {
+      "text": "The current leadership",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "clDpvHcAiMauJJHH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.clDpvHcAiMauJJHH"
+    },
+    {
+      "text": "Important political connections",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "jKcFpzpN1CEBz3au",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.jKcFpzpN1CEBz3au"
+    },
+    {
+      "text": "Recent political changes",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "hiDgLYAyOWX4rt4R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.hiDgLYAyOWX4rt4R"
+    },
+    {
+      "text": "A specific location",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "SoEGi2daIC3k7u0R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.SoEGi2daIC3k7u0R"
+    },
+    {
+      "text": "General knowledge of a region",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "EbPq26ruKEbXKbpp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.EbPq26ruKEbXKbpp"
+    },
+    {
+      "text": "The acquisition of knowledge",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "pdYzt1wO0iwkBgoR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.pdYzt1wO0iwkBgoR"
+    },
+    {
+      "text": "Current events",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "DJqQbpp3FdEf8VRe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.DJqQbpp3FdEf8VRe"
+    },
+    {
+      "text": "Upcoming events",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "JDjmoH2rvlvT2gHK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.JDjmoH2rvlvT2gHK"
+    },
+    {
+      "text": "A personal injury",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "Hpldux3jING2PQfv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.Hpldux3jING2PQfv"
+    },
+    {
+      "text": "Their own failures",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "SDfKcnfHtu6nFPnj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.SDfKcnfHtu6nFPnj"
+    },
+    {
+      "text": "The failures of a PC",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "sK3PQnBwSO1SIFuQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.sK3PQnBwSO1SIFuQ"
+    },
+    {
+      "text": "The failures of an NPC",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "9MTB1U00WdrzTzWx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vYA5T9SXEUW7H75S.9MTB1U00WdrzTzWx"
+    }
+  ],
+  "folder": "RwdM0k88MkirBvKa",
+  "sort": 300000,
+  "_id": "vYA5T9SXEUW7H75S",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161289,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!vYA5T9SXEUW7H75S"
+}

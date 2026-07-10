@@ -1,0 +1,165 @@
+{
+  "name": "Naga",
+  "type": "foe",
+  "img": "icons/creatures/reptiles/snake-fangs-bite-green.webp",
+  "items": [
+    {
+      "_id": "TcvH9NHitjyhEqws",
+      "name": "Naga",
+      "type": "progress",
+      "img": "icons/creatures/reptiles/snake-fangs-bite-green.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Torso and head of a human</p>\n<p>Long snake tail instead of legs</p>\n<p>Colorful body paint with intricate patterns</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Gain power from the underworld</p>\n<p>Dominate other cultures</p>\n<p>Move up the social ladder by pushing others down</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Powerful bows that shoot multiple arrows</p>\n<p>Tail slap</p>\n<p>Mystic arts</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 220\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 45\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Our current belief is that the snake folk known as nagas originated in the underworld. We don&rsquo;t know if they came to this realm to conquer it, or if they are stuck in this realm trying to get back to the underworld and need more power or resources to do so. Either way, encountering nagas is usually dangerous.</p>\n<p>They have developed a powerful longbow with slots to shoot multiple arrows at once. We&rsquo;re not sure how they have the strength to pull back these bows. It&rsquo;s possible that they have tendons that run through their arms all the way down their tails because they usually coil their tails as they fire the bows. Because of the extreme distance these bows have and their accuracy when using them, we often don&rsquo;t know that nagas are nearby until some of our Tigerlanders fall dead to their arrows.</p>\n<p>Very rarely we spot a naga who has smaller snake heads growing out of their necks. These naga seem to be treated with special deference and also seem to be their most gifted mystics.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A group of nagas seem to be on the hunt for something. They are killing and pillaging their way through the area, but their battles seem secondary to them as they spend the majority of their time searching and sifting through wreckage. What powerful item is rumored to be in the area that they may be looking for? What could the nagas accomplish if they had control of this item?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>What powers does a naga gain if they have snake heads growing from their neck? What does the number of snake heads growing there signify?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!B31Nz9Q9dzNDls2t.TcvH9NHitjyhEqws"
+    }
+  ],
+  "effects": [],
+  "folder": "1h2u3eK9jX6x0dlp",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Naga",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/reptiles/snake-fangs-bite-green.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741382463534,
+    "modifiedTime": 1741382890181,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "B31Nz9Q9dzNDls2t",
+  "sort": 300000,
+  "_key": "!actors!B31Nz9Q9dzNDls2t"
+}

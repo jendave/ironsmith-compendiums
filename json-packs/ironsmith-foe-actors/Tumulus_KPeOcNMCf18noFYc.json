@@ -1,0 +1,163 @@
+{
+  "name": "Tumulus",
+  "type": "foe",
+  "img": "icons/creatures/magical/construct-face-stone-pink.webp",
+  "items": [
+    {
+      "_id": "bOdwS4pPn3sSCxro",
+      "name": "Tumulus",
+      "type": "progress",
+      "img": "icons/creatures/magical/construct-face-stone-pink.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Creature of pure stone</p>\n<p class=\"nogrow\">Moss growing on skin</p>\n<p class=\"nogrow\">Mistaken for boulders</p>\n<p class=\"nogrow\">Giant-sized when awake and standing</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Unknown</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Accidentally trample and crush</p>\n<p class=\"nogrow\">Double-armed smash</p>\n</div>\n</div>\n<p>The tumulus, or living rocks, are largely an unknown entity. They appear to be made entirely of stone and spend most of their time rolled up into a ball sleeping where they are mistaken as giant boulders. Perhaps the tumulus are responding to tremors in the earth for their awakening and ensuing destructive behavior usually herald an earthquake.</p>\n<p>While seemingly not malevolent, tumulus are huge and possess incredible strength. When awakened, they appear to be headed to a specific location and let nothing stand in their way. They destroy trees, rocks, settlement, beasts, and people who are in their way. Fending off various roaming tumulus, we've discovered that a tumulus can be harmed at its joints in the arm or leg. Even though they typically do not attack unless provoked, tumulus are nonetheless dangerous particularly when pointed towards a settlement. This makes violence the only option for our protection.</p>\n<blockquote>\n<p>Quest Starter:<br>The settlement of Jarlsford was recently beset by a group of five tumulus that all approached from different directions and set themselves down in the ford. Shortly after, the earth began to shake tremendously. Between these two events, the course of the river now flows around the settlement rather than on the edge of it where the ford was. There is no longer an easy passage across the river, and the overseer of Jarlsford has put out a call for anyone who can help put the river back in its rightful position.</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Are tumulus sentient?</em><br><em>What is the driving force behind their actions?</em></p>\n</blockquote>",
+        "rank": 4,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!KPeOcNMCf18noFYc.bOdwS4pPn3sSCxro"
+    }
+  ],
+  "effects": [],
+  "folder": "VDQ027SZTIQaYkAw",
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "prototypeToken": {
+    "name": "Tumulus",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/magical/construct-face-stone-pink.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741125076160,
+    "modifiedTime": 1741125076160,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "KPeOcNMCf18noFYc",
+  "sort": 0,
+  "_key": "!actors!KPeOcNMCf18noFYc"
+}

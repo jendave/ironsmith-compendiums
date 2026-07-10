@@ -1,0 +1,627 @@
+{
+  "name": "Abilities (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Stalker",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "x5AZ2IppQGqjrYcp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.x5AZ2IppQGqjrYcp"
+    },
+    {
+      "text": "Alarm call",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "ISWi0r3Rwva2Thwr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.ISWi0r3Rwva2Thwr"
+    },
+    {
+      "text": "Lure / distract",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "HIRoTtS6zfQzXE3l",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.HIRoTtS6zfQzXE3l"
+    },
+    {
+      "text": "Clever",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "RsOZhJ9gkV3PLdX5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.RsOZhJ9gkV3PLdX5"
+    },
+    {
+      "text": "Gore attack",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "gqVaQt9hqeFr5NSK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.gqVaQt9hqeFr5NSK"
+    },
+    {
+      "text": "Powerful bash",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "oAgAZ5PfZZxQRlHM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.oAgAZ5PfZZxQRlHM"
+    },
+    {
+      "text": "Ink cloud",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "iCOfveljBAHXKEe7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.iCOfveljBAHXKEe7"
+    },
+    {
+      "text": "Transformation",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "5iLL51silbJac6ve",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.5iLL51silbJac6ve"
+    },
+    {
+      "text": "Berserker frenzy",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "Wiz9ykEbKTXKwR0l",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.Wiz9ykEbKTXKwR0l"
+    },
+    {
+      "text": "Visual displacement",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "77BbWptFA3C9b5sc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.77BbWptFA3C9b5sc"
+    },
+    {
+      "text": "Slider / slick",
+      "range": [
+        41,
+        43
+      ],
+      "_id": "Q78RgrKi0UvR5Bdr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.Q78RgrKi0UvR5Bdr"
+    },
+    {
+      "text": "Noxious cloud / spores",
+      "range": [
+        44,
+        46
+      ],
+      "_id": "rkIEkOxesizLLbje",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.rkIEkOxesizLLbje"
+    },
+    {
+      "text": "Liquid projectile",
+      "range": [
+        47,
+        49
+      ],
+      "_id": "jxZkFCcVoV8uqw0B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.jxZkFCcVoV8uqw0B"
+    },
+    {
+      "text": "Rending attack",
+      "range": [
+        50,
+        52
+      ],
+      "_id": "t9ZNzIfauqCZ5n8y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.t9ZNzIfauqCZ5n8y"
+    },
+    {
+      "text": "Agile",
+      "range": [
+        53,
+        55
+      ],
+      "_id": "Uf0LwmXm8UNTazIi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.Uf0LwmXm8UNTazIi"
+    },
+    {
+      "text": "Trampler",
+      "range": [
+        56,
+        58
+      ],
+      "_id": "JdOOLlNGdQVfU8hM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.JdOOLlNGdQVfU8hM"
+    },
+    {
+      "text": "Shifting armor plates",
+      "range": [
+        59,
+        61
+      ],
+      "_id": "mXU0LhGPtfKK2KWZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.mXU0LhGPtfKK2KWZ"
+    },
+    {
+      "text": "Tunneler",
+      "range": [
+        62,
+        64
+      ],
+      "_id": "WlHv0MOOy8INrhWZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.WlHv0MOOy8INrhWZ"
+    },
+    {
+      "text": "Absorb light",
+      "range": [
+        65,
+        67
+      ],
+      "_id": "KBeOmahRC3nvx4sc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.KBeOmahRC3nvx4sc"
+    },
+    {
+      "text": "Escape artist",
+      "range": [
+        68,
+        69
+      ],
+      "_id": "HEj5CQKRnHpcRTyz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.HEj5CQKRnHpcRTyz"
+    },
+    {
+      "text": "Exceptional reach",
+      "range": [
+        70,
+        71
+      ],
+      "_id": "IWzI1tGKPUXodKa9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.IWzI1tGKPUXodKa9"
+    },
+    {
+      "text": "Movement detection",
+      "range": [
+        72,
+        73
+      ],
+      "_id": "Obb9i3xt3eqWYayJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.Obb9i3xt3eqWYayJ"
+    },
+    {
+      "text": "Stunning attack",
+      "range": [
+        74,
+        75
+      ],
+      "_id": "9icp6tLy8N8gq9HJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.9icp6tLy8N8gq9HJ"
+    },
+    {
+      "text": "Sound projection",
+      "range": [
+        76,
+        77
+      ],
+      "_id": "OA5ArE6jDg00OCsJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.OA5ArE6jDg00OCsJ"
+    },
+    {
+      "text": "Rapid growth",
+      "range": [
+        78,
+        79
+      ],
+      "_id": "0h1LFZBlG8RdKah2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.0h1LFZBlG8RdKah2"
+    },
+    {
+      "text": "Hypnotic",
+      "range": [
+        80,
+        81
+      ],
+      "_id": "iK6SviEi7zFf0bgh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.iK6SviEi7zFf0bgh"
+    },
+    {
+      "text": "Blind sight",
+      "range": [
+        82,
+        83
+      ],
+      "_id": "15RlIAMJgBJnYNve",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.15RlIAMJgBJnYNve"
+    },
+    {
+      "text": "Elemental resistance",
+      "range": [
+        84,
+        85
+      ],
+      "_id": "w8Gygr5Am0L1dG8z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.w8Gygr5Am0L1dG8z"
+    },
+    {
+      "text": "Icy",
+      "range": [
+        86,
+        87
+      ],
+      "_id": "Lgtz69aGJWvBXhPL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.Lgtz69aGJWvBXhPL"
+    },
+    {
+      "text": "Release swarm",
+      "range": [
+        88,
+        89
+      ],
+      "_id": "3IoCIeOkSuhr99Uw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.3IoCIeOkSuhr99Uw"
+    },
+    {
+      "text": "Control plants",
+      "range": [
+        90,
+        91
+      ],
+      "_id": "YUPAZujcNkXNL5P6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.YUPAZujcNkXNL5P6"
+    },
+    {
+      "text": "Drain energy",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "IXF2VzzPoLApTgl7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.IXF2VzzPoLApTgl7"
+    },
+    {
+      "text": "Invisibility",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "BEDw4Ej12vMPQJH8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.BEDw4Ej12vMPQJH8"
+    },
+    {
+      "text": "Rapid healing",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "rLVGqxsMKO11xbil",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.rLVGqxsMKO11xbil"
+    },
+    {
+      "text": "Animates the dead",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "jO3ctZJdS6zohH94",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.jO3ctZJdS6zohH94"
+    },
+    {
+      "text": "Give compulsion",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "TGu5YEDLpm0tVwCb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.TGu5YEDLpm0tVwCb"
+    },
+    {
+      "text": "Hive mind",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "GZyJAr6433dJjG4o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.GZyJAr6433dJjG4o"
+    },
+    {
+      "text": "Shadow walk",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "8QDFuTdG8S4q1IWH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.8QDFuTdG8S4q1IWH"
+    },
+    {
+      "text": "Implants young / eggs",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "pJq6PPZSSw9JwoRr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.pJq6PPZSSw9JwoRr"
+    },
+    {
+      "text": "Elemental aura",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "M9ya3xGXct7H2EaW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KrjbJ2tGREqy4OdA.M9ya3xGXct7H2EaW"
+    }
+  ],
+  "folder": "QybiGAbDuTsW65s1",
+  "sort": 5,
+  "_id": "KrjbJ2tGREqy4OdA",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946938757,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!KrjbJ2tGREqy4OdA"
+}

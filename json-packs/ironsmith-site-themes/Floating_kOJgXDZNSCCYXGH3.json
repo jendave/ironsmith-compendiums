@@ -1,0 +1,184 @@
+{
+  "name": "Floating",
+  "type": "delve-theme",
+  "_id": "kOJgXDZNSCCYXGH3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "Islands torn from the earth and held aloft.",
+    "description": "<div class=\"page\" title=\"Page 238\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>This is a site where large chunks of earth have been pulled from the ground and are held aloft by some mystical power. Perhaps this place was created for a specific purpose by an ancient arcane ritual, or maybe it is a natural phenomenon occurring through the interactions of large deposits of black iron. Still low enough in the atmosphere to experience weather, many floating sites have ponds or even lakes that can spill over the sides in waterfalls leading to a steady mist of rain in their shadows.</p>\n<div class=\"page\" title=\"Page 238\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Traversing a floating site<br>is dangerous as every path could lead you to falling<br>off the edge to the distant earth below. Even with the proper climbing gear, getting from one section of the site to another is a precarious proposition at best.</p>\n<div class=\"page\" title=\"Page 238\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The larger areas may even be inhabited by denizens who have adapted to life on their floating islands in strange ways.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          1,
+          4
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Staircase of floating rock chunks"
+      },
+      {
+        "range": [
+          5,
+          8
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Mystic site of power"
+      },
+      {
+        "range": [
+          9,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Evidence of prior life"
+      },
+      {
+        "range": [
+          13,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Strange new flora or fauna"
+      },
+      {
+        "range": [
+          17,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Slowly spinning section of land"
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          1,
+          5
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Precarious ledge"
+      },
+      {
+        "range": [
+          6,
+          10
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Wide gulf of open air"
+      },
+      {
+        "range": [
+          11,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Changes in gravity"
+      },
+      {
+        "range": [
+          13,
+          14
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Inertial forces"
+      },
+      {
+        "range": [
+          15,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Crumbling land falls to earth"
+      },
+      {
+        "range": [
+          17,
+          18
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Treacherous footing"
+      },
+      {
+        "range": [
+          19,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Collapsing land from above"
+      },
+      {
+        "range": [
+          21,
+          22
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Floating island collision"
+      },
+      {
+        "range": [
+          23,
+          24
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Dramatic shift in orientation"
+      },
+      {
+        "range": [
+          25,
+          26
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Ground surface is vertical"
+      },
+      {
+        "range": [
+          27,
+          28
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Ravenous denizen hunts you"
+      },
+      {
+        "range": [
+          29,
+          30
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Magic fails to hold island aloft"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703498730424,
+    "modifiedTime": 1703498955474,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!kOJgXDZNSCCYXGH3"
+}

@@ -1,0 +1,165 @@
+{
+  "name": "Mikillorn",
+  "type": "foe",
+  "img": "icons/creatures/birds/raptor-hawk-flying.webp",
+  "items": [
+    {
+      "_id": "bOdwS4pPn3sSCxro",
+      "name": "Mikillorn",
+      "type": "progress",
+      "img": "icons/creatures/birds/raptor-hawk-flying.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Giant, near sapient eagle</p>\n<p>Distinctive crown of feathers</p>\n<p>Long, trailing tail feather</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Gather knowledge</p>\n<p>Observe from afar</p>\n<p>Change the path of destiny</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Grab, fly high, and drop</p>\n<p>Impale with beak</p>\n<p>Buffet with wings</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 38\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 41\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 34\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 37\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The mikillorn eagles are huge, as tall as a giant when they stand on the ground with wings furled, and while their size makes them look intimidating, they are usually very peaceful creatures. Some of our priests claim that the majestic birds have near human intelligence and even serve the gods as keepers of knowledge and wisdom. Whether their divine service is true or not, it is true that the mikillorn prefer to observe from a distance without acting, but that doesn&rsquo;t mean they never act.</p>\n<p>It is said that at critical junctures in history, the mikillorn have intervened to change fate: a hero questing to slay a nidhoggr wyrm stopped by mikillorn only to find that the nidhoggr was an exiled and cursed king, a dam torn apart by mikillorn right before a drought when downstream settlements would have died, and other such stories are regularly told. For this reason and the claim of their guardianship of the World Tree Yggdrasil, the mikillorn are held in high esteem.</p>\n<p>However, there are those who hunt the mikillorn for their distinctive feathers which can be sold to those who practice the more nefarious side of the mystic arts. Perhaps because of this, the mikillorn have become more wary, not necessarily aggressive yet, but not to be trifled with.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>The settlement of Graycliff is in the grips of a plague, and a mystic claims they can cure the illness for the whole village if they posses a mikillorn feather. With its amplified ability to push on fate, the mystic believes the illness can be forced to burn itself out. However, mikillorn often die without their signature tail and crowning feathers. Do the ends justify the means?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Are the mikillorn fully sapient? If so, how do they communicate?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 3,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!BPgpTYaqDWUhU7nE.bOdwS4pPn3sSCxro"
+    }
+  ],
+  "effects": [],
+  "folder": "l77cguN5ZZQxMMxx",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Mikillorn",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/birds/raptor-hawk-flying.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741411781435,
+    "modifiedTime": 1741411786838,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "BPgpTYaqDWUhU7nE",
+  "sort": 0,
+  "_key": "!actors!BPgpTYaqDWUhU7nE"
+}

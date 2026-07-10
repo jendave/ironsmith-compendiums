@@ -1,0 +1,184 @@
+{
+  "name": "Belly of the Beast",
+  "type": "delve-domain",
+  "_id": "fQfhFcwbEOOkJhrr",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "Inside a gigantic living creature.",
+    "description": "<div class=\"page\" title=\"Page 246\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>This site is inside a gargantuan creature that may be merely decaying remains or may be the sleeping form of a world- killer giant. Giant mindless cells move about on their routine work of keeping the body alive. No matter how you got in, getting out will be an even bigger problem.</p>\n<div class=\"page\" title=\"Page 246\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>It will be a dangerous place to explore with the body's defenses and normal operations working against you. As you move from one body system to another, you'll also encounter the difficulties of a typical dungeon such as blocked passages or sheer drops.</p>\n<div class=\"page\" title=\"Page 246\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Contemplating the fact&nbsp;that this creature is part of&nbsp;some greater ecosystem is&nbsp;frightening. How dangerous must the rest of that ecosystem be, and where is it?</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          21,
+          43
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Winding, fleshy passages"
+      },
+      {
+        "range": [
+          44,
+          56
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Sacs of fluid"
+      },
+      {
+        "range": [
+          57,
+          64
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Undulating halls"
+      },
+      {
+        "range": [
+          65,
+          68
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Rivers of blood"
+      },
+      {
+        "range": [
+          69,
+          72
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Protuding bones"
+      },
+      {
+        "range": [
+          73,
+          76
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Vertical connecting tubes"
+      },
+      {
+        "range": [
+          77,
+          80
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Bundles of nerve fibers"
+      },
+      {
+        "range": [
+          81,
+          84
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Large bending joints"
+      },
+      {
+        "range": [
+          85,
+          88
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Dying and decaying cells"
+      },
+      {
+        "range": [
+          89,
+          98
+        ],
+        "text": "Somthingh unusual or unexpected",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          99,
+          99
+        ],
+        "text": "You transition into a new theme",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          100,
+          100
+        ],
+        "text": "You transition into a new domain",
+        "type": 0,
+        "flags": {}
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          31,
+          33
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Defense mechanisms"
+      },
+      {
+        "range": [
+          34,
+          36
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Contracting muscles"
+      },
+      {
+        "range": [
+          37,
+          39
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Symbiotic denizens"
+      },
+      {
+        "range": [
+          40,
+          42
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Acidic digestive juices"
+      },
+      {
+        "range": [
+          43,
+          45
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Lack of air"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703451357363,
+    "modifiedTime": 1703451590676,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!items!fQfhFcwbEOOkJhrr"
+}

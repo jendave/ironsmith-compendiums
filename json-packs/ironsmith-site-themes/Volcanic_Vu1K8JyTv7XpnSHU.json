@@ -1,0 +1,184 @@
+{
+  "name": "Volcanic",
+  "type": "delve-theme",
+  "_id": "Vu1K8JyTv7XpnSHU",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "Heat and noxious gas fill this place.",
+    "description": "<div class=\"page\" title=\"Page 245\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>This site sits atop an active volcano. Since there has been no eruption in living memory, some foolish builders thought that this was a safe place for construction. Alternately, it's possible that this whole site was shaped by the volcano's ancient eruptions and still active lava flows.</p>\n<div class=\"page\" title=\"Page 245\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Hazy heat waves and poisonous fumes from lava vents threaten to overwhelm all who travel here. The path itself can at times to be too hot to walk on. In many areas, visibility is drastically reduced allowing denizens to strike unexpectedly.</p>\n<div class=\"page\" title=\"Page 245\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Legends say that wyverns and other similar creatures make their lairs here due to the heat necessary for their eggs.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          1,
+          4
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Rivulets of lava"
+      },
+      {
+        "range": [
+          5,
+          8
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Large andesite boulders"
+      },
+      {
+        "range": [
+          9,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Giant basalt rock columns"
+      },
+      {
+        "range": [
+          13,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Maze of cooled lava tubes"
+      },
+      {
+        "range": [
+          17,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Gaseous vents"
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          1,
+          5
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Overpowering heat"
+      },
+      {
+        "range": [
+          6,
+          10
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Noxious fumes"
+      },
+      {
+        "range": [
+          11,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Violent tremors"
+      },
+      {
+        "range": [
+          13,
+          14
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Rising lava"
+      },
+      {
+        "range": [
+          15,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Wide lava channel"
+      },
+      {
+        "range": [
+          17,
+          18
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Lava meeting water"
+      },
+      {
+        "range": [
+          19,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Pumice avalanche"
+      },
+      {
+        "range": [
+          21,
+          22
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Sharp-edged rocks"
+      },
+      {
+        "range": [
+          23,
+          24
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Gaping hold leading to lava pit"
+      },
+      {
+        "range": [
+          25,
+          26
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Ash and soot hide dangers in the dark"
+      },
+      {
+        "range": [
+          27,
+          28
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen immune to heat"
+      },
+      {
+        "range": [
+          29,
+          30
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Eruption is imminent"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703498517964,
+    "modifiedTime": 1703498700469,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!Vu1K8JyTv7XpnSHU"
+}

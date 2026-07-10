@@ -1,0 +1,165 @@
+{
+  "name": "Tosetax",
+  "type": "foe",
+  "img": "icons/creatures/reptiles/serpent-horned-green.webp",
+  "items": [
+    {
+      "_id": "bOdwS4pPn3sSCxro",
+      "name": "Tosetax",
+      "type": "progress",
+      "img": "icons/creatures/reptiles/serpent-horned-green.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Enormous, thick snake folded into a V shape</p>\n<p>Mouth at both ends and the center</p>\n<p>Colorful rings of solid muscle</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Devour all in its path</p>\n<p>Track prey</p>\n<p>Sleep in dark places</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Knock down trees</p>\n<p>Surround and engulf</p>\n<p>Crush with its great weight</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 38\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 41\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 45\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The tosetax is a frighteningly large snake that folds itself into a V that puts its tail in the same direction as its head. From this position, the tosetax can more quickly devour its prey because it has a great toothy maw on both its tail and its head.</p>\n<p>When first attempting to kill a tosetax, we thought we could sneak up behind it and attack the vulnerable part of the V-shaped body right at the folding point. Unfortunately, the beast has a third mouth there as well, and each mouth is capable of striking independently despite it only having eyes on its head. Whether lashing out with these three jaws of death or knocking down whole trees on top of its victims, it is a rare event that a group of hunters can take down a tosetax.</p>\n<p>Other than eating is fill, we can find no discernible pattern to a tosetax&rsquo;s behavior. At times, they live in watery environments near a river, but they are also found in the rocky hills leading to the mountains. Some tosetax seem to develop a taste for typical prey animals while others hunt exclusively other predators or even people. Whatever their motivations, tosetax are deadly and best avoided if possible.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>Years ago an enormous tosetax destroyed an area of the jungle creating a huge pile of trees and earth that is now home to a pack of smaller and never before seen creatures. What are these creatures, and what makes them dangerous?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>When a tosetax experiences a grievous wound, what does it do? Does it grow a new mouth in that place, or does it sever its own body in two with each part regrowing into a whole tosetax?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 4,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!CyTQVoWLh3b4xIvk.bOdwS4pPn3sSCxro"
+    }
+  ],
+  "effects": [],
+  "folder": "rQmvCHCQLeWaZZ0z",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Tosetax",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/reptiles/serpent-horned-green.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741415223391,
+    "modifiedTime": 1741415223418,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "CyTQVoWLh3b4xIvk",
+  "sort": 300000,
+  "_key": "!actors!CyTQVoWLh3b4xIvk"
+}

@@ -1,0 +1,447 @@
+{
+  "name": "Characteristics (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Retractable claws",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "1tdtq7BDWqgx52Dh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.1tdtq7BDWqgx52Dh"
+    },
+    {
+      "text": "Pointed beak",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "u2ld4kUMt1DnMtex",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.u2ld4kUMt1DnMtex"
+    },
+    {
+      "text": "Oversized legs",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "6t5bPG1u8HUJsvx8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.6t5bPG1u8HUJsvx8"
+    },
+    {
+      "text": "Multiple mouths",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "9f39OQVxljN5UxaG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.9f39OQVxljN5UxaG"
+    },
+    {
+      "text": "Colored plumage",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "q68xUUQAbWlYELiF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.q68xUUQAbWlYELiF"
+    },
+    {
+      "text": "Single, spiraled horn",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "M9vbyb7JtlOs9630",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.M9vbyb7JtlOs9630"
+    },
+    {
+      "text": "Wide ears",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "8gKxCMZg2Q5Djzq4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.8gKxCMZg2Q5Djzq4"
+    },
+    {
+      "text": "Antlers",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "I0RYcXCWVw6GX52f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.I0RYcXCWVw6GX52f"
+    },
+    {
+      "text": "Gaunt / thin",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "n9XpTgocIERPI1GV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.n9XpTgocIERPI1GV"
+    },
+    {
+      "text": "Flightless wings",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "zLPGV1unhP9hdnlL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.zLPGV1unhP9hdnlL"
+    },
+    {
+      "text": "Rubbery skin",
+      "range": [
+        51,
+        54
+      ],
+      "_id": "tlaAcopXF1sEEGPe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.tlaAcopXF1sEEGPe"
+    },
+    {
+      "text": "Eye stalks",
+      "range": [
+        55,
+        58
+      ],
+      "_id": "YWzfv8y3K04Wye5c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.YWzfv8y3K04Wye5c"
+    },
+    {
+      "text": "Sound / speech mimicry",
+      "range": [
+        59,
+        62
+      ],
+      "_id": "iVro9BtsZewmlgCo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.iVro9BtsZewmlgCo"
+    },
+    {
+      "text": "Webbed limbs",
+      "range": [
+        63,
+        66
+      ],
+      "_id": "xQwIbO3po2gibBKm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.xQwIbO3po2gibBKm"
+    },
+    {
+      "text": "Fully rotating head",
+      "range": [
+        67,
+        69
+      ],
+      "_id": "QHTcPEhQoBffI1hI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.QHTcPEhQoBffI1hI"
+    },
+    {
+      "text": "Iridescent secretions",
+      "range": [
+        70,
+        72
+      ],
+      "_id": "kY0TEuMqdgBW4Hke",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.kY0TEuMqdgBW4Hke"
+    },
+    {
+      "text": "Headless",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "oTcHwMjAbCTGh83r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.oTcHwMjAbCTGh83r"
+    },
+    {
+      "text": "Sticky tongue",
+      "range": [
+        76,
+        78
+      ],
+      "_id": "4fm0unLUAve8bTNW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.4fm0unLUAve8bTNW"
+    },
+    {
+      "text": "Carapace",
+      "range": [
+        79,
+        81
+      ],
+      "_id": "DphzRtrSNsM2zh0e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.DphzRtrSNsM2zh0e"
+    },
+    {
+      "text": "Sharp quills",
+      "range": [
+        82,
+        84
+      ],
+      "_id": "SQdJxCJxFlJp0NhX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.SQdJxCJxFlJp0NhX"
+    },
+    {
+      "text": "Vestigial limbs",
+      "range": [
+        85,
+        87
+      ],
+      "_id": "9e86kqi2QPUR8bIp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.9e86kqi2QPUR8bIp"
+    },
+    {
+      "text": "Mineral / metallic",
+      "range": [
+        88,
+        90
+      ],
+      "_id": "eb9HjvZjHjccc9qu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.eb9HjvZjHjccc9qu"
+    },
+    {
+      "text": "Unusual blood color",
+      "range": [
+        91,
+        93
+      ],
+      "_id": "6ZuO2Nwn6qCqrbFf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.6ZuO2Nwn6qCqrbFf"
+    },
+    {
+      "text": "Body pouch",
+      "range": [
+        94,
+        95
+      ],
+      "_id": "j0uzU9Oma1Rje3W3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.j0uzU9Oma1Rje3W3"
+    },
+    {
+      "text": "Diseased sores",
+      "range": [
+        96,
+        97
+      ],
+      "_id": "yYnOxg5lFcpTLK78",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.yYnOxg5lFcpTLK78"
+    },
+    {
+      "text": "Ethereal",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "c6Wkt4plHYrymQWO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.c6Wkt4plHYrymQWO"
+    },
+    {
+      "text": "Detachable limbs",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "IU5nuI5JHxtN2ON6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.IU5nuI5JHxtN2ON6"
+    },
+    {
+      "text": "Rider",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "ITUYxXGrSUaMHeC0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!C3T2kwpfYIIBDdfM.ITUYxXGrSUaMHeC0"
+    }
+  ],
+  "folder": "QybiGAbDuTsW65s1",
+  "sort": 2,
+  "_id": "C3T2kwpfYIIBDdfM",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946938732,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!C3T2kwpfYIIBDdfM"
+}

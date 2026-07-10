@@ -1,0 +1,181 @@
+{
+  "name": "Loss of...",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Community",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "R0IGxZ9K00TVBcds",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WuksvXuuPfyNvHAU.R0IGxZ9K00TVBcds"
+    },
+    {
+      "text": "Freedom",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "24hIDAeI3tSKTCQh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WuksvXuuPfyNvHAU.24hIDAeI3tSKTCQh"
+    },
+    {
+      "text": "Love",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "kLeh2Z3Z5gaT0X9H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WuksvXuuPfyNvHAU.kLeh2Z3Z5gaT0X9H"
+    },
+    {
+      "text": "Order",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "zqrxHVsHvpuHvESI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WuksvXuuPfyNvHAU.zqrxHVsHvpuHvESI"
+    },
+    {
+      "text": "Power",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "lfnIjpCSGYBBg3ud",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WuksvXuuPfyNvHAU.lfnIjpCSGYBBg3ud"
+    },
+    {
+      "text": "Purpose",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "cZ8IZADuz6k3TWYI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WuksvXuuPfyNvHAU.cZ8IZADuz6k3TWYI"
+    },
+    {
+      "text": "Security",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "pa2BHOpmQOPqhk35",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WuksvXuuPfyNvHAU.pa2BHOpmQOPqhk35"
+    },
+    {
+      "text": "Shelter",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "DcnWBdgoUyqHkn0b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WuksvXuuPfyNvHAU.DcnWBdgoUyqHkn0b"
+    },
+    {
+      "text": "Sustenance",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "MkunC6eXoMP5x6sA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WuksvXuuPfyNvHAU.MkunC6eXoMP5x6sA"
+    },
+    {
+      "text": "Trust",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "InJdMuFpXwxOBEFB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WuksvXuuPfyNvHAU.InJdMuFpXwxOBEFB"
+    }
+  ],
+  "folder": "4W6Uamq0O16iyjFw",
+  "sort": 100000,
+  "_id": "WuksvXuuPfyNvHAU",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Brainstorm what conflict or central tension this loss causes for the characters that they will need to overcome. Additionally, one of the ten noble virtues (originally nine in Viking culture) will be challenged. This may be a subplot or an expansion of the central tension as you see fit.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.WuksvXuuPfyNvHAU"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791158979,
+    "modifiedTime": 1702851852895,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!WuksvXuuPfyNvHAU"
+}

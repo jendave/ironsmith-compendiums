@@ -1,0 +1,184 @@
+{
+  "name": "Frozen",
+  "type": "delve-theme",
+  "_id": "qMr7FxU081RdTFAO",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "Winter has come to this place.",
+    "description": "<div class=\"page\" title=\"Page 240\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>While all the Ironlands are cold, dark, and dangerous, this site has particularly felt the brunt of winter's bite. Ice clings to surfaces up to a handspan in thickness, and great drifts of snow have gathered together in the frigid winds. The temperature is low enough to grasp at the heart of travelers wearing even the thickest mammoth skins for protection.</p>\n<div class=\"page\" title=\"Page 240\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Traversing a frozen site is dangerous in many ways. Forging a path through the site continuously exposes you to the elements, but stopping in any shelter can lead to frostbite faster as the blood in the body slows down and allows your core temperature to fall that much further.</p>\n<div class=\"page\" title=\"Page 240\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Some hardy denizens with&nbsp;thick layers of blubber and&nbsp;shaggy fur coats make their lairs in these frozen places. Beware the hunting denizen out to feed its cubs.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          1,
+          4
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Huge snow drifts"
+      },
+      {
+        "range": [
+          5,
+          8
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Freezing wain covering all"
+      },
+      {
+        "range": [
+          9,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Large icicles"
+      },
+      {
+        "range": [
+          13,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Icy walking surfaces"
+      },
+      {
+        "range": [
+          17,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Tiny stream of melt water"
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          1,
+          5
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "White-out blizzard"
+      },
+      {
+        "range": [
+          6,
+          10
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Subzero temperature"
+      },
+      {
+        "range": [
+          11,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Frozen or broken equipment or item"
+      },
+      {
+        "range": [
+          13,
+          14
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Deceptively deep snow"
+      },
+      {
+        "range": [
+          15,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Falling icicles"
+      },
+      {
+        "range": [
+          17,
+          18
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Large hail"
+      },
+      {
+        "range": [
+          19,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen lairs here"
+      },
+      {
+        "range": [
+          21,
+          22
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen on the hunt"
+      },
+      {
+        "range": [
+          23,
+          24
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Path blocked by ice"
+      },
+      {
+        "range": [
+          25,
+          26
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Unexpected heat melts key supports"
+      },
+      {
+        "range": [
+          27,
+          28
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Everything looks the same"
+      },
+      {
+        "range": [
+          29,
+          30
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Avalanche"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703460043154,
+    "modifiedTime": 1703460227757,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!qMr7FxU081RdTFAO"
+}

@@ -1,0 +1,163 @@
+{
+  "name": "Kyungi",
+  "type": "foe",
+  "img": "icons/skills/melee/maneuver-daggers-paired-orange.webp",
+  "items": [
+    {
+      "_id": "DCchL0z4pPWdXT4L",
+      "name": "Kyungi",
+      "type": "progress",
+      "img": "icons/skills/melee/maneuver-daggers-paired-orange.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Geared for war</p>\n<p class=\"nogrow\">Battle-hardened</p>\n<p class=\"nogrow\">Battle concoctions in vials</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Rid the land of true monsters</p>\n<p class=\"nogrow\">Make right with might</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Mystical power and black iron blade</p>\n<p class=\"nogrow\">Track and trap</p>\n<p class=\"nogrow\">Immediate killing blow</p>\n</div>\n</div>\n<p>Those who travel down the path of the kyngi are feared but usually tolerated by Ironlanders because they have taken on the impossible vow of ridding the Ironlands of all monstrous beings. To complete this impossible task, they undergo strange rituals that mutate their bodies into more powerful killing machines and manifest subtle but distinct physical characteristics such as cat-like eyes, larger nostrils, and tiny protrusions on their ears that act as sensory organs for movement behind them. These kyngi find themselves constantly on the move without a home both to hunt more monsters and to avoid the fear and loathing their presence produces in most Ironlanders.</p>\n<p>Kyngi are not only highly skilled warriors but also masters of simple arcane arts that they can deploy in battle. Their strange ability to meld might with magic makes them uniquely suited to hunting down and ending the darker things of the world. A horror that may only be temporarily driven away by mere warriors can be exorcised completely by a powerful kyngi.</p>\n<p>In addition to their battle prowess, they have a knowledge of herbs that they combine with their mystical arts to create powerful elixirs to further enhance their abilities. However, this knowledge comes with a price. The same concoctions that give them strength, stamina, and speed also slowly corrupt their minds. They become more and more nihilistic and have been known to turn towards chaos and preying on innocent people in their later years.</p>\n<p>When a kyngi shows up at a settlement, it's always a gamble as to whether their aid will be worth the price they exact. We have a saying in the Ironlands for when people consider a course of action with clearly harmful outcomes: it's like a kyngi arriving with a naked blade.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A mad kyngi unleashes iron-wracked beasts and monsters on settlements and operates from a nearby Mystical Stronghold. Will you try to redeem this kyngi or see them pay the price for forsaking their sacred vow?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>How does kyngi mysticism manifest? Is it subtle or grand in style?</em></p>\n<p><em>What temporary powers do the elixirs give the kyngi?</em></p>\n<p><em>Are the kyngi still true Ironlanders or have they been permanently changed into a different type of being altogether?</em></p>\n</blockquote>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!rgQRUEZbPPslwZLZ.DCchL0z4pPWdXT4L"
+    }
+  ],
+  "effects": [],
+  "folder": "ZErbaYomHilUkSak",
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "prototypeToken": {
+    "name": "Kyungi",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/skills/melee/maneuver-daggers-paired-orange.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741194835274,
+    "modifiedTime": 1741194835274,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "rgQRUEZbPPslwZLZ",
+  "sort": 0,
+  "_key": "!actors!rgQRUEZbPPslwZLZ"
+}

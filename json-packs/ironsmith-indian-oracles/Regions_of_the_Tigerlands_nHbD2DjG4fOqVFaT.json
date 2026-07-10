@@ -1,0 +1,179 @@
+{
+  "name": "Regions of the Tigerlands",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Banjar Dveep <i>Barren Islands</i> (Barrier Islands)",
+      "range": [
+        1,
+        12
+      ],
+      "_id": "81GHUkKNpkGR1AJz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nHbD2DjG4fOqVFaT.81GHUkKNpkGR1AJz"
+    },
+    {
+      "text": "Jeevan Maidaan <i>Plains of Life</i> (Ragged Coast)",
+      "range": [
+        13,
+        24
+      ],
+      "_id": "LKXXFtFRaWjTEyBG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nHbD2DjG4fOqVFaT.LKXXFtFRaWjTEyBG"
+    },
+    {
+      "text": "Vibhaajan Rekha <i>Dividing Lines</i> (Deep Wilds)",
+      "range": [
+        25,
+        34
+      ],
+      "_id": "c4TNBfuaQofa8S4X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nHbD2DjG4fOqVFaT.c4TNBfuaQofa8S4X"
+    },
+    {
+      "text": "Nadiyon Kee Maut <i>Death of Rivers</i> (Flooded Lands)",
+      "range": [
+        35,
+        46
+      ],
+      "_id": "Ii6rHItAxrXifyZQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nHbD2DjG4fOqVFaT.Ii6rHItAxrXifyZQ"
+    },
+    {
+      "text": "Daanton Ka Jangal <i>Jungle of Teeth</i> (Havens)",
+      "range": [
+        47,
+        60
+      ],
+      "_id": "LfHdZ2pt8ZNcFKDI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nHbD2DjG4fOqVFaT.LfHdZ2pt8ZNcFKDI"
+    },
+    {
+      "text": "Haree Baadha <i>Green Wall</i> (Hinterlands)",
+      "range": [
+        61,
+        72
+      ],
+      "_id": "NkeHT7vtee19Q6pt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nHbD2DjG4fOqVFaT.NkeHT7vtee19Q6pt"
+    },
+    {
+      "text": "Jeevit Chhaaya <i>Living Shadows</i> (Tempest Hills)",
+      "range": [
+        73,
+        84
+      ],
+      "_id": "PqB0TXhGsZnFlMND",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nHbD2DjG4fOqVFaT.PqB0TXhGsZnFlMND"
+    },
+    {
+      "text": "Sabhee Ka Kendr <i>Center of All</i> (Veiled Mountains)",
+      "range": [
+        85,
+        94
+      ],
+      "_id": "e5VctChY8tlHp3Jt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nHbD2DjG4fOqVFaT.e5VctChY8tlHp3Jt"
+    },
+    {
+      "text": "Patala Dvaar <i>Gate of the Underworld</i> (Shattered Wastes)",
+      "range": [
+        95,
+        99
+      ],
+      "_id": "H3UGwfOdrkkUF0Cn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nHbD2DjG4fOqVFaT.H3UGwfOdrkkUF0Cn"
+    },
+    {
+      "text": "Elsewhere",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "Z1A5RfbYdXJegtek",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nHbD2DjG4fOqVFaT.Z1A5RfbYdXJegtek"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Each region in the Tigerlands corresponds to a region on the normal Ironsworn map. In this way, you can continue to use the same map while still getting a new flavor for the setting.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1709337194539,
+    "modifiedTime": 1709421270243,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_id": "nHbD2DjG4fOqVFaT",
+  "sort": 0,
+  "_key": "!tables!nHbD2DjG4fOqVFaT"
+}

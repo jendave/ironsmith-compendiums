@@ -1,0 +1,181 @@
+{
+  "name": "Actor",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "A Skulde descendant",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "qaaeAYqRFK54qRA7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qwauXBnovP6swUph.qaaeAYqRFK54qRA7"
+    },
+    {
+      "text": "A traveling prophet",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "UE3RMVNLmQzaAXNB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qwauXBnovP6swUph.UE3RMVNLmQzaAXNB"
+    },
+    {
+      "text": "A revered hermit",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "JXkJhJaBrzqpl0al",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qwauXBnovP6swUph.JXkJhJaBrzqpl0al"
+    },
+    {
+      "text": "A mystic practitioner",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "xaD1UWBiluOoJYTp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qwauXBnovP6swUph.xaD1UWBiluOoJYTp"
+    },
+    {
+      "text": "A nature worshipper",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "AUWH6SxagSrqvV0R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qwauXBnovP6swUph.AUWH6SxagSrqvV0R"
+    },
+    {
+      "text": "An influential businessperson",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "WozeCIDFeRfTWPWR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qwauXBnovP6swUph.WozeCIDFeRfTWPWR"
+    },
+    {
+      "text": "A dabbler in dark or forbidden arts",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "S07PUsUm9ndeZu2I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qwauXBnovP6swUph.S07PUsUm9ndeZu2I"
+    },
+    {
+      "text": "A firstborn who only now reveals themself",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "ICar4QZsgW7t4wQN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qwauXBnovP6swUph.ICar4QZsgW7t4wQN"
+    },
+    {
+      "text": "A sea captain with a weathered map",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "dQlmaRfPAtDOfqa3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qwauXBnovP6swUph.dQlmaRfPAtDOfqa3"
+    },
+    {
+      "text": "Another ironsworn",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "Feu9BNgsAmmKzC6d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qwauXBnovP6swUph.Feu9BNgsAmmKzC6d"
+    }
+  ],
+  "folder": "ZFajJH2Qwjjv6f8p",
+  "sort": 100000,
+  "_id": "qwauXBnovP6swUph",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>What if someone openly opposes killing off the monster? They support keeping the monster around or at least have another suggestion other than death for the monster.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.qwauXBnovP6swUph"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159549,
+    "modifiedTime": 1702853881322,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!qwauXBnovP6swUph"
+}

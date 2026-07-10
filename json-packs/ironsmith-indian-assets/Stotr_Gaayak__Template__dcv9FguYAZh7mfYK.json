@@ -1,0 +1,69 @@
+{
+  "type": "asset",
+  "folder": "NvbnuOq8d5rgUIWY",
+  "name": "Stotr Gaayak (Template)",
+  "system": {
+    "requirement": "When you sing an ancient hymn to a god below, roll +wits.",
+    "category": "Ritual",
+    "color": null,
+    "fields": [
+      {
+        "name": "God",
+        "value": ""
+      },
+      {
+        "name": "Ability",
+        "value": ""
+      },
+      {
+        "name": "God",
+        "value": ""
+      },
+      {
+        "name": "Ability",
+        "value": ""
+      },
+      {
+        "name": "God",
+        "value": ""
+      },
+      {
+        "name": "Ability",
+        "value": ""
+      }
+    ],
+    "abilities": [],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Hymn Singer"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/sing.svg",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709328658309,
+    "modifiedTime": 1764382227628,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "sort": 300000,
+  "_id": "dcv9FguYAZh7mfYK",
+  "_key": "!items!dcv9FguYAZh7mfYK"
+}

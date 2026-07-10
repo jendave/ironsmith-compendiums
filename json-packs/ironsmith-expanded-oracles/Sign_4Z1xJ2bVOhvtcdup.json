@@ -1,0 +1,181 @@
+{
+  "name": "Sign",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Tracks",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "fIjXqI1a8Sz5fESW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4Z1xJ2bVOhvtcdup.fIjXqI1a8Sz5fESW"
+    },
+    {
+      "text": "Worn trail",
+      "range": [
+        11,
+        20
+      ],
+      "_id": "boZMRub815jB31Jd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4Z1xJ2bVOhvtcdup.boZMRub815jB31Jd"
+    },
+    {
+      "text": "Bed or lay",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "PdTRNMGJj1qL9nj1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4Z1xJ2bVOhvtcdup.PdTRNMGJj1qL9nj1"
+    },
+    {
+      "text": "Vegetation based scat",
+      "range": [
+        31,
+        40
+      ],
+      "_id": "IgzPFrQb5D8x93Im",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4Z1xJ2bVOhvtcdup.IgzPFrQb5D8x93Im"
+    },
+    {
+      "text": "Protein based scat",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "dEHSp3eehNMfu6h0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4Z1xJ2bVOhvtcdup.dEHSp3eehNMfu6h0"
+    },
+    {
+      "text": "Broken vegetation",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "VM3RZcAzrGzlaWSg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4Z1xJ2bVOhvtcdup.VM3RZcAzrGzlaWSg"
+    },
+    {
+      "text": "Kill site",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "gcdckAR3Dzg20hsk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4Z1xJ2bVOhvtcdup.gcdckAR3Dzg20hsk"
+    },
+    {
+      "text": "Cough pellets",
+      "range": [
+        71,
+        80
+      ],
+      "_id": "6JKcZI03wfNkIkzX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4Z1xJ2bVOhvtcdup.6JKcZI03wfNkIkzX"
+    },
+    {
+      "text": "Feathers, scales, or fur",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "WBH8IKLZsosNYfDn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4Z1xJ2bVOhvtcdup.WBH8IKLZsosNYfDn"
+    },
+    {
+      "text": "Destroyed nest",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "hUwBw0Ehz9XvNKzK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4Z1xJ2bVOhvtcdup.hUwBw0Ehz9XvNKzK"
+    }
+  ],
+  "folder": "A0IYsjskOw4TXjEk",
+  "sort": 100000,
+  "_id": "4Z1xJ2bVOhvtcdup",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>You may specifically search for and discover tell-tale signs of the monster's passage that give you more information about the monster itself. When you score a hit while searching for tracks, you may roll percentile dice (2d10) and your action die (1d6) using the following table to tell you what type of tracks you find.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.4Z1xJ2bVOhvtcdup"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159520,
+    "modifiedTime": 1702853671875,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!4Z1xJ2bVOhvtcdup"
+}

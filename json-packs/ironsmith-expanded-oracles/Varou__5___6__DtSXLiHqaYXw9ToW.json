@@ -1,0 +1,402 @@
+{
+  "name": "Varou (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Jasvo",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "EuGYh2Czteqwn5dq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.EuGYh2Czteqwn5dq"
+    },
+    {
+      "text": "Dreka",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "TX1Zb95g0eTyeIFy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.TX1Zb95g0eTyeIFy"
+    },
+    {
+      "text": "Vuvo",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "rd4xQcWMIyZbh4Ty",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.rd4xQcWMIyZbh4Ty"
+    },
+    {
+      "text": "Keheen",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "PNITYdR9UMI098ku",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.PNITYdR9UMI098ku"
+    },
+    {
+      "text": "Radjan",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "9l9CB7E0WF5jN0XV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.9l9CB7E0WF5jN0XV"
+    },
+    {
+      "text": "Vojta",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "LzuetqMhK36CJLd9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.LzuetqMhK36CJLd9"
+    },
+    {
+      "text": "Isna",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "Nem3OPuobTznfMOK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.Nem3OPuobTznfMOK"
+    },
+    {
+      "text": "Taha",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "cF9D6Tpm5vmlVgIO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.cF9D6Tpm5vmlVgIO"
+    },
+    {
+      "text": "Leesata",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "GAVkciJ599YG7RMd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.GAVkciJ599YG7RMd"
+    },
+    {
+      "text": "Kvaka",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "fGPYd5Z043qB9okE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.fGPYd5Z043qB9okE"
+    },
+    {
+      "text": "Darha",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "t0drUD4TyfVKPdBO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.t0drUD4TyfVKPdBO"
+    },
+    {
+      "text": "Dreva",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "UOtf6YXGDdYQjaVQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.UOtf6YXGDdYQjaVQ"
+    },
+    {
+      "text": "Darvo",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "Bg79By6moiNKq9bx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.Bg79By6moiNKq9bx"
+    },
+    {
+      "text": "Vueen",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "iUfy7u0Zymqwrf0S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.iUfy7u0Zymqwrf0S"
+    },
+    {
+      "text": "Vukro",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "o4XLBWAhxtA2X9VN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.o4XLBWAhxtA2X9VN"
+    },
+    {
+      "text": "Nedek",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "EA39woKasjNHTyAL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.EA39woKasjNHTyAL"
+    },
+    {
+      "text": "Meea",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "9srmxULobUlBxNML",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.9srmxULobUlBxNML"
+    },
+    {
+      "text": "Zhivrak",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "V7s3HrsFs8HruzcI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.V7s3HrsFs8HruzcI"
+    },
+    {
+      "text": "Vukke",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "VtEKl6jYD1Ste5XJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.VtEKl6jYD1Ste5XJ"
+    },
+    {
+      "text": "Zhiveen",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "uM2DOzYcHun0JeBy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.uM2DOzYcHun0JeBy"
+    },
+    {
+      "text": "Dresha",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "MWUpsKO27h7xuAjT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.MWUpsKO27h7xuAjT"
+    },
+    {
+      "text": "Zorata",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "I87nuzbfD1VXn6it",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.I87nuzbfD1VXn6it"
+    },
+    {
+      "text": "Zokra",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "43nV1l0CyibYdVyo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.43nV1l0CyibYdVyo"
+    },
+    {
+      "text": "Nedke",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "scRXdOKitok0JBAT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.scRXdOKitok0JBAT"
+    },
+    {
+      "text": "Vuta",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "eEF91UPjGpSFPaXG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DtSXLiHqaYXw9ToW.eEF91UPjGpSFPaXG"
+    }
+  ],
+  "folder": "9uyJ7VCXwHxRtmPE",
+  "sort": 400000,
+  "_id": "DtSXLiHqaYXw9ToW",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161561,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!DtSXLiHqaYXw9ToW"
+}

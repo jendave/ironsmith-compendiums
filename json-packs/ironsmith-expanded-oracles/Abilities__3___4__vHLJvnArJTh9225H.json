@@ -1,0 +1,627 @@
+{
+  "name": "Abilities (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Tracker",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "VfR3P5HtrOH0yZ3k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.VfR3P5HtrOH0yZ3k"
+    },
+    {
+      "text": "Ear-piercing shriek",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "22K6R8OViHqg0Glq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.22K6R8OViHqg0Glq"
+    },
+    {
+      "text": "Builder",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "hC99KDWtwK3fr4vX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.hC99KDWtwK3fr4vX"
+    },
+    {
+      "text": "Pack hunter",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "wdKAudLcpWxPoARl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.wdKAudLcpWxPoARl"
+    },
+    {
+      "text": "Dexterous",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "4hBbdwdn8n9vDRRK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.4hBbdwdn8n9vDRRK"
+    },
+    {
+      "text": "Powerful slash",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "L99XpQ40miZRIm8e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.L99XpQ40miZRIm8e"
+    },
+    {
+      "text": "Color changer",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "REf6iZHm2G61loMs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.REf6iZHm2G61loMs"
+    },
+    {
+      "text": "Suck blood",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "fiWr9h3V1RIdbwm6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.fiWr9h3V1RIdbwm6"
+    },
+    {
+      "text": "Pinning attack",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "N8LXaxJFepTFCdu2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.N8LXaxJFepTFCdu2"
+    },
+    {
+      "text": "Darkvision",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "bfWuVeAjihqquAJO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.bfWuVeAjihqquAJO"
+    },
+    {
+      "text": "Stone thrower",
+      "range": [
+        41,
+        43
+      ],
+      "_id": "LDRQDZsEVpyodu8T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.LDRQDZsEVpyodu8T"
+    },
+    {
+      "text": "Corrosive",
+      "range": [
+        44,
+        46
+      ],
+      "_id": "6ybqD4U2s0gMIwA4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.6ybqD4U2s0gMIwA4"
+    },
+    {
+      "text": "Water breathing",
+      "range": [
+        47,
+        49
+      ],
+      "_id": "G7erXD2z2Mkq1wJf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.G7erXD2z2Mkq1wJf"
+    },
+    {
+      "text": "Tripping attack",
+      "range": [
+        50,
+        52
+      ],
+      "_id": "XQIUgYoIT1kLtIJB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.XQIUgYoIT1kLtIJB"
+    },
+    {
+      "text": "Heightened reflexes",
+      "range": [
+        53,
+        55
+      ],
+      "_id": "Epsud5BM2KtCte4w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.Epsud5BM2KtCte4w"
+    },
+    {
+      "text": "Charger",
+      "range": [
+        56,
+        58
+      ],
+      "_id": "BEtKyWVTWmh7ecAe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.BEtKyWVTWmh7ecAe"
+    },
+    {
+      "text": "Damage resistance",
+      "range": [
+        59,
+        61
+      ],
+      "_id": "1mg8cnJkS6z7SRiU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.1mg8cnJkS6z7SRiU"
+    },
+    {
+      "text": "Pouncer",
+      "range": [
+        62,
+        64
+      ],
+      "_id": "VS3fXv2AOboa5kEk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.VS3fXv2AOboa5kEk"
+    },
+    {
+      "text": "Absorb sound",
+      "range": [
+        65,
+        67
+      ],
+      "_id": "4pTFn5QzVVQpnwlI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.4pTFn5QzVVQpnwlI"
+    },
+    {
+      "text": "Pheromones",
+      "range": [
+        68,
+        69
+      ],
+      "_id": "JkqilVNRgcD8PH34",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.JkqilVNRgcD8PH34"
+    },
+    {
+      "text": "Web spinner",
+      "range": [
+        70,
+        71
+      ],
+      "_id": "fAhNddZrxgxIssd1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.fAhNddZrxgxIssd1"
+    },
+    {
+      "text": "Extraordinary balance",
+      "range": [
+        72,
+        73
+      ],
+      "_id": "b2yPJsZCOGCHqzY2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.b2yPJsZCOGCHqzY2"
+    },
+    {
+      "text": "Lethargy-inducing gas",
+      "range": [
+        74,
+        75
+      ],
+      "_id": "qEcWVSubgzkY9v5c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.qEcWVSubgzkY9v5c"
+    },
+    {
+      "text": "Danger sense",
+      "range": [
+        76,
+        77
+      ],
+      "_id": "8hTPfNM3qDbeegxA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.8hTPfNM3qDbeegxA"
+    },
+    {
+      "text": "Amorphous",
+      "range": [
+        78,
+        79
+      ],
+      "_id": "OSkHXtbnsqrCthnn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.OSkHXtbnsqrCthnn"
+    },
+    {
+      "text": "Call the pack",
+      "range": [
+        80,
+        81
+      ],
+      "_id": "LmRrVLsiJChejWZN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.LmRrVLsiJChejWZN"
+    },
+    {
+      "text": "Blinding flash",
+      "range": [
+        82,
+        83
+      ],
+      "_id": "MY20UBADDGUDN17t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.MY20UBADDGUDN17t"
+    },
+    {
+      "text": "Energy emissions",
+      "range": [
+        84,
+        85
+      ],
+      "_id": "mLsUgIaA0lqCHRlh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.mLsUgIaA0lqCHRlh"
+    },
+    {
+      "text": "Fiery",
+      "range": [
+        86,
+        87
+      ],
+      "_id": "DF8D8IZk93hQIu6S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.DF8D8IZk93hQIu6S"
+    },
+    {
+      "text": "Fear eating",
+      "range": [
+        88,
+        89
+      ],
+      "_id": "wePcojWuNER1cWg2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.wePcojWuNER1cWg2"
+    },
+    {
+      "text": "Explosive projectiles",
+      "range": [
+        90,
+        91
+      ],
+      "_id": "IdgSfs2Ji9BU9i32",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.IdgSfs2Ji9BU9i32"
+    },
+    {
+      "text": "Infectious",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "xRSbEiUhsNNlapVh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.xRSbEiUhsNNlapVh"
+    },
+    {
+      "text": "Dangerous blood",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "2OtASgOKrrGEviiQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.2OtASgOKrrGEviiQ"
+    },
+    {
+      "text": "Regeneration",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "fhEoAIs88lcanRpX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.fhEoAIs88lcanRpX"
+    },
+    {
+      "text": "Levitation",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "6INklGaI2CKNsCQ5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.6INklGaI2CKNsCQ5"
+    },
+    {
+      "text": "Induces hallucinations",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "rLgNvoyVyBQbWaUI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.rLgNvoyVyBQbWaUI"
+    },
+    {
+      "text": "Fear projection",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "oWjLM63SUpHbi8Ft",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.oWjLM63SUpHbi8Ft"
+    },
+    {
+      "text": "Phase through objects",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "8IwdgFt56z0wVVjY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.8IwdgFt56z0wVVjY"
+    },
+    {
+      "text": "Use tools",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "ZVMg2hPVtY20J374",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.ZVMg2hPVtY20J374"
+    },
+    {
+      "text": "Control darkness",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "G2SIbEPF50MyMu4J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vHLJvnArJTh9225H.G2SIbEPF50MyMu4J"
+    }
+  ],
+  "folder": "QybiGAbDuTsW65s1",
+  "sort": 4,
+  "_id": "vHLJvnArJTh9225H",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946938749,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!vHLJvnArJTh9225H"
+}

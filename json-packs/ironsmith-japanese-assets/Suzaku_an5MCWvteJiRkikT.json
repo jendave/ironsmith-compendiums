@@ -1,0 +1,75 @@
+{
+  "type": "asset",
+  "folder": "gs91iUqjl8GGuCs9",
+  "name": "Suzaku",
+  "system": {
+    "requirement": "Your young phoenix is determined.",
+    "category": "Companion",
+    "color": null,
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>Rebirth: If your phoenix misses on @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5042c9574d4faf61]{Companion Endure Harm} when at 0 health, roll +heart. On a strong hit, the phoenix bursts into flame dealing 3 harm to foes and returns to life with 3 health. On a weak hit, the flame deals only I harm and the phoenix returns with only 1 health.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Phoenix Down: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.92b85c33a17ab487]{Face Death} with your phoenix by your side, add +2 and take +1 momentum on a strong hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Heart of Fire: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ac19f4c7f3fe31be]{Undertake a Journey} through the bitter cold with your phoenix burning brightly, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Phoenix"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/condor-emblem.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709072361915,
+    "modifiedTime": 1764387243964,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "sort": 200000,
+  "_id": "an5MCWvteJiRkikT",
+  "_key": "!items!an5MCWvteJiRkikT"
+}

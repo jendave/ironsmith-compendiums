@@ -1,0 +1,75 @@
+{
+  "type": "asset",
+  "folder": "BMFZH2vIDpNGTmyC",
+  "name": "Obhejane",
+  "system": {
+    "requirement": "Your rhino is an unstoppable force.",
+    "category": "Companion",
+    "color": null,
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>Overrun: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} by riding your rhino against a pack of foes, add +1 and inflict +1 harm on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>No Fear: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ed343c963b08f301]{Enter the Fray} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by charging into combat, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Hardened Hide: When you make the @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5042c9574d4faf61]{Companion Endure Harm} move in a fight, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Rhino"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/rhinoceros-horn.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709375394034,
+    "modifiedTime": 1764376997037,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "sort": 300000,
+  "_id": "Le7cxvayJuf9O6xC",
+  "_key": "!items!Le7cxvayJuf9O6xC"
+}

@@ -1,0 +1,331 @@
+{
+  "name": "Compulsion",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Taps iron three times when expressing a hope or desire",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "vIaIqhLZ7lD419rk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.vIaIqhLZ7lD419rk"
+    },
+    {
+      "text": "Performs weapon flourish or routine before every battle",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "4b0QMyCXt5PAw8Qh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.4b0QMyCXt5PAw8Qh"
+    },
+    {
+      "text": "Lies about small and inconsequential things",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "oyX6d336ndL0Wqkx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.oyX6d336ndL0Wqkx"
+    },
+    {
+      "text": "Must have an open flame of some kind nearby",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "cnWsAAlNK88EJKss",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.cnWsAAlNK88EJKss"
+    },
+    {
+      "text": "Steals small objects",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "nY7kfLE2rsXuQihQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.nY7kfLE2rsXuQihQ"
+    },
+    {
+      "text": "Sprinkles salt at entrances",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "lEZTMfnCTQKO0set",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.lEZTMfnCTQKO0set"
+    },
+    {
+      "text": "Chants prayers throughout a meal",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "uRJtK0X3YiQRSvaG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.uRJtK0X3YiQRSvaG"
+    },
+    {
+      "text": "Cuts patterns into their own skin",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "Zah5lRboeQ4clDf9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.Zah5lRboeQ4clDf9"
+    },
+    {
+      "text": "Draws sigils of an unknown origin on flat surfaces",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "Sw6CcLnBSTWTZjIz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.Sw6CcLnBSTWTZjIz"
+    },
+    {
+      "text": "Scrubs skin at an old wound site",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "Va8CVdrXNZRwFkaz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.Va8CVdrXNZRwFkaz"
+    },
+    {
+      "text": "Sets fires",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "i0rpdDgM5Vigk80Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.i0rpdDgM5Vigk80Z"
+    },
+    {
+      "text": "Rolls bones with fate runes on them before making decisions",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "ZtDFUPpBaUfk50Eh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.ZtDFUPpBaUfk50Eh"
+    },
+    {
+      "text": "Pours out containers of liquid if left unattended",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "0N3p8b0oC7UreCqS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.0N3p8b0oC7UreCqS"
+    },
+    {
+      "text": "Pulls out their own hair",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "eP3JgfRv4cP2kued",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.eP3JgfRv4cP2kued"
+    },
+    {
+      "text": "Bites nails or skin to the point of self-harm",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "FguApUrseIYhlLe9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.FguApUrseIYhlLe9"
+    },
+    {
+      "text": "Self-flagellation for discovered sins",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "BPsPqjwF9ItPJZln",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.BPsPqjwF9ItPJZln"
+    },
+    {
+      "text": "Blurts out stream of consciousness thoughts",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "flXQDQOrW1iBnmwp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.flXQDQOrW1iBnmwp"
+    },
+    {
+      "text": "Washes, shaves, or cleans to the point of self-harm",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "MOhdDtoS0sXFWfgi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.MOhdDtoS0sXFWfgi"
+    },
+    {
+      "text": "Performs ritualistic prayer over every dead animal body",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "znEjh8pnccsekI5w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.znEjh8pnccsekI5w"
+    },
+    {
+      "text": "Repeating minor actions a specific number of times",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "gsoF0WZ1wlVBIOaL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PDNDZDa5UqMeOCtp.gsoF0WZ1wlVBIOaL"
+    }
+  ],
+  "folder": "iw9CdTaDyib9IgXg",
+  "sort": 300000,
+  "_id": "PDNDZDa5UqMeOCtp",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A compulsion is an almost irresistible urge to behave in a certain way that is usually detrimental or life-altering to the person with the compulsion. When your character gains a compulsion from being corrupted, they obsess over this behavior as either a coping mechanism for the stress they have been through or as a dark urge acted out as the corruption within them grows.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.PDNDZDa5UqMeOCtp"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791158693,
+    "modifiedTime": 1702851688401,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!PDNDZDa5UqMeOCtp"
+}

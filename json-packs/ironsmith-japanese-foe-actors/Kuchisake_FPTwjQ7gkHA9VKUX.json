@@ -1,0 +1,165 @@
+{
+  "name": "Kuchisake",
+  "type": "foe",
+  "img": "icons/skills/melee/maneuver-sword-katana-yellow.webp",
+  "items": [
+    {
+      "_id": "DCchL0z4pPWdXT4L",
+      "name": "Kuchisake",
+      "type": "progress",
+      "img": "icons/skills/melee/maneuver-sword-katana-yellow.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Zealous, unhinged assassin</p>\n<p>Self-mutilated face</p>\n<p>Bladed fans</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Serve their daimyo</p>\n<p>Destroy the vain and beautiful</p>\n<p>Enjoy the pain of others</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Dance and slice with their fans</p>\n<p>Reveal their face for shock</p>\n<p>Seduce and kill</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 214\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 51\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The very first kuchisake was a deranged serial killer, but she started a fad. Some female assassins now follow in her footsteps by slitting their own mouths out into wide and gruesome smiles and fanatically spouting the hate of vanity and beauty that the original did.</p>\n<p>While many viewed this as a psychological trauma that needed addressed, some enterprising daimyo saw this as an opportunity. The daimyo took in these fledgling copycats and trained them to be killing machines that they could point in any direction they saw fit.</p>\n<p>If a woman with a fan covering her jaw asks you, &ldquo;Am I beautiful?&rdquo;, you should run away. It is likely a kuchisake assassin on the way to a kill who wants to use you as the warm-up act.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A kuchisake has been killing frequently in one of the largest settlements, but none of the nearby daimyo or shogun are claiming control of the assassin. Why do you need to find out who is responsible for unleashing the killer?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Is the kuchisake merely a name given to these copycat killers, or is there an actual organization or school of assassins behind the fierce killers?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!FPTwjQ7gkHA9VKUX.DCchL0z4pPWdXT4L"
+    }
+  ],
+  "effects": [],
+  "folder": "EeGymg8PXcn71LIo",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.xDT8BgVJ49uDUZ2V"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Kuchisake",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/skills/melee/maneuver-sword-katana-yellow.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.xDT8BgVJ49uDUZ2V",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741385093094,
+    "modifiedTime": 1741399584195,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "FPTwjQ7gkHA9VKUX",
+  "sort": 100000,
+  "_key": "!actors!FPTwjQ7gkHA9VKUX"
+}

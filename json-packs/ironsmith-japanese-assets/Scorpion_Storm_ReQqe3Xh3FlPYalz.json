@@ -1,0 +1,66 @@
+{
+  "type": "asset",
+  "folder": "AvIu3MBVpqD8OTol",
+  "name": "Scorpion Storm",
+  "system": {
+    "requirement": "If you wield a kusarigama...",
+    "category": "Combat Talent",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} +edge using your chain to disarm, trip, stun, or push back your opponent, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} by first entangling your opponent then slashing, choose one (decide before rolling).<ul><li>Get over here: Roll +edge. On a weak hit, you retain initiative.</li><li>Finish them: Roll +iron. A weak hit counts as a miss. On a strong hit, you may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.aac3783710ad7499]{End the Fight} and reroll any challenge dice.</li></ul></p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} against multiple opponents, you may add +1. If you do and score a hit, inflict I harm (instead of 2 harm) and you have the initiative.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Chained Sickle"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/kusarigama.svg",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709072361915,
+    "modifiedTime": 1764387282663,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "sort": 600000,
+  "_id": "ReQqe3Xh3FlPYalz",
+  "_key": "!items!ReQqe3Xh3FlPYalz"
+}

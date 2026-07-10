@@ -1,0 +1,727 @@
+{
+  "name": "Focus (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Tools",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "hiHjYPHacMuJLwXf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.hiHjYPHacMuJLwXf"
+    },
+    {
+      "text": "Symbol",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "NG81F9fnVtQ131Vh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.NG81F9fnVtQ131Vh"
+    },
+    {
+      "text": "Quagmire",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "TPZqQADxiGvEwjCf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.TPZqQADxiGvEwjCf"
+    },
+    {
+      "text": "Specter",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "ctTUNYW0OdyzGWJG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.ctTUNYW0OdyzGWJG"
+    },
+    {
+      "text": "Vortex",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "qRQ2sUH7xX0gfG5d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.qRQ2sUH7xX0gfG5d"
+    },
+    {
+      "text": "Labyrinth",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "B64dUIy0IsVKTA2C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.B64dUIy0IsVKTA2C"
+    },
+    {
+      "text": "Wasteland",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "9qk7T0XH2kCnSJQ3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.9qk7T0XH2kCnSJQ3"
+    },
+    {
+      "text": "Fear",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "eT0CnwMx8yWAs6s2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.eT0CnwMx8yWAs6s2"
+    },
+    {
+      "text": "Haze",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "mr0vToUMphCQ7yza",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.mr0vToUMphCQ7yza"
+    },
+    {
+      "text": "Beast",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "QZmRhKjkEHjpDWsO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.QZmRhKjkEHjpDWsO"
+    },
+    {
+      "text": "Vestige",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "3hyGSGLpV9q2NXWp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.3hyGSGLpV9q2NXWp"
+    },
+    {
+      "text": "Remnant",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "3ElUdZSh4EVsJiL8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.3ElUdZSh4EVsJiL8"
+    },
+    {
+      "text": "Reflection",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "0YIPWw6ks2XTcVjl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.0YIPWw6ks2XTcVjl"
+    },
+    {
+      "text": "Book",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "TpPQQAVAUS3eBMpQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.TpPQQAVAUS3eBMpQ"
+    },
+    {
+      "text": "Guardian",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "ZuRFfHujIOmSR2ke",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.ZuRFfHujIOmSR2ke"
+    },
+    {
+      "text": "Effigy",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "AQE407Wmc778io7H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.AQE407Wmc778io7H"
+    },
+    {
+      "text": "Map",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "ifwXKTGq6A20i6iM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.ifwXKTGq6A20i6iM"
+    },
+    {
+      "text": "Undertow",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "lK7WN7le1dGn1boj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.lK7WN7le1dGn1boj"
+    },
+    {
+      "text": "Glyph",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "IMdlewvatv720QXz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.IMdlewvatv720QXz"
+    },
+    {
+      "text": "Unrest",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "cjIoV0oKfgmDDCkr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.cjIoV0oKfgmDDCkr"
+    },
+    {
+      "text": "Ghost",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "HEWanILbzFDBgmOF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.HEWanILbzFDBgmOF"
+    },
+    {
+      "text": "Riddle",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "cWyQntF8pKzmD1hX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.cWyQntF8pKzmD1hX"
+    },
+    {
+      "text": "Relic",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "s6VcCnBCaJbMhRtE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.s6VcCnBCaJbMhRtE"
+    },
+    {
+      "text": "Conduit",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "BOgObXFlpgKd8Ucc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.BOgObXFlpgKd8Ucc"
+    },
+    {
+      "text": "Horror",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "Fttn68jy3NvHpHNP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.Fttn68jy3NvHpHNP"
+    },
+    {
+      "text": "Corpse",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "edQkOA6g8Da1mQ6f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.edQkOA6g8Da1mQ6f"
+    },
+    {
+      "text": "Judgment",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "YM34x9Szb1oDy5Xq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.YM34x9Szb1oDy5Xq"
+    },
+    {
+      "text": "Necropolis",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "ug6lsQMbgAIoKX2D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.ug6lsQMbgAIoKX2D"
+    },
+    {
+      "text": "Mystery",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "i0nnrL4dtKvIFFFu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.i0nnrL4dtKvIFFFu"
+    },
+    {
+      "text": "Tomb",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "ROxYgWhRdvaWpKzA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.ROxYgWhRdvaWpKzA"
+    },
+    {
+      "text": "Banshee",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "pWup51nK7SwLsvfR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.pWup51nK7SwLsvfR"
+    },
+    {
+      "text": "Armor",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "2MC23vUchtgQieKM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.2MC23vUchtgQieKM"
+    },
+    {
+      "text": "Cult",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "W7sBX6SOxStIt4EU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.W7sBX6SOxStIt4EU"
+    },
+    {
+      "text": "Delusion",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "DRWH3jF1R5bMRgNQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.DRWH3jF1R5bMRgNQ"
+    },
+    {
+      "text": "Haunt",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "VKuFqsdnmP2XkyQz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.VKuFqsdnmP2XkyQz"
+    },
+    {
+      "text": "Echo",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "wepy0JDSplvvPAZy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.wepy0JDSplvvPAZy"
+    },
+    {
+      "text": "Cache",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "75WdkTqScsvvKYXk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.75WdkTqScsvvKYXk"
+    },
+    {
+      "text": "Retreat",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "9thzvEsnlu10tArr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.9thzvEsnlu10tArr"
+    },
+    {
+      "text": "Abyss",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "7OkmhH1KaD2awAVy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.7OkmhH1KaD2awAVy"
+    },
+    {
+      "text": "Oracle",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "pvoG4Vthki03KvJM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.pvoG4Vthki03KvJM"
+    },
+    {
+      "text": "Icon",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "fifWelsf6ERBmdPF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.fifWelsf6ERBmdPF"
+    },
+    {
+      "text": "Treasure",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "DHWhwqvoDSh8csYt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.DHWhwqvoDSh8csYt"
+    },
+    {
+      "text": "Vulnerability",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "oEcel1BsdI1YfDCU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.oEcel1BsdI1YfDCU"
+    },
+    {
+      "text": "Occult",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "4rwZZpG3EN8aC3YI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.4rwZZpG3EN8aC3YI"
+    },
+    {
+      "text": "Opposition",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "xBRkcETrtmZ73jQ0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.xBRkcETrtmZ73jQ0"
+    },
+    {
+      "text": "Magic",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "8IpOZUoXVdWcZQWg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.8IpOZUoXVdWcZQWg"
+    },
+    {
+      "text": "Legacy",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "LatnaVBAansfUpIF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.LatnaVBAansfUpIF"
+    },
+    {
+      "text": "Curse",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "VpwwKAs46FgSvZrB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.VpwwKAs46FgSvZrB"
+    },
+    {
+      "text": "Ritual",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "nMK1i6M0djg2qVoJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.nMK1i6M0djg2qVoJ"
+    },
+    {
+      "text": "Ambush",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "clkosTKtnYXGsNwD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!TOVkN9NX0L4WZSIR.clkosTKtnYXGsNwD"
+    }
+  ],
+  "folder": "7XlALaoo4AUPlm5Z",
+  "sort": 5,
+  "_id": "TOVkN9NX0L4WZSIR",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946160582,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!TOVkN9NX0L4WZSIR"
+}

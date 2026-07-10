@@ -1,0 +1,251 @@
+{
+  "name": "Pay the Price (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Roll again and apply that result but make it worse. If you roll this result yet again, think of something dreadful that changes the course of your quest (Ask the Oracle if unsure) and make it happen.",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "oM9r8AVKZC9AHjVx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.oM9r8AVKZC9AHjVx"
+    },
+    {
+      "text": "You face the consequences of an earlier choice.",
+      "range": [
+        3,
+        5
+      ],
+      "_id": "U9LLmujeOERyFHFo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.U9LLmujeOERyFHFo"
+    },
+    {
+      "text": "The environment or terrain introduces a new hazard.",
+      "range": [
+        6,
+        9
+      ],
+      "_id": "RDiiatqFqtdbDx9Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.RDiiatqFqtdbDx9Z"
+    },
+    {
+      "text": "An individual or community you care about intentionally hinders or betrays you.",
+      "range": [
+        10,
+        16
+      ],
+      "_id": "uxIIndyTUhL1DtyY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.uxIIndyTUhL1DtyY"
+    },
+    {
+      "text": "A fracture forms in a previously solid alliance or friendship.",
+      "range": [
+        17,
+        23
+      ],
+      "_id": "cuzNIDbHb5c25i4V",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.cuzNIDbHb5c25i4V"
+    },
+    {
+      "text": "Something you thought false is revealed to be true.",
+      "range": [
+        24,
+        32
+      ],
+      "_id": "wFHAA3a9FhAxoXzS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.wFHAA3a9FhAxoXzS"
+    },
+    {
+      "text": "Corruption has spread further than you thought.",
+      "range": [
+        33,
+        41
+      ],
+      "_id": "N7o95WeUWsK7X49U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.N7o95WeUWsK7X49U"
+    },
+    {
+      "text": "You face the choice of the lesser of two evils.",
+      "range": [
+        42,
+        50
+      ],
+      "_id": "JgvnQdQ6QEffV41U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.JgvnQdQ6QEffV41U"
+    },
+    {
+      "text": "Your actions were more effective than you thought which complicates things.",
+      "range": [
+        51,
+        59
+      ],
+      "_id": "z6vXkZ3fsfSfHzUi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.z6vXkZ3fsfSfHzUi"
+    },
+    {
+      "text": "Your actions were interpreted in a detrimental way.",
+      "range": [
+        60,
+        68
+      ],
+      "_id": "JlNT9oyDtthwCL0W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.JlNT9oyDtthwCL0W"
+    },
+    {
+      "text": "You are made to look the fool.",
+      "range": [
+        69,
+        76
+      ],
+      "_id": "Tx4RuKTTgSbVvSbZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.Tx4RuKTTgSbVvSbZ"
+    },
+    {
+      "text": "You lose support for your cause.",
+      "range": [
+        77,
+        85
+      ],
+      "_id": "JkWvHOd85jyA34JZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.JkWvHOd85jyA34JZ"
+    },
+    {
+      "text": "An objective is complicated through a misunderstanding.",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "V4hakqz84npoMVyE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.V4hakqz84npoMVyE"
+    },
+    {
+      "text": "An albatross hangs about your neck.",
+      "range": [
+        91,
+        94
+      ],
+      "_id": "nDJzYmwiltNmeNJe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.nDJzYmwiltNmeNJe"
+    },
+    {
+      "text": "Your progress is undone.",
+      "range": [
+        95,
+        98
+      ],
+      "_id": "6810Md878fU7Ub6x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.6810Md878fU7Ub6x"
+    },
+    {
+      "text": "Roll twice more on this table. Both results occur. If they are the same result, make it worse.",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "I73v4BzMfepUV55W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!j60qSt20b5Ra7qCg.I73v4BzMfepUV55W"
+    }
+  ],
+  "folder": "qVZwUtpBoNriLLjc",
+  "sort": 2,
+  "_id": "j60qSt20b5Ra7qCg",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946450862,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!j60qSt20b5Ra7qCg"
+}

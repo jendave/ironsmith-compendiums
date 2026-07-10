@@ -1,0 +1,327 @@
+{
+  "name": "Random NPC Conversation (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Their own heritage",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "ilcofdNJzjYYLVrG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.ilcofdNJzjYYLVrG"
+    },
+    {
+      "text": "The heritage of a PC",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "fJ2XfYp6HlYZyQ6P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.fJ2XfYp6HlYZyQ6P"
+    },
+    {
+      "text": "The heritage of an NPC",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "QqWpQOG53G9jlndt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.QqWpQOG53G9jlndt"
+    },
+    {
+      "text": "A source of wealth",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "bFLWGF220OeyVXm0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.bFLWGF220OeyVXm0"
+    },
+    {
+      "text": "The distribution of wealth",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "GQce3vgmWm6vSupd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.GQce3vgmWm6vSupd"
+    },
+    {
+      "text": "Where the power lies",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "ErPEphD4JDTygpDC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.ErPEphD4JDTygpDC"
+    },
+    {
+      "text": "Local warbands",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "P9hXfhwU3ZgXACPP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.P9hXfhwU3ZgXACPP"
+    },
+    {
+      "text": "Powerful people",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "Hx1Mewi3pmHDf78z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.Hx1Mewi3pmHDf78z"
+    },
+    {
+      "text": "Ingenious or outlandish ideas",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "OEGniOExuUJo2jlB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.OEGniOExuUJo2jlB"
+    },
+    {
+      "text": "Items of importance",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "s7WLPOvrTiBM3QhG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.s7WLPOvrTiBM3QhG"
+    },
+    {
+      "text": "Legends of relics",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "4NADJrJryh9BoYE8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.4NADJrJryh9BoYE8"
+    },
+    {
+      "text": "Legends of heroic deeds",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "1b4ifN32LyeLQcWA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.1b4ifN32LyeLQcWA"
+    },
+    {
+      "text": "Famous people",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "uUIxfBG3IDqrGSZr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.uUIxfBG3IDqrGSZr"
+    },
+    {
+      "text": "Famous places",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "SsEeSlV0NbzNZPb9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.SsEeSlV0NbzNZPb9"
+    },
+    {
+      "text": "The quickest way to fame",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "zD0zgGwTJak7BHe8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.zD0zgGwTJak7BHe8"
+    },
+    {
+      "text": "How to curry favor",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "LBnIGPIvWqqZgz7w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.LBnIGPIvWqqZgz7w"
+    },
+    {
+      "text": "Shifting political alliances",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "8IlBLz5Nc8cG70Y8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.8IlBLz5Nc8cG70Y8"
+    },
+    {
+      "text": "Useful contacts",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "qJY03S5W5euSoGcU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.qJY03S5W5euSoGcU"
+    },
+    {
+      "text": "A significant death",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "TupITI9wElyLc5MS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.TupITI9wElyLc5MS"
+    },
+    {
+      "text": "The culture of the community",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "aCn6s4YeJIvOGI6w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HUR4ToDsdKdAGaPz.aCn6s4YeJIvOGI6w"
+    }
+  ],
+  "folder": "RwdM0k88MkirBvKa",
+  "sort": 200000,
+  "_id": "HUR4ToDsdKdAGaPz",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161281,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!HUR4ToDsdKdAGaPz"
+}

@@ -1,0 +1,447 @@
+{
+  "name": "Characteristics (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Extra limbs",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "n0lxd3p6rCY8geEj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.n0lxd3p6rCY8geEj"
+    },
+    {
+      "text": "Fangs / rows of sharp teeth",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "uxeu5m17lJHlenNL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.uxeu5m17lJHlenNL"
+    },
+    {
+      "text": "Claws / talons",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "7Mvqb9tsZtmKjafS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.7Mvqb9tsZtmKjafS"
+    },
+    {
+      "text": "Strange color / markings",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "xkH5GMriVQq4qHyq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.xkH5GMriVQq4qHyq"
+    },
+    {
+      "text": "Horns / tusks",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "7yuj2dbxPzNog35C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.7yuj2dbxPzNog35C"
+    },
+    {
+      "text": "Oversized mouth",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "jyE6JC1JXEPaPmPa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.jyE6JC1JXEPaPmPa"
+    },
+    {
+      "text": "Spikes / spines",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "PE3s7yesq3T0AlwC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.PE3s7yesq3T0AlwC"
+    },
+    {
+      "text": "Tail",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "y0Zg1s4rYIGn0Lac",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.y0Zg1s4rYIGn0Lac"
+    },
+    {
+      "text": "Multi-segmented body",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "8neEXCWWB5dvH9nO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.8neEXCWWB5dvH9nO"
+    },
+    {
+      "text": "Wings",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "tDUDgjP35u1Fvigr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.tDUDgjP35u1Fvigr"
+    },
+    {
+      "text": "Stinger / barbs",
+      "range": [
+        51,
+        54
+      ],
+      "_id": "ThNvvqvKHWMXKyUW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.ThNvvqvKHWMXKyUW"
+    },
+    {
+      "text": "Many-eyed",
+      "range": [
+        55,
+        58
+      ],
+      "_id": "3aXpLdL4xG9QDImQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.3aXpLdL4xG9QDImQ"
+    },
+    {
+      "text": "Distinctive sound",
+      "range": [
+        59,
+        62
+      ],
+      "_id": "oFLQC2JvSXvspBWM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.oFLQC2JvSXvspBWM"
+    },
+    {
+      "text": "Tentacles / tendrils",
+      "range": [
+        63,
+        66
+      ],
+      "_id": "hN29XXvw1EUyP3Ws",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.hN29XXvw1EUyP3Ws"
+    },
+    {
+      "text": "Mandibles / pincers",
+      "range": [
+        67,
+        69
+      ],
+      "_id": "Xx3NZvk8SleZzAha",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.Xx3NZvk8SleZzAha"
+    },
+    {
+      "text": "Luminescent",
+      "range": [
+        70,
+        72
+      ],
+      "_id": "sUdmtHoHPyYqBbH1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.sUdmtHoHPyYqBbH1"
+    },
+    {
+      "text": "Antennae / sensory organs",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "Vo53HUahmqYJEflx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.Vo53HUahmqYJEflx"
+    },
+    {
+      "text": "Proboscis / inner jaw",
+      "range": [
+        76,
+        78
+      ],
+      "_id": "xbftXx12JhfrHWZs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.xbftXx12JhfrHWZs"
+    },
+    {
+      "text": "Exoskeleton / shell",
+      "range": [
+        79,
+        81
+      ],
+      "_id": "sdHnG3TE9NSDEigG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.sdHnG3TE9NSDEigG"
+    },
+    {
+      "text": "Bony protuberances",
+      "range": [
+        82,
+        84
+      ],
+      "_id": "njn0786v81L0c3s0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.njn0786v81L0c3s0"
+    },
+    {
+      "text": "Corrupted flesh",
+      "range": [
+        85,
+        87
+      ],
+      "_id": "IQfg0o2f1W53SOkq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.IQfg0o2f1W53SOkq"
+    },
+    {
+      "text": "Semi-transparent",
+      "range": [
+        88,
+        90
+      ],
+      "_id": "bqQwjCKZZh0pT8Wm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.bqQwjCKZZh0pT8Wm"
+    },
+    {
+      "text": "Scarred / injured",
+      "range": [
+        91,
+        93
+      ],
+      "_id": "OOqpJTzQND3hYPa6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.OOqpJTzQND3hYPa6"
+    },
+    {
+      "text": "Egg sac / carried offspring",
+      "range": [
+        94,
+        95
+      ],
+      "_id": "zV1KU4QwKHExQ6O8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.zV1KU4QwKHExQ6O8"
+    },
+    {
+      "text": "Rotting / skeletal",
+      "range": [
+        96,
+        97
+      ],
+      "_id": "9seYQFyy7QT157Yh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.9seYQFyy7QT157Yh"
+    },
+    {
+      "text": "Mummified / desiccated",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "iV9M1xjD1owrRJUC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.iV9M1xjD1owrRJUC"
+    },
+    {
+      "text": "Multi-headed",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "HRMDM5Aurqx8CAtj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.HRMDM5Aurqx8CAtj"
+    },
+    {
+      "text": "Etched with mystic runes",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "ysURaqlLQyQaZBAZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!O4dEGP4ikd9ocEQw.ysURaqlLQyQaZBAZ"
+    }
+  ],
+  "folder": "QybiGAbDuTsW65s1",
+  "sort": 0,
+  "_id": "O4dEGP4ikd9ocEQw",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946938716,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!O4dEGP4ikd9ocEQw"
+}

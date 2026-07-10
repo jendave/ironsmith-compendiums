@@ -1,0 +1,796 @@
+{
+  "name": "Location",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Watch Tower",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "O7syb1e0QijEWLkv",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.O7syb1e0QijEWLkv"
+    },
+    {
+      "text": "Ground Fissure",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "Bsy4qE2YUvFNmZSQ",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.Bsy4qE2YUvFNmZSQ"
+    },
+    {
+      "text": "Bonsai Nursery",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "ExXNIcgqcWcd0xm4",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.ExXNIcgqcWcd0xm4"
+    },
+    {
+      "text": "Tea House",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "xOtM29AwJjRsgqYl",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.xOtM29AwJjRsgqYl"
+    },
+    {
+      "text": "Pagado",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "irhzuPuXf0YI05z4",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.irhzuPuXf0YI05z4"
+    },
+    {
+      "text": "Boardwalk Over Water",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "wcCT5LoafLN74xIk",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.wcCT5LoafLN74xIk"
+    },
+    {
+      "text": "Raised Floor Building",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "OAFdUaKA5w1zEPSY",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.OAFdUaKA5w1zEPSY"
+    },
+    {
+      "text": "Pit Dwelling House",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "5mGT0xyrSmbdRuyA",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.5mGT0xyrSmbdRuyA"
+    },
+    {
+      "text": "Grain Storehouse",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "M3GwuS7SnZPCTg0A",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.M3GwuS7SnZPCTg0A"
+    },
+    {
+      "text": "Karesansui (Zen Garden)",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "xxIyZ3PsQqyuI1Tg",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.xxIyZ3PsQqyuI1Tg"
+    },
+    {
+      "text": "Temple",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "3cZSkfsslpUUJ6f5",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.3cZSkfsslpUUJ6f5"
+    },
+    {
+      "text": "Dojo",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "V2lwUQM4sx4gbVkn",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.V2lwUQM4sx4gbVkn"
+    },
+    {
+      "text": "Shinden Zukuri (Inner Garden)",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "fdOWqerbRRn7Nxmi",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.fdOWqerbRRn7Nxmi"
+    },
+    {
+      "text": "Minka House (A-Frame)",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "hy0vdDeEBSxZf7OA",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.hy0vdDeEBSxZf7OA"
+    },
+    {
+      "text": "Machiya (Townhouse)",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "55QwMZdqvN20GxcT",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.55QwMZdqvN20GxcT"
+    },
+    {
+      "text": "Castle",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "ClPDsEaecIgunMdF",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.ClPDsEaecIgunMdF"
+    },
+    {
+      "text": "Shrine",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "gt6WO1f0jZeswUZ4",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.gt6WO1f0jZeswUZ4"
+    },
+    {
+      "text": "Yokai Statue",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "m7Wo8HGMolvYSMfc",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.m7Wo8HGMolvYSMfc"
+    },
+    {
+      "text": "Cherry Trees",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "eQXBt0Gkcu9tAuw9",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.eQXBt0Gkcu9tAuw9"
+    },
+    {
+      "text": "Orchard",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "tSOGDmwdWUGCIRnp",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.tSOGDmwdWUGCIRnp"
+    },
+    {
+      "text": "Prunus Mume (Flowering Apricot)",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "4hPXtKRS9Ga0FP7v",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.4hPXtKRS9Ga0FP7v"
+    },
+    {
+      "text": "Tumuli (Burial Mound)",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "Zk7piDGMuulNdg8h",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.Zk7piDGMuulNdg8h"
+    },
+    {
+      "text": "Game Trail",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "OvnsFcoj8yO7UMZa",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.OvnsFcoj8yO7UMZa"
+    },
+    {
+      "text": "Stone Path",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "6pXVhpXPNsbHrLtw",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.6pXVhpXPNsbHrLtw"
+    },
+    {
+      "text": "Bog",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "zbiSg2sB3dFwCUHN",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.zbiSg2sB3dFwCUHN"
+    },
+    {
+      "text": "Quagmire",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "2nf4KRPMqymt0WOD",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.2nf4KRPMqymt0WOD"
+    },
+    {
+      "text": "Tar Pit",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "IgFPoBXEkX9vZ3cW",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.IgFPoBXEkX9vZ3cW"
+    },
+    {
+      "text": "Farm House",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "X3qYE6UJbArPSAuD",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.X3qYE6UJbArPSAuD"
+    },
+    {
+      "text": "Creek",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "pYgXIZRlx831qVUt",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.pYgXIZRlx831qVUt"
+    },
+    {
+      "text": "Half Wall",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "aK4LllBFDk1DAJRM",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.aK4LllBFDk1DAJRM"
+    },
+    {
+      "text": "Defensive Wood Spikes",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "aRTQ5uBSUaVPdYmR",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.aRTQ5uBSUaVPdYmR"
+    },
+    {
+      "text": "Pahoehoe (Lava Crust)",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "BhdNpkq9KZZD8fIj",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.BhdNpkq9KZZD8fIj"
+    },
+    {
+      "text": "Aa (Jagged Lava Rubble)",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "znNO8Ygv2WyV9zbp",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.znNO8Ygv2WyV9zbp"
+    },
+    {
+      "text": "Lava Lake",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "CXXPqn6iMGsTOnVG",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.CXXPqn6iMGsTOnVG"
+    },
+    {
+      "text": "Blocky Lava (Smooth Rocks)",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "Yj9jMiW3oImeHabA",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.Yj9jMiW3oImeHabA"
+    },
+    {
+      "text": "Pillow Lava (Glassy Rocks)",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "zwyWFV2mmIFEcXJd",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.zwyWFV2mmIFEcXJd"
+    },
+    {
+      "text": "Columnar Lava",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "yZkz0BVb4mYS0Mym",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.yZkz0BVb4mYS0Mym"
+    },
+    {
+      "text": "Lava Tunnel",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "BhGV3EHZZYl0EKnk",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.BhGV3EHZZYl0EKnk"
+    },
+    {
+      "text": "Quarry",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "HgJuE7hXLxYM0FBq",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.HgJuE7hXLxYM0FBq"
+    },
+    {
+      "text": "Boulders",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "BV910jxgRaMAtOeN",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.BV910jxgRaMAtOeN"
+    },
+    {
+      "text": "Pond",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "10Ym6pRmLLyUUnxs",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.10Ym6pRmLLyUUnxs"
+    },
+    {
+      "text": "Stand of Pine",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "YRHxHnonHCh4Uod0",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.YRHxHnonHCh4Uod0"
+    },
+    {
+      "text": "Scrubland",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "COaxoopOZw7LSmtQ",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.COaxoopOZw7LSmtQ"
+    },
+    {
+      "text": "Arched Bridge",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "EoTSMzSPYevL2LPV",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.EoTSMzSPYevL2LPV"
+    },
+    {
+      "text": "Bamboo Forest",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "eGgn5nbAymv89CnX",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.eGgn5nbAymv89CnX"
+    },
+    {
+      "text": "Rocky Hills",
+      "range": [
+        76,
+        79
+      ],
+      "_id": "qPFIXcTKMFqoVler",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.qPFIXcTKMFqoVler"
+    },
+    {
+      "text": "Jungle",
+      "range": [
+        80,
+        83
+      ],
+      "_id": "VvZwZmtni26V3d4p",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.VvZwZmtni26V3d4p"
+    },
+    {
+      "text": "Woodland",
+      "range": [
+        84,
+        88
+      ],
+      "_id": "NB5SFgZIBSkLrixh",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.NB5SFgZIBSkLrixh"
+    },
+    {
+      "text": "Summit",
+      "range": [
+        89,
+        93
+      ],
+      "_id": "J7PgahNHqe9jEjb9",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.J7PgahNHqe9jEjb9"
+    },
+    {
+      "text": "Mountain",
+      "range": [
+        94,
+        99
+      ],
+      "_id": "MSrB7a1ankIgVBrR",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.MSrB7a1ankIgVBrR"
+    },
+    {
+      "text": "Anomaly",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "FCSv1AHx8qE9Ts7n",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AvytEAkubkXaAuho.FCSv1AHx8qE9Ts7n"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use both the regular Ironsworn oracle and the additional one provided here by rolling your action die with the 2d10. If your action die shows 1-3, use the regular Ironsworn oracle. If your action die shows 4-6, use the oracle provided here.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "lCBownpY290WYqSQ",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "12.331",
+    "createdTime": 1708932824905,
+    "modifiedTime": 1709074983226,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "AvytEAkubkXaAuho",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!tables!AvytEAkubkXaAuho"
+}

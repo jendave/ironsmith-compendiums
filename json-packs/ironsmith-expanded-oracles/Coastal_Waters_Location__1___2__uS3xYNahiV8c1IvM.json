@@ -1,0 +1,282 @@
+{
+  "name": "Coastal Waters Location (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Fleet",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "LnYhOqhaX6vXezNH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.LnYhOqhaX6vXezNH"
+    },
+    {
+      "text": "Sargassum",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "XNJGnIzO9bueODDj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.XNJGnIzO9bueODDj"
+    },
+    {
+      "text": "Flotsam",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "OR4JCixdgclrJxqE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.OR4JCixdgclrJxqE"
+    },
+    {
+      "text": "Mystical Site",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "AR5yHriQocSsf1iV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.AR5yHriQocSsf1iV"
+    },
+    {
+      "text": "Lair",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "3kQjGWRN1lBzuWqb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.3kQjGWRN1lBzuWqb"
+    },
+    {
+      "text": "Wreck",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "Y26zj6BXNevxZR99",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.Y26zj6BXNevxZR99"
+    },
+    {
+      "text": "Harbor",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "d1bllcErmGeS5Wbx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.d1bllcErmGeS5Wbx"
+    },
+    {
+      "text": "Ship",
+      "range": [
+        16,
+        23
+      ],
+      "_id": "68CSn3iz3cQbidRM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.68CSn3iz3cQbidRM"
+    },
+    {
+      "text": "Rocks",
+      "range": [
+        24,
+        30
+      ],
+      "_id": "ObMfV12O1kM4m6br",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.ObMfV12O1kM4m6br"
+    },
+    {
+      "text": "Fjord",
+      "range": [
+        31,
+        38
+      ],
+      "_id": "OLClz9DK9rQERATa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.OLClz9DK9rQERATa"
+    },
+    {
+      "text": "Estuary",
+      "range": [
+        39,
+        46
+      ],
+      "_id": "FBNVpMg6zjlKtO8c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.FBNVpMg6zjlKtO8c"
+    },
+    {
+      "text": "Cove",
+      "range": [
+        47,
+        54
+      ],
+      "_id": "0LXh0rOa3KstQ4wT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.0LXh0rOa3KstQ4wT"
+    },
+    {
+      "text": "Bay",
+      "range": [
+        55,
+        62
+      ],
+      "_id": "17VgZo1s0f6utKaD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.17VgZo1s0f6utKaD"
+    },
+    {
+      "text": "Ice",
+      "range": [
+        63,
+        70
+      ],
+      "_id": "788m2j5nkREB6yNh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.788m2j5nkREB6yNh"
+    },
+    {
+      "text": "Island",
+      "range": [
+        71,
+        85
+      ],
+      "_id": "LsX1MjsNIECR56xs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.LsX1MjsNIECR56xs"
+    },
+    {
+      "text": "Open Water",
+      "range": [
+        86,
+        99
+      ],
+      "_id": "p6eMS32Enr0hCK0P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.p6eMS32Enr0hCK0P"
+    },
+    {
+      "text": "Anomaly",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "t3Ev6iCwn9P4RdvT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uS3xYNahiV8c1IvM.t3Ev6iCwn9P4RdvT"
+    }
+  ],
+  "folder": "XP9oOi86RAUmPdRl",
+  "sort": 400000,
+  "_id": "uS3xYNahiV8c1IvM",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this oracle to identify a point-of-interest or destination when you are traveling by ship or boat.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791159905,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!uS3xYNahiV8c1IvM"
+}

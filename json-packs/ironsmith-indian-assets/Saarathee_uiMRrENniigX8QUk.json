@@ -1,0 +1,66 @@
+{
+  "type": "asset",
+  "folder": "xtgGCzdSkLBnH9Od",
+  "name": "Saarathee",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} while piloting a chariot, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} through the risky piloting of a chariot, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ac19f4c7f3fe31be]{Undertake a Journey} in a chariot, add +1. On a strong hit, also choose one.<ul><li>Beaten path: Mark progress twice if on a road or the plains.</li><li>Make shelter: @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.30046577bc83f2f0]{Make Camp} now and reroll any dice.</li><li>Revel in the ride: Take +2 momentum.</li></ul></p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Charioteer"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/chariot.svg",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709328658309,
+    "modifiedTime": 1764382205052,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "sort": 100000,
+  "_id": "uiMRrENniigX8QUk",
+  "_key": "!items!uiMRrENniigX8QUk"
+}

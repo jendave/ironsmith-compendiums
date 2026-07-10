@@ -1,0 +1,157 @@
+{
+  "name": "Fire Lizard",
+  "img": "icons/creatures/reptiles/lizard-mouth-glowing-red.webp",
+  "type": "foe",
+  "folder": "PhtC6865BqJuajtM",
+  "prototypeToken": {
+    "actorLink": true,
+    "name": "Fire Lizard",
+    "displayName": 0,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "icons/creatures/reptiles/lizard-mouth-glowing-red.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "system": {
+    "dfid": ""
+  },
+  "items": [
+    {
+      "name": "Fire Lizard",
+      "type": "progress",
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Large head crests</p>\n<p class=\"nogrow\">Taloned legs</p>\n<p class=\"nogrow\">Dragon-like neck, wings and tail</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Hunt</p>\n<p class=\"nogrow\">Sunbathe</p>\n<p class=\"nogrow\">Soar the skies</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Claw and bite</p>\n<p class=\"nogrow\">Teleport and attack from behind</p>\n<p class=\"nogrow\">Spew acidic bile</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Weaknesses</h4>\n<p class=\"nogrow\">Must eat often to counteract bile</p>\n<p class=\"nogrow\">Easily frightened if hurt</p>\n</div>\n</div>\n<p>When we first found fire lizards, we thought to tame them and keep them as clever pets, and while not as aggressive as their larger dragon cousins, they are still too wild and unpredictable. Fire lizards resemble red dragons in their proportions and capabilities, but fire lizards are much, much smaller and have more varied scale colorations. A fire lizard can easily perch on the shoulder of an Ironlander. Perhaps due to this smaller size, fire lizards tend to travel and hunt in packs. While they have a penchant for meat, they also will eat vegetation and even small trees in an effort to keep their acidic bile in check.</p>\n<p>When swarms of three to ten fire lizards attack, they try to hit their prey with their acidic bile first which allows the meal to start digesting before it even hits their stomach. If that doesn't work, they may fly in close to rake the prey with their claws or bite. However, the true reason they are considered dangerous is because of their ability to teleport over short distances. There is a sucking and popping sound as they move instantly from one place to another, strike from behind, and pop out again. While they don't often stick around to fight an Ironlander once they've sustained harm, they can cause much damage and havoc in a short amount of time.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A clutch of fire lizard eggs has been located and brought back to town, and a local farmer wants to raise them as his own. The settlement knows that this will only lead to trouble and demands the eggs be returned. How can this stalemate be resolved, and what happened to the fire lizard pack that was responsible for these eggs?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>What do the different colorations of fire lizard mean?</em></p>\n</blockquote>",
+        "rank": 1,
+        "current": 0,
+        "completed": false,
+        "subtype": "foe",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      "_id": "b0cwy6uj5UYssRRM",
+      "img": "icons/creatures/reptiles/lizard-mouth-glowing-red.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "e1Oag2SXzEND5oPH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "coreVersion": "12.331",
+        "createdTime": 1708682828652,
+        "modifiedTime": 1741211780237,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!actors.items!I3FkOqxruNREZHl3.b0cwy6uj5UYssRRM"
+    }
+  ],
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "12.331",
+    "createdTime": 1708682811724,
+    "modifiedTime": 1741211304643,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "I3FkOqxruNREZHl3",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!actors!I3FkOqxruNREZHl3"
+}

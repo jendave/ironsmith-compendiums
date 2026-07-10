@@ -1,0 +1,19 @@
+{
+  "name": "Corruption Moves",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "u9ITbzIMLhPHkXKI",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1708678365190,
+    "modifiedTime": 1708678610401,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!folders!u9ITbzIMLhPHkXKI"
+}

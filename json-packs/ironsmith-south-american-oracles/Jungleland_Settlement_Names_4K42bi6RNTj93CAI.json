@@ -1,0 +1,1529 @@
+{
+  "name": "Jungleland Settlement Names",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Acayaty",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "19N9UvILoxpgqObU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.19N9UvILoxpgqObU"
+    },
+    {
+      "text": "Acelonia",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "8Nd4FV15VyicNGgR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.8Nd4FV15VyicNGgR"
+    },
+    {
+      "text": "Agualao",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "JbfM5qX0ns7llLRx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.JbfM5qX0ns7llLRx"
+    },
+    {
+      "text": "Arilota",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "JBZUQGJmqAThgRf1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.JBZUQGJmqAThgRf1"
+    },
+    {
+      "text": "Arronín",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "JKn936GaNq0UpsN5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.JKn936GaNq0UpsN5"
+    },
+    {
+      "text": "Ascenlomi",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "JOqb2sj6gCjzK5IN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.JOqb2sj6gCjzK5IN"
+    },
+    {
+      "text": "Atlábaé",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "4qcE0esBg5yYAp9h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.4qcE0esBg5yYAp9h"
+    },
+    {
+      "text": "Atlácio",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "rMJ4KnU9dEQnZYSc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.rMJ4KnU9dEQnZYSc"
+    },
+    {
+      "text": "Atocaé",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "PQ72RKgBTRKH56wQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.PQ72RKgBTRKH56wQ"
+    },
+    {
+      "text": "Atymero",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "UF6tl29jERs8hnxl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.UF6tl29jERs8hnxl"
+    },
+    {
+      "text": "Azánritor",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "YOH5s8dwrNyTDgNN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.YOH5s8dwrNyTDgNN"
+    },
+    {
+      "text": "Balos",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "JxcGE9KjcXKozTGI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.JxcGE9KjcXKozTGI"
+    },
+    {
+      "text": "Blannia",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "WAKPJ6VKBS60pDkn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.WAKPJ6VKBS60pDkn"
+    },
+    {
+      "text": "Buhuano",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "qfCcV7KafmpWJvjT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.qfCcV7KafmpWJvjT"
+    },
+    {
+      "text": "Buldo",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "TXYKz9MVxx0qJtp5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.TXYKz9MVxx0qJtp5"
+    },
+    {
+      "text": "Camraz",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "R4cFM6t3wNeCDCmp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.R4cFM6t3wNeCDCmp"
+    },
+    {
+      "text": "Cañacia",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "aUojBe9nQnWRoAoQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.aUojBe9nQnWRoAoQ"
+    },
+    {
+      "text": "Capirón",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "XB12PoNQhqNrzDws",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.XB12PoNQhqNrzDws"
+    },
+    {
+      "text": "Carhuasica",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "dfNKAp2dnNqXja3L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.dfNKAp2dnNqXja3L"
+    },
+    {
+      "text": "Carli",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "0PiMTVVdMECgoaBy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.0PiMTVVdMECgoaBy"
+    },
+    {
+      "text": "Carquillo",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "3cALbnFLrIVUp8hB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.3cALbnFLrIVUp8hB"
+    },
+    {
+      "text": "Casilares",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "MeXQViucG80BK5Xs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.MeXQViucG80BK5Xs"
+    },
+    {
+      "text": "Castia",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "gQ2n0zBT0s7ZxKqf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.gQ2n0zBT0s7ZxKqf"
+    },
+    {
+      "text": "Caucón",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "omSPqjIXVMXK31or",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.omSPqjIXVMXK31or"
+    },
+    {
+      "text": "Caudero",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "YkJ5xQqSr1pnqRxw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.YkJ5xQqSr1pnqRxw"
+    },
+    {
+      "text": "Ceryos",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "ZU8ft5jp8AlNRo0U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.ZU8ft5jp8AlNRo0U"
+    },
+    {
+      "text": "Chaulas",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "4FOfAb2EWPdOuzzi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.4FOfAb2EWPdOuzzi"
+    },
+    {
+      "text": "Chonjuí",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "CMBdyshVsL4sRj4O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.CMBdyshVsL4sRj4O"
+    },
+    {
+      "text": "Chures",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "MEhIGh5o6I8M77hb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.MEhIGh5o6I8M77hb"
+    },
+    {
+      "text": "Comaguas",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "WslzWdFNHoxgDyvf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.WslzWdFNHoxgDyvf"
+    },
+    {
+      "text": "Comahuanaca",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "o6LSQI6rmudcTYGm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.o6LSQI6rmudcTYGm"
+    },
+    {
+      "text": "Copatora",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "x1oSuj3fbGKfIFx3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.x1oSuj3fbGKfIFx3"
+    },
+    {
+      "text": "Corguel",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "ao6nw8jrHUSRmokB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.ao6nw8jrHUSRmokB"
+    },
+    {
+      "text": "Corodente",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "VjV7xxPF3xiAaTaA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.VjV7xxPF3xiAaTaA"
+    },
+    {
+      "text": "Cotoruro",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "2TkORjfKxVSy9PLc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.2TkORjfKxVSy9PLc"
+    },
+    {
+      "text": "Desmopio",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "obaHflwUxdJwUlzM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.obaHflwUxdJwUlzM"
+    },
+    {
+      "text": "Diaciúma",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "um14b9yBKOxcheOJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.um14b9yBKOxcheOJ"
+    },
+    {
+      "text": "Diviraca",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "rYk7luGkkBNtQdBP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.rYk7luGkkBNtQdBP"
+    },
+    {
+      "text": "Escocupé",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "URMiUNpbdZGaIVKb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.URMiUNpbdZGaIVKb"
+    },
+    {
+      "text": "Eusedro",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "uRuRFxapO1etJfq9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.uRuRFxapO1etJfq9"
+    },
+    {
+      "text": "Frulí",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "59h91S7NA0UN3LDp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.59h91S7NA0UN3LDp"
+    },
+    {
+      "text": "Huánumay",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "oOgGPSYNtPgnHG6b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.oOgGPSYNtPgnHG6b"
+    },
+    {
+      "text": "Indaiacife",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "LvnsIvBsKmENVlod",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.LvnsIvBsKmENVlod"
+    },
+    {
+      "text": "Itaquacetuba",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "HFayysXWZgzBc7QN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.HFayysXWZgzBc7QN"
+    },
+    {
+      "text": "Jaboasa",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "QDGheBE8rMxXFi7v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.QDGheBE8rMxXFi7v"
+    },
+    {
+      "text": "Jandiraz",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "QSuN8IHEWvLVNIJk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.QSuN8IHEWvLVNIJk"
+    },
+    {
+      "text": "Junsa",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "3z6pOjOHjpT66j8L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.3z6pOjOHjpT66j8L"
+    },
+    {
+      "text": "La Lamiento",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "ta15dJnA6XazwZ9g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.ta15dJnA6XazwZ9g"
+    },
+    {
+      "text": "Lasreso",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "r373bBGI8rnWIvAX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.r373bBGI8rnWIvAX"
+    },
+    {
+      "text": "Lupevi",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "77fCfwLRCbj2sIbV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.77fCfwLRCbj2sIbV"
+    },
+    {
+      "text": "Maldovenir",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "HDnF3QRPmUYthOuS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.HDnF3QRPmUYthOuS"
+    },
+    {
+      "text": "Mánmey",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "fCQaAUNc4mV9hRZt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.fCQaAUNc4mV9hRZt"
+    },
+    {
+      "text": "Mbuyacuí",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "R66TsBkF3bP7DZbJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.R66TsBkF3bP7DZbJ"
+    },
+    {
+      "text": "Minemuri",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "tZKiHSSRI1RQc818",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.tZKiHSSRI1RQc818"
+    },
+    {
+      "text": "Mineroico",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "NJ0Hhp5FOCFYusqo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.NJ0Hhp5FOCFYusqo"
+    },
+    {
+      "text": "Miztus",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "JdPBZj3YZ4em18gi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.JdPBZj3YZ4em18gi"
+    },
+    {
+      "text": "Mogasta",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "YnrBqCbdm7TkASrL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.YnrBqCbdm7TkASrL"
+    },
+    {
+      "text": "Nacaí",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "itFunfAV1uBu3m3J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.itFunfAV1uBu3m3J"
+    },
+    {
+      "text": "Nuelota",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "MSUc0I7xaChAp1j8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.MSUc0I7xaChAp1j8"
+    },
+    {
+      "text": "Ñutiago",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "2rSdnamNMvjko1ZR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.2rSdnamNMvjko1ZR"
+    },
+    {
+      "text": "Omsupá",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "BvugTq2D1vIm06Tl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.BvugTq2D1vIm06Tl"
+    },
+    {
+      "text": "Pacancomay",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "CUgegs0nAnein151",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.CUgegs0nAnein151"
+    },
+    {
+      "text": "Paineros",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "uCx93SOCntPrOD6u",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.uCx93SOCntPrOD6u"
+    },
+    {
+      "text": "Pangoa",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "Tkn2V1ZahzL4iEtw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.Tkn2V1ZahzL4iEtw"
+    },
+    {
+      "text": "Panguihuano",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "3pmzomwAjSLEa66g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.3pmzomwAjSLEa66g"
+    },
+    {
+      "text": "Panrazno",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "LCK6NxX6xHuj4p8G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.LCK6NxX6xHuj4p8G"
+    },
+    {
+      "text": "Pecero",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "ZqduQoxEz4qd6w4E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.ZqduQoxEz4qd6w4E"
+    },
+    {
+      "text": "Petroraca",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "Xk9seYMpHQ4BWFYq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.Xk9seYMpHQ4BWFYq"
+    },
+    {
+      "text": "Pilcocomay",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "ivsOXxnvuDSPnIdl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.ivsOXxnvuDSPnIdl"
+    },
+    {
+      "text": "Piriájas",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "0Ghattwqd0huh7O8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.0Ghattwqd0huh7O8"
+    },
+    {
+      "text": "Pobamba",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "nXNq46KiP4PkuzNu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.nXNq46KiP4PkuzNu"
+    },
+    {
+      "text": "Polipi",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "MupGUjhoPU0aXRn8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.MupGUjhoPU0aXRn8"
+    },
+    {
+      "text": "Povier",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "p1YINoGjkGlcuwDH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.p1YINoGjkGlcuwDH"
+    },
+    {
+      "text": "Punguas",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "07dWAmSoATaT7rLY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.07dWAmSoATaT7rLY"
+    },
+    {
+      "text": "Purraros",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "BfBY729FlEepsTGS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.BfBY729FlEepsTGS"
+    },
+    {
+      "text": "Rauchi",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "tdX6nIII0zaF5q5n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.tdX6nIII0zaF5q5n"
+    },
+    {
+      "text": "Remão",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "wLAXgw9zRGyKfG02",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.wLAXgw9zRGyKfG02"
+    },
+    {
+      "text": "Roza",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "cTvJJoN4NP0ntMEB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.cTvJJoN4NP0ntMEB"
+    },
+    {
+      "text": "Rurretoca",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "Y1anM2Prvvcx2qxy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.Y1anM2Prvvcx2qxy"
+    },
+    {
+      "text": "San Anhay",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "EGxkKb164qFyEZGf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.EGxkKb164qFyEZGf"
+    },
+    {
+      "text": "San Bozos",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "IupGjwLY9wiymhdt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.IupGjwLY9wiymhdt"
+    },
+    {
+      "text": "San Carcha",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "GwigH9MF1YDfsQQM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.GwigH9MF1YDfsQQM"
+    },
+    {
+      "text": "San Cosby",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "R9szSeP7NmbuWCRE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.R9szSeP7NmbuWCRE"
+    },
+    {
+      "text": "San Fermes",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "vio0gxjLGdyYqOLg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.vio0gxjLGdyYqOLg"
+    },
+    {
+      "text": "San Icabamba",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "mJFPysXlQymChnzD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.mJFPysXlQymChnzD"
+    },
+    {
+      "text": "São Pacetuba",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "M6VRR6c7pO2YdZNu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.M6VRR6c7pO2YdZNu"
+    },
+    {
+      "text": "Sapuru",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "zFAIgQuYESpmF8xq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.zFAIgQuYESpmF8xq"
+    },
+    {
+      "text": "Sosar",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "kw6VvCCVHBxwvRxC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.kw6VvCCVHBxwvRxC"
+    },
+    {
+      "text": "Tajarí",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "iNgkSvVS0S7W2H7Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.iNgkSvVS0S7W2H7Y"
+    },
+    {
+      "text": "Tammerín",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "vGYSQPw4XiKbQUaW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.vGYSQPw4XiKbQUaW"
+    },
+    {
+      "text": "Tebiwa",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "iOAK0nDzFPZSsWlW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.iOAK0nDzFPZSsWlW"
+    },
+    {
+      "text": "Temucón",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "et3OrKXwkuwTIeeI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.et3OrKXwkuwTIeeI"
+    },
+    {
+      "text": "Tugas",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "i2QVQiqasuEdKmkB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.i2QVQiqasuEdKmkB"
+    },
+    {
+      "text": "Vadivia",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "KhSpZkGubArSNSaG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.KhSpZkGubArSNSaG"
+    },
+    {
+      "text": "Velátasar",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "MLMYZvpNh40vQcfj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.MLMYZvpNh40vQcfj"
+    },
+    {
+      "text": "Vera",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "XRZxxbVyAb3aQzLi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.XRZxxbVyAb3aQzLi"
+    },
+    {
+      "text": "Viania",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "NW8J7yoWcNMx5u9m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.NW8J7yoWcNMx5u9m"
+    },
+    {
+      "text": "Yego",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "8a6h9ysX4V0hZMGS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.8a6h9ysX4V0hZMGS"
+    },
+    {
+      "text": "Ygalena",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "75bKqLCrDClSRS5T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.75bKqLCrDClSRS5T"
+    },
+    {
+      "text": "Yuno",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "9vRLLICdPNRW3LsR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4K42bi6RNTj93CAI.9vRLLICdPNRW3LsR"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>To increase your immersion in the South American mythology, I’ve included some Junglelander names that are from the Quechua language as well as settlement names both taken with permission from the awesome generators at fantasynamegenerators.com.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1709419370306,
+    "modifiedTime": 1709422884163,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_id": "4K42bi6RNTj93CAI",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!tables!4K42bi6RNTj93CAI"
+}

@@ -1,0 +1,781 @@
+{
+  "name": "Alternate Fantasy Quests",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Destroy a small shrine to an evil entity.",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "xldbOd2Jouy1mIdd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.xldbOd2Jouy1mIdd"
+    },
+    {
+      "text": "Destroy a watch tower the raiders use.",
+      "range": [
+        3,
+        5
+      ],
+      "_id": "hrGmuvss6SkDDnVl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.hrGmuvss6SkDDnVl"
+    },
+    {
+      "text": "Destroy a bandit encampment.",
+      "range": [
+        6,
+        8
+      ],
+      "_id": "0ufKWXckmxNQazu0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.0ufKWXckmxNQazu0"
+    },
+    {
+      "text": "Destroy the raider's fortified stronghold.",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "ez7o5tbsFCzidOGS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.ez7o5tbsFCzidOGS"
+    },
+    {
+      "text": "Destroy the source of malevolent magic.",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "S6DSlEPtPgvoRJrp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.S6DSlEPtPgvoRJrp"
+    },
+    {
+      "text": "Settle a blood feud between families.",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "yztX7XiiP9b5v5Vh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.yztX7XiiP9b5v5Vh"
+    },
+    {
+      "text": "Stop the skirmishes between two hostile settlements.",
+      "range": [
+        13,
+        15
+      ],
+      "_id": "DYaFCFu9FVC9adLR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.DYaFCFu9FVC9adLR"
+    },
+    {
+      "text": "Unite the three clans of the valley.",
+      "range": [
+        16,
+        18
+      ],
+      "_id": "YdieD01bEgsa987O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.YdieD01bEgsa987O"
+    },
+    {
+      "text": "Establish peace with the elves.",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "gdC7gaGEGEAXs2jF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.gdC7gaGEGEAXs2jF"
+    },
+    {
+      "text": "Make peace with a violent second wave of Old World refugees.",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "l14t7Ebgo5PGJ41W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.l14t7Ebgo5PGJ41W"
+    },
+    {
+      "text": "Gather a medicinal herb.",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "BoiR4w2YqziKGSO2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.BoiR4w2YqziKGSO2"
+    },
+    {
+      "text": "Gather several herbs and find the alchemist.",
+      "range": [
+        23,
+        25
+      ],
+      "_id": "eS2rKiodbWkY54lg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.eS2rKiodbWkY54lg"
+    },
+    {
+      "text": "Gather components and complete a mystic ritual of cleansing.",
+      "range": [
+        26,
+        28
+      ],
+      "_id": "KgsZedSlBqHZfhr2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.KgsZedSlBqHZfhr2"
+    },
+    {
+      "text": "Find the nature and cure for a mystic plague.",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "CvwSCWvt9Ar4YFM3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.CvwSCWvt9Ar4YFM3"
+    },
+    {
+      "text": "Find the nature and cure for a powerful curse.",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "isz4Oy13d0gPXGxi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.isz4Oy13d0gPXGxi"
+    },
+    {
+      "text": "Defend the elder's honor.",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "cBiq3RJVKJF94zSY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.cBiq3RJVKJF94zSY"
+    },
+    {
+      "text": "Defend the settlement from a band of raiders.",
+      "range": [
+        33,
+        35
+      ],
+      "_id": "JJhh0NM4VZWGUGn4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.JJhh0NM4VZWGUGn4"
+    },
+    {
+      "text": "Defend the settlement from a besieging war band.",
+      "range": [
+        36,
+        38
+      ],
+      "_id": "EvsF6uFYuLXgbMRL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.EvsF6uFYuLXgbMRL"
+    },
+    {
+      "text": "Defend the region from the expansion of varou territory.",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "yKoHp8t4fOemlmpv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.yKoHp8t4fOemlmpv"
+    },
+    {
+      "text": "Defend the Ironlands from the unending horde of horrors from the Shattered Wastes.",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "clBMWvUd4t6segjl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.clBMWvUd4t6segjl"
+    },
+    {
+      "text": "Catch a bothersome thief.",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "zW8LqHsnjYr3N5zU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.zW8LqHsnjYr3N5zU"
+    },
+    {
+      "text": "Catch a fleeing murderer.",
+      "range": [
+        43,
+        45
+      ],
+      "_id": "bGpNWEJRVeiDphvZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.bGpNWEJRVeiDphvZ"
+    },
+    {
+      "text": "Catch a skilled assassin.",
+      "range": [
+        46,
+        48
+      ],
+      "_id": "4cuoHDfe8iBopEwp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.4cuoHDfe8iBopEwp"
+    },
+    {
+      "text": "Catch the leader of a slave trade.",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "JP51tQBhl9R7jwPS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.JP51tQBhl9R7jwPS"
+    },
+    {
+      "text": "Catch the mystic who unleashed the Thanosian Plague.",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "Nef2pLx3btax3Q8s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.Nef2pLx3btax3Q8s"
+    },
+    {
+      "text": "Escort an emissary of peace.",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "xfQttzJbIovr8sx0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.xfQttzJbIovr8sx0"
+    },
+    {
+      "text": "Establish a watch tower on a border.",
+      "range": [
+        53,
+        55
+      ],
+      "_id": "9ZLoWxjihWO6xi3z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.9ZLoWxjihWO6xi3z"
+    },
+    {
+      "text": "Establish safe routes for local trade.",
+      "range": [
+        56,
+        58
+      ],
+      "_id": "xNzJ29TJ2w9NMjav",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.xNzJ29TJ2w9NMjav"
+    },
+    {
+      "text": "Gather skilled artisans and warriors to become a cultural hub of the region.",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "Izu8A1yZPISUtY7v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.Izu8A1yZPISUtY7v"
+    },
+    {
+      "text": "Establish one overseer to rule them all.",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "oA1NkUJDo1kexylV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.oA1NkUJDo1kexylV"
+    },
+    {
+      "text": "Help a family reclaim confiscated land.",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "xJSADjPa3iGu1q1n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.xJSADjPa3iGu1q1n"
+    },
+    {
+      "text": "Assist an ally in becoming overseer at the upcoming conclave.",
+      "range": [
+        63,
+        65
+      ],
+      "_id": "SIpBGwFkP9senVXm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.SIpBGwFkP9senVXm"
+    },
+    {
+      "text": "Overthrow a brutal overseer.",
+      "range": [
+        66,
+        68
+      ],
+      "_id": "ty2vEqGO741x8tvE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.ty2vEqGO741x8tvE"
+    },
+    {
+      "text": "Free the people of the dogma enforced by the iron priests.",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "QKEgswOvsIxBUBdp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.QKEgswOvsIxBUBdp"
+    },
+    {
+      "text": "Reclaim independence for the Ironlands from their firstborn oppressors.",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "19EsF9At2oCOYJfs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.19EsF9At2oCOYJfs"
+    },
+    {
+      "text": "Find the lost livestock.",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "mSuTwj9orSapGUPG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.mSuTwj9orSapGUPG"
+    },
+    {
+      "text": "Recover a family heirloom from the battlefield.",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "slUFijGAlumowa4h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.slUFijGAlumowa4h"
+    },
+    {
+      "text": "Recover the armor forged by your ancestors.",
+      "range": [
+        76,
+        78
+      ],
+      "_id": "X1b0do5QqUR9Cin9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.X1b0do5QqUR9Cin9"
+    },
+    {
+      "text": "Find and repair an ancient weapon of tremendous power.",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "3lKGAq3AsxOBASpl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.3lKGAq3AsxOBASpl"
+    },
+    {
+      "text": "Gather the full regalia of the last king of the Old World.",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "1DQuF5cZJ0W6WBci",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.1DQuF5cZJ0W6WBci"
+    },
+    {
+      "text": "Rescue a lost child.",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "Em6fHfy0oVQ0QgYS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.Em6fHfy0oVQ0QgYS"
+    },
+    {
+      "text": "Rescue a lost and imperiled huntsman.",
+      "range": [
+        83,
+        85
+      ],
+      "_id": "pX7SO9FCyVg3rRhE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.pX7SO9FCyVg3rRhE"
+    },
+    {
+      "text": "Rescue an overseer taken hostage.",
+      "range": [
+        86,
+        88
+      ],
+      "_id": "Q2Q2xQNjMkTHuhhg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.Q2Q2xQNjMkTHuhhg"
+    },
+    {
+      "text": "Rescue the druid imprisoned by the firstborn.",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "uTPD7eSxQrKXv5yS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.uTPD7eSxQrKXv5yS"
+    },
+    {
+      "text": "Free the spirit of your parent being tormented in the afterlife.",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "t0wOQ7JFEmiCMavK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.t0wOQ7JFEmiCMavK"
+    },
+    {
+      "text": "Slay an attacking animal.",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "45LvLai8zB1MovlX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.45LvLai8zB1MovlX"
+    },
+    {
+      "text": "Drive off a terrorizing horror.",
+      "range": [
+        93,
+        95
+      ],
+      "_id": "7D86360q5IVTIR4P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.7D86360q5IVTIR4P"
+    },
+    {
+      "text": "Slay the maddened elder beast.",
+      "range": [
+        96,
+        98
+      ],
+      "_id": "kKtWFzDojRD9Lukz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.kKtWFzDojRD9Lukz"
+    },
+    {
+      "text": "Slay a ravaging primordial.",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "Jwj9OMGpH7QbNTuX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.Jwj9OMGpH7QbNTuX"
+    },
+    {
+      "text": "Slay Ormsliki the king of wyverns.",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "BIz1hPAlllz8kzZa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yg7lzwTqrJhcYfaY.BIz1hPAlllz8kzZa"
+    }
+  ],
+  "folder": "Kj7f4Bqpgi9CfkHi",
+  "sort": 300000,
+  "_id": "yg7lzwTqrJhcYfaY",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>These are the standard fantasy tropes boiled down to a phrase in the form of \"Verb the Noun.\" While these are common particularly in high fantasy, this section also includes a modifying adjective to help get the creative juices flowing and ground you in the grittier world of the Ironlands. Feel free to make your own list of modifiers that fit your world better. For example, an easy way to swap out your modifiers is to put in the different types of themes for sites such as Contested, Floating, Frozen, etc. available in Ironsworn: Delve and in this supplement on pg. 227.</p><p>You may use this table in place of the one on pg. 96.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.yg7lzwTqrJhcYfaY"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159151,
+    "modifiedTime": 1702852156175,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!yg7lzwTqrJhcYfaY"
+}

@@ -1,0 +1,71 @@
+{
+  "type": "asset",
+  "folder": "LVZLVJKri5u9NlDk",
+  "name": "Ancestral Knowledge",
+  "system": {
+    "requirement": "When you surround yourself with objects connected to a specific ancestor and implore them for help, roll +heart. On a strong hit, they find you worthy and grant you temporary power. Until the following dawn, you gain the asset associated with that ancestor with all the abilities unlocked. Treat a weak hit as a miss. When you gain each upgrade, name the ancestor and asset.",
+    "category": "Ritual",
+    "color": null,
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      },
+      {
+        "name": "Asset",
+        "value": ""
+      },
+      {
+        "name": "Name",
+        "value": ""
+      },
+      {
+        "name": "Asset",
+        "value": ""
+      },
+      {
+        "name": "Name",
+        "value": ""
+      },
+      {
+        "name": "Asset",
+        "value": ""
+      }
+    ],
+    "abilities": [],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/ifrit.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1708647970467,
+    "modifiedTime": 1764372860605,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "mCwNzgzix52oEWe8",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!mCwNzgzix52oEWe8"
+}

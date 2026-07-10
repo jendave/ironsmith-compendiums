@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "folder": "LVZLVJKri5u9NlDk",
+  "name": "Bloodlust",
+  "system": {
+    "requirement": "When you mark your own, an ally's, or companion's arm, head and weapon with ancient sigils of rage made of blood, roll +wits. On a strong hit, mystic rage fuels the target. The next time they...",
+    "category": "Ritual",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Modr: @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.ed343c963b08f301]{Enter the Fray} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c0967ba47f57393b]{Draw the Circle}, add +X...</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Sadr: @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash}, add +X...</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Skadi: Inflict harm, inflict +X harm...</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "...where X is the result on your action die for this ritual. On a weak hit, as above but X is 1 instead.",
+        "selected": true
+      }
+    ],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/enrage.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1708647975584,
+    "modifiedTime": 1764372871233,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "DB1XlYciGSG7K1T8",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!DB1XlYciGSG7K1T8"
+}

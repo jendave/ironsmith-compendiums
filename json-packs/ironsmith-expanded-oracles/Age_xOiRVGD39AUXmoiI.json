@@ -1,0 +1,121 @@
+{
+  "name": "Age",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Minutes old",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "LtghGXcohJrBCPKe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xOiRVGD39AUXmoiI.LtghGXcohJrBCPKe"
+    },
+    {
+      "text": "Hours old",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "sh5yALTCmt6wXdPo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xOiRVGD39AUXmoiI.sh5yALTCmt6wXdPo"
+    },
+    {
+      "text": "Days old",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "s1RqeGfNGF78uqE3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xOiRVGD39AUXmoiI.s1RqeGfNGF78uqE3"
+    },
+    {
+      "text": "Weeks old",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "xStA9VZYUDQALDp5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xOiRVGD39AUXmoiI.xStA9VZYUDQALDp5"
+    },
+    {
+      "text": "Months old",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "9sK8IxsR4tNo1Du2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xOiRVGD39AUXmoiI.9sK8IxsR4tNo1Du2"
+    },
+    {
+      "text": "Years old",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "2MMEUbN3jtuDqkNr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xOiRVGD39AUXmoiI.2MMEUbN3jtuDqkNr"
+    }
+  ],
+  "folder": "A0IYsjskOw4TXjEk",
+  "sort": 200000,
+  "_id": "xOiRVGD39AUXmoiI",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>You may specifically search for and discover tell-tale signs of the monster's passage that give you more information about the monster itself. When you score a hit while searching for tracks, you may roll percentile dice (2d10) and your action die (1d6) using the following table to tell you what type of tracks you find.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.xOiRVGD39AUXmoiI"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159526,
+    "modifiedTime": 1702853678414,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!xOiRVGD39AUXmoiI"
+}

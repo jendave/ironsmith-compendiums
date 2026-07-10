@@ -1,0 +1,331 @@
+{
+  "name": "Typical NPC Reaction",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Pity",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "BJfsiRYDq3EjefpW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.BJfsiRYDq3EjefpW"
+    },
+    {
+      "text": "Revulsion",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "s0uIxUk4hQFmRS0v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.s0uIxUk4hQFmRS0v"
+    },
+    {
+      "text": "Ever-increasing fear",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "oAKPrvDwmWFZDPMW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.oAKPrvDwmWFZDPMW"
+    },
+    {
+      "text": "Bubbling and building anger",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "0gdzQr61MSgLVo1b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.0gdzQr61MSgLVo1b"
+    },
+    {
+      "text": "Outright and undeserved hatred",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "mvFytVYb6kSD9Pmr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.mvFytVYb6kSD9Pmr"
+    },
+    {
+      "text": "Annoyance or dismissiveness",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "8T5BonhMVn6HQlJU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.8T5BonhMVn6HQlJU"
+    },
+    {
+      "text": "Nervousness or anxiety",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "LIQo0m7YbSvoC6Um",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.LIQo0m7YbSvoC6Um"
+    },
+    {
+      "text": "Disdain and scorn",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "BHx6Nip74xDaNpMc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.BHx6Nip74xDaNpMc"
+    },
+    {
+      "text": "Suspicion and doubt",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "MS2aXcFpqg1nWxLz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.MS2aXcFpqg1nWxLz"
+    },
+    {
+      "text": "Involuntary prophesying",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "D2oiom17kWeIcFwg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.D2oiom17kWeIcFwg"
+    },
+    {
+      "text": "Overwhelming sorrow or grief",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "sd7WUwQ0YuP2bLwS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.sd7WUwQ0YuP2bLwS"
+    },
+    {
+      "text": "Intermittent bouts of panic",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "8iqFdBTcZhAaA3uI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.8iqFdBTcZhAaA3uI"
+    },
+    {
+      "text": "Guilt and remorse accompanied by a need to confess",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "fiGRApHnfJkLfM8b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.fiGRApHnfJkLfM8b"
+    },
+    {
+      "text": "Hopelessness and despair",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "tJXAuRAeICzpt2Ob",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.tJXAuRAeICzpt2Ob"
+    },
+    {
+      "text": "Apathy and unresponsiveness",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "OaZKXaqoJ8dPdvU7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.OaZKXaqoJ8dPdvU7"
+    },
+    {
+      "text": "Defensiveness",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "XG34Z22QvhF1HRSb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.XG34Z22QvhF1HRSb"
+    },
+    {
+      "text": "Confusion",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "LSOMmEwy885rJuld",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.LSOMmEwy885rJuld"
+    },
+    {
+      "text": "Misunderstanding or misinterpreting",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "xL9z1jARlDBuT19r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.xL9z1jARlDBuT19r"
+    },
+    {
+      "text": "Obfuscation",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "EaPW305dfjX493JC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.EaPW305dfjX493JC"
+    },
+    {
+      "text": "Aggressiveness and contrariness",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "l9t8pSE6PM9MhOmy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9eNEhsDz3VGQe568.l9t8pSE6PM9MhOmy"
+    }
+  ],
+  "folder": "iw9CdTaDyib9IgXg",
+  "sort": 600000,
+  "_id": "9eNEhsDz3VGQe568",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>If you exhibit some evidence of corruption, NPCs will most likely react to those pieces of evidence. However, sometimes the corruption within a character is hidden from view but somehow still noticed, intuited, or even subconsciously reacted to by NPCs. These reactions can be the most creepy because they appear to be an illogical and involuntary response in the NPCs.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.9eNEhsDz3VGQe568"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791158904,
+    "modifiedTime": 1702851722735,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!9eNEhsDz3VGQe568"
+}

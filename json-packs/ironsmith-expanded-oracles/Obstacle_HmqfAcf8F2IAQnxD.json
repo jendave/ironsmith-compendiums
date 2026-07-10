@@ -1,0 +1,181 @@
+{
+  "name": "Obstacle",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Evidence has been destroyed.  Who or what destroyed this evidence and why would they support the criminal?",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "SMSXzF09j77UVswE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HmqfAcf8F2IAQnxD.SMSXzF09j77UVswE"
+    },
+    {
+      "text": "A person with information is unwilling to share it with you.  What task must you complete to earn their trust or pay for the information?",
+      "range": [
+        11,
+        20
+      ],
+      "_id": "RBxKM1FwG4ESvO74",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HmqfAcf8F2IAQnxD.RBxKM1FwG4ESvO74"
+    },
+    {
+      "text": "You find out that you don't have the permission, standing, or power to go someplace you need to investigate.  How can you show that you are worthy to access such a location?",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "JQegTepaWFcUXiXy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HmqfAcf8F2IAQnxD.JQegTepaWFcUXiXy"
+    },
+    {
+      "text": "The pressure mounts as the evidence you just uncovered shows that the mystery must be solved soon lest an irrevocable change or evil deed make the investigation moot.  What is the impending event?",
+      "range": [
+        31,
+        40
+      ],
+      "_id": "OzEBdKzhqbGHk3EM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HmqfAcf8F2IAQnxD.OzEBdKzhqbGHk3EM"
+    },
+    {
+      "text": "The questions you ask or places that you go are considered taboo.  How can you get the information you need without offending people?",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "iMkh15YKcFIAiTo8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HmqfAcf8F2IAQnxD.iMkh15YKcFIAiTo8"
+    },
+    {
+      "text": "The criminal is being harbored by some faction or group.  What is this group's connection to your past that will make them difficult to deal with?",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "DLFAhiCHMAMkzQTu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HmqfAcf8F2IAQnxD.DLFAhiCHMAMkzQTu"
+    },
+    {
+      "text": "You find out that if the criminal is caught, an innocent person will likely suffer.  How is this innocent entangled in the mystery?",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "X3gjTYukZR18nxfg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HmqfAcf8F2IAQnxD.X3gjTYukZR18nxfg"
+    },
+    {
+      "text": "A suspect sent someone or something to stop you from investigating any further.  What is this opposing force, and how far are they willing to go to stop you?",
+      "range": [
+        71,
+        80
+      ],
+      "_id": "F6A99ED2dwKn8ZGJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HmqfAcf8F2IAQnxD.F6A99ED2dwKn8ZGJ"
+    },
+    {
+      "text": "A conflict from your past has arisen at just the wrong time.  What was that conflict, and how is it now impeding your progress?",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "fxHhDCXqBpJ8QTxW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HmqfAcf8F2IAQnxD.fxHhDCXqBpJ8QTxW"
+    },
+    {
+      "text": "You find evidence that a primary suspect is actually innocent, and now they see it as a point of honor to oppose you.  Despite their innocence, what special information do they hold?",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "bglU3tloYcqYGEUB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HmqfAcf8F2IAQnxD.bglU3tloYcqYGEUB"
+    }
+  ],
+  "folder": "ys0tLVTcvwcElQVg",
+  "sort": 500000,
+  "_id": "HmqfAcf8F2IAQnxD",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>While you may have brainstormed a few obstacles during the vow creation process, you may also want to find some mystery-centric obstacles during gameplay. In the broadest terms, obstacles in a mystery will be events designed to stop your character from figuring out the mystery. If you score a miss on a Gather Information or other move in pursuit of solving a mystery, you may roll percentile dice (2d10) on the following table using the given obstacles to help you frame the fiction of your miss.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.HmqfAcf8F2IAQnxD"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159406,
+    "modifiedTime": 1702852415800,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!HmqfAcf8F2IAQnxD"
+}

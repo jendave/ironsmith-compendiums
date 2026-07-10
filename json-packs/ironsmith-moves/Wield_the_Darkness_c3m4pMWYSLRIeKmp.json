@@ -1,0 +1,81 @@
+{
+  "name": "Wield the Darkness",
+  "type": "sfmove",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "dfid": "",
+    "Category": "",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "When you **summon the darkness within you and leverage it to make minor alterations to an aspect** the dark power controls, choose one option below. Then envision how your character uses the power to:\n\n* **Act:** You may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.be95ca063ded2b19]{Compel}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or  +darkness instead of the normal stat. If your action die shows a 1 on that move, mark darkness.\n* **Interrupt:** After rolling for a move but before resolving the outcome, choose one:\n    * Mark darkness to change a weak hit to a strong hit.\n    * Mark darkness twice to change a miss to a weak hit.\n\n* **Empower:** You may @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.fdb51ee928b4fca2]{Endure Harm} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.92b85c33a17ab487]{Face Death} +darkness instead of the normal stat. If your action die shows a 1 on that move, mark darkness.",
+    "Trigger": {
+      "Text": "When you summon the darkness within you and leverage it to make minor alterations to an aspect the dark power controls...",
+      "Options": []
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      },
+      "Weak Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "",
+      "Authors": [],
+      "Page": null
+    },
+    "Suggestions": {},
+    "Display": {
+      "Images": []
+    }
+  },
+  "effects": [],
+  "folder": "v6vGfxHTWgeEKRul",
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1708671633170,
+    "modifiedTime": 1708678378992,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_id": "c3m4pMWYSLRIeKmp",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!c3m4pMWYSLRIeKmp"
+}

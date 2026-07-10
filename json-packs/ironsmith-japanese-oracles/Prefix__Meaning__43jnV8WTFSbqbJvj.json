@@ -1,0 +1,408 @@
+{
+  "name": "Prefix (Meaning)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Ryu-       Dragon-",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "3NtROVk4LlE1qQio",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.3NtROVk4LlE1qQio"
+    },
+    {
+      "text": "Seshin-    Spirit-",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "aFlddOODRWzd6zVL",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.aFlddOODRWzd6zVL"
+    },
+    {
+      "text": "Hebi-      Serpent-",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "blwZCZCYriI9YeA0",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.blwZCZCYriI9YeA0"
+    },
+    {
+      "text": "Tora-      Tiger-",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "r90ZGS8J5M0OkS61",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.r90ZGS8J5M0OkS61"
+    },
+    {
+      "text": "Washi-     Eagle-",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "XKFAVAWjBdRytIOM",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.XKFAVAWjBdRytIOM"
+    },
+    {
+      "text": "Hana-      Flower-",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "n8r2lNKAbO4xA9u3",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.n8r2lNKAbO4xA9u3"
+    },
+    {
+      "text": "Haka-      Tomb-",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "VbZKsNcuJCyRXiqt",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.VbZKsNcuJCyRXiqt"
+    },
+    {
+      "text": "Ken-       Sword-",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "1zYisWvIxTV1X5Yc",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.1zYisWvIxTV1X5Yc"
+    },
+    {
+      "text": "Meiyo-     Honor-",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "Zfur0fOqHcwjJmII",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.Zfur0fOqHcwjJmII"
+    },
+    {
+      "text": "Tengoku-   Heaven-",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "CCpsvG4cWW9yfGWt",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.CCpsvG4cWW9yfGWt"
+    },
+    {
+      "text": "Tentai-    Celestial-",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "J20bZxyHGpp4TVdz",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.J20bZxyHGpp4TVdz"
+    },
+    {
+      "text": "Jigoku-    Infernal-",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "jllxEYuunYvmzmYj",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.jllxEYuunYvmzmYj"
+    },
+    {
+      "text": "Sabishi-   Lonely-",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "qZvoh4ZEMyUTRap2",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.qZvoh4ZEMyUTRap2"
+    },
+    {
+      "text": "Tsuyoi-    Strong-",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "VKysrHQW2psB6sTs",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.VKysrHQW2psB6sTs"
+    },
+    {
+      "text": "Saru-      Monkey-",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "s3S7VdmoKBAdPn5P",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.s3S7VdmoKBAdPn5P"
+    },
+    {
+      "text": "Kamakiri-  Mantis-",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "HBhI3sQHq2okDyJr",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.HBhI3sQHq2okDyJr"
+    },
+    {
+      "text": "Tate-      Shield-",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "MeOzCCXztHdduPQt",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.MeOzCCXztHdduPQt"
+    },
+    {
+      "text": "Kari-      Hunting-",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "cJUafHjgbA0DvESX",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.cJUafHjgbA0DvESX"
+    },
+    {
+      "text": "Gama-      Frog-",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "lQ2zSWrgSjIbDpAD",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.lQ2zSWrgSjIbDpAD"
+    },
+    {
+      "text": "Sugoi-     Great-",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "Pgs45uoSB3whwu3S",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.Pgs45uoSB3whwu3S"
+    },
+    {
+      "text": "Jindai-    Huge-",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "WXTG7vdmNc24adJk",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.WXTG7vdmNc24adJk"
+    },
+    {
+      "text": "Hatsu-     New-",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "C4eTbnGO1ZmVuFy5",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.C4eTbnGO1ZmVuFy5"
+    },
+    {
+      "text": "Okami-     Wolf-",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "cf9KCfcOP6cszSGO",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.cf9KCfcOP6cszSGO"
+    },
+    {
+      "text": "Inki-      Bleak-",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "smtXaQMCkTcpicO8",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.smtXaQMCkTcpicO8"
+    },
+    {
+      "text": "Hitan-     Grief-",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "vwzip06zUasFZbGv",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!43jnV8WTFSbqbJvj.vwzip06zUasFZbGv"
+    }
+  ],
+  "folder": "7pF3r7DsI3OCt4p6",
+  "sort": 0,
+  "_id": "43jnV8WTFSbqbJvj",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use the oracle provided here. The English meaning of each Japanese word is provided so that you can combine the words for the settlement in either language. (i.e. the town Washioka could also be called Eagle Hill).</p><p>Feel free to embellish the names as it can lead to more world building.</p><p>For example, if you roll and get 18 and 52 to get Washiasase or Eagle's</p><p>Ford, you might decide to name the settlement Ford of the Walking Eagle.</p><p>I thought of adding \"walking\" because why would an eagle need to ford a</p><p>river? Next I start developing a Firelander myth of a great eagle yokai that</p><p>wanted to learn what it meant to be human and so gave up their wings for</p><p>a year and a day. On the day that the eagle was to get back its wings, the</p><p>river flooded and the eagle jumped in to save the person it had fallen in love</p><p>with during the last year. The person survived, but the eagle yokai did not.</p><p>Now the people living in the Ford of the Walking Eagle honor its sacrifice</p><p>each year in the spring.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.43jnV8WTFSbqbJvj"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "12.331",
+    "createdTime": 1708933025227,
+    "modifiedTime": 1725048404892,
+    "lastModifiedBy": "QLh5FAx5ofV7KQX6",
+    "compendiumSource": "RollTable.43jnV8WTFSbqbJvj",
+    "duplicateSource": null
+  },
+  "_key": "!tables!43jnV8WTFSbqbJvj"
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Likelihood of Correct Characteristic",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Small chance",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "Gwsz68HRMWLs2JC6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BMneJw1hK4W7j2UO.Gwsz68HRMWLs2JC6"
+    },
+    {
+      "text": "Unlikely",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "mCU6J41BX5aBzylD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BMneJw1hK4W7j2UO.mCU6J41BX5aBzylD"
+    },
+    {
+      "text": "50/50",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "I3ltG7TMAYKCVWY8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BMneJw1hK4W7j2UO.I3ltG7TMAYKCVWY8"
+    },
+    {
+      "text": "Likely",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "CIFP9N7fcIqzfSDc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BMneJw1hK4W7j2UO.CIFP9N7fcIqzfSDc"
+    },
+    {
+      "text": "Almost certain",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "DmwhaOwVh9za97bL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BMneJw1hK4W7j2UO.DmwhaOwVh9za97bL"
+    },
+    {
+      "text": "Almost certain",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "MgnLILNzoJ7NYPIN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BMneJw1hK4W7j2UO.MgnLILNzoJ7NYPIN"
+    }
+  ],
+  "folder": "OHcTJgQWQNrrQL2n",
+  "sort": 300000,
+  "_id": "BMneJw1hK4W7j2UO",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>After designing your monster, you may want an added twist. What if the people describing the monster don't get the details right? We know that eyewitnesses are notorious for getting things wrong, and in the chaos of a monster attack, it's reasonable to assume that some of the details got jumbled. Or worse yet, what if the person your character is talking to is intentionally lying about the monster? Why would they lie? What do they gain from this? These types of twists can lead to cool game play moments as your character has made preparations to combat one particular monster attribute (such as breathing fire), but it's actually got a completely different attribute (sonic vibrations that move so quickly they set a wood pile on fire) leaving you to scramble for a new plan on the fly.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.BMneJw1hK4W7j2UO"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159510,
+    "modifiedTime": 1702853468037,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!BMneJw1hK4W7j2UO"
+}

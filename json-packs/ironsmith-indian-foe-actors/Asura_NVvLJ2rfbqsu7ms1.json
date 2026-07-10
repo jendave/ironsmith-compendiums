@@ -1,0 +1,165 @@
+{
+  "name": "Asura",
+  "type": "foe",
+  "img": "icons/magic/light/orb-hands-humanoid-yellow.webp",
+  "items": [
+    {
+      "_id": "TcvH9NHitjyhEqws",
+      "name": "Asura",
+      "type": "progress",
+      "img": "icons/magic/light/orb-hands-humanoid-yellow.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Yellow-hued skin tones</p>\n<p>Clothing adorned with iconography</p>\n<p>Angelic wings</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Worship the sun gods</p>\n<p>Oppose the devas</p>\n<p>Protect the Patala Dvaar region</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Attack with weapons of light</p>\n<p>Blind and stun</p>\n<p>Create illusions</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 220\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 40\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Some say the asura are demons who escaped from the underworld. Others say they are divine beings trying to seal off the underworld. However, they may both be wrong. It is possible that the asura are descendants of an ancient people who were the first inhabitants of the Tigerlands, the first of the firstborn.</p>\n<p>Whatever their ancestral roots, the asura have an affinity for controlling and manipulating light through mystic arts. To them, wielding a sword of pure light is nothing more complicated than wielding a sword of steel, and perhaps even less complicated in their mind. They can call forth powerful motes of pure light, wreathe a shield in a protective layer of light, or alter hues of ambient light so precisely that a person sees something that is not truly there, merely an illusion.</p>\n<p>Since we first became aware of the existence of the asura, they have been at war with the devas in Patala Dvaar. As far as we can tell, this war has been perpetually waging seen time out of mind.</p>\n<p>It is rare that an asura will make their way south, but when they do, they often tuck their wings tightly to their back or cover them with a cloak so that they can pass as a Tigerlander. It is true that they are similar in anatomy to us, but as we understand it, there are four genders of asura and all four are necessary for procreation. They are nar, pun, mahila, and stan.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>The fourth member of an asura parental group has gone missing. Without the stan&rsquo;s contribution soon, the developing embryo may die. What dangerous place was this asura going to? Why do you offer to help?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Are the asura attuned to light or fire?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!NVvLJ2rfbqsu7ms1.TcvH9NHitjyhEqws"
+    }
+  ],
+  "effects": [],
+  "folder": "1h2u3eK9jX6x0dlp",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Asura",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/magic/light/orb-hands-humanoid-yellow.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741382015530,
+    "modifiedTime": 1741382890181,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "NVvLJ2rfbqsu7ms1",
+  "sort": 600000,
+  "_key": "!actors!NVvLJ2rfbqsu7ms1"
+}

@@ -1,0 +1,157 @@
+{
+  "name": "Manticore",
+  "img": "icons/creatures/abilities/lion-roar-yellow.webp",
+  "type": "foe",
+  "folder": "PhtC6865BqJuajtM",
+  "prototypeToken": {
+    "actorLink": true,
+    "name": "Manticore",
+    "displayName": 0,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "icons/creatures/abilities/lion-roar-yellow.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "system": {
+    "dfid": ""
+  },
+  "items": [
+    {
+      "name": "Manticore",
+      "type": "progress",
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Body of a lion</p>\n<p class=\"nogrow\">Scorpion tail</p>\n<p class=\"nogrow\">Leathery bat wings</p>\n<p class=\"nogrow\">Horns, large triangular ears and goat-like face</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Hunt</p>\n<p class=\"nogrow\">Kill for sport</p>\n<p class=\"nogrow\">Expand territory</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Aerial or jump attack</p>\n<p class=\"nogrow\">Poison tail sting</p>\n<p class=\"nogrow\">Knock down and tear apart</p>\n<p class=\"nogrow\">Gore with horns</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Weaknesses</h4>\n<p class=\"nogrow\">Predictably aggressive</p>\n<p class=\"nogrow\">Wings are not well protected</p>\n</div>\n</div>\n<p>Manticores are not as large as dragons but are larger than gryphons. Their combination of a lion's body complete with mane-like fur about the chest and neck, scorpion tail, bat-like wings, and grotesquely distorted goat's face and horns make them utterly repulsive. Their mouth seems too large for their head and contain between one and three rows of teeth depending on the manticore's age.</p>\n<p>No one knows the natural habitat of manticores as they can be found nearly everywhere in the Ironlands. Indeed, they seem to appear at random and then threaten all life in their zone of influence. While they prefer to attack from the ground, their ability to fly means that our walls do not keep us safe when a manticore decides to attack. Once they get it into their head to kill something, it is nearly impossible to drive them off and even more difficult to kill them.</p>\n<p>The poison of a manticore sting is enough to instantly stun their prey, but not kill them, because the manticore prefers to eat its food alive. The only creature we know that can resist the poison of the manticore is the mammoth. Perhaps it is simply that a mammoth is large enough that it would take more stings to stun it, but we don't believe so because even giants succumb to the manticore sting. When a manticore's territory is discovered, it is best to bring in a group of hunters riding mammoths to kill it.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>One of the few roads in the Ironlands is being blocked by a manticore who attacks all travelers. It seems to have a special taste for Ironlander blood and sits in the middle of the road awaiting prey to come to it. How can the road be safely re-opened?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Is the manticore able to shoot poisoned spines from its tail, or does it have the single stinger only?</em></p>\n</blockquote>",
+        "rank": 3,
+        "current": 0,
+        "completed": false,
+        "subtype": "foe",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      "_id": "b0cwy6uj5UYssRRM",
+      "img": "icons/creatures/abilities/lion-roar-yellow.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "e1Oag2SXzEND5oPH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "coreVersion": "12.331",
+        "createdTime": 1708682828652,
+        "modifiedTime": 1741214142664,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!actors.items!5As6LXkDrjrikDoG.b0cwy6uj5UYssRRM"
+    }
+  ],
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "12.331",
+    "createdTime": 1708682811724,
+    "modifiedTime": 1741213593736,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "5As6LXkDrjrikDoG",
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!actors!5As6LXkDrjrikDoG"
+}

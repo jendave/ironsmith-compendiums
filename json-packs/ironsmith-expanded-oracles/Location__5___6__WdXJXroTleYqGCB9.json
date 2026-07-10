@@ -1,0 +1,792 @@
+{
+  "name": "Location (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Hut",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "eZRkvIa7Ligir9NL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.eZRkvIa7Ligir9NL"
+    },
+    {
+      "text": "Farm",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "cvBEQx5I0tPaFrUh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.cvBEQx5I0tPaFrUh"
+    },
+    {
+      "text": "Standing Stones",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "WYoWbjl8oQtLouxy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.WYoWbjl8oQtLouxy"
+    },
+    {
+      "text": "Homestead",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "gOaxtt8Mg9tX54qz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.gOaxtt8Mg9tX54qz"
+    },
+    {
+      "text": "Tunnel",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "t4KHPuC9QJJWs73A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.t4KHPuC9QJJWs73A"
+    },
+    {
+      "text": "Shrine",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "gcez2nSEpSztGSxu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.gcez2nSEpSztGSxu"
+    },
+    {
+      "text": "Stone Pillar",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "Et9LzHzNAv97bQDN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.Et9LzHzNAv97bQDN"
+    },
+    {
+      "text": "Iron Pillar",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "2ajdN7iSrEJWkH4o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.2ajdN7iSrEJWkH4o"
+    },
+    {
+      "text": "Volcano",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "RErTjqRBPBCA3ZCI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.RErTjqRBPBCA3ZCI"
+    },
+    {
+      "text": "Monastery",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "rXCKY9lPAOFuQZ68",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.rXCKY9lPAOFuQZ68"
+    },
+    {
+      "text": "Oasis",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "CQIWDBpuEtUsMqLQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.CQIWDBpuEtUsMqLQ"
+    },
+    {
+      "text": "Dunes",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "xSklMJw5bfev5eoq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.xSklMJw5bfev5eoq"
+    },
+    {
+      "text": "Mausoleum",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "NyewFszUrPWg6v80",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.NyewFszUrPWg6v80"
+    },
+    {
+      "text": "Stronghold",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "WQl90YNEI6p7tgeP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.WQl90YNEI6p7tgeP"
+    },
+    {
+      "text": "Sacred Place",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "Xx07XjSDQmTBWxaQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.Xx07XjSDQmTBWxaQ"
+    },
+    {
+      "text": "Giant Boulders",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "RQ2etj2emciGIQsl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.RQ2etj2emciGIQsl"
+    },
+    {
+      "text": "River Rapids",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "cp1VyLoihkHdZ1i8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.cp1VyLoihkHdZ1i8"
+    },
+    {
+      "text": "Lava Tube",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "Fr4E1rqbbpRaLJ1T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.Fr4E1rqbbpRaLJ1T"
+    },
+    {
+      "text": "Monument",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "QHqMCsJyrCdGsUxy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.QHqMCsJyrCdGsUxy"
+    },
+    {
+      "text": "Ledge",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "Z2y6FHUEf0x3tWVE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.Z2y6FHUEf0x3tWVE"
+    },
+    {
+      "text": "Savannah",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "GVqFQYTwOmIfARag",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.GVqFQYTwOmIfARag"
+    },
+    {
+      "text": "Sinkhole",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "FCcP95GHI8ppFJRH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.FCcP95GHI8ppFJRH"
+    },
+    {
+      "text": "Pasture",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "8i5f1NOy0TQQ4RH8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.8i5f1NOy0TQQ4RH8"
+    },
+    {
+      "text": "Pit",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "TtrbuZwtdqy7cWHo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.TtrbuZwtdqy7cWHo"
+    },
+    {
+      "text": "Gravel Incline",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "huy0EVIjfxDG6dpt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.huy0EVIjfxDG6dpt"
+    },
+    {
+      "text": "Rock Incline",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "RMVpCVGGev8ISVOc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.RMVpCVGGev8ISVOc"
+    },
+    {
+      "text": "Summit",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "WFMYg6gJ5aGzUUKu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.WFMYg6gJ5aGzUUKu"
+    },
+    {
+      "text": "Peak",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "Gviv2SkiX3atJ2Tj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.Gviv2SkiX3atJ2Tj"
+    },
+    {
+      "text": "Plateau",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "eXfV4NHyV84KTmt9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.eXfV4NHyV84KTmt9"
+    },
+    {
+      "text": "Gorge",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "xGuekUkCqQBxD3kU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.xGuekUkCqQBxD3kU"
+    },
+    {
+      "text": "Chasm",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "Xt9LRwtuQnryB4qN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.Xt9LRwtuQnryB4qN"
+    },
+    {
+      "text": "Stone Bridge",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "DJjiqF6V2nOTgfkI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.DJjiqF6V2nOTgfkI"
+    },
+    {
+      "text": "Rock Spires",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "VczlMVhSfsYHBbSU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.VczlMVhSfsYHBbSU"
+    },
+    {
+      "text": "Dry Riverbed",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "0gRZgNtBB83RCPIY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.0gRZgNtBB83RCPIY"
+    },
+    {
+      "text": "Cavern",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "3bNfkfPnqw4e1LBu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.3bNfkfPnqw4e1LBu"
+    },
+    {
+      "text": "Hot Springs",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "HsTYd4kck0sMPd4G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.HsTYd4kck0sMPd4G"
+    },
+    {
+      "text": "Hollow",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "fiHURTLog8fylVYv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.fiHURTLog8fylVYv"
+    },
+    {
+      "text": "Bog",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "iHH0evfjCiV2SNNQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.iHH0evfjCiV2SNNQ"
+    },
+    {
+      "text": "Switch Backs",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "nNVh08T6BZTZiFJ6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.nNVh08T6BZTZiFJ6"
+    },
+    {
+      "text": "Quicksand",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "9QRTPqVfCH3Qt0TY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.9QRTPqVfCH3Qt0TY"
+    },
+    {
+      "text": "Tar Pit",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "fEOf9ZWdfHzp3f9g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.fEOf9ZWdfHzp3f9g"
+    },
+    {
+      "text": "Deciduous Forest",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "55Q5I3IiPTH8mYoS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.55Q5I3IiPTH8mYoS"
+    },
+    {
+      "text": "Hilltop",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "sVm2fxmPlwzx0cQF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.sVm2fxmPlwzx0cQF"
+    },
+    {
+      "text": "Jungle",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "WeyGVS17IgGRjsfX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.WeyGVS17IgGRjsfX"
+    },
+    {
+      "text": "Conifer Forest",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "sokY4lsBQxJjhiui",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.sokY4lsBQxJjhiui"
+    },
+    {
+      "text": "Field",
+      "range": [
+        76,
+        79
+      ],
+      "_id": "pVN2ex7HyT5zQNlS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.pVN2ex7HyT5zQNlS"
+    },
+    {
+      "text": "Clearing",
+      "range": [
+        80,
+        83
+      ],
+      "_id": "v6O9Pclp8GElXZsA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.v6O9Pclp8GElXZsA"
+    },
+    {
+      "text": "Scrubland",
+      "range": [
+        84,
+        88
+      ],
+      "_id": "MMhZlkYwzQuofbIG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.MMhZlkYwzQuofbIG"
+    },
+    {
+      "text": "Stream",
+      "range": [
+        89,
+        93
+      ],
+      "_id": "zevc4NfOwspoDF7Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.zevc4NfOwspoDF7Q"
+    },
+    {
+      "text": "Grassland",
+      "range": [
+        94,
+        99
+      ],
+      "_id": "tHYnCDD7NB95UEfh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.tHYnCDD7NB95UEfh"
+    },
+    {
+      "text": "Anomaly",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "vgeO9EQNjeLp7p7z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WdXJXroTleYqGCB9.vgeO9EQNjeLp7p7z"
+    }
+  ],
+  "folder": "XP9oOi86RAUmPdRl",
+  "sort": 300000,
+  "_id": "WdXJXroTleYqGCB9",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this oracle when traveling to generate a point-of-interest or to answer a question about a place where someone or something can be found.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791159889,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!WdXJXroTleYqGCB9"
+}

@@ -1,0 +1,71 @@
+{
+  "type": "asset",
+  "folder": "BMFZH2vIDpNGTmyC",
+  "name": "Impisi",
+  "system": {
+    "requirement": "Your hyena laughs at danger.",
+    "category": "Companion",
+    "color": null,
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>Feeding Frenzy: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.8d90dd472856be27]{Resupply}, you may roll +iron instead of +wits. If you do, add +2 and suffer -1 supply on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Scent: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} using your hyena's senses to track your quarry or investigate a scene, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Mockery: When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} in a fight by distracting your foe with your hyena's eerie laughter, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Hyena"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/hyena-head.svg",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709375394034,
+    "modifiedTime": 1764376982611,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "sort": 200000,
+  "_id": "rZfV7u9mY5NhHLtb",
+  "_key": "!items!rZfV7u9mY5NhHLtb"
+}

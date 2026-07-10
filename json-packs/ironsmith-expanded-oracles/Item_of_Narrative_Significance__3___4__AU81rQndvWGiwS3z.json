@@ -1,0 +1,1527 @@
+{
+  "name": "Item of Narrative Significance (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Bloody handprint",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "oGPrbMJYkOVPahLm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.oGPrbMJYkOVPahLm"
+    },
+    {
+      "text": "Glowing crystal shard",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "q1MD3Ogv2DvCOnzM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.q1MD3Ogv2DvCOnzM"
+    },
+    {
+      "text": "Quill of a rare bird",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "sl2H4O1LWqMnRbDV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.sl2H4O1LWqMnRbDV"
+    },
+    {
+      "text": "Humanoid skull with distinctive injury",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "q4sqgyipsBckjcm9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.q4sqgyipsBckjcm9"
+    },
+    {
+      "text": "Illustrations of human anatomy",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "BMWfkSpoykvA2ewi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.BMWfkSpoykvA2ewi"
+    },
+    {
+      "text": "Writings of celestial movements",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "ShcKZ2hN7SUjKjTg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.ShcKZ2hN7SUjKjTg"
+    },
+    {
+      "text": "Powder of crushed bone",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "l3lB1cibBfOCI9gD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.l3lB1cibBfOCI9gD"
+    },
+    {
+      "text": "Pouch of hallucinatory herbs",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "D4tDZkT9m9mFZJh3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.D4tDZkT9m9mFZJh3"
+    },
+    {
+      "text": "Small skin of blood",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "My7LNbHPmMKgGr5F",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.My7LNbHPmMKgGr5F"
+    },
+    {
+      "text": "Pouch of hard tack",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "7wvfQMSyeU9l76C1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.7wvfQMSyeU9l76C1"
+    },
+    {
+      "text": "Bat guano",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "qwE0avawEHKvGrMJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.qwE0avawEHKvGrMJ"
+    },
+    {
+      "text": "Crude map of a partially explored site",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "6aUk5kK6njPREETk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.6aUk5kK6njPREETk"
+    },
+    {
+      "text": "Used and discarded bandages",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "BtLbRY91pXSGZfky",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.BtLbRY91pXSGZfky"
+    },
+    {
+      "text": "Inventory list for a farmer",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "o9yMszwuaXfs1C5B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.o9yMszwuaXfs1C5B"
+    },
+    {
+      "text": "Woolen armor padding",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "Teb1IQwTJVoG7jUe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.Teb1IQwTJVoG7jUe"
+    },
+    {
+      "text": "Discarded saddle, reins and bit",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "r2iISwRhNXv6Tj9X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.r2iISwRhNXv6Tj9X"
+    },
+    {
+      "text": "Crude painting on wooden slab",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "I7kY0RMpWICeZKSR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.I7kY0RMpWICeZKSR"
+    },
+    {
+      "text": "Psychedelic mushrooms",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "hoNRn5fsBJ0DOAyw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.hoNRn5fsBJ0DOAyw"
+    },
+    {
+      "text": "Skin of stout ale",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "8sLH1YXGmP9lhCgQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.8sLH1YXGmP9lhCgQ"
+    },
+    {
+      "text": "Patches for a sail",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "p5zvhY5aW5Y8fpUF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.p5zvhY5aW5Y8fpUF"
+    },
+    {
+      "text": "Caged rat or mice",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "UROFOUP8ejxwUY9b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.UROFOUP8ejxwUY9b"
+    },
+    {
+      "text": "Chained, emaciated animal",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "YqqdZFlP6IVNMHuB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.YqqdZFlP6IVNMHuB"
+    },
+    {
+      "text": "Broken piece of chalk",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "Y6zTpmXWrtwHP5gP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.Y6zTpmXWrtwHP5gP"
+    },
+    {
+      "text": "Ceremonial robes",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "22Bfz3cuJhLzSGi9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.22Bfz3cuJhLzSGi9"
+    },
+    {
+      "text": "Small stones arranged in a circle",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "n82E9kwr4gVIA4d9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.n82E9kwr4gVIA4d9"
+    },
+    {
+      "text": "Thick-shoed footprints",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "VaphN2MVteIea3Mm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.VaphN2MVteIea3Mm"
+    },
+    {
+      "text": "Charcoal sketching of a beast",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "UGi42RE0etcUQKYG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.UGi42RE0etcUQKYG"
+    },
+    {
+      "text": "Journal of strange travels",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "6wPhsUoHZR1QtL8T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.6wPhsUoHZR1QtL8T"
+    },
+    {
+      "text": "List of names with some scratched off",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "wgpm7Vf70WSMtsru",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.wgpm7Vf70WSMtsru"
+    },
+    {
+      "text": "Pouch of spider egg sacks",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "PCiYCedb6yq8Tfmt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.PCiYCedb6yq8Tfmt"
+    },
+    {
+      "text": "Fossilized tooth",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "yENZV2oLKcOSINta",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.yENZV2oLKcOSINta"
+    },
+    {
+      "text": "Inventory list for a blacksmith",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "Pylc3Um6ypgeIEAm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.Pylc3Um6ypgeIEAm"
+    },
+    {
+      "text": "Caged snake or frog",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "g4NrOV5ykCSFbMGm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.g4NrOV5ykCSFbMGm"
+    },
+    {
+      "text": "Figure carved in stone",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "MZzRRO9wpfVMipNs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.MZzRRO9wpfVMipNs"
+    },
+    {
+      "text": "Partially assembled trap",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "fEzXxKjxaDdzJaf4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.fEzXxKjxaDdzJaf4"
+    },
+    {
+      "text": "Deer pelt",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "22Bg85Fs1sFAWZJE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.22Bg85Fs1sFAWZJE"
+    },
+    {
+      "text": "Materials for a tent or other temporary shelter",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "NTti4MUWkRyd4VVE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.NTti4MUWkRyd4VVE"
+    },
+    {
+      "text": "Torn and threadbare cloak",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "Jn2ZWbmukF2cd4Zc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.Jn2ZWbmukF2cd4Zc"
+    },
+    {
+      "text": "Inventory list for an alchemist",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "9bW19fwGeEOTTbv7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.9bW19fwGeEOTTbv7"
+    },
+    {
+      "text": "Bound and unconscious human",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "cYQmf2iMDjzgdg7m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.cYQmf2iMDjzgdg7m"
+    },
+    {
+      "text": "Horse's feed bag",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "cCin3Skqp0WL3rWq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.cCin3Skqp0WL3rWq"
+    },
+    {
+      "text": "Recently unearthed grave",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "yuSkUng8Z4dprICn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.yuSkUng8Z4dprICn"
+    },
+    {
+      "text": "Necklace of rune-covered beads",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "2gtZlupCl4qvNIMU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.2gtZlupCl4qvNIMU"
+    },
+    {
+      "text": "Ancient spearhead",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "FmII4qD1ZJ6KOU6t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.FmII4qD1ZJ6KOU6t"
+    },
+    {
+      "text": "A strange manifesto",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "LPut8paKu11B6a5c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.LPut8paKu11B6a5c"
+    },
+    {
+      "text": "Signet ring",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "yKU6xShCwqrlGG8u",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.yKU6xShCwqrlGG8u"
+    },
+    {
+      "text": "Map of an island",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "UiJm6de6Frt4tyOm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.UiJm6de6Frt4tyOm"
+    },
+    {
+      "text": "Rags covered in blood",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "nkURTFaO3GpJIkuQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.nkURTFaO3GpJIkuQ"
+    },
+    {
+      "text": "Animal tracks",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "Xbaio7KznMcwV0iW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.Xbaio7KznMcwV0iW"
+    },
+    {
+      "text": "Stones from a distant location",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "KXcGP7UQ1cQo3lc3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.KXcGP7UQ1cQo3lc3"
+    },
+    {
+      "text": "Signs of a struggle",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "RvEIndF2McQXvmpU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.RvEIndF2McQXvmpU"
+    },
+    {
+      "text": "Chart of constellations",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "2cXXvQ3x8DhPB7tJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.2cXXvQ3x8DhPB7tJ"
+    },
+    {
+      "text": "Personal diary",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "3xIl8n4u8Dckc3TY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.3xIl8n4u8Dckc3TY"
+    },
+    {
+      "text": "Poem with strange annotations",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "dIoGEzfIRcZ4EhBH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.dIoGEzfIRcZ4EhBH"
+    },
+    {
+      "text": "Bite marks of a beast",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "boGi9bgYFILzKGMf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.boGi9bgYFILzKGMf"
+    },
+    {
+      "text": "Claw marks of a beast",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "tw5gS27hOIXL6vZ9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.tw5gS27hOIXL6vZ9"
+    },
+    {
+      "text": "Small skin of venom",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "4zN3mNXkZpXM4eEL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.4zN3mNXkZpXM4eEL"
+    },
+    {
+      "text": "Ironroot staff",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "Mdl9YYYZb7LPBx4h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.Mdl9YYYZb7LPBx4h"
+    },
+    {
+      "text": "Precious gemstone",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "Bi2HiKsz8kap5Utd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.Bi2HiKsz8kap5Utd"
+    },
+    {
+      "text": "Unburnt, strange smelling candle",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "1g7FXI20d7OIEwPf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.1g7FXI20d7OIEwPf"
+    },
+    {
+      "text": "Shredded bowstring",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "AA85aUTJn4CdFuJh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.AA85aUTJn4CdFuJh"
+    },
+    {
+      "text": "Flask of unknown oil",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "zhRlF9HfYp370s5i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.zhRlF9HfYp370s5i"
+    },
+    {
+      "text": "Bloody footprints",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "nue3NCAmsH4rakR6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.nue3NCAmsH4rakR6"
+    },
+    {
+      "text": "Notes of a settlement overseer",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "UdQt5UAmw4ODMvS2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.UdQt5UAmw4ODMvS2"
+    },
+    {
+      "text": "Inventory list for a trader",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "VYbDgEhqtVDscy1C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.VYbDgEhqtVDscy1C"
+    },
+    {
+      "text": "Woodcut depicting a horrid scene",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "Ol9jXRqWWsSE040z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.Ol9jXRqWWsSE040z"
+    },
+    {
+      "text": "Pouch of exotic spices",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "LUMwIvVpoVOmy8k5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.LUMwIvVpoVOmy8k5"
+    },
+    {
+      "text": "Evidence of secret passage",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "1YaEIPHj52WilPuK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.1YaEIPHj52WilPuK"
+    },
+    {
+      "text": "Iron key with a skull head",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "J3D3Gz6VxEN03d2n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.J3D3Gz6VxEN03d2n"
+    },
+    {
+      "text": "Banner for a nearby clan or settlement",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "ldAh9QBjnAaQojPO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.ldAh9QBjnAaQojPO"
+    },
+    {
+      "text": "Rare flower, dried and pressed",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "TPFuD1hO1Q9sWhir",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.TPFuD1hO1Q9sWhir"
+    },
+    {
+      "text": "Scroll of prayers",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "UTajyQVJNcqKAYHN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.UTajyQVJNcqKAYHN"
+    },
+    {
+      "text": "Incriminating communication",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "AdjfIfTIZHVeO3rO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.AdjfIfTIZHVeO3rO"
+    },
+    {
+      "text": "A set of iron manacles",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "E0PBmkHWGk4Na1MD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.E0PBmkHWGk4Na1MD"
+    },
+    {
+      "text": "Fishing tackle",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "RTabu7NYPkwoE270",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.RTabu7NYPkwoE270"
+    },
+    {
+      "text": "Caged cat or dog",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "mtWA1ktviS4ee7jh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.mtWA1ktviS4ee7jh"
+    },
+    {
+      "text": "Weapon cleaning supplies",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "f1v2grqMruD1uPCJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.f1v2grqMruD1uPCJ"
+    },
+    {
+      "text": "Wandering and injured mount",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "NWVkD3Zi9q8rsidg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.NWVkD3Zi9q8rsidg"
+    },
+    {
+      "text": "Remains of a mount",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "0ntKHHyRgEvGRvZj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.0ntKHHyRgEvGRvZj"
+    },
+    {
+      "text": "Fur-lined boots",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "wcvGj1W60LzXc1Je",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.wcvGj1W60LzXc1Je"
+    },
+    {
+      "text": "Caged bird or bat",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "0fHywd1R2vf0Tv9U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.0fHywd1R2vf0Tv9U"
+    },
+    {
+      "text": "Pouch of poisonous herbs",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "o4UScXkTM8CjVmKe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.o4UScXkTM8CjVmKe"
+    },
+    {
+      "text": "Book of mystic rituals",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "WTli22krueqDlAPi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.WTli22krueqDlAPi"
+    },
+    {
+      "text": "Pouch of preserving salt",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "xCvcGDbULLRjrjKq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.xCvcGDbULLRjrjKq"
+    },
+    {
+      "text": "Tally marks scratched in a surface",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "OhPA8gWL9qQSGrfB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.OhPA8gWL9qQSGrfB"
+    },
+    {
+      "text": "Needle and catgut",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "M1VOP6PvWFX7deV4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.M1VOP6PvWFX7deV4"
+    },
+    {
+      "text": "Small, locked chest",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "NItFXPKZEPwhJPRF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.NItFXPKZEPwhJPRF"
+    },
+    {
+      "text": "Unsprung trap",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "lGNdGGxLM2JMccY2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.lGNdGGxLM2JMccY2"
+    },
+    {
+      "text": "Broken jewelry of gold",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "vMpw1ckv8djtBoC8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.vMpw1ckv8djtBoC8"
+    },
+    {
+      "text": "Vague map of trade routes",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "GbkzVnFtkPlEClpM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.GbkzVnFtkPlEClpM"
+    },
+    {
+      "text": "Woodcut depicting a pleasant scene",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "iusRDi8MfjNtkFBX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.iusRDi8MfjNtkFBX"
+    },
+    {
+      "text": "Dried meat scraps",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "M0sKa7Uq3CA1LgQ8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.M0sKa7Uq3CA1LgQ8"
+    },
+    {
+      "text": "Midden heap",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "G8MRCQxZoTr7uqsP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.G8MRCQxZoTr7uqsP"
+    },
+    {
+      "text": "Map of fishing routes",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "MeaxBjJRDFRa26mX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.MeaxBjJRDFRa26mX"
+    },
+    {
+      "text": "Bound and unconscious firstborn",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "RSjGatHKgbywT9Ez",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.RSjGatHKgbywT9Ez"
+    },
+    {
+      "text": "Chained and vicious animal",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "4Tw5IkyNmiELb1CM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.4Tw5IkyNmiELb1CM"
+    },
+    {
+      "text": "Fragment of clay tablet",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "MeAWsLRuUhTYfrzj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.MeAWsLRuUhTYfrzj"
+    },
+    {
+      "text": "Bottle of multi-colored sand",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "EP7KxUxEbxHDQopY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.EP7KxUxEbxHDQopY"
+    },
+    {
+      "text": "Frightening mask",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "tzqKYKKzfVbzrJI9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.tzqKYKKzfVbzrJI9"
+    },
+    {
+      "text": "Severed finger",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "IkGGJEunuhNsmfYX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AU81rQndvWGiwS3z.IkGGJEunuhNsmfYX"
+    }
+  ],
+  "folder": "ys0tLVTcvwcElQVg",
+  "sort": 125000,
+  "_id": "AU81rQndvWGiwS3z",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Items of narrative significance may at first glance seem like completely random objects, but because they are narratively significant in a mystery vow, they do connect to the plot in some way. I’ll talk about how they connect to the plot after the tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159301,
+    "modifiedTime": 1702845035455,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!AU81rQndvWGiwS3z"
+}

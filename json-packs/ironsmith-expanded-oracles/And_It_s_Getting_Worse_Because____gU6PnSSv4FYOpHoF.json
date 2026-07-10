@@ -1,0 +1,121 @@
+{
+  "name": "And It's Getting Worse Because...",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "The monster is growing in size",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "8DN5i27dO2GalOvi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gU6PnSSv4FYOpHoF.8DN5i27dO2GalOvi"
+    },
+    {
+      "text": "Competing monsters are on the way",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "2oiH496QJPhIpAgv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gU6PnSSv4FYOpHoF.2oiH496QJPhIpAgv"
+    },
+    {
+      "text": "The monster is aging and desperate",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "p1SLcL2M6n9fbe5h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gU6PnSSv4FYOpHoF.p1SLcL2M6n9fbe5h"
+    },
+    {
+      "text": "The monster is becoming iron-wracked",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "oRhgF9o3Vw7pEYuW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gU6PnSSv4FYOpHoF.oRhgF9o3Vw7pEYuW"
+    },
+    {
+      "text": "The monster is poisoned and desperate",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "eUnzDHNDRQwcibAN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gU6PnSSv4FYOpHoF.eUnzDHNDRQwcibAN"
+    },
+    {
+      "text": "The monster is mutating and gaining new abilities",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "70Cmuf0i0RnRjNAH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gU6PnSSv4FYOpHoF.70Cmuf0i0RnRjNAH"
+    }
+  ],
+  "folder": "i3P1D2W2X351lvzT",
+  "sort": 300000,
+  "_id": "gU6PnSSv4FYOpHoF",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Usually there's something in the fiction that gives you a sense of urgency. What is the source of this increasing pressure that makes it important for you to complete your vow quickly?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.gU6PnSSv4FYOpHoF"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159595,
+    "modifiedTime": 1702854011291,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!gU6PnSSv4FYOpHoF"
+}

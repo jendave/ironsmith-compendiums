@@ -1,0 +1,165 @@
+{
+  "name": "Ajakava",
+  "type": "foe",
+  "img": "icons/creatures/invertebrates/scorpion-yellow.webp",
+  "items": [
+    {
+      "_id": "3ySuUnpwbZdEX6RL",
+      "name": "Ajakava",
+      "type": "progress",
+      "img": "icons/creatures/invertebrates/scorpion-yellow.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Scorpion that can grow to the size of a bear</p>\n<p>Orange and green armored plates</p>\n<p>Blade-like appendages near the mouth</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Hunt food</p>\n<p>Search for water sources</p>\n<p>Drive off other arachnids</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Sting with venomous tail</p>\n<p>Slash and grip with pincers</p>\n<p>Impale with mouth blades</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 31\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>When the ajakava scorpion are born, they are only about the size of your little finger, but they grow quickly into a giant hunter of the jungles. With a lifespan of decades if not centuries, we think that they never really stop growing. We have found molted scorpion shells the size of wolves, bears, and one the size of an elephant.</p>\n<p>Even the tigers will give these creatures a wide berth as their sting is enough to incapacitate an elephant. Couple that with their deadly pincers, and you can see why this creature is deadly for Tigerlanders. Moreover, the ajakava can easily attack multiple targets because they have evolved a secondary set of blade-like appendages near their mouth that they use to impale prey in place while they use their pincers or tail to attack others.</p>\n<p>The only effective strategy we have found to defeat an ajakava is to sneak attack it from the rear. Their stinger is jointed in such a way that it can only strike in a narrow arc in front of it. If you can begin a battle with an ajakava by severing its tail, you may have a moderate chance of surviving, but the best advice is to never engage in the first place.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>Ajakava, like all scorpions, have live birth, and each litter birthed usually contains anywhere from ten to forty young who swarm whatever is nearby for food. A bloated and likely pregnant ajakava bigger than any seen before attacked a small group of travelers stinging one of the people and dragging them off as the others fled. It is probable that the captured person will be used as food for the ajakava&rsquo;s soon to be born young. Who is the captured person? What makes the area of the scorpion&rsquo;s nest particularly dangerous?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Can ajakava burrow and tunnel underground?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!QWmEaWuATnoVNoK9.3ySuUnpwbZdEX6RL"
+    }
+  ],
+  "effects": [],
+  "folder": "U57vO9vHmE0Fc1ab",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Ajakava",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/invertebrates/scorpion-yellow.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741332105180,
+    "modifiedTime": 1741332424132,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "QWmEaWuATnoVNoK9",
+  "sort": 100000,
+  "_key": "!actors!QWmEaWuATnoVNoK9"
+}

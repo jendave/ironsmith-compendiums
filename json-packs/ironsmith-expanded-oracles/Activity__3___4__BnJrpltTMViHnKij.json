@@ -1,0 +1,781 @@
+{
+  "name": "Activity (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Stowing",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "R5C7xGS1wvy0RhVN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.R5C7xGS1wvy0RhVN"
+    },
+    {
+      "text": "Building",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "Ey4H1XwKwQy52cnX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.Ey4H1XwKwQy52cnX"
+    },
+    {
+      "text": "Plotting",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "MxQsalKKfFEdjSBG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.MxQsalKKfFEdjSBG"
+    },
+    {
+      "text": "Stalking",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "amXu7VXBIWyhxzp8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.amXu7VXBIWyhxzp8"
+    },
+    {
+      "text": "Imprisoning",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "7cx7BCuDjqA9DuNj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.7cx7BCuDjqA9DuNj"
+    },
+    {
+      "text": "Advising",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "UVFCMyZQ7LAeSgtK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.UVFCMyZQ7LAeSgtK"
+    },
+    {
+      "text": "Infiltrating",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "F8fvDmrC3KJJUHHp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.F8fvDmrC3KJJUHHp"
+    },
+    {
+      "text": "Scheming",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "w4akWLKqkxqZsseg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.w4akWLKqkxqZsseg"
+    },
+    {
+      "text": "Climbing",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "ju2yFgHkxgtBPcJt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.ju2yFgHkxgtBPcJt"
+    },
+    {
+      "text": "Seeking",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "Q3mtUck3LReUn1Cq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.Q3mtUck3LReUn1Cq"
+    },
+    {
+      "text": "Inventing",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "EpzoxxI5OhgU1YcB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.EpzoxxI5OhgU1YcB"
+    },
+    {
+      "text": "Training",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "I9atIrWbbDwK0M24",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.I9atIrWbbDwK0M24"
+    },
+    {
+      "text": "Consulting",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "82rDurN0cwqLtTpO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.82rDurN0cwqLtTpO"
+    },
+    {
+      "text": "Lockpicking",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "f1qMiA7Iiqo5bKky",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.f1qMiA7Iiqo5bKky"
+    },
+    {
+      "text": "Shielding",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "CbWyJ9yf5SWRxA2g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.CbWyJ9yf5SWRxA2g"
+    },
+    {
+      "text": "Striking",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "5wJaQqwkkbFxatUX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.5wJaQqwkkbFxatUX"
+    },
+    {
+      "text": "Smoking",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "8p6kLKUVayA32PeV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.8p6kLKUVayA32PeV"
+    },
+    {
+      "text": "Forging",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "QGABamAAERqfNJZ8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.QGABamAAERqfNJZ8"
+    },
+    {
+      "text": "Persevering",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "ddg0Ja5BUaAxXBTk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.ddg0Ja5BUaAxXBTk"
+    },
+    {
+      "text": "Singing",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "ZK8EHDmMSvnBzp19",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.ZK8EHDmMSvnBzp19"
+    },
+    {
+      "text": "Carousing",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "8t3CMrC7YEnirfZ4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.8t3CMrC7YEnirfZ4"
+    },
+    {
+      "text": "Evading",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "xr9kPijYCHt3KpYH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.xr9kPijYCHt3KpYH"
+    },
+    {
+      "text": "Chopping",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "cL9ofgTjJb0EZWO5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.cL9ofgTjJb0EZWO5"
+    },
+    {
+      "text": "Navigating",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "FpCuo8JZ0JYSUuFF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.FpCuo8JZ0JYSUuFF"
+    },
+    {
+      "text": "Prowling",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "6ns5JVzvxh8hTKM5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.6ns5JVzvxh8hTKM5"
+    },
+    {
+      "text": "Traveling",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "H2T6W2Bp5gGCHZVp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.H2T6W2Bp5gGCHZVp"
+    },
+    {
+      "text": "Encouraging",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "AwLn9woeaDU9RB72",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.AwLn9woeaDU9RB72"
+    },
+    {
+      "text": "Working",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "XYvBOEGK2ROtFfUB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.XYvBOEGK2ROtFfUB"
+    },
+    {
+      "text": "Disarming",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "6tu4w0MgP8PsowJJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.6tu4w0MgP8PsowJJ"
+    },
+    {
+      "text": "Fishing",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "tni9LNPzk6vxO9MA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.tni9LNPzk6vxO9MA"
+    },
+    {
+      "text": "Chasing",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "nhqhAoSuOEwXdOBV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.nhqhAoSuOEwXdOBV"
+    },
+    {
+      "text": "Scavenging",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "ADgGIvZrCn6HD5aF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.ADgGIvZrCn6HD5aF"
+    },
+    {
+      "text": "Healing",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "5shLUQfYt4LVZMIM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.5shLUQfYt4LVZMIM"
+    },
+    {
+      "text": "Foraging",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "rAGuU1QmN1Sg0KRE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.rAGuU1QmN1Sg0KRE"
+    },
+    {
+      "text": "Meditating",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "god9MbStYig51Mxs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.god9MbStYig51Mxs"
+    },
+    {
+      "text": "Swimming",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "goZSjRryevxGMW7i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.goZSjRryevxGMW7i"
+    },
+    {
+      "text": "Challenging",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "zj7TXfcnzXY0Tefi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.zj7TXfcnzXY0Tefi"
+    },
+    {
+      "text": "Mining",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "6Kbx0sWeAuTkJ40D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.6Kbx0sWeAuTkJ40D"
+    },
+    {
+      "text": "Trading",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "CSnbjs9RERUM59fa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.CSnbjs9RERUM59fa"
+    },
+    {
+      "text": "Bickering",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "KPnN4iNtB1pcWGaO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.KPnN4iNtB1pcWGaO"
+    },
+    {
+      "text": "Sabotaging",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "4zYRhGNSmZizcfcf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.4zYRhGNSmZizcfcf"
+    },
+    {
+      "text": "Spying",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "LcmdBpheiXMuLzBI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.LcmdBpheiXMuLzBI"
+    },
+    {
+      "text": "Directing",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "EjgyOOV9UxzOH5K8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.EjgyOOV9UxzOH5K8"
+    },
+    {
+      "text": "Writing",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "EaW0jD6opcjnPLBZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.EaW0jD6opcjnPLBZ"
+    },
+    {
+      "text": "Deceiving",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "qnkd6nxVlN1RUqJN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.qnkd6nxVlN1RUqJN"
+    },
+    {
+      "text": "Setting traps",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "8PiLyMnE8BWgEQgM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.8PiLyMnE8BWgEQgM"
+    },
+    {
+      "text": "Fording",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "Sihtl3WCZciOoa7X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.Sihtl3WCZciOoa7X"
+    },
+    {
+      "text": "Smuggling",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "UzARAKelU87tQNNz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.UzARAKelU87tQNNz"
+    },
+    {
+      "text": "Sniping",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "5XLicvaT8S747OsN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.5XLicvaT8S747OsN"
+    },
+    {
+      "text": "Engaging",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "9wsknmB6YYsnTK7j",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BnJrpltTMViHnKij.9wsknmB6YYsnTK7j"
+    }
+  ],
+  "folder": "RwdM0k88MkirBvKa",
+  "sort": -87500,
+  "_id": "BnJrpltTMViHnKij",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>To give an NPC or faction a task or objective, use the Activity oracle. For more detail, you can combine this prompt with the Focus oracle or Theme oracle.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.BnJrpltTMViHnKij"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946237005,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!BnJrpltTMViHnKij"
+}

@@ -1,0 +1,165 @@
+{
+  "name": "Hone Onna",
+  "type": "foe",
+  "img": "icons/magic/death/undead-ghost-strike-white.webp",
+  "items": [
+    {
+      "_id": "3ySuUnpwbZdEX6RL",
+      "name": "Hone Onna",
+      "type": "progress",
+      "img": "icons/magic/death/undead-ghost-strike-white.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Skeletal remains of a lover</p>\n<p>Appears alive to former lover</p>\n<p>Carries a paper lantern</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Reunite with loved one</p>\n<p>Kill competition for their love</p>\n<p>Vanity</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Life-draining kiss</p>\n<p>Scorch with ghostly lantern</p>\n<p>Disheartening glare</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 221\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 34\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 45\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Perhaps one of the cruelest horrors of the Firelands is the hone onna. It is said that when one of a pair of soulmates dies before their time, one year from the date of their death they claw their way back out of the ground as a hone onna. Their only thought is to be reunited with their lost loved one.</p>\n<p>This story almost sounds heartwarming except that the hone onna are decayed and desiccated remains that slowly drain the life from their former lovers. Worse yet, the living soulmate sees the hone onna not as an animated corpse but as the love they remember best. They willingly fall into the arms of what they view as their loved one returned to them alive. Then over the course of days or weeks, they are slowly drained of their life and soul one kiss at a time.</p>\n<p>The only reliable way to be rid of a hone onna is to wait for their soulmate to die as well. However, that is not an acceptable solution, so we fight when we find them, but the hone onna fight back with fire magic that stems from their paper lanterns. Since they have physical bodies, a hone onna can be destroyed, but the living soulmate is rarely thankful as they would have preferred death in the arms of their loved one.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A daimyo&rsquo;s daughter has returned as a hone onna, but the daimyo has forbidden anyone from striking the horror. The daimyo was disgraced when his daughter absconded with a lowly peasant&rsquo;s son and would rather see the son die than his daughter&rsquo;s ghostly remains harmed. The family of the boy has put out a call for help. How do you know this family, and why are you willing to help them?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Some remaining soulmates stand at their lover&rsquo;s grave on the one year anniversary in hopes of dying when they return as a hone onna. In what culture is this practice accepted?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 1,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!hiqULpUq3zodPCMt.3ySuUnpwbZdEX6RL"
+    }
+  ],
+  "effects": [],
+  "folder": "XnPy7Oh36oQPFJmF",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Hone Onna",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/magic/death/undead-ghost-strike-white.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.VcHQfffDX9tNZTJw",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741402465131,
+    "modifiedTime": 1741402744357,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "hiqULpUq3zodPCMt",
+  "sort": 400000,
+  "_key": "!actors!hiqULpUq3zodPCMt"
+}

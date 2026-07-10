@@ -1,0 +1,117 @@
+{
+  "folder": "OHcTJgQWQNrrQL2n",
+  "name": "Primary Form",
+  "_id": "EH04r2O57lZEyqBb",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Once you know what the monster has done, the next logical piece of information is getting a vague idea of what type of monster you're dealing with. The easiest way to generate a physical description of the monster is to follow the rules presented in Ironsworn: Delve to create a monstrosity. If you don't own those rules, you should! Go support Shawn and Ironsworn by purchasing his excellent supplement! However, if you're playing a different RPG, here is an alternative table (nowhere near as expansive or good as Shawn's) that you can roll percentile dice (2d10) for each category to build a monster.</p>",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false,
+      "_id": "AqsptJ1tL5YTqsRa",
+      "text": "Fish or Crustacean",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EH04r2O57lZEyqBb.AqsptJ1tL5YTqsRa"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        6,
+        20
+      ],
+      "drawn": false,
+      "_id": "4OQ2GwitiHG3Mtf8",
+      "text": "Amphibian",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EH04r2O57lZEyqBb.4OQ2GwitiHG3Mtf8"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        21,
+        350
+      ],
+      "drawn": false,
+      "_id": "LLwpylu8J48U5YYH",
+      "text": "Mammal",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EH04r2O57lZEyqBb.LLwpylu8J48U5YYH"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        51,
+        80
+      ],
+      "drawn": false,
+      "_id": "xNyp3yF9j5MD73Xv",
+      "text": "Reptile",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EH04r2O57lZEyqBb.xNyp3yF9j5MD73Xv"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        81,
+        95
+      ],
+      "drawn": false,
+      "_id": "o8SCK2EdmDkgaOh8",
+      "text": "Bird",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EH04r2O57lZEyqBb.o8SCK2EdmDkgaOh8"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "_id": "5jT4kJ1heoN2XD2z",
+      "text": "Arachnid, Insect, or Myriapod",
+      "documentId": null,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EH04r2O57lZEyqBb.5jT4kJ1heoN2XD2z"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1702714625901,
+    "modifiedTime": 1702853401900,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "formula": "",
+  "_key": "!tables!EH04r2O57lZEyqBb"
+}

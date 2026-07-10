@@ -1,0 +1,184 @@
+{
+  "name": "Eyrie",
+  "type": "delve-domain",
+  "_id": "gtsTykVt1IT1F7K4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "Rocky spires home to aerial creatures.",
+    "description": "<div class=\"page\" title=\"Page 248\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The world is viewed quite differently from above. Specifically, many creatures here look down from their lofty homes and see only one thing: prey. Avian creatures, winged lizards, and even some mutated or iron-wracked monstrosities have learned the value of making their homes in such inaccessible places. The height acts as more of a defense than even the rock that the lairs are burrowed into.</p>\n<div class=\"page\" title=\"Page 248\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Some eyries are more easily explored, if only marginally so, as they appear to have been built as homes for some long- forgotten people. But nothing is ever wasted in the Ironlands, and even these places have been taken back over by one creature group or another who now call it home.</p>\n<div class=\"page\" title=\"Page 248\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Traversing an eyrie takes strength for constant climbing, wisdom to know where the safest climbing paths are, and a tolerance for heights. It is said that only those with iron in their blood can make the trek to the tops of an occupied eyrie.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          21,
+          43
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Giant rocky spires"
+      },
+      {
+        "range": [
+          44,
+          56
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Small cavern or nest"
+      },
+      {
+        "range": [
+          57,
+          64
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Spirialing tower rock"
+      },
+      {
+        "range": [
+          65,
+          68
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Table-like rock precariously balanced"
+      },
+      {
+        "range": [
+          69,
+          72
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Cracked rocks ready to tumble"
+      },
+      {
+        "range": [
+          73,
+          76
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Narrow passages"
+      },
+      {
+        "range": [
+          77,
+          80
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Natural bridge"
+      },
+      {
+        "range": [
+          81,
+          84
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Winding path"
+      },
+      {
+        "range": [
+          85,
+          88
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Midden heap"
+      },
+      {
+        "range": [
+          89,
+          98
+        ],
+        "text": "Sometinbg unusual rr unexpected",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          99,
+          99
+        ],
+        "text": "You transition into a new theme",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          100,
+          100
+        ],
+        "text": "You transition into a new domain",
+        "type": 0,
+        "flags": {}
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          31,
+          33
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Crumbling handholds"
+      },
+      {
+        "range": [
+          34,
+          36
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Dizzying heights"
+      },
+      {
+        "range": [
+          37,
+          39
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen lairs"
+      },
+      {
+        "range": [
+          40,
+          42
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Swarm of denizens"
+      },
+      {
+        "range": [
+          43,
+          45
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Unstable footing"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703499950849,
+    "modifiedTime": 1703500121984,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!gtsTykVt1IT1F7K4"
+}

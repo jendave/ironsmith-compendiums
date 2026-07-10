@@ -1,0 +1,184 @@
+{
+  "name": "Maddening",
+  "type": "delve-theme",
+  "_id": "DaPUu2xzl2VSVH6V",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "It should be impossible for this place to exist.",
+    "description": "<div class=\"page\" title=\"Page 242\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Reality has been warped, twisted, and corrupted in these sites. There is a familiarity to nearly every place you enter, but your mind knows that it is not quite right. Nothing is as it should be, and the chaos threatens your spirit and will to press on.</p>\n<div class=\"page\" title=\"Page 242\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>When traveling in a Maddening site, you may never end up where you intend to go. The site itself may morph physically in the blink of an eye and lead you astray.</p>\n<div class=\"page\" title=\"Page 242\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>It is said that some Ironlanders have gone mad from visions they witnessed in these places. They rant and rave about nonsense and are considered to be cursed harbingers of doom.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          1,
+          4
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Ever-shifting landscape"
+      },
+      {
+        "range": [
+          5,
+          8
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Escher-like landscapes"
+      },
+      {
+        "range": [
+          9,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Visions of cosmic horrors"
+      },
+      {
+        "range": [
+          13,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Visions of allies morphing"
+      },
+      {
+        "range": [
+          17,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Ear-grating sounds"
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          1,
+          5
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Oddly proportioned denizen"
+      },
+      {
+        "range": [
+          6,
+          10
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Overwhelming dread or despair"
+      },
+      {
+        "range": [
+          11,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Prowling horror"
+      },
+      {
+        "range": [
+          13,
+          14
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Your body morphs uncontrollably"
+      },
+      {
+        "range": [
+          15,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Every path leads back here"
+      },
+      {
+        "range": [
+          17,
+          18
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "An impossible riddle"
+      },
+      {
+        "range": [
+          19,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Never getting closer to the door"
+      },
+      {
+        "range": [
+          21,
+          22
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Illusory attacks"
+      },
+      {
+        "range": [
+          23,
+          24
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Dark temptations"
+      },
+      {
+        "range": [
+          25,
+          26
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Truth twisted to believable lies"
+      },
+      {
+        "range": [
+          27,
+          28
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Trapped with time running out"
+      },
+      {
+        "range": [
+          29,
+          30
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Fears come to life"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703460604455,
+    "modifiedTime": 1703460800240,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!DaPUu2xzl2VSVH6V"
+}

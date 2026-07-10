@@ -1,0 +1,408 @@
+{
+  "name": "Suffix (Meaning)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "-machi    -town",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "XjCnYSG548UzdtCN",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.XjCnYSG548UzdtCN"
+    },
+    {
+      "text": "-ichi     -city",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "bPaadXneZjtneCtI",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.bPaadXneZjtneCtI"
+    },
+    {
+      "text": "-ie       -home",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "jBuNIM6tCfeimEUr",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.jBuNIM6tCfeimEUr"
+    },
+    {
+      "text": "-oka      -hill",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "YFujxxA90L6lFoHM",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.YFujxxA90L6lFoHM"
+    },
+    {
+      "text": "-toride   -fort",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "kz6ZbJAy8DPbHUIa",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.kz6ZbJAy8DPbHUIa"
+    },
+    {
+      "text": "-tochi    -land",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "VvmNO2jQzoMC2G94",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.VvmNO2jQzoMC2G94"
+    },
+    {
+      "text": "-ana      -mine",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "D19SLjvAx0gGmIM7",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.D19SLjvAx0gGmIM7"
+    },
+    {
+      "text": "-teien    -garden",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "4W4Jk7BUaGeiehJa",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.4W4Jk7BUaGeiehJa"
+    },
+    {
+      "text": "-mura     -village",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "IaZwkAkBgTG4KF54",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.IaZwkAkBgTG4KF54"
+    },
+    {
+      "text": "-hinan    -refuge",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "fqXtSrGFBQddNDZ1",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.fqXtSrGFBQddNDZ1"
+    },
+    {
+      "text": "-nokori   -rest",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "lHgP5yJyBJVsaiGb",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.lHgP5yJyBJVsaiGb"
+    },
+    {
+      "text": "-tani     -valley",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "9OXBoTmypPhZuxSW",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.9OXBoTmypPhZuxSW"
+    },
+    {
+      "text": "-asase    -ford",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "z8nl0gYMRsixpdLJ",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.z8nl0gYMRsixpdLJ"
+    },
+    {
+      "text": "-kawa     -river",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "CyZo5quPWZUX1hZ1",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.CyZo5quPWZUX1hZ1"
+    },
+    {
+      "text": "-wan      -gulf",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "UoU6y2TcOh5yYLUk",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.UoU6y2TcOh5yYLUk"
+    },
+    {
+      "text": "-jinja    -shrine",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "z2j5i6CXWjMNk6S6",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.z2j5i6CXWjMNk6S6"
+    },
+    {
+      "text": "-saidan   -altar",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "drBTbjF2nRZQzc5T",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.drBTbjF2nRZQzc5T"
+    },
+    {
+      "text": "-kesseki  -stone",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "KwpNrnd3bM5vYhJr",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.KwpNrnd3bM5vYhJr"
+    },
+    {
+      "text": "-mizumi   -lake",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "SYY9Ql9JmY6gLDP6",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.SYY9Ql9JmY6gLDP6"
+    },
+    {
+      "text": "-numa     -bog",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "3fgE1sS3WfjY7Od4",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.3fgE1sS3WfjY7Od4"
+    },
+    {
+      "text": "-shinrin  -forest",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "oNUH44O9P1W4saOJ",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.oNUH44O9P1W4saOJ"
+    },
+    {
+      "text": "-kabe     -wall",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "lDHVStZJ4hoqxiEI",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.lDHVStZJ4hoqxiEI"
+    },
+    {
+      "text": "-kudo     -hollow",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "1jf7DSj7YFI5IoA9",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.1jf7DSj7YFI5IoA9"
+    },
+    {
+      "text": "-shinden  -sacred place",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "jdzC1fhDcgOcAWsV",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.jdzC1fhDcgOcAWsV"
+    },
+    {
+      "text": "-hogo     -shelter",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "vQoRIV9Hh7Ps5900",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGCHyZGWy0Zwm0i8.vQoRIV9Hh7Ps5900"
+    }
+  ],
+  "folder": "7pF3r7DsI3OCt4p6",
+  "sort": 1,
+  "_id": "jGCHyZGWy0Zwm0i8",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use the oracle provided here. The English meaning of each Japanese word is provided so that you can combine the words for the settlement in either language. (i.e. the town Washioka could also be called Eagle Hill).</p><p>Feel free to embellish the names as it can lead to more world building.</p><p>For example, if you roll and get 18 and 52 to get Washiasase or Eagle's</p><p>Ford, you might decide to name the settlement Ford of the Walking Eagle.</p><p>I thought of adding \"walking\" because why would an eagle need to ford a</p><p>river? Next I start developing a Firelander myth of a great eagle yokai that</p><p>wanted to learn what it meant to be human and so gave up their wings for</p><p>a year and a day. On the day that the eagle was to get back its wings, the</p><p>river flooded and the eagle jumped in to save the person it had fallen in love</p><p>with during the last year. The person survived, but the eagle yokai did not.</p><p>Now the people living in the Ford of the Walking Eagle honor its sacrifice</p><p>each year in the spring.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.jGCHyZGWy0Zwm0i8"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "12.331",
+    "createdTime": 1708933025239,
+    "modifiedTime": 1725048417470,
+    "lastModifiedBy": "QLh5FAx5ofV7KQX6",
+    "compendiumSource": "RollTable.jGCHyZGWy0Zwm0i8",
+    "duplicateSource": null
+  },
+  "_key": "!tables!jGCHyZGWy0Zwm0i8"
+}

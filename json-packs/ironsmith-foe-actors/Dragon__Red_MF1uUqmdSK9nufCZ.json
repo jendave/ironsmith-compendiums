@@ -1,0 +1,157 @@
+{
+  "name": "Dragon, Red",
+  "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
+  "type": "foe",
+  "folder": "PhtC6865BqJuajtM",
+  "prototypeToken": {
+    "actorLink": true,
+    "name": "Dragon, Red",
+    "displayName": 0,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "system": {
+    "dfid": ""
+  },
+  "items": [
+    {
+      "name": "Dragon, Red",
+      "type": "progress",
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Powerful wings</p>\n<p class=\"nogrow\">Four legs with huge talons</p>\n<p class=\"nogrow\">Long neck and tail</p>\n<p class=\"nogrow\">Armored scales</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Gorge for hibernation</p>\n<p class=\"nogrow\">Protect the lair</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Breathe fire from above</p>\n<p class=\"nogrow\">Seize and carry off</p>\n<p class=\"nogrow\">Bite, rend, and tail sweep if forced to the ground</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Weaknesses</h4>\n<p class=\"nogrow\">Too much firestone eaten at once can be deadly</p>\n<p class=\"nogrow\">Unwieldy bulk when on the ground</p>\n</div>\n</div>\n<p>Red dragons are actually closer to brown in color but are called red because of both the glint of sunlight off their scales and the fire that they can belch forth. When not hunting food, these huge creatures spend most of their waking hours either in their lairs where they gather hoards of strange objects or scouring the mountainsides for the phosphine-bearing rocks known as firestones that allow them to breathe fire. They have two separate stomachs, one for the firestone and one for eating food. A chemical reaction in the firestone stomach allows the dragon to breathe fire out of their mouth in powerful jets, at least while the firestone lasts. When the flammable parts of the rock are used up, the remaining stone is regurgitated up as dense pellets. Finding charred firestone pellets is a sure sign that you are near a lair of a red dragon.</p>\n<p>While these dragons do fly, they also can tuck their wings close to their body where the front wingtips rest under a specialized skin flap on the shoulder to prevent them from being snagged if they are moving through tighter spaces such as a forest or tunnel to their lair. They typically tuck their wings anytime they are on the ground whether gorging on a kill or sunning on a mountain summit.</p>\n<p>We are not sure how many red dragons there are in the wild, but in our time in the Ironlands, we have only been able to slay a small number and that at great cost. While they spend most of their time hibernating, sightings of red dragons still occur with some frequency. Their large size and competency at flight means that they have a wide range of hunting ground they may cover. It is entirely possible that a red dragon seen in the eastern portion of the Tempest Hills is the same one observed days later attacking a gryphon nest in the west of the Veiled Mountains. We simply don't know, and the dragons are too dangerous to undertake any expedition to learn more about them or their numbers.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A mystic needs firestone to power a ritual, and a red dragon was recently spotted nearby. The mystic believes that it should be a relatively safe journey to get the stone and return before the dragon gets back from their latest hunting expedition. Why else do you want to find this dragon's lair? What do you think is there?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Are dragons sentient? Do they have a language, culture, and community, or are they simply beasts like any other?</em></p>\n</blockquote>",
+        "rank": 4,
+        "current": 0,
+        "completed": false,
+        "subtype": "foe",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      "_id": "b0cwy6uj5UYssRRM",
+      "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "e1Oag2SXzEND5oPH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "coreVersion": "12.331",
+        "createdTime": 1708682828652,
+        "modifiedTime": 1741213663643,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!actors.items!MF1uUqmdSK9nufCZ.b0cwy6uj5UYssRRM"
+    }
+  ],
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "12.331",
+    "createdTime": 1708682811724,
+    "modifiedTime": 1741213672923,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "MF1uUqmdSK9nufCZ",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!actors!MF1uUqmdSK9nufCZ"
+}

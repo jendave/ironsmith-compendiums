@@ -1,0 +1,165 @@
+{
+  "name": "Pishacha",
+  "type": "foe",
+  "img": "icons/creatures/magical/humanoid-silhouette-dashing-blue.webp",
+  "items": [
+    {
+      "_id": "jq7T1LdxduDOgDgT",
+      "name": "Pishacha",
+      "type": "progress",
+      "img": "icons/creatures/magical/humanoid-silhouette-dashing-blue.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Pitch black humanoid</p>\n<p>Violent red eyes</p>\n<p>Bulging veins covering the body</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Cause the living to suffer</p>\n<p>Drink the spirits of the living</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 52\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Inflict rapid onset disease</p>\n</div>\n</div>\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Spray others with their own diseased blood</p>\n<p>Raking claws of pestilence</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 52\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>A pishacha is a terrible foe to face in battle. They have no regard for their own body and in fact are quite happy to be torn apart as it spreads their sickness that much faster. Their only desire is to see the living suffer and die the slow painful death of disease. All it takes is a single touch from a pishacha to develop painful boils or a shriveled hand.</p>\n<p>Not only can a pishacha incapacitate you with their supernatural diseases, but their size and bulk make them a physical threat as well. They have lanky arms with dagger-like claws on their hands that they wield effectively in battle.</p>\n<p>While we can cut down pishachas with blades, their ichor oozes back towards the main body portion and slowly stitches the pishacha back together again over time. They can never be truly defeated except with fire. Their body is highly flammable and even explosive when exposed to too much fire too quickly.</p>\n<p>There are medicine men, mystics and gurus who have discovered effective treatments for a pishacha disease, but the treatment involves rare and exotic materials that must first be gathered. Additionally, the course of treatment is painful in and of itself so that not all survive the healing process.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A dark mystic claims to have a pishacha in their thrall and threatens to unleash it on a settlement unless their demands are met. What dangerous or unavailable thing does the mystic desire? How do you know this mystic from your past?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Can the ichor and torn parts of multiple pishacha reform into a single larger demon? If so, what is this demon known as, and what are its unique abilities?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 3,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!GIS6kuvQQCTkgeZR.jq7T1LdxduDOgDgT"
+    }
+  ],
+  "effects": [],
+  "folder": "b2kATktQcePR0CZh",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.x7lUU3cer4uWnTUm"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Pishacha",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/magical/humanoid-silhouette-dashing-blue.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.x7lUU3cer4uWnTUm",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741383803673,
+    "modifiedTime": 1741383803673,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "GIS6kuvQQCTkgeZR",
+  "sort": 0,
+  "_key": "!actors!GIS6kuvQQCTkgeZR"
+}

@@ -1,0 +1,181 @@
+{
+  "name": "Method of Making Headway",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "What physical objects need to be gathered or protected?",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "RdSw3j5ZAfZb3w8n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h5rOpC6d10AhFmU1.RdSw3j5ZAfZb3w8n"
+    },
+    {
+      "text": "What new relationships must be forged, tested or broken?",
+      "range": [
+        11,
+        20
+      ],
+      "_id": "57vyawtiHfDo2yQb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h5rOpC6d10AhFmU1.57vyawtiHfDo2yQb"
+    },
+    {
+      "text": "What help needs to be gathered (such as skilled craftspeople or master mystics)?",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "bV7qU1Xf6o9yszzI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h5rOpC6d10AhFmU1.bV7qU1Xf6o9yszzI"
+    },
+    {
+      "text": "How can you mitigate the immediate consequences of actions taken so far in the conflict?",
+      "range": [
+        31,
+        40
+      ],
+      "_id": "Lg37HgVmccdpv7oX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h5rOpC6d10AhFmU1.Lg37HgVmccdpv7oX"
+    },
+    {
+      "text": "How can you implement a plan to prevent this conflict from happening again?",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "7BEf8En46Lp6WKpG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h5rOpC6d10AhFmU1.7BEf8En46Lp6WKpG"
+    },
+    {
+      "text": "What surrounding communities need to be informed of this conflict for their own safety?",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "VVWZ9Y0zVF5ldohd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h5rOpC6d10AhFmU1.VVWZ9Y0zVF5ldohd"
+    },
+    {
+      "text": "What motives need to be understood or expectations need to be met in order to facilitate progress?",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "NnwES5AlMYBO2ysQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h5rOpC6d10AhFmU1.NnwES5AlMYBO2ysQ"
+    },
+    {
+      "text": "What are the implications of this conflict being resolved?  What new problems will that make?",
+      "range": [
+        71,
+        80
+      ],
+      "_id": "15tWaNtomiOqgt0d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h5rOpC6d10AhFmU1.15tWaNtomiOqgt0d"
+    },
+    {
+      "text": "What restitution or recompense need to be made?",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "0mJtw2yGXheSV932",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h5rOpC6d10AhFmU1.0mJtw2yGXheSV932"
+    },
+    {
+      "text": "In what way can a compromise be made?  Or in what way can all sides lose the least?",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "AupF508NWHwXVzzW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h5rOpC6d10AhFmU1.AupF508NWHwXVzzW"
+    }
+  ],
+  "folder": "VAY2CFAKr23S9VJK",
+  "sort": 800000,
+  "_id": "h5rOpC6d10AhFmU1",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>To help you come up with methods of making headway, look back at your background information. Ideally, that will be your gold mine for finding ways to achieve milestones. You can also consider the questions in the table below to come up with goals that need to be accomplished before resolution of the conflict is possible. Alternately, you can roll percentile dice (2d10) and find a way to fit the answer to the rolled question into your quest. As always, if you're stuck, roll for an Action/Theme.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.h5rOpC6d10AhFmU1"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159030,
+    "modifiedTime": 1702860190509,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!h5rOpC6d10AhFmU1"
+}

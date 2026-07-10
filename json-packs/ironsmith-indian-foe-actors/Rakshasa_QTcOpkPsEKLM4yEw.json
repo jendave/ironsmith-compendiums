@@ -1,0 +1,165 @@
+{
+  "name": "Rakshasa",
+  "type": "foe",
+  "img": "icons/creatures/abilities/cougar-roar-rush-orange.webp",
+  "items": [
+    {
+      "_id": "TcvH9NHitjyhEqws",
+      "name": "Rakshasa",
+      "type": "progress",
+      "img": "icons/creatures/abilities/cougar-roar-rush-orange.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 46\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Tiger-headed humanoid</p>\n<p>Heights typically larger than the tallest Tigerlander</p>\n<p>Strength of a giant with feline grace to match</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 46\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Hunt</p>\n<p>Feast and drink</p>\n<p>Battle for supremacy</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 219\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Swift claw attacks</p>\n<p>Vicious bite</p>\n<p>Martial arts styles</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 220\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 46\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The rakshasa&nbsp; earned a reputation as &ldquo;man eaters&rdquo; early on in our exploration of the Tigerlands. They love a good battle and often eat their foes after a victory. Some say this is because they view burying the bodies as wasting resources, and others claim its because the rakshasa gains some power or wisdom by ingesting their enemies.</p>\n</div>\n</div>\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Tiger folk love a good competition whether it is who can kill the boar on a hunt, who has the most kills in battle, or who can leap the furthest across a mountain passage. While not foolproof, capitalizing on this need to always be the best has saved the life of more than one Tigerlander captured by the rakshasa.</p>\n<p>During a fight, the rakshasa typically like to toy with their foe. Due to their overwhelming size and strength, they feel confident that their foes will usually go down with a single strike, and due to their agility and mastery of martial arts, they are confident that no foe can strike them. Unfortunately, their confidence is not unwarranted.</p>\n</div>\n</div>\n<blockquote>\n<p>Quest Starter:</p>\n<p>An aged rakshasa has abandoned their people and is offering to teach Tigerlanders the secrets of their martial arts. What ulterior motive might this rakshasa have? What series of unusual events has befallen the last several pupils the rakshasa had?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Are the rakshasa actually a form of demon?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 3,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": 1741382794142,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!actors.items!QTcOpkPsEKLM4yEw.TcvH9NHitjyhEqws"
+    }
+  ],
+  "effects": [],
+  "folder": "1h2u3eK9jX6x0dlp",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Rakshasa",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/abilities/cougar-roar-rush-orange.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.ETZwkGvsBZoQ7QWl",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741382544715,
+    "modifiedTime": 1741382890181,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "QTcOpkPsEKLM4yEw",
+  "sort": 500000,
+  "_key": "!actors!QTcOpkPsEKLM4yEw"
+}

@@ -1,0 +1,179 @@
+{
+  "name": "Regions of the Icelands",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Niflheim <i>Realm of Ice</i> (Barrier Islands)",
+      "range": [
+        1,
+        12
+      ],
+      "_id": "csH5Slef8gDCI6ZO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Yu5T9pKKdmg7CJmu.csH5Slef8gDCI6ZO"
+    },
+    {
+      "text": "Nidavellir <i>Land of Dwarves</i> (Ragged Coast)",
+      "range": [
+        13,
+        24
+      ],
+      "_id": "XbYhgS6TQx2nYXx9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Yu5T9pKKdmg7CJmu.XbYhgS6TQx2nYXx9"
+    },
+    {
+      "text": "Alfheim <i>Land of Elves</i> (Deep Wilds)",
+      "range": [
+        25,
+        34
+      ],
+      "_id": "PQSuMzgD5Si9RGAJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Yu5T9pKKdmg7CJmu.PQSuMzgD5Si9RGAJ"
+    },
+    {
+      "text": "Muspelheim <i>Land of Fire</i> (Flooded Lands)",
+      "range": [
+        35,
+        46
+      ],
+      "_id": "K6iJSwcSInUwLn67",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Yu5T9pKKdmg7CJmu.K6iJSwcSInUwLn67"
+    },
+    {
+      "text": "Midgard <i>Land of Humans</i> (Havens)",
+      "range": [
+        47,
+        60
+      ],
+      "_id": "NLYn035hsUbG7bsR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Yu5T9pKKdmg7CJmu.NLYn035hsUbG7bsR"
+    },
+    {
+      "text": "Vanaheim <i>Land of Vanir</i> (Hinterlands)",
+      "range": [
+        61,
+        72
+      ],
+      "_id": "PE9Ie8EofbcdqKbR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Yu5T9pKKdmg7CJmu.PE9Ie8EofbcdqKbR"
+    },
+    {
+      "text": "Jotunheim <i>Land of Giants</i> (Tempest Hills)",
+      "range": [
+        73,
+        84
+      ],
+      "_id": "FqzhABAqtTvWYUWe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Yu5T9pKKdmg7CJmu.FqzhABAqtTvWYUWe"
+    },
+    {
+      "text": "Asgard <i>Land of Æsir</i> (Veiled Mountains)",
+      "range": [
+        85,
+        94
+      ],
+      "_id": "j6nNravaYr9MUYBO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Yu5T9pKKdmg7CJmu.j6nNravaYr9MUYBO"
+    },
+    {
+      "text": "Hel <i>Land of the Dead</i> (Shattered Wastes)",
+      "range": [
+        95,
+        99
+      ],
+      "_id": "VcGYmQXxOk51QToz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Yu5T9pKKdmg7CJmu.VcGYmQXxOk51QToz"
+    },
+    {
+      "text": "Elsewhere",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "qjTMZaJtFsHXcKvN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Yu5T9pKKdmg7CJmu.qjTMZaJtFsHXcKvN"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Each region in the Icelands corresponds to a region on the normal Ironsworn map. In this way, you can continue to use the same map while still getting a new flavor for the setting.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1708932981698,
+    "modifiedTime": 1709606308666,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_id": "Yu5T9pKKdmg7CJmu",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!tables!Yu5T9pKKdmg7CJmu"
+}

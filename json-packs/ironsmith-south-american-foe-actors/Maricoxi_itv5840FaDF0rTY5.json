@@ -1,0 +1,165 @@
+{
+  "name": "Maricoxi",
+  "type": "foe",
+  "img": "icons/creatures/magical/humanoid-horned-rider.webp",
+  "items": [
+    {
+      "_id": "DCchL0z4pPWdXT4L",
+      "name": "Maricoxi",
+      "type": "progress",
+      "img": "icons/creatures/magical/humanoid-horned-rider.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Muscular, ape-like body</p>\n<p>Limited language</p>\n<p>Primitive and paranoid</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Exert dominance</p>\n<p>Protect family groups</p>\n<p>Fight to survive</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Wooden spears and rudimentary bows</p>\n<p>Frenzied attacks</p>\n<p>Intimidation</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 214\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 54\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 54\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Sometime long ago, other humans set foot in the Junglelands, but the firstborn were much more active at that time along with even more primordial beings. The humans had no chance to establish a true society and only barely survived as prey for the dominant species. Generations of this terrible existence led to the Maricoxi.</p>\n<p>The Maricoxi are human in appearance, but they lack societal advances such as detailed language or complex tools. They regressed back to a previous form of life as they fought for survival. Their days were filled with killing, eating, and hiding. They still have no agricultural skills and depend completely on hunting and gathering.</p>\n<p>While we have tried to welcome them into our settlements and help integrate them into our culture, we have yet to establish meaningful relations with the Maricoxi. They are rightly suspicious of nearly everyone, and attack first without waiting to see how dangerous the situation might actually be. The best thing we have found is to respect them and leave them be.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A group of Maricoxi arrived at a settlement wounded and near death. The people of the settlement took them in and are attempting to heal their wounds, but they are worried about what the Maricoxi are fleeing from. What is hunting this group of Maricoxi, and why do you feel compelled to hunt it? If you are successful, could this be the bridge necessary to connect with the Maricoxi in a permanent way?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>What skill have some of the Maricoxi mastered that is unmatched in other societies?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!itv5840FaDF0rTY5.DCchL0z4pPWdXT4L"
+    }
+  ],
+  "effects": [],
+  "folder": "u25XwB82BDMzDY6q",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.xDT8BgVJ49uDUZ2V"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Maricoxi",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/magical/humanoid-horned-rider.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.xDT8BgVJ49uDUZ2V",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741415382255,
+    "modifiedTime": 1741415387147,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "itv5840FaDF0rTY5",
+  "sort": 100000,
+  "_key": "!actors!itv5840FaDF0rTY5"
+}

@@ -1,0 +1,165 @@
+{
+  "name": "Witch Doctor",
+  "type": "foe",
+  "img": "icons/environment/people/cleric-orange.webp",
+  "items": [
+    {
+      "_id": "DCchL0z4pPWdXT4L",
+      "name": "Witch Doctor",
+      "type": "progress",
+      "img": "icons/environment/people/cleric-orange.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 215\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Dark wooden masks</p>\n<p>Master of alchemy</p>\n<p>Chants and incense</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 215\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><span style=\"color: rgb(60, 207, 221); font-family: var(--font-primary); font-size: var(--font-size-14);\">Hunt albino bones<br></span></p>\n<p><span style=\"color: rgb(60, 207, 221); font-family: var(--font-primary); font-size: var(--font-size-14);\">Connect with spiritual realm</span></p>\n<p><span style=\"color: rgb(60, 207, 221); font-family: var(--font-primary); font-size: var(--font-size-14);\">Pursue corrupted magics and power</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 215\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Use voodoo dolls</p>\n<p>Dismembering slash</p>\n<p>Transmit psychological afflictions</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 214\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 216\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 54\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 50\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>With great power comes great responsibility, and there are times when our beloved sangoma, healers, shaman, or mystics go mad with power. They push their inner powers further than their mind or spirit can fully control. Once under the delusion of their own grandeur, they seek out ever more power, but that power always comes at the price of lives.</p>\n<p>To fuel their corrupted magics, witch doctors usually hunt those Grasslanders who happen to have albinism. They grind the bones into a fine powder that can be used for poultices, potions, or other rituals imbued with power. Because of this specific need, witch doctors often carry stout scythes they use to dismember their victims. They may often cut off an arm or leg and immediately begin the cleaning the grinding process on those bones while the victim bleeds out from their injuries.</p>\n<p>Witch doctors also know the deeper magics involved in the flesh and bone of humans. Never give a lock of hair, knocked out tooth, or even a clipping from your nails to anyone. Burn anything that is separated from your body immediately lest it fall into the hands of a witch doctor who can bind it to a doll-like effigy giving them power over you.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A villager lies sick, inflicted with an unknown disease, when the villager&rsquo;s former lover admits to giving a lock of hair to a witch doctor to enact vengeance on the person for the perceived romantic slights. Knowing a witch doctor is responsibility, the overseer believes the disease can be reversed. What makes you think you know the identity of this witch doctor? What harm did they previously bring upon you and yours?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>What powers are embedded in the wooden masks of witch doctors? Is this ability connected to the elves? If so, how?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!GF1I2b4bhUYZzHtW.DCchL0z4pPWdXT4L"
+    }
+  ],
+  "effects": [],
+  "folder": "AjvJVyWaJK7Fcyuk",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.xDT8BgVJ49uDUZ2V"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Witch Doctor",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/environment/people/cleric-orange.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.xDT8BgVJ49uDUZ2V",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741330594963,
+    "modifiedTime": 1741330594963,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "GF1I2b4bhUYZzHtW",
+  "sort": 0,
+  "_key": "!actors!GF1I2b4bhUYZzHtW"
+}

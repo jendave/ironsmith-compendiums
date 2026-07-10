@@ -1,0 +1,23 @@
+{
+  "type": "RollTable",
+  "folder": null,
+  "name": "Character",
+  "color": null,
+  "sorting": "a",
+  "_id": "3gZ82Py34K048pAT",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.27.0",
+    "createdTime": 1777589726762,
+    "modifiedTime": 1777589728646,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!3gZ82Py34K048pAT"
+}

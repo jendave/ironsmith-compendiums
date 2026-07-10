@@ -1,0 +1,59 @@
+{
+  "type": "asset",
+  "folder": "x2Im9vXS7mZXpCyJ",
+  "name": "The Darkness Within (Definition)",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [
+      {
+        "name": "Define the dark power in you",
+        "value": ""
+      },
+      {
+        "name": "Define aspects that the darkness controls",
+        "value": ""
+      },
+      {
+        "name": "Define weaknesses the darkness gives you",
+        "value": ""
+      }
+    ],
+    "abilities": [],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/cursed-star.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1708647997978,
+    "modifiedTime": 1764372792970,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "p4WW21beDA8NvAFm",
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!p4WW21beDA8NvAFm"
+}

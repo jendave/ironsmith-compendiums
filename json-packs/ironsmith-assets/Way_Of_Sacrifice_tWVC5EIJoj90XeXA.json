@@ -1,0 +1,68 @@
+{
+  "type": "asset",
+  "folder": "x2Im9vXS7mZXpCyJ",
+  "name": "Way Of Sacrifice",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.010e27aa4376d4df]{Swear an Iron Vow} to help a community in need without reward or benefit to yourself, you may reroll any dice. When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.725a21e2f02d7e12]{Fulfill Your Vow} and mark experience, take +1 experience and +1 spirit.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.b643d9ea53ff8d98]{Forge a Bond} with a community you after you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.725a21e2f02d7e12]{Fulfill Your Vow} to aid them, add +1 and take +1 momentum or +1 spirit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.be95ca063ded2b19]{Compel} using genuine affection by putting others' needs before your own, add +1 and take +1 momentum or +1 spirit on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/cherish.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1708648001891,
+    "modifiedTime": 1764372813828,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "tWVC5EIJoj90XeXA",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!tWVC5EIJoj90XeXA"
+}

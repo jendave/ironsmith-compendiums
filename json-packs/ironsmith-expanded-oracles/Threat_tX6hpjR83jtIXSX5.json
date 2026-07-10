@@ -1,0 +1,19 @@
+{
+  "name": "Threat",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "tX6hpjR83jtIXSX5",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695960436662,
+    "modifiedTime": 1702855056023,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!folders!tX6hpjR83jtIXSX5"
+}

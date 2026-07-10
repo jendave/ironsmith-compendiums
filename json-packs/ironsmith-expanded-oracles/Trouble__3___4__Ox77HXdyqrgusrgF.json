@@ -1,0 +1,717 @@
+{
+  "name": "Trouble (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Mystic's power surges uncontrollably",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "KDxBvNS435auCMFI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.KDxBvNS435auCMFI"
+    },
+    {
+      "text": "Authoritarian leader",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "M72ZgKAW9reTOJ2Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.M72ZgKAW9reTOJ2Q"
+    },
+    {
+      "text": "Forced labor camps",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "k6z3Std0FC3ifUfh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.k6z3Std0FC3ifUfh"
+    },
+    {
+      "text": "Contest of arms gone wrong",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "WIAKYXEh5KzEixna",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.WIAKYXEh5KzEixna"
+    },
+    {
+      "text": "Mine collapse",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "M7noq690VhuaZ6MO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.M7noq690VhuaZ6MO"
+    },
+    {
+      "text": "Protection racket",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "pQkqHaEiDuo5fIK1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.pQkqHaEiDuo5fIK1"
+    },
+    {
+      "text": "Incoming swarm",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "Erljp5dQMlQpVSBW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.Erljp5dQMlQpVSBW"
+    },
+    {
+      "text": "Mystical blight",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "cKyZsgRpC3sfc854",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.cKyZsgRpC3sfc854"
+    },
+    {
+      "text": "Resources depleted",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "QR9WFLCA4T5a6gyc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.QR9WFLCA4T5a6gyc"
+    },
+    {
+      "text": "Consequences of a forsaken vow",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "bbP04p0XviuCFJcw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.bbP04p0XviuCFJcw"
+    },
+    {
+      "text": "Water source dried up",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "kQEGb1L9qRrjB4gq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.kQEGb1L9qRrjB4gq"
+    },
+    {
+      "text": "Important object broken",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "HVstxVoKccnzYgPn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.HVstxVoKccnzYgPn"
+    },
+    {
+      "text": "Mystic declares a dark prophecy",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "eG53XUSXfpPlebot",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.eG53XUSXfpPlebot"
+    },
+    {
+      "text": "Trade route plagued by bandits",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "7WdeoSCoKPqUM6Kr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.7WdeoSCoKPqUM6Kr"
+    },
+    {
+      "text": "Trade caravan being ambushed right now",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "XBr2bprcIDKwM6TC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.XBr2bprcIDKwM6TC"
+    },
+    {
+      "text": "Mob hunts a mystic",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "JkV7Sk3QGDlfIFqZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.JkV7Sk3QGDlfIFqZ"
+    },
+    {
+      "text": "Storm damaged structures",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "migEkRvTlidiT7oo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.migEkRvTlidiT7oo"
+    },
+    {
+      "text": "Dark cult has control",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "Y652YND68sKGqAKG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.Y652YND68sKGqAKG"
+    },
+    {
+      "text": "Area slowly flooding",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "wqRfSwUh8KafVSQl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.wqRfSwUh8KafVSQl"
+    },
+    {
+      "text": "Treaty signing interrupted",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "i46QAYUAmxpKonYZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.i46QAYUAmxpKonYZ"
+    },
+    {
+      "text": "Series of kidnapping",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "gluNuexnH1sAWhv6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.gluNuexnH1sAWhv6"
+    },
+    {
+      "text": "Horrors roam the night",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "yruO1tFSMBdLIKBi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.yruO1tFSMBdLIKBi"
+    },
+    {
+      "text": "Herds being hunted",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "pQjxm28CjmZnm9OI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.pQjxm28CjmZnm9OI"
+    },
+    {
+      "text": "Harvest lost",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "reldcJjJvxnUzhs3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.reldcJjJvxnUzhs3"
+    },
+    {
+      "text": "Forest fire",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "qaL7fpogiZin1WdY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.qaL7fpogiZin1WdY"
+    },
+    {
+      "text": "Rock formation collapse",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "DSP7zDFwJlnpUTne",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.DSP7zDFwJlnpUTne"
+    },
+    {
+      "text": "Lack of iron",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "yuV8Lqedy0RjvKrm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.yuV8Lqedy0RjvKrm"
+    },
+    {
+      "text": "Winter is early",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "jENnrDMBZLue3GSC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.jENnrDMBZLue3GSC"
+    },
+    {
+      "text": "New settlement discovered",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "1DtWd445RfMNYvFv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.1DtWd445RfMNYvFv"
+    },
+    {
+      "text": "Blizzard catches them unprepared",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "SLXvvbMJJJEnIh5X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.SLXvvbMJJJEnIh5X"
+    },
+    {
+      "text": "Vengeful mystic's curse",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "bHL5D82s2dyqllmw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.bHL5D82s2dyqllmw"
+    },
+    {
+      "text": "Sacred object is lost",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "61rDKAUJCrmea4wZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.61rDKAUJCrmea4wZ"
+    },
+    {
+      "text": "Religious leader in conflict with overseer",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "gfoMWrFdCL3xANf6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.gfoMWrFdCL3xANf6"
+    },
+    {
+      "text": "Zealots in control",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "rY1N0jSSNmnqwkK8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.rY1N0jSSNmnqwkK8"
+    },
+    {
+      "text": "Town bully",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "o4BnyjJkBdyLVkcO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.o4BnyjJkBdyLVkcO"
+    },
+    {
+      "text": "Residents too infirm to care for themselves",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "tFswgJgEeC4uQGBB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.tFswgJgEeC4uQGBB"
+    },
+    {
+      "text": "Sacrifices demanded",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "rV0sFr0TFXUowuUF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.rV0sFr0TFXUowuUF"
+    },
+    {
+      "text": "Turning a blind eye",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "KRhHy9Uqe9YlDOmY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.KRhHy9Uqe9YlDOmY"
+    },
+    {
+      "text": "Allies abandon a cause",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "qGzkZHtMueZ9E8dp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.qGzkZHtMueZ9E8dp"
+    },
+    {
+      "text": "Political schism",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "NsTBT80p9qwkzmP5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.NsTBT80p9qwkzmP5"
+    },
+    {
+      "text": "Ironsworn rejected",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "haeqMlXFCOhyuKk3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.haeqMlXFCOhyuKk3"
+    },
+    {
+      "text": "Many here have forsaken vows",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "kca4kg6wABNfMEOQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.kca4kg6wABNfMEOQ"
+    },
+    {
+      "text": "Reckless upstart",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "XoA8zrKBPR5cS2cF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.XoA8zrKBPR5cS2cF"
+    },
+    {
+      "text": "Firstborn take offense",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "UObG0Z10zRy1pDga",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.UObG0Z10zRy1pDga"
+    },
+    {
+      "text": "Mystic ceremony interrupted",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "UCAOc19Rw0x73unV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.UCAOc19Rw0x73unV"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "jVtbko4gdyLROyzl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ox77HXdyqrgusrgF.jVtbko4gdyLROyzl"
+    }
+  ],
+  "folder": "6B9UAC7H5jYXUrLc",
+  "sort": 0,
+  "_id": "Ox77HXdyqrgusrgF",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this table to generate a narrative hook for a problem faced by a community. This oracle can help inspire a vow for your character or serve as a prompt for a trouble you encounter when you interact with a settlement.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791160059,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!Ox77HXdyqrgusrgF"
+}

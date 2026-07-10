@@ -1,0 +1,165 @@
+{
+  "name": "Adze",
+  "type": "foe",
+  "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
+  "items": [
+    {
+      "_id": "jq7T1LdxduDOgDgT",
+      "name": "Adze",
+      "type": "progress",
+      "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Vampiric firefly</p>\n<p>Can turn ethereal</p>\n<p>Shapeshift to humanoid</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Possess people to turn them into witches</p>\n<p>Drain a victim's blood</p>\n<p>Create spawn inside a victim's body</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Stay small and bite</p>\n<p>Possess a victim</p>\n<p>Pass on diseases</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 50\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 46\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>While the adze can present themselves as a humanoid, do not be fooled. They are demons or evil spirits who know nothing of the mortal existence. They live only to drain others of life and then procreate.</p>\n<p>It is said that the flashing of an adze firefly puts Grasslanders in a dazed state so that the adze can land and feed more easily. After slaking their blood thirst, they will then push eggs beneath the surface of their victims skin which over time swell and burst forth in their hatching. This is not always fatal to the victim, but leaves them horrifically scarred or maimed.</p>\n<p>Another way the adze secure the means to procreate is by enhancing a victims connection to evil spirits. This connection usually comes with an irresistible power that warps the mind of the user and turns them into a witch. Those Grasslanders who have the powers of a witch are often willing to use those powers to help the adze find more victims in return for the promise of even more power.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>During the summer months, fireflies flash a bioluminescent green to the delight of children across the Grasslands. But near the village of Tsumegwa, red lights have been seen flashing in the forest signaling an infestation of adze. The last person to leave Tsumegwa said that the remaining residents were boarding up their huts as airtight as they could in hopes of keeping the adze at bay, but that can only be a temporary solution. Who do you know that is trapped in Tsumegwa, and what do you suspect is behind the adze infestation?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>The sangoma claim a specific sigil will ward off the adze. What does this symbol represent, and what are its origins?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 1,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!OUHA752DPIAOYGJO.jq7T1LdxduDOgDgT"
+    }
+  ],
+  "effects": [],
+  "folder": "gOfwvuzAJkHM51B8",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.x7lUU3cer4uWnTUm"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Adze",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.x7lUU3cer4uWnTUm",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741330664342,
+    "modifiedTime": 1741330800645,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "OUHA752DPIAOYGJO",
+  "sort": 100000,
+  "_key": "!actors!OUHA752DPIAOYGJO"
+}

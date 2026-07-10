@@ -1,0 +1,297 @@
+{
+  "name": "Combat Action (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Compel a surrender.",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "tOB0YUS13BhhXcH9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.tOB0YUS13BhhXcH9"
+    },
+    {
+      "text": "Coordinate with allies.",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "TZK7v45UOgki00W7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.TZK7v45UOgki00W7"
+    },
+    {
+      "text": "Gather reinforcements.",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "qT2yspWSAdAySEvI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.qT2yspWSAdAySEvI"
+    },
+    {
+      "text": "Seize something or someone.",
+      "range": [
+        10,
+        13
+      ],
+      "_id": "DTwnNCpbw9SWz2aK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.DTwnNCpbw9SWz2aK"
+    },
+    {
+      "text": "Provoke a reckless response.",
+      "range": [
+        14,
+        17
+      ],
+      "_id": "E8Xs7chyRYq9qpUE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.E8Xs7chyRYq9qpUE"
+    },
+    {
+      "text": "Intimidate or frighten.",
+      "range": [
+        18,
+        21
+      ],
+      "_id": "8Jje54fVwdhUd3Rm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.8Jje54fVwdhUd3Rm"
+    },
+    {
+      "text": "Reveal a surprising truth.",
+      "range": [
+        22,
+        25
+      ],
+      "_id": "vFoFwGvWudgoBUvy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.vFoFwGvWudgoBUvy"
+    },
+    {
+      "text": "Shift focus to someone or something else.",
+      "range": [
+        26,
+        29
+      ],
+      "_id": "EqWwwf5hJIO9ycM1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.EqWwwf5hJIO9ycM1"
+    },
+    {
+      "text": "Destroy something, or render it useless.",
+      "range": [
+        30,
+        33
+      ],
+      "_id": "vq8pd0VzZcuds0kl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.vq8pd0VzZcuds0kl"
+    },
+    {
+      "text": "Take a decisive action.",
+      "range": [
+        34,
+        39
+      ],
+      "_id": "aH92MuNHFT13XpE6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.aH92MuNHFT13XpE6"
+    },
+    {
+      "text": "Reinforce defenses.",
+      "range": [
+        40,
+        45
+      ],
+      "_id": "RZb4cxegPt0rlT2K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.RZb4cxegPt0rlT2K"
+    },
+    {
+      "text": "Ready an action.",
+      "range": [
+        46,
+        52
+      ],
+      "_id": "bT6amGMRB6vW8flN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.bT6amGMRB6vW8flN"
+    },
+    {
+      "text": "Use the terrain to gain advantage.",
+      "range": [
+        53,
+        60
+      ],
+      "_id": "XxmcQn5nyXhwuTQ3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.XxmcQn5nyXhwuTQ3"
+    },
+    {
+      "text": "Leverage the advantage of a weapon or ability.",
+      "range": [
+        61,
+        68
+      ],
+      "_id": "fx6t3YXsoNKGTdae",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.fx6t3YXsoNKGTdae"
+    },
+    {
+      "text": "Create an opportunity.",
+      "range": [
+        69,
+        78
+      ],
+      "_id": "rdriarP5xDORwGqX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.rdriarP5xDORwGqX"
+    },
+    {
+      "text": "Attack with precision.",
+      "range": [
+        79,
+        89
+      ],
+      "_id": "qGB4NQKJ8xvd5e8A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.qGB4NQKJ8xvd5e8A"
+    },
+    {
+      "text": "Attack with power.",
+      "range": [
+        90,
+        99
+      ],
+      "_id": "kh2VtD4TGGN9Gjlk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.kh2VtD4TGGN9Gjlk"
+    },
+    {
+      "text": "Take a completely unexpected action.",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "l0DCgDU4A9xaxRLS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QDA1hAtUCI1fcccc.l0DCgDU4A9xaxRLS"
+    }
+  ],
+  "folder": "JGoBiGjNOZyH38MA",
+  "sort": 100000,
+  "_id": "QDA1hAtUCI1fcccc",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this oracle to help inspire an action for an NPC in combat. When you’re not sure what your foe does next, particularly when they have initiative, roll on this table and interpret the result as appropriate to the situation.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161595,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!QDA1hAtUCI1fcccc"
+}

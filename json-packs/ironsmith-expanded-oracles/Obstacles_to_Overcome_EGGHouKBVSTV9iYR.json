@@ -1,0 +1,181 @@
+{
+  "name": "Obstacles to Overcome",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "What third party wants your vow to fail?  What might they do?",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "uUTo78xLCgua4ffi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EGGHouKBVSTV9iYR.uUTo78xLCgua4ffi"
+    },
+    {
+      "text": "What dangers exist in the nearby environment?",
+      "range": [
+        11,
+        20
+      ],
+      "_id": "PAEYwFzab8D3ifcv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EGGHouKBVSTV9iYR.PAEYwFzab8D3ifcv"
+    },
+    {
+      "text": "What trouble has befallen an ally related to this vow?",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "Fy8sQ85Mc4huztS8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EGGHouKBVSTV9iYR.Fy8sQ85Mc4huztS8"
+    },
+    {
+      "text": "What makes navigation difficult in this area?",
+      "range": [
+        31,
+        40
+      ],
+      "_id": "kRd9KD6qJpoinc2H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EGGHouKBVSTV9iYR.kRd9KD6qJpoinc2H"
+    },
+    {
+      "text": "What makes you think that you don't have the full story?",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "7hrX3vwwEZgPTrUC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EGGHouKBVSTV9iYR.7hrX3vwwEZgPTrUC"
+    },
+    {
+      "text": "What cultural taboo impedes your progress?",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "EFJ6uihBskC9ByHt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EGGHouKBVSTV9iYR.EFJ6uihBskC9ByHt"
+    },
+    {
+      "text": "What mystic anomaly stands in your way?",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "4r5W98ntTEnv0cym",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EGGHouKBVSTV9iYR.4r5W98ntTEnv0cym"
+    },
+    {
+      "text": "What predatory creatures are known to prowl this area?",
+      "range": [
+        71,
+        80
+      ],
+      "_id": "gP8k6hRy0z0xYHez",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EGGHouKBVSTV9iYR.gP8k6hRy0z0xYHez"
+    },
+    {
+      "text": "What did an ally do that unintentionally made things worse?",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "CEL6EoLAqb6XsiH6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EGGHouKBVSTV9iYR.CEL6EoLAqb6XsiH6"
+    },
+    {
+      "text": "What vital item just went missing?",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "XGC8JcqpHx4xS2T9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!EGGHouKBVSTV9iYR.XGC8JcqpHx4xS2T9"
+    }
+  ],
+  "folder": "VAY2CFAKr23S9VJK",
+  "sort": 900000,
+  "_id": "EGGHouKBVSTV9iYR",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>If some of these obstacles come up in play and the character overcomes it, that gives more milestones towards fulfilling the vow. Even though many other obstacles could come up in the narrative based on an Action/ Theme or Aspect/Focus roll, having these few ahead of time gives me a place to start.</p><p>If you’d like help generating some obstacles, you may roll percentile on the following table</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.EGGHouKBVSTV9iYR"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159125,
+    "modifiedTime": 1702860171650,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!EGGHouKBVSTV9iYR"
+}

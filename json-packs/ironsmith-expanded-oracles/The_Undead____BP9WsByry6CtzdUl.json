@@ -1,0 +1,181 @@
+{
+  "name": "The Undead...",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Unleash a horror not seen before",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "lF39hg4j2x0MvHAx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BP9WsByry6CtzdUl.lF39hg4j2x0MvHAx"
+    },
+    {
+      "text": "Expand their territory",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "LJdHFCAVLELnZ5y0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BP9WsByry6CtzdUl.LJdHFCAVLELnZ5y0"
+    },
+    {
+      "text": "Curse a place through magic",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "6lLsgQQVE6hJiboT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BP9WsByry6CtzdUl.6lLsgQQVE6hJiboT"
+    },
+    {
+      "text": "Force a horrible decision",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "kcjHtRdSODovvoGO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BP9WsByry6CtzdUl.kcjHtRdSODovvoGO"
+    },
+    {
+      "text": "Create mystic wards of protection",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "HvdnBDrTlltRafxm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BP9WsByry6CtzdUl.HvdnBDrTlltRafxm"
+    },
+    {
+      "text": "Obtain a powerful artifact",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "0svOoBVcTXxBpIAb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BP9WsByry6CtzdUl.0svOoBVcTXxBpIAb"
+    },
+    {
+      "text": "Attack in overwhelming numbers",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "NtkIfU74DYW1r3zP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BP9WsByry6CtzdUl.NtkIfU74DYW1r3zP"
+    },
+    {
+      "text": "Isolate an important person or community",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "rx62yZOEckWlITzX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BP9WsByry6CtzdUl.rx62yZOEckWlITzX"
+    },
+    {
+      "text": "Corrupt the environment",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "QQCcr7K877SkGoMn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BP9WsByry6CtzdUl.QQCcr7K877SkGoMn"
+    },
+    {
+      "text": "Reveal the true nature or source of power",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "aQUQcxC8qkZ7pMnc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BP9WsByry6CtzdUl.aQUQcxC8qkZ7pMnc"
+    }
+  ],
+  "folder": "tEPIa9nuBvs4vgAU",
+  "sort": 100000,
+  "_id": "BP9WsByry6CtzdUl",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Those who keep watch from the Veiled Mountains report large hordes of undead and other horrors making their way south to the Ironlands. At first, we thought the mountains would hold them back, but again we were wrong. Their unrelenting nature has allowed them to find tunnels and passages through the mountains to continue their never-ending march south.</p><p>As more and more settlements fall, signs and portents point to the growing influence these creatures have over the remaining life in the Ironlands. They will not rest until the living are no more.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.BP9WsByry6CtzdUl"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159640,
+    "modifiedTime": 1702859684646,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!BP9WsByry6CtzdUl"
+}

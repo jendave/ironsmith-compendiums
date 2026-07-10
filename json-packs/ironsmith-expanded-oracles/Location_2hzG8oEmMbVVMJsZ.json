@@ -1,0 +1,181 @@
+{
+  "name": "Location",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "A cavern lit by glowing lichen holds an abandoned city.  The ground shakes, and buildings begin to crumble.",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "YMcV0JzUqQax2Ofd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!2hzG8oEmMbVVMJsZ.YMcV0JzUqQax2Ofd"
+    },
+    {
+      "text": "A keep built by the firstborn centuries ago now overtaken by nature.  Vines grasp at you, wrapping about your legs and feet.",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "LcO33XQ1LiGi8cN2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!2hzG8oEmMbVVMJsZ.LcO33XQ1LiGi8cN2"
+    },
+    {
+      "text": "A steep peak carved in the image of a great beast.  The ground gives way beneath you.",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "dUKbMddJFfhzdGsn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!2hzG8oEmMbVVMJsZ.dUKbMddJFfhzdGsn"
+    },
+    {
+      "text": "A ship breached by an iceberg among the Barrier Islands.  Icy water sloshes over your feet.",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "QcxsM583nd1fMi2K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!2hzG8oEmMbVVMJsZ.QcxsM583nd1fMi2K"
+    },
+    {
+      "text": "A village suspended above a waterfall and connected by rope bridges.  Your bridge has just been cut loose.",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "ENvhiOHNGvRMYD3b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!2hzG8oEmMbVVMJsZ.ENvhiOHNGvRMYD3b"
+    },
+    {
+      "text": "Several miles down a sink hole with carved alcoves and passageways.  You have disturbed something best left to slumber.",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "qmUmgmtSnpwqKiKH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!2hzG8oEmMbVVMJsZ.qmUmgmtSnpwqKiKH"
+    },
+    {
+      "text": "A settlement gripped by the plague and surrounded by warriors enforcing isolation.  Weakened villages have just charged to breach the quarantine.",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "pqxtayZjhVF9zVGz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!2hzG8oEmMbVVMJsZ.pqxtayZjhVF9zVGz"
+    },
+    {
+      "text": "The site of a half-buried ancient and sprawling mechanism of war with markings from the Old World.  Symbols glow and deep rumbling begins.",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "OmcEyYJ5tqkem2ez",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!2hzG8oEmMbVVMJsZ.OmcEyYJ5tqkem2ez"
+    },
+    {
+      "text": "A pit used as a fighting circle.  A challenger faces you while stoic spectators chant slowly, eagerly awaiting the outcome and will of the gods.",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "OtAxm1f2s29sN6hA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!2hzG8oEmMbVVMJsZ.OtAxm1f2s29sN6hA"
+    },
+    {
+      "text": "In the midst of four burial mounds, each with a darkened portal to the sacred places within.  A foul stench emits from the entrances along with an unnaturally strong gust of wind while the dead shamble out.",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "LJ1U71K6rhU1qlM4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!2hzG8oEmMbVVMJsZ.LJ1U71K6rhU1qlM4"
+    }
+  ],
+  "folder": "UV5jKc1YOy1kQ6QZ",
+  "sort": 300000,
+  "_id": "2hzG8oEmMbVVMJsZ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>To choose an inciting incident, roll percentile dice (2d10) and your action die (1d6) on the table on the next page. The tens digit of the percentile dice will give you the inciting incident. Briefly discuss the questions asked to get the background set, and then decide on a difficulty level for the vow: Troublesome or Dangerous. Next, mark progress once on the progress track to represent the characters already having made it to this spot in the quest. This will also help you bring the vow to a conclusion in a single session.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.2hzG8oEmMbVVMJsZ"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159442,
+    "modifiedTime": 1702852479888,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!2hzG8oEmMbVVMJsZ"
+}

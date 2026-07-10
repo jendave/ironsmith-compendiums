@@ -1,0 +1,19 @@
+{
+  "name": "Combat Event",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "rwM3UEDy5DGioSkf",
+  "folder": null,
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695946268777,
+    "modifiedTime": 1702841788488,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "color": null,
+  "_key": "!folders!rwM3UEDy5DGioSkf"
+}

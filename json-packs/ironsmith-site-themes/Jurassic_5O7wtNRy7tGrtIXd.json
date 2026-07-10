@@ -1,0 +1,184 @@
+{
+  "name": "Jurassic",
+  "type": "delve-theme",
+  "_id": "5O7wtNRy7tGrtIXd",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "A land before time when lizards ruled.",
+    "description": "<div class=\"page\" title=\"Page 241\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Whether recently unearthed or gradually taken back over by nature, this site hearkens back to the dawn of time. Strange and deadly predators roam this site in constant need of more sustenance. Even the plants here are strangely out of place in the Ironlands.</p>\n<div class=\"page\" title=\"Page 241\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Traveling this site means constantly watching over your shoulder to make sure you haven't attracted unwanted attention. Between the razor-like teeth and claws the size of daggers, the denizens here are not to be crossed lightly. Their primitive brain and reactions make them all the more dangerous as they lash out instinctively.</p>\n<div class=\"page\" title=\"Page 241\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>An equally prevalent&nbsp;threat is that some of these&nbsp;creatures may escape this&nbsp;environment and begin to harass nearby settlements.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          1,
+          4
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Larger than life plants"
+      },
+      {
+        "range": [
+          5,
+          8
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Huge footprints in the earth"
+      },
+      {
+        "range": [
+          9,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Traveling herd of herbivores"
+      },
+      {
+        "range": [
+          13,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Well-traveled game trail"
+      },
+      {
+        "range": [
+          17,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Carcass picked clean"
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          1,
+          5
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Pack of swift denizen hunters"
+      },
+      {
+        "range": [
+          6,
+          10
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Apex hunter denizen"
+      },
+      {
+        "range": [
+          11,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Aggressive armored denizen"
+      },
+      {
+        "range": [
+          13,
+          14
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Horned denizen about to charge"
+      },
+      {
+        "range": [
+          15,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Swarm of giant insects"
+      },
+      {
+        "range": [
+          17,
+          18
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Trees pushed over by denizens"
+      },
+      {
+        "range": [
+          19,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Poisonous denizens"
+      },
+      {
+        "range": [
+          21,
+          22
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Poisonous flora"
+      },
+      {
+        "range": [
+          23,
+          24
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Tar Pits"
+      },
+      {
+        "range": [
+          25,
+          26
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Feasting denizens"
+      },
+      {
+        "range": [
+          27,
+          28
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Stalked by a denizen"
+      },
+      {
+        "range": [
+          29,
+          30
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen protecting eggs"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703460332653,
+    "modifiedTime": 1703460538583,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!5O7wtNRy7tGrtIXd"
+}

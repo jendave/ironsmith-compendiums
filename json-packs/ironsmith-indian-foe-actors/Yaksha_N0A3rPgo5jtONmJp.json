@@ -1,0 +1,165 @@
+{
+  "name": "Yaksha",
+  "type": "foe",
+  "img": "icons/magic/nature/elemental-plant-humanoid.webp",
+  "items": [
+    {
+      "_id": "jq7T1LdxduDOgDgT",
+      "name": "Yaksha",
+      "type": "progress",
+      "img": "icons/magic/nature/elemental-plant-humanoid.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Humanoid and ghostly body</p>\n<p>Distinctive leaf patterns writhing on their skin</p>\n<p>Dark oaken staffs</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Protect the forests</p>\n<p>Lead the worthy</p>\n<p>Slaughter the unworthy</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Teleport from tree to tree</p>\n<p>Summon entangling vines</p>\n<p>Staff strike</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 53\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The yakshi are considered to be guardians of the forests, but each yaksha is unique from the next. It would be wrong to claim that all yakshi are evil forest spirits because a few yakshi have been known to help lost travelers. However, any individual yaksha can turn aggressive the moment it thinks you are an unworthy interloper.</p>\n<p>Most yakshi we have encountered patrol a small section of a forest. We don&rsquo;t know if they are tied to an individual tree or other aspect of the forest or if they are capable of leaving the area but choose not to. They do communicate in a rudimentary way, but we have found the longer we interact with them, the more likely we are to be found unworthy.</p>\n<p>When in battle with a yaksha, it can attack from any direction because it has the ability to &ldquo;tree walk.&rdquo; The spirit walks into one tree and then walks out of a different tree that may be on the other side of a clearing.</p>\n<p>While the yakshi are non-corporeal in nature, it seems that weapons of iron have an effect on them. Additionally, their staves are made of true, physical wood. If they tree walk, they drop their staff. Many have tried to sunder a yakshi&rsquo;s staff, but this only enrages them more. It&rsquo;s best to drive them away with direct attacks or escape quickly.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>An ancient tree grows in the middle of the jungle and produces hallucinogenic fruit that is sought after for its uses in meditation towards enlightenment. However, the tree is diseased, and a yaksha has appeared asking for help healing it. What is needed to cure this elder tree? Why does the yaksha look familiar to you?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Are yakshi more benevolent in your world?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!N0A3rPgo5jtONmJp.jq7T1LdxduDOgDgT"
+    }
+  ],
+  "effects": [],
+  "folder": "b2kATktQcePR0CZh",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.x7lUU3cer4uWnTUm"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Yaksha",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/magic/nature/elemental-plant-humanoid.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.x7lUU3cer4uWnTUm",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741383896051,
+    "modifiedTime": 1741383896051,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "N0A3rPgo5jtONmJp",
+  "sort": 0,
+  "_key": "!actors!N0A3rPgo5jtONmJp"
+}

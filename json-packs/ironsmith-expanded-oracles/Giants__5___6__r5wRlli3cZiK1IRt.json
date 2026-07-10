@@ -1,0 +1,402 @@
+{
+  "name": "Giants (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Javua",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "weVGwF4dG27DsoPR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.weVGwF4dG27DsoPR"
+    },
+    {
+      "text": "Jochua",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "VTJkZc9gsjyOtoXM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.VTJkZc9gsjyOtoXM"
+    },
+    {
+      "text": "Bakira",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "bOKsnPTMnabCW2z4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.bOKsnPTMnabCW2z4"
+    },
+    {
+      "text": "Jarira",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "sC7GAb7kDsJ9AFie",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.sC7GAb7kDsJ9AFie"
+    },
+    {
+      "text": "Atua",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "qDBJgA2VLtv078fu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.qDBJgA2VLtv078fu"
+    },
+    {
+      "text": "Denara",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "uCLcnSS6iXRo6xT0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.uCLcnSS6iXRo6xT0"
+    },
+    {
+      "text": "Temida",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "5f8Q7gxanB9NYTWB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.5f8Q7gxanB9NYTWB"
+    },
+    {
+      "text": "Bayom",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "rQEPwkAvWh2JX1uO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.rQEPwkAvWh2JX1uO"
+    },
+    {
+      "text": "Tubos",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "xtfC8NJfb1qKLbfP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.xtfC8NJfb1qKLbfP"
+    },
+    {
+      "text": "Chonoch",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "xL5q5nEwDqgu4e61",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.xL5q5nEwDqgu4e61"
+    },
+    {
+      "text": "Kathom",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "s1X7DgMjuuRjgqdn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.s1X7DgMjuuRjgqdn"
+    },
+    {
+      "text": "Tubura",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "GVj3uQNlMy9eHfIP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.GVj3uQNlMy9eHfIP"
+    },
+    {
+      "text": "Khutin",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "sFxXXfNYNVWfxddD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.sFxXXfNYNVWfxddD"
+    },
+    {
+      "text": "Teman",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "jmgWhda05tYOtyF0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.jmgWhda05tYOtyF0"
+    },
+    {
+      "text": "Bakas",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "XtXM6w4B7RKAcfaw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.XtXM6w4B7RKAcfaw"
+    },
+    {
+      "text": "Bakin",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "83sgvoK6BajNJbwE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.83sgvoK6BajNJbwE"
+    },
+    {
+      "text": "Buu",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "ZrhIF7YBOrcx05gl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.ZrhIF7YBOrcx05gl"
+    },
+    {
+      "text": "Kathua",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "iXZcU4yd0cZzfIoj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.iXZcU4yd0cZzfIoj"
+    },
+    {
+      "text": "Bashir",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "yDBSY5hrXTlAPWmT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.yDBSY5hrXTlAPWmT"
+    },
+    {
+      "text": "Bashara",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "lS7ZbkItYaw0AgBY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.lS7ZbkItYaw0AgBY"
+    },
+    {
+      "text": "Javida",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "bO9BYGHbHODNSHtU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.bO9BYGHbHODNSHtU"
+    },
+    {
+      "text": "Khashan",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "7zUhajf65d1ISsTw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.7zUhajf65d1ISsTw"
+    },
+    {
+      "text": "Bayandu",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "SDJNLhsItuZXzhox",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.SDJNLhsItuZXzhox"
+    },
+    {
+      "text": "Bayo",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "p1L7uLtBQzyBRGey",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.p1L7uLtBQzyBRGey"
+    },
+    {
+      "text": "Tubtu",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "5uPIsbT5GZjoCbRN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r5wRlli3cZiK1IRt.5uPIsbT5GZjoCbRN"
+    }
+  ],
+  "folder": "9uyJ7VCXwHxRtmPE",
+  "sort": 150000,
+  "_id": "r5wRlli3cZiK1IRt",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161538,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!r5wRlli3cZiK1IRt"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ritual",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "phP2zR8rfq0gOytQ",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1709375430512,
+    "modifiedTime": 1709375430512,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!folders!phP2zR8rfq0gOytQ"
+}

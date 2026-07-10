@@ -1,0 +1,181 @@
+{
+  "name": "Accompanying Signs or Portents",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Cold fog that won't disperse",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "PPyLgEYB6JSGLZwi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0WAvr6LfO26h8KK.PPyLgEYB6JSGLZwi"
+    },
+    {
+      "text": "Chants on the wind",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "4XGddkvZP3KhGrLG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0WAvr6LfO26h8KK.4XGddkvZP3KhGrLG"
+    },
+    {
+      "text": "Blood red moon",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Mvyk6s5HBKbMwSxn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0WAvr6LfO26h8KK.Mvyk6s5HBKbMwSxn"
+    },
+    {
+      "text": "Sun blotted out for days",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Taeb51oc35KK37fN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0WAvr6LfO26h8KK.Taeb51oc35KK37fN"
+    },
+    {
+      "text": "Water sources spoil",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "ZJ4g2Z49ThG9MHUJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0WAvr6LfO26h8KK.ZJ4g2Z49ThG9MHUJ"
+    },
+    {
+      "text": "Prophetic shared nightmares",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "8gUpJxko7PmbCgLM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0WAvr6LfO26h8KK.8gUpJxko7PmbCgLM"
+    },
+    {
+      "text": "Shadows move independent of bodies",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "R4eDkfv9b0KR2t9M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0WAvr6LfO26h8KK.R4eDkfv9b0KR2t9M"
+    },
+    {
+      "text": "Feelings of suffocation and anxiety attacks",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "VU7rweINRKgwWELl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0WAvr6LfO26h8KK.VU7rweINRKgwWELl"
+    },
+    {
+      "text": "Animals flee and stampede",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "uA8Oc1qulKdceJlG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0WAvr6LfO26h8KK.uA8Oc1qulKdceJlG"
+    },
+    {
+      "text": "Trees ooze black bile",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "YDFUsfeti52Kd3sX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0WAvr6LfO26h8KK.YDFUsfeti52Kd3sX"
+    }
+  ],
+  "folder": "tEPIa9nuBvs4vgAU",
+  "sort": 200000,
+  "_id": "c0WAvr6LfO26h8KK",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Those who keep watch from the Veiled Mountains report large hordes of undead and other horrors making their way south to the Ironlands. At first, we thought the mountains would hold them back, but again we were wrong. Their unrelenting nature has allowed them to find tunnels and passages through the mountains to continue their never-ending march south.</p><p>As more and more settlements fall, signs and portents point to the growing influence these creatures have over the remaining life in the Ironlands. They will not rest until the living are no more.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.c0WAvr6LfO26h8KK"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159644,
+    "modifiedTime": 1702854418993,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!c0WAvr6LfO26h8KK"
+}

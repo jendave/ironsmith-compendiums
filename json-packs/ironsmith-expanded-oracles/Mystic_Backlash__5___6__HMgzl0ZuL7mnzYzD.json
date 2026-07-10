@@ -1,0 +1,381 @@
+{
+  "name": "Mystic Backlash (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "The ritual has the effect of a different random ritual.",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "veFcrHOGDb7l0HxU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.veFcrHOGDb7l0HxU"
+    },
+    {
+      "text": "This place becomes a site of power that continually draws roaming horrors to it.",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "fit30Oe5N9xvCwxq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.fit30Oe5N9xvCwxq"
+    },
+    {
+      "text": "A bond is tested as a result of this ritual.",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "ze3dHmnJZGmLgUol",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.ze3dHmnJZGmLgUol"
+    },
+    {
+      "text": "An important object is lost in shadow and reappears elsewhere.",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "KACLkRWQUezUWK7x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.KACLkRWQUezUWK7x"
+    },
+    {
+      "text": "You are overwhelmed by fear.",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "l5cRe9xk3F3rrsbm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.l5cRe9xk3F3rrsbm"
+    },
+    {
+      "text": "You undergo emotional torment which leaves its mark on you.",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "UtKLX8QRP6LzQ7Iz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.UtKLX8QRP6LzQ7Iz"
+    },
+    {
+      "text": "You are filled with seemingly boundless energy that compels you to run aimlessly and recklessly.",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "gVKrPZyKgaS5W8EX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.gVKrPZyKgaS5W8EX"
+    },
+    {
+      "text": "You are inhabited by a powerful presence and proclaim a prophecy in an otherworldly voice.",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "M6WH47Mby0cBLMTJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.M6WH47Mby0cBLMTJ"
+    },
+    {
+      "text": "You are transformed into an animal and roam the lands for a time giving way to your primitive impulses.",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "cnBy7rv9U4SC2IkK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.cnBy7rv9U4SC2IkK"
+    },
+    {
+      "text": "The ritual you performed gives an advantage to an adversary.",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "zx6fc7nxkmtn4Nxx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.zx6fc7nxkmtn4Nxx"
+    },
+    {
+      "text": "You have lethargy and dim wits for a time.",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "CcDzqT0rOmubLOOx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.CcDzqT0rOmubLOOx"
+    },
+    {
+      "text": "You inadvertently place a curse on the area. Ask the Oracle.",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "Ql79mPs4Gudmtyfm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.Ql79mPs4Gudmtyfm"
+    },
+    {
+      "text": "You waste good will.",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "G5bVFJMClXmH8k5v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.G5bVFJMClXmH8k5v"
+    },
+    {
+      "text": "Your senses are amplified for hours and can overwhelm you.",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "XG1GKC1Fz2vXYFh1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.XG1GKC1Fz2vXYFh1"
+    },
+    {
+      "text": "It causes a friend, ally, or companion to behave passively.",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "tOtQo1Lok6UjSwgW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.tOtQo1Lok6UjSwgW"
+    },
+    {
+      "text": "Your ritual affects the target hours later.",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "tZBSYFyA9EuUFzV6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.tZBSYFyA9EuUFzV6"
+    },
+    {
+      "text": "Your ritual reveals a change in the nature of an iron vow you have sworn.",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "ToHJ2jCcf2v3XxqR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.ToHJ2jCcf2v3XxqR"
+    },
+    {
+      "text": "You are covered with boils and sores.",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "ctZNSU3xdg1QkrcX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.ctZNSU3xdg1QkrcX"
+    },
+    {
+      "text": "You see a troubling vision involving a settlement you share a bond with.",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "7m12uTlE5krSdHVi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.7m12uTlE5krSdHVi"
+    },
+    {
+      "text": "For the next significant amount of time, you can only perform this ritual at the same time of day you are performing it now.",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "cSqEHeHucT4xoOd0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.cSqEHeHucT4xoOd0"
+    },
+    {
+      "text": "Your sense of direction is muddled for a time causing you to add +1 to all challenge dice when making an adventure move.",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "8gj9uc9BwtsSZ5Ca",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.8gj9uc9BwtsSZ5Ca"
+    },
+    {
+      "text": "Your connection to magic weakens for a day or so causing you to add +1 to all challenge dice when performing a ritual.",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "jV9k6kVC8X0sveJN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.jV9k6kVC8X0sveJN"
+    },
+    {
+      "text": "A memory of past failure resurfaces powerfully wracking you with guilt and causing you to hesitate at critical moments.",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "7Eh55RC4O9Ckmbv3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.7Eh55RC4O9Ckmbv3"
+    },
+    {
+      "text": "Dark whispers tempt you to forsake a vow.",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "cDEyJirO5rZnad1E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.cDEyJirO5rZnad1E"
+    },
+    {
+      "text": "Roll twice more on this table. Both results occur. If they are the same result, make it worse.",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "jM2rCcMnb1C3cjou",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!HMgzl0ZuL7mnzYzD.jM2rCcMnb1C3cjou"
+    }
+  ],
+  "folder": "JGoBiGjNOZyH38MA",
+  "sort": -200000,
+  "_id": "HMgzl0ZuL7mnzYzD",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.HMgzl0ZuL7mnzYzD"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161632,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!HMgzl0ZuL7mnzYzD"
+}

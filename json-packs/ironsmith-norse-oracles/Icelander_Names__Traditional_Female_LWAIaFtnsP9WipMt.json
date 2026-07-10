@@ -1,0 +1,1431 @@
+{
+  "name": "Icelander Names: Traditional Female",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Aadny",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "r08cFIy3fc8qmUZD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.r08cFIy3fc8qmUZD"
+    },
+    {
+      "text": "Aasveig",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "fd421YIzN0hTWXeQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.fd421YIzN0hTWXeQ"
+    },
+    {
+      "text": "Adalbjorg",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "vrTdqFLkov9NfgTk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.vrTdqFLkov9NfgTk"
+    },
+    {
+      "text": "Alfhild",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "KiobxN5APvM25Npe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.KiobxN5APvM25Npe"
+    },
+    {
+      "text": "Annveig",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "boeHHV5XFlNpHx08",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.boeHHV5XFlNpHx08"
+    },
+    {
+      "text": "Arnbjorg",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "GIoXEdnJRHYo9Xeo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.GIoXEdnJRHYo9Xeo"
+    },
+    {
+      "text": "Asa",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "akjjjl3Fl8GR32W1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.akjjjl3Fl8GR32W1"
+    },
+    {
+      "text": "Asdis",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "yRmPgJpHhmlPUjdq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.yRmPgJpHhmlPUjdq"
+    },
+    {
+      "text": "Aslaug",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "1wMqxifp8ygDyy0r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.1wMqxifp8ygDyy0r"
+    },
+    {
+      "text": "Astridr",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "1K4icT1PdT1oDPrQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.1K4icT1PdT1oDPrQ"
+    },
+    {
+      "text": "Audgunn",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "iJ6DazVHlUqm5JCw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.iJ6DazVHlUqm5JCw"
+    },
+    {
+      "text": "Audhild",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "M3xFBNJfwEDZ85Dt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.M3xFBNJfwEDZ85Dt"
+    },
+    {
+      "text": "Berghild",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "c7UpuSZixnbNFvUn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.c7UpuSZixnbNFvUn"
+    },
+    {
+      "text": "Bergljot",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "SbBSg3gfye0bgLjU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.SbBSg3gfye0bgLjU"
+    },
+    {
+      "text": "Bergunn",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "FaB01qXEa6jcRn1k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.FaB01qXEa6jcRn1k"
+    },
+    {
+      "text": "Bjorg",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "2fGaHW9NFFCaPwFb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.2fGaHW9NFFCaPwFb"
+    },
+    {
+      "text": "Bodil",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "iLRp058C3ugpFoFX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.iLRp058C3ugpFoFX"
+    },
+    {
+      "text": "Borghild",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "OnvLl2Q0hvY8dCh4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.OnvLl2Q0hvY8dCh4"
+    },
+    {
+      "text": "Brenda",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "fDbg2Hq81Z29prNN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.fDbg2Hq81Z29prNN"
+    },
+    {
+      "text": "Brynja",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "T0cgduJ4hgvKG4mO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.T0cgduJ4hgvKG4mO"
+    },
+    {
+      "text": "Dagmar",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "aKL5wgizrDEdWWJK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.aKL5wgizrDEdWWJK"
+    },
+    {
+      "text": "Dagny",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "KAEEfmpwYW1pLH2J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.KAEEfmpwYW1pLH2J"
+    },
+    {
+      "text": "Dagrun",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "CSN2PW1MErka7J8n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.CSN2PW1MErka7J8n"
+    },
+    {
+      "text": "Edda",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "5elvP0nWPZ8wp3tW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.5elvP0nWPZ8wp3tW"
+    },
+    {
+      "text": "Eidunn",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "jxhDVu3gP95kN01A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.jxhDVu3gP95kN01A"
+    },
+    {
+      "text": "Eir",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "F3UXqlvsNtXQDuqv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.F3UXqlvsNtXQDuqv"
+    },
+    {
+      "text": "Eirunn",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "eJcBx5IT6dm4wh8c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.eJcBx5IT6dm4wh8c"
+    },
+    {
+      "text": "Eldrid",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "UnH9bJJXxOtnuvV3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.UnH9bJJXxOtnuvV3"
+    },
+    {
+      "text": "Embla",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "SSHsrAzWIZkhIKK5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.SSHsrAzWIZkhIKK5"
+    },
+    {
+      "text": "Erica",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "dMTttSsfIwVjskGi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.dMTttSsfIwVjskGi"
+    },
+    {
+      "text": "Erna",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "k0kbvbYr75jLgpaJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.k0kbvbYr75jLgpaJ"
+    },
+    {
+      "text": "Eydis",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "I115YAVenYvC0zjc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.I115YAVenYvC0zjc"
+    },
+    {
+      "text": "Eyvor",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "y16Vm7sSj9ZuPbTE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.y16Vm7sSj9ZuPbTE"
+    },
+    {
+      "text": "Frida",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "irbwpNX9gk2HDn0O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.irbwpNX9gk2HDn0O"
+    },
+    {
+      "text": "Frigg",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "YXi17ftcQlBMxEyZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.YXi17ftcQlBMxEyZ"
+    },
+    {
+      "text": "Gerd",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "fyicwfBttFxW0yyu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.fyicwfBttFxW0yyu"
+    },
+    {
+      "text": "Grid",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "JhwV8k4kc88wY37Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.JhwV8k4kc88wY37Y"
+    },
+    {
+      "text": "Groa",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "doOToy2avz6PlCCs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.doOToy2avz6PlCCs"
+    },
+    {
+      "text": "Gudlaug",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "sR938cHMqYPofcL7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.sR938cHMqYPofcL7"
+    },
+    {
+      "text": "Gudridr",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "rs8vcECo0vW6Djua",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.rs8vcECo0vW6Djua"
+    },
+    {
+      "text": "Gudrun",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "d7soD36X9ZeD41A1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.d7soD36X9ZeD41A1"
+    },
+    {
+      "text": "Gull",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "Xuydk2qzevKgSXvO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.Xuydk2qzevKgSXvO"
+    },
+    {
+      "text": "Gunborg",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "jf99lMCkMD5gMrDG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.jf99lMCkMD5gMrDG"
+    },
+    {
+      "text": "Gunhild",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "PhgD4b5Aoezawm3c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.PhgD4b5Aoezawm3c"
+    },
+    {
+      "text": "Gunnr",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "lD4CoqUUnAtNZJ7v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.lD4CoqUUnAtNZJ7v"
+    },
+    {
+      "text": "Gunvor",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "InTHHQ8extTJqJsQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.InTHHQ8extTJqJsQ"
+    },
+    {
+      "text": "Heidrun",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "H1twCnlOFjDY5C9c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.H1twCnlOFjDY5C9c"
+    },
+    {
+      "text": "Helga",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "4pdUUadoI2e7o7d8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.4pdUUadoI2e7o7d8"
+    },
+    {
+      "text": "Hella",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "uwVxZ4Bl2wfSArA5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.uwVxZ4Bl2wfSArA5"
+    },
+    {
+      "text": "Hilda",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "IAEPoIreA3sjH65d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.IAEPoIreA3sjH65d"
+    },
+    {
+      "text": "Hjordis",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "4QBVlMJa7aV7E5eA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.4QBVlMJa7aV7E5eA"
+    },
+    {
+      "text": "Hulda",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "26nzo5Nn5hH3tu13",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.26nzo5Nn5hH3tu13"
+    },
+    {
+      "text": "Idonea",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "fPwf2xx3KBf35lYp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.fPwf2xx3KBf35lYp"
+    },
+    {
+      "text": "Idunn",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "sw1PhxpkD0yO8wfY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.sw1PhxpkD0yO8wfY"
+    },
+    {
+      "text": "Inga",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "RQPH505XeiYjKFqA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.RQPH505XeiYjKFqA"
+    },
+    {
+      "text": "Ingeborg",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "mAtNzJ5tByEE4lFr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.mAtNzJ5tByEE4lFr"
+    },
+    {
+      "text": "Ingegerd",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "gw8qwv6BHMnlrRCY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.gw8qwv6BHMnlrRCY"
+    },
+    {
+      "text": "Inghild",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "FMuT41OahN2wkhRj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.FMuT41OahN2wkhRj"
+    },
+    {
+      "text": "Ingvild",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "O0x72BSKQe3H9XA7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.O0x72BSKQe3H9XA7"
+    },
+    {
+      "text": "Jorlaug",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "PNUzFkBgzSdhy2wj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.PNUzFkBgzSdhy2wj"
+    },
+    {
+      "text": "Jorunn",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "n0fJmJ7wdP65SL3Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.n0fJmJ7wdP65SL3Z"
+    },
+    {
+      "text": "Kara",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "dHf50ruGCZLWpG8w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.dHf50ruGCZLWpG8w"
+    },
+    {
+      "text": "Kjellaug",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "Ss9cl5WbkLxfsl34",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.Ss9cl5WbkLxfsl34"
+    },
+    {
+      "text": "Kjellfrid",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "GjbrEgzPcw9UJonQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.GjbrEgzPcw9UJonQ"
+    },
+    {
+      "text": "Liv",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "en3NjchtUUh9t2jX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.en3NjchtUUh9t2jX"
+    },
+    {
+      "text": "Magnhild",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "Y0TinM6waoFwAKWp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.Y0TinM6waoFwAKWp"
+    },
+    {
+      "text": "Nanna",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "4VYtaKmBP1PHOUQz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.4VYtaKmBP1PHOUQz"
+    },
+    {
+      "text": "Nerthus",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "wq7EqeVUMWHsiRld",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.wq7EqeVUMWHsiRld"
+    },
+    {
+      "text": "Oda",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "jtV5qLjfruIdpFS6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.jtV5qLjfruIdpFS6"
+    },
+    {
+      "text": "Ragna",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "kn1lFf4KnbojrJ8D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.kn1lFf4KnbojrJ8D"
+    },
+    {
+      "text": "Ragnbjorg",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "5CcyAQ1BcNHceULr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.5CcyAQ1BcNHceULr"
+    },
+    {
+      "text": "Ragnheidr",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "GDsAnhJ1SeJIy2KI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.GDsAnhJ1SeJIy2KI"
+    },
+    {
+      "text": "Ragnhild",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "k5XmDAJrfgpg6MYS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.k5XmDAJrfgpg6MYS"
+    },
+    {
+      "text": "Randi",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "cyVxIV01hZCLk2wh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.cyVxIV01hZCLk2wh"
+    },
+    {
+      "text": "Saga",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "qZf8gSAgNoQy5nRs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.qZf8gSAgNoQy5nRs"
+    },
+    {
+      "text": "Selby",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "giPj9l3SqbKJ46c5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.giPj9l3SqbKJ46c5"
+    },
+    {
+      "text": "Sif",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "uNcoxmNV72QNd8Tv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.uNcoxmNV72QNd8Tv"
+    },
+    {
+      "text": "Signy",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "FlJnjku0YjFsduTN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.FlJnjku0YjFsduTN"
+    },
+    {
+      "text": "Sigrid",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "gN8rRFApdxr2atZ4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.gN8rRFApdxr2atZ4"
+    },
+    {
+      "text": "Sigrun",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "uGUvYzTNT7KkETrw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.uGUvYzTNT7KkETrw"
+    },
+    {
+      "text": "Sigurda",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "pSSSDXslBNAV3fmN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.pSSSDXslBNAV3fmN"
+    },
+    {
+      "text": "Siv",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "m2MpDz2yZR4Rnfsc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.m2MpDz2yZR4Rnfsc"
+    },
+    {
+      "text": "Skad",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "0mx1L0jvY4BgnXdL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.0mx1L0jvY4BgnXdL"
+    },
+    {
+      "text": "Skuld",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "GBl1TrDfxAF8Agnv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.GBl1TrDfxAF8Agnv"
+    },
+    {
+      "text": "Solfrid",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "EjoiScFColxmAVlU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.EjoiScFColxmAVlU"
+    },
+    {
+      "text": "Sollaug",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "ICBT6qB6XLnHmYfZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.ICBT6qB6XLnHmYfZ"
+    },
+    {
+      "text": "Solveig",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "nTNXGR5cf7sspAAZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.nTNXGR5cf7sspAAZ"
+    },
+    {
+      "text": "Thora",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "zAMUybhazuzH8Yyo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.zAMUybhazuzH8Yyo"
+    },
+    {
+      "text": "Thorbjog",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "scdcWIF9uCnFBN7P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.scdcWIF9uCnFBN7P"
+    },
+    {
+      "text": "Thorfridr",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "l3WDz3h5KwmwgB6w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.l3WDz3h5KwmwgB6w"
+    },
+    {
+      "text": "Thorveig",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "pS8uNRpN44wRyCy1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.pS8uNRpN44wRyCy1"
+    },
+    {
+      "text": "Thorvi",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "SxlXculu1rlDXwSY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.SxlXculu1rlDXwSY"
+    },
+    {
+      "text": "Torhild",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "k9c7pV6f9uz2DM4U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.k9c7pV6f9uz2DM4U"
+    },
+    {
+      "text": "Torny",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "3RWq9N4qtz4pzNIl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.3RWq9N4qtz4pzNIl"
+    },
+    {
+      "text": "Unnr",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "2MQolO6GJwfghfZL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.2MQolO6GJwfghfZL"
+    },
+    {
+      "text": "Urd",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "eS4hjZalmRWsTsBC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.eS4hjZalmRWsTsBC"
+    },
+    {
+      "text": "Valdis",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "9QCLxefkyqo5EolD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.9QCLxefkyqo5EolD"
+    },
+    {
+      "text": "Verdandi",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "cpL4u8PeN9UJoixc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.cpL4u8PeN9UJoixc"
+    },
+    {
+      "text": "Vigdis",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "VpUemHcy6A6UMy9m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.VpUemHcy6A6UMy9m"
+    },
+    {
+      "text": "Ylva",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "XLhdcKaw93DhgHZk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!LWAIaFtnsP9WipMt.XLhdcKaw93DhgHZk"
+    }
+  ],
+  "_id": "LWAIaFtnsP9WipMt",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.LWAIaFtnsP9WipMt"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1709601937504,
+    "modifiedTime": 1709602057394,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!LWAIaFtnsP9WipMt"
+}

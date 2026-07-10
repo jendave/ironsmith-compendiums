@@ -1,0 +1,297 @@
+{
+  "name": "Combat Action (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Offer a quick and clean kill",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "cx72hIu3STmAEv6l",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.cx72hIu3STmAEv6l"
+    },
+    {
+      "text": "Command others to fight in their stead",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "yGJGonnZNc0QOAyA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.yGJGonnZNc0QOAyA"
+    },
+    {
+      "text": "Compel to join their side",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "fnJFzSUK3E1G6TYy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.fnJFzSUK3E1G6TYy"
+    },
+    {
+      "text": "Release someone or something as a distraction",
+      "range": [
+        10,
+        13
+      ],
+      "_id": "j4401GSaSVy4R5RS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.j4401GSaSVy4R5RS"
+    },
+    {
+      "text": "Study opponent tactics",
+      "range": [
+        14,
+        17
+      ],
+      "_id": "agroa0CLiINO5lEg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.agroa0CLiINO5lEg"
+    },
+    {
+      "text": "Taunt or ridicule",
+      "range": [
+        18,
+        21
+      ],
+      "_id": "afG9skOlT8DlJEfd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.afG9skOlT8DlJEfd"
+    },
+    {
+      "text": "Tell a convincing falsehood",
+      "range": [
+        22,
+        25
+      ],
+      "_id": "D9NMmrfDGEo1Jwvb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.D9NMmrfDGEo1Jwvb"
+    },
+    {
+      "text": "Feint and strike",
+      "range": [
+        26,
+        29
+      ],
+      "_id": "yH3vEUGh7FgKdocO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.yH3vEUGh7FgKdocO"
+    },
+    {
+      "text": "Reveal an item of significance",
+      "range": [
+        30,
+        33
+      ],
+      "_id": "ia0mNf3dEXHhJ8iv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.ia0mNf3dEXHhJ8iv"
+    },
+    {
+      "text": "Give a choice of who or what to save (Trolley problem)",
+      "range": [
+        34,
+        39
+      ],
+      "_id": "xHb3UEpoZfVa5N3M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.xHb3UEpoZfVa5N3M"
+    },
+    {
+      "text": "Guard and defend only",
+      "range": [
+        40,
+        45
+      ],
+      "_id": "nFagZ8gInyFkLvhV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.nFagZ8gInyFkLvhV"
+    },
+    {
+      "text": "Distract from a surprise attack",
+      "range": [
+        46,
+        52
+      ],
+      "_id": "6RmzeFRSKaOh1EAo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.6RmzeFRSKaOh1EAo"
+    },
+    {
+      "text": "Fight dirty",
+      "range": [
+        53,
+        60
+      ],
+      "_id": "7jhwKBLfglWSC0vO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.7jhwKBLfglWSC0vO"
+    },
+    {
+      "text": "Attempt to disarm opponent",
+      "range": [
+        61,
+        68
+      ],
+      "_id": "nTdddWxbDByzJKx4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.nTdddWxbDByzJKx4"
+    },
+    {
+      "text": "Secure an advantage",
+      "range": [
+        69,
+        78
+      ],
+      "_id": "crRSRwCa244qt6cr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.crRSRwCa244qt6cr"
+    },
+    {
+      "text": "Attempt a killing blow",
+      "range": [
+        79,
+        89
+      ],
+      "_id": "dqR2NXHfjjoG2KpH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.dqR2NXHfjjoG2KpH"
+    },
+    {
+      "text": "Attack in a wild frenzy",
+      "range": [
+        90,
+        99
+      ],
+      "_id": "Orru1jOFVvI8ikJf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.Orru1jOFVvI8ikJf"
+    },
+    {
+      "text": "Take a completely unexpected action",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "OBnZJr6BrEUr36no",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fdT87NOrMKvqGdTe.OBnZJr6BrEUr36no"
+    }
+  ],
+  "folder": "JGoBiGjNOZyH38MA",
+  "sort": 200000,
+  "_id": "fdT87NOrMKvqGdTe",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this oracle to help inspire an action for an NPC in combat. When you’re not sure what your foe does next, particularly when they have initiative, roll on this table and interpret the result as appropriate to the situation.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161603,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!fdT87NOrMKvqGdTe"
+}

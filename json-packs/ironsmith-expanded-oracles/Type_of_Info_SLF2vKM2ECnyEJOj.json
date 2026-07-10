@@ -1,0 +1,181 @@
+{
+  "name": "Type of Info",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "The location of",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "BuOxp0FwL2lYzV2Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SLF2vKM2ECnyEJOj.BuOxp0FwL2lYzV2Z"
+    },
+    {
+      "text": "A suspicious aspect in the appearance of",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "CokzxiCfTsSPnlC4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SLF2vKM2ECnyEJOj.CokzxiCfTsSPnlC4"
+    },
+    {
+      "text": "A suspicious change in",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "dB5KBAnwKbUrImd9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SLF2vKM2ECnyEJOj.dB5KBAnwKbUrImd9"
+    },
+    {
+      "text": "An odd connection between a PC and",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "vjvxp1E4y1hFDZ2C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SLF2vKM2ECnyEJOj.vjvxp1E4y1hFDZ2C"
+    },
+    {
+      "text": "An odd connection between an NPC and",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "xoxA0oZWawKHSvaE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SLF2vKM2ECnyEJOj.xoxA0oZWawKHSvaE"
+    },
+    {
+      "text": "A local legend or gossip about",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "xmjwIPU80VwnPiGn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SLF2vKM2ECnyEJOj.xmjwIPU80VwnPiGn"
+    },
+    {
+      "text": "A prior altercation involving",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "vpcwmj3Oqjx84P4U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SLF2vKM2ECnyEJOj.vpcwmj3Oqjx84P4U"
+    },
+    {
+      "text": "A recent emotional or material loss involving",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "bgp2uWgbOcZ86YNP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SLF2vKM2ECnyEJOj.bgp2uWgbOcZ86YNP"
+    },
+    {
+      "text": "A recent change in power or authority involving",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "GpCccbzoilYyoJOa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SLF2vKM2ECnyEJOj.GpCccbzoilYyoJOa"
+    },
+    {
+      "text": "A damaging secret involving",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "oQR1PcHfSyrSrT6f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SLF2vKM2ECnyEJOj.oQR1PcHfSyrSrT6f"
+    }
+  ],
+  "folder": "ys0tLVTcvwcElQVg",
+  "sort": 400000,
+  "_id": "SLF2vKM2ECnyEJOj",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>If you're looking for specific emotional or information clues in a mystery, you may roll percentile dice (2d10) treating the tens digit and the ones digit as separate rolls.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.SLF2vKM2ECnyEJOj"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159385,
+    "modifiedTime": 1702852382755,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!SLF2vKM2ECnyEJOj"
+}

@@ -1,0 +1,165 @@
+{
+  "name": "Astomi",
+  "type": "foe",
+  "img": "icons/environment/people/cleric-orange.webp",
+  "items": [
+    {
+      "_id": "DCchL0z4pPWdXT4L",
+      "name": "Astomi",
+      "type": "progress",
+      "img": "icons/environment/people/cleric-orange.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 215\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Thoughtful questions</p>\n<p>Flowing and precise movements</p>\n<p>Glowing aura of light</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 215\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Seek further enlightenment</p>\n<p>Enlighten others even if against their will</p>\n<p>Live in balance with the world</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 213\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 215\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Subtle and sudden disabling attacks</p>\n<p>Appeal to reason</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 214\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 216\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 54\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Some of the great gurus reach a higher level of enlightenment that produces physical changes in their bodies. They no longer need food or drink but can gain nourishment simply from smelling the fragrance of a fruit tree or the freshness of a mountain stream. Their body ages much more slowly, and they isolate themselves from most in society. We call them the astomi.</p>\n<p>Unfortunately, the strain of enlightenment takes a toll on the mind as the body and spirit begin to disconnect from that which anchors them to this world. As they strive for higher and higher enlightenment, they seek to impart their wisdom to others in more and more forceful ways. We excuse this behavior because we know the astomi are close to nirvana, but this does not make them any less dangerous when crossed.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>One of the astomi has wandered into the settlement and begun to meditate in the center of the village. Many gathered to pay respects to the enlightened guru and waited patiently for teachings filled with wisdom. After two days and two nights, still without speaking, the astomi approached one villager after another and sketched a symbol on their forehead that glowed for a time before disappearing. Once the symbol absorbed into their bodies, the villagers began committing violence to themselves and each other as the astomi watched. What is this enlightened one trying to teach the people? Is the astomi still aware of the mortal realm or has their mind already passed on?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Are astomi feared instead of respected? If so, do people openly acknowledge the necessity of becoming astomi and accept the chaos this can cause for others?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!CYzc36qZ9I0XskzR.DCchL0z4pPWdXT4L"
+    }
+  ],
+  "effects": [],
+  "folder": "rIV321Bwtg92X2zR",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.xDT8BgVJ49uDUZ2V"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Astomi",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/environment/people/cleric-orange.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.xDT8BgVJ49uDUZ2V",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741384053692,
+    "modifiedTime": 1741384239583,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "CYzc36qZ9I0XskzR",
+  "sort": 100000,
+  "_key": "!actors!CYzc36qZ9I0XskzR"
+}

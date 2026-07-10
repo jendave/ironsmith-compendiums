@@ -1,0 +1,184 @@
+{
+  "name": "World Tree",
+  "type": "delve-domain",
+  "_id": "XKAblbfZRtHXekBy",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "A colossal tree with hollowed out areas.",
+    "description": "<div class=\"page\" title=\"Page 254\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Primordial magic permeates this giant tree and keeps it thriving despite having been hollowed out in places by inhabitants over the centuries. Stunning and vibrant flowers and fruits have enticed many creatures to make this tree their home. The bark is as hard as iron, and chips of it are acceptable substitutes for iron when swearing an iron vow.</p>\n<div class=\"page\" title=\"Page 254\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Exploring a tree of this size takes patience and caution. Swaying branches or powerful gusts of wind can knock unwary climbers from their perch. Thick foliage the size of giants can hide denizen lairs or hunting denizens. Natural staircases of vines or bridges of branches can snap with too much weight.</p>\n<div class=\"page\" title=\"Page 254\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Inside the tree is equally dangerous as denizens roam the passageways, chambers can be submerged with sap or rainfall, and root systems can grasp and entangle.</p>\n<div class=\"page\" title=\"Page 254\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Some say the firstborn infused this tree with the mystical energy needed to grow this tall. Others say that the tree has its roots deep in a bedrock full of black iron deposits fueling its growth.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          21,
+          43
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Hollowed out chamber"
+      },
+      {
+        "range": [
+          44,
+          56
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Passage of twisting roots"
+      },
+      {
+        "range": [
+          57,
+          64
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Platform of conjoined branches"
+      },
+      {
+        "range": [
+          65,
+          68
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Shadowy canopy"
+      },
+      {
+        "range": [
+          69,
+          72
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Flowering branches"
+      },
+      {
+        "range": [
+          73,
+          76
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Natural staircase"
+      },
+      {
+        "range": [
+          77,
+          80
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Hanging vines over open space"
+      },
+      {
+        "range": [
+          81,
+          84
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Outer bark burned by lightning"
+      },
+      {
+        "range": [
+          85,
+          88
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Rotted wood open to the elements"
+      },
+      {
+        "range": [
+          89,
+          98
+        ],
+        "text": "Something unusual or unexpected",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          99,
+          99
+        ],
+        "text": "You transition into a new theme",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          100,
+          100
+        ],
+        "text": "You transition into a new domain",
+        "type": 0,
+        "flags": {}
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          31,
+          33
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Sticky and suffocating sap"
+      },
+      {
+        "range": [
+          34,
+          36
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizens lair here"
+      },
+      {
+        "range": [
+          37,
+          39
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Wooden paths crack and fall"
+      },
+      {
+        "range": [
+          40,
+          42
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Strong winds shake the tree"
+      },
+      {
+        "range": [
+          43,
+          45
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Perilous climb or descent"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703542127321,
+    "modifiedTime": 1703542335963,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!XKAblbfZRtHXekBy"
+}

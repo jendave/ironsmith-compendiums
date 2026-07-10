@@ -1,0 +1,184 @@
+{
+  "name": "Firstborn-Touched",
+  "type": "delve-theme",
+  "_id": "rEL9PKS2oRulo0KS",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "This place is filled with ancient magics",
+    "description": "<div class=\"page\" title=\"Page 237\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Whether they still roam the Ironlands or not, this site leaves no room for doubt that the firstborn truly did exist at one point in history. A sense of gravity and awe hang over this site filled with trappings and markings of an earlier time and people.</p>\n<div class=\"page\" title=\"Page 237\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Traveling through a site empowered by the firstborn is dangerous even for those familiar with the customs and culture of the firstborn as their innate mystical connection to the lands still hold sway here. Outsiders experience the hostility of this site when they trespass these sacred spaces.</p>\n<div class=\"page\" title=\"Page 237\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Perhaps you are searching&nbsp;for a powerful relic or&nbsp;seeking out ancient<br>wisdom. Whatever the case, you dare not linger long in this place that seems more like a living site with a subtle malevolence towards interlopers.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          1,
+          4
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Strange symbols or creations"
+      },
+      {
+        "range": [
+          5,
+          8
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Subtle displays of elder mysticism"
+      },
+      {
+        "range": [
+          9,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Evidence of those who came before"
+      },
+      {
+        "range": [
+          13,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Crumbling ruins"
+      },
+      {
+        "range": [
+          17,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Circle of iorn pillars"
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          1,
+          5
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Ancient trap"
+      },
+      {
+        "range": [
+          6,
+          10
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Overwhelming mystic energy"
+      },
+      {
+        "range": [
+          11,
+          12
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen guarding ancient prize"
+      },
+      {
+        "range": [
+          13,
+          14
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Crumbling structure blocks the path"
+      },
+      {
+        "range": [
+          15,
+          16
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Enthralling site of power"
+      },
+      {
+        "range": [
+          17,
+          18
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Troubling vision of another time"
+      },
+      {
+        "range": [
+          19,
+          20
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizens on patrol"
+      },
+      {
+        "range": [
+          21,
+          22
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Maze-like pathways"
+      },
+      {
+        "range": [
+          23,
+          24
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Illusions take you ever deeper"
+      },
+      {
+        "range": [
+          25,
+          26
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Non-sentient takes on sentience"
+      },
+      {
+        "range": [
+          27,
+          28
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen stalks you"
+      },
+      {
+        "range": [
+          29,
+          30
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Spirit of the past haunts you"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703456015961,
+    "modifiedTime": 1703456281369,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!rEL9PKS2oRulo0KS"
+}

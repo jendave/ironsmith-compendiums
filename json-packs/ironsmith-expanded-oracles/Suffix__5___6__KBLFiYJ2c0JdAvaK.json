@@ -1,0 +1,402 @@
+{
+  "name": "Suffix (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "brekkr",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "IGl1b1u4OLiYeabH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.IGl1b1u4OLiYeabH"
+    },
+    {
+      "text": "borough",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "h0obwl7wPHQsPOcT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.h0obwl7wPHQsPOcT"
+    },
+    {
+      "text": "dalr",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "HZBzZ5xHIuOaGVZh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.HZBzZ5xHIuOaGVZh"
+    },
+    {
+      "text": "by",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "CqwjJnMDqTzqVBGn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.CqwjJnMDqTzqVBGn"
+    },
+    {
+      "text": "sham",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "1QE8ileLYyDwwKwb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.1QE8ileLYyDwwKwb"
+    },
+    {
+      "text": "well",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "oZ81OehGeUdAUg66",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.oZ81OehGeUdAUg66"
+    },
+    {
+      "text": "crossing",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "ytPOPSAoIFnSRwjP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.ytPOPSAoIFnSRwjP"
+    },
+    {
+      "text": "steinn",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "400kPzbTbSigVWYt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.400kPzbTbSigVWYt"
+    },
+    {
+      "text": "smith",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "lUVJUI33tqr3E8QR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.lUVJUI33tqr3E8QR"
+    },
+    {
+      "text": "grave",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "OnzaCPGIoSGQjavn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.OnzaCPGIoSGQjavn"
+    },
+    {
+      "text": "keld",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "8s4REcIiy6hMOthQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.8s4REcIiy6hMOthQ"
+    },
+    {
+      "text": "wen",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "3vJeaThQYIRF8fMh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.3vJeaThQYIRF8fMh"
+    },
+    {
+      "text": "grove",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "EmgCBwFrVGs7dlh0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.EmgCBwFrVGs7dlh0"
+    },
+    {
+      "text": "ham",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "gnDN1mC5cXftSI7A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.gnDN1mC5cXftSI7A"
+    },
+    {
+      "text": "nock",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "I7c84YCj3JbgWomO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.I7c84YCj3JbgWomO"
+    },
+    {
+      "text": "worth",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "2xDQ2cbpZLH6Snrj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.2xDQ2cbpZLH6Snrj"
+    },
+    {
+      "text": "holm",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "Wsrl68HOx02U6NJT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.Wsrl68HOx02U6NJT"
+    },
+    {
+      "text": "haugr",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "8uw2ca7mHD9Mu9y8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.8uw2ca7mHD9Mu9y8"
+    },
+    {
+      "text": "fell",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "KkNSO3haQ9TNZZiW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.KkNSO3haQ9TNZZiW"
+    },
+    {
+      "text": "gate",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "uZjpburpqqmuW5bI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.uZjpburpqqmuW5bI"
+    },
+    {
+      "text": "mon",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "pmCz9ep9hbOJsOTp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.pmCz9ep9hbOJsOTp"
+    },
+    {
+      "text": "dore",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "347VhUfCKIe1gw5S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.347VhUfCKIe1gw5S"
+    },
+    {
+      "text": "torp",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "IEJXfzxK1YRox4L0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.IEJXfzxK1YRox4L0"
+    },
+    {
+      "text": "loft",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "aSl5zvRUseK3AmML",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.aSl5zvRUseK3AmML"
+    },
+    {
+      "text": "vik",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "xWUWNWOUQrhdnmLp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KBLFiYJ2c0JdAvaK.xWUWNWOUQrhdnmLp"
+    }
+  ],
+  "folder": "DZ4DBghELnbCxsOf",
+  "sort": 0,
+  "_id": "KBLFiYJ2c0JdAvaK",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791160027,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!KBLFiYJ2c0JdAvaK"
+}

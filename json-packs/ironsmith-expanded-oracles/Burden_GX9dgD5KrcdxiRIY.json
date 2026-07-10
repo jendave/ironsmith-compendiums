@@ -1,0 +1,181 @@
+{
+  "name": "Burden",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Debilitating curse",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "HAAuF4qUubJuMoeW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GX9dgD5KrcdxiRIY.HAAuF4qUubJuMoeW"
+    },
+    {
+      "text": "Profound injury",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "zhrJdoJxife5DZYc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GX9dgD5KrcdxiRIY.zhrJdoJxife5DZYc"
+    },
+    {
+      "text": "Barren resources",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "SDwkPKQI6dUsiF2E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GX9dgD5KrcdxiRIY.SDwkPKQI6dUsiF2E"
+    },
+    {
+      "text": "Stunning betrayal",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "eQqJoRdUlmwocwZg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GX9dgD5KrcdxiRIY.eQqJoRdUlmwocwZg"
+    },
+    {
+      "text": "Hidden knowledge",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "If9xK8rT6QYe7YxN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GX9dgD5KrcdxiRIY.If9xK8rT6QYe7YxN"
+    },
+    {
+      "text": "Tormenting vision",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "RlfdwqKhjX3Kd36s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GX9dgD5KrcdxiRIY.RlfdwqKhjX3Kd36s"
+    },
+    {
+      "text": "Crippling vice",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "0MsgxbTUcSfMBBM1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GX9dgD5KrcdxiRIY.0MsgxbTUcSfMBBM1"
+    },
+    {
+      "text": "Crushing debt",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "eGF84tH1KvYnXEcz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GX9dgD5KrcdxiRIY.eGF84tH1KvYnXEcz"
+    },
+    {
+      "text": "Shameful event",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "Arf0SmdLGHNPC9Gd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GX9dgD5KrcdxiRIY.Arf0SmdLGHNPC9Gd"
+    },
+    {
+      "text": "Heartbreaking loss",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "gjRIxxUrOHPnRCcE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GX9dgD5KrcdxiRIY.gjRIxxUrOHPnRCcE"
+    }
+  ],
+  "folder": "gUr7gI7irOBJEEmD",
+  "sort": 100000,
+  "_id": "GX9dgD5KrcdxiRIY",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>To continue the theme of gritty fantasy, the standard fantasy tropes are paired with a burden the characters must bear during this quest. While \"Defend those who are weak\" and \"Aid those who are suffering\" may sound similar, hopefully the different wording points your imagination in a new direction.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.GX9dgD5KrcdxiRIY"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791158970,
+    "modifiedTime": 1702851824395,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!GX9dgD5KrcdxiRIY"
+}

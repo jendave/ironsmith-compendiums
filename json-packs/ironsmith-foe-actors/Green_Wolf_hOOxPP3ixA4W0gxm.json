@@ -1,0 +1,163 @@
+{
+  "name": "Green Wolf",
+  "type": "foe",
+  "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+  "items": [
+    {
+      "_id": "3ySuUnpwbZdEX6RL",
+      "name": "Green Wolf",
+      "type": "progress",
+      "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Keen senses</p>\n<p class=\"nogrow\">Leaf-like fur</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Protect territory</p>\n<p class=\"nogrow\">Never leave an injured wolf behind</p>\n<p class=\"nogrow\">Revel in the day</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Pack acts as one</p>\n<p class=\"nogrow\">Camouflaged stalking</p>\n<p class=\"nogrow\">Pin to trees</p>\n</div>\n</div>\n<p>Less aggressive than most breeds of wolves, the green wolves are known for the strong bonds of loyalty between their pack mates. When they attack large or dangerous prey, each wolf moves in for a single strike and then rotates out to recover so that no single wolf takes the brunt of damage. Another oddity about green wolves is that they tend to attack in the day despite having superb night vision. They seem stronger and more confident when in direct sunlight among low underbrush or grassy plains for camouflage.</p>\n<p>Green wolves are also known to be more active near elven settlements or trails and are commonly thought to be servants of the elves. When we are outnumbered in a battle, we say we're facing \"a pack and their pack\" in reference to elves who watch over a pack of green wolves. For this reason, we have often taken pains to not hunt too many prey in areas where the green wolves roam.</p>\n<blockquote>Quest Starter:\n<p>An isolated hermit was known to have befriended a pack of green wolves. Now those wolves have shown up at a nearby settlement with howls and whines. They constantly head toward the forest edge and stop to see if any Ironlander follows. If none do, they start the routine again. What fate has befallen this hermit that the pack would be forced to leave the hermit behind?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote><em>Your Truth: </em>\n<p><em>Legend says that the leafy fur of some green wolves will flower under certain circumstances. If this is true, what properties does this flower have, and what is it used for?</em></p>\n</blockquote>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.24.10",
+        "createdTime": null,
+        "modifiedTime": 1740710798335,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!actors.items!hOOxPP3ixA4W0gxm.3ySuUnpwbZdEX6RL"
+    }
+  ],
+  "effects": [],
+  "folder": "nKcSMhNVNsXhTiaY",
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.24.10"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "prototypeToken": {
+    "name": "Green Wolf",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.10",
+    "createdTime": 1740708413321,
+    "modifiedTime": 1740901683226,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "hOOxPP3ixA4W0gxm",
+  "sort": 100000,
+  "_key": "!actors!hOOxPP3ixA4W0gxm"
+}

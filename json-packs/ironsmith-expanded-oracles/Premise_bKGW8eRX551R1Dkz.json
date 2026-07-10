@@ -1,0 +1,121 @@
+{
+  "name": "Premise",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Find out who the killer is before they strike again.",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "ELC5dFUmUbv7uHiU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bKGW8eRX551R1Dkz.ELC5dFUmUbv7uHiU"
+    },
+    {
+      "text": "Find out who stole the valuable relic and return it.",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "S2UUvgeUZn5H5ptd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bKGW8eRX551R1Dkz.S2UUvgeUZn5H5ptd"
+    },
+    {
+      "text": "Find out who is blackmailing a prominent citizen and set it right.",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "6WtkNsGQ3z91jadk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bKGW8eRX551R1Dkz.6WtkNsGQ3z91jadk"
+    },
+    {
+      "text": "Find out who is supplying the enemy with weapons or information and put it to an end.",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "GLGvYQwMWtTWAQg4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bKGW8eRX551R1Dkz.GLGvYQwMWtTWAQg4"
+    },
+    {
+      "text": "Find out who set a curse upon the settlement and reverse it.",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "c3AY2vqts9eZFAJo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bKGW8eRX551R1Dkz.c3AY2vqts9eZFAJo"
+    },
+    {
+      "text": "Find out why a settlement or building was destroyed or abandoned and make sure it won't happen again.",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "E6wXeFNJTMTUgyYC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bKGW8eRX551R1Dkz.E6wXeFNJTMTUgyYC"
+    }
+  ],
+  "folder": "ys0tLVTcvwcElQVg",
+  "sort": 600000,
+  "_id": "bKGW8eRX551R1Dkz",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>If you decide to use a mystery genre as you are creating your vow, you may roll your action die (1d6) on the following table to get the basic premise of the quest.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.bKGW8eRX551R1Dkz"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159200,
+    "modifiedTime": 1702715965489,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!bKGW8eRX551R1Dkz"
+}

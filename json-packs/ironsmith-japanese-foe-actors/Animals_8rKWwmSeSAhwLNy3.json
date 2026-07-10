@@ -1,0 +1,22 @@
+{
+  "name": "Animals",
+  "sorting": "a",
+  "folder": null,
+  "type": "Actor",
+  "_id": "8rKWwmSeSAhwLNy3",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741240259813,
+    "modifiedTime": 1741240259813,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!8rKWwmSeSAhwLNy3"
+}

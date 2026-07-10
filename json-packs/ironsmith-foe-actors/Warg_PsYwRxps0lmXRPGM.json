@@ -1,0 +1,163 @@
+{
+  "name": "Warg",
+  "type": "foe",
+  "img": "icons/creatures/abilities/wolf-howl-moon-purple.webp",
+  "items": [
+    {
+      "_id": "bOdwS4pPn3sSCxro",
+      "name": "Warg",
+      "type": "progress",
+      "img": "icons/creatures/abilities/wolf-howl-moon-purple.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Wolf-like head that swivels further than it should</p>\n<p class=\"nogrow\">Hump above shoulders</p>\n<p class=\"nogrow\">Tusks of a boar and fangs of a saber-toothed tiger</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Protect territory</p>\n<p class=\"nogrow\">Dominate others</p>\n<p class=\"nogrow\">Hunt</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Charge and gore</p>\n<p class=\"nogrow\">Jump, pin, bite and rend</p>\n</div>\n</div>\n<p>When we first saw the giant wargs of the north, we thought they were wolves warped by mystic energies as they stand a full head taller or more than the largest Ironlander. Their mouths are wider than they should be and open almost all the way back to their ears. Between the tusks on the side of the jaw, the sword-sized fangs on the front, and the razor-like daggers for teeth, anyone caught near the mouth of a warg is in grave danger. Wargs are vicious hunters who aggressively defend their territory and actively seek out competitors to challenge and bully. No Ironlander is safe from a warg who has caught their scent.</p>\n<p>Strangely enough, some clans of giants have been able to domesticate a few wargs and increase their size to the point that the giants can use the wargs as mounts. While giants usually try to avoid violence, knowing that their steeds are swift killers is a further deterrent to combat. Since the Vargr clan giants utterly annihilated a group of raiders by charging out of their settlement astride huge wargs, no one has dared cross them.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>Trying to follow the Vargr giant example, a local hunter stole some warg cubs in an attempt to raise them as faithful companions and steeds. If the messages are to be believed, the warg mother has been spotted headed toward the settlement. Worse yet, the young cubs have escaped their pen and are beginning to ravage the settlement from the inside. Can more needless bloodshed be avoided?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Do wargs have thick fur or the hide of a rhino?</em></p>\n</blockquote>",
+        "rank": 4,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!PsYwRxps0lmXRPGM.bOdwS4pPn3sSCxro"
+    }
+  ],
+  "effects": [],
+  "folder": "VDQ027SZTIQaYkAw",
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "prototypeToken": {
+    "name": "Warg",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/abilities/wolf-howl-moon-purple.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741126297872,
+    "modifiedTime": 1741195935251,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "PsYwRxps0lmXRPGM",
+  "sort": 0,
+  "_key": "!actors!PsYwRxps0lmXRPGM"
+}

@@ -1,0 +1,1531 @@
+{
+  "name": "Firelander Names: Traditional  Male",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Akifusa",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "Ha8nUvo0IWgQNMQj",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.Ha8nUvo0IWgQNMQj"
+    },
+    {
+      "text": "Anjin",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "25WMblfB0s7tL2pG",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.25WMblfB0s7tL2pG"
+    },
+    {
+      "text": "Chohichi",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "MrtdjKSUz0F9BjQ5",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.MrtdjKSUz0F9BjQ5"
+    },
+    {
+      "text": "Chokei",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "qMTUrW5QCa1mGNwP",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.qMTUrW5QCa1mGNwP"
+    },
+    {
+      "text": "Dokan",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "6LNFds6LeNRrCfON",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.6LNFds6LeNRrCfON"
+    },
+    {
+      "text": "Eishin",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "KQPjUrcZvCMCUWq6",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.KQPjUrcZvCMCUWq6"
+    },
+    {
+      "text": "Ekei",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "m0HZ5u0betd0viio",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.m0HZ5u0betd0viio"
+    },
+    {
+      "text": "Fujitake",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "65DOMwUJZ7200oNq",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.65DOMwUJZ7200oNq"
+    },
+    {
+      "text": "Fujunaga",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "hFDZXWWCWqspcXqw",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.hFDZXWWCWqspcXqw"
+    },
+    {
+      "text": "Fusahide",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "Kpq6rUQVYoYNlP9k",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.Kpq6rUQVYoYNlP9k"
+    },
+    {
+      "text": "Gensai",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "4k2ELynkm5LCoh56",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.4k2ELynkm5LCoh56"
+    },
+    {
+      "text": "Hakuseki",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "fin5dLY3lVj7Fra9",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.fin5dLY3lVj7Fra9"
+    },
+    {
+      "text": "Hanzo",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "f1e7GouFRPgen2C2",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.f1e7GouFRPgen2C2"
+    },
+    {
+      "text": "Haruhisa",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "zKho9PsRTpsAcZZx",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.zKho9PsRTpsAcZZx"
+    },
+    {
+      "text": "Hideaki",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "ZCYrHDZKxnI4ZfFD",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.ZCYrHDZKxnI4ZfFD"
+    },
+    {
+      "text": "Hirobumi",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "RZvjtvbxhmgbcSFZ",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.RZvjtvbxhmgbcSFZ"
+    },
+    {
+      "text": "Hiroie",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "yXcddvv9rX7yN8bq",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.yXcddvv9rX7yN8bq"
+    },
+    {
+      "text": "Hisamasa",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "tZxesyy2z55yGroM",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.tZxesyy2z55yGroM"
+    },
+    {
+      "text": "Ienao",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "m6fy2SOl2iUGnZgK",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.m6fy2SOl2iUGnZgK"
+    },
+    {
+      "text": "Ietada",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "LjsQ2IXQdjhhts3v",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.LjsQ2IXQdjhhts3v"
+    },
+    {
+      "text": "Izo",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "cd16puvwc9vRW8gL",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.cd16puvwc9vRW8gL"
+    },
+    {
+      "text": "Jinsuke",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "f7NoT8EW63kXm0gm",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.f7NoT8EW63kXm0gm"
+    },
+    {
+      "text": "Kagekatsu",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "X7g6rQnqUzpX7X2v",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.X7g6rQnqUzpX7X2v"
+    },
+    {
+      "text": "Kagemori",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "8Be50jSAkpqsTPXL",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.8Be50jSAkpqsTPXL"
+    },
+    {
+      "text": "Kageyu",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "N6Z9aP7grBPtHWj5",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.N6Z9aP7grBPtHWj5"
+    },
+    {
+      "text": "Kanbei",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "kbGK8Wy0FHD6fP74",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.kbGK8Wy0FHD6fP74"
+    },
+    {
+      "text": "Kanehira",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "oWfbbipUbaE7IOZz",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.oWfbbipUbaE7IOZz"
+    },
+    {
+      "text": "Kanetsugu",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "aLXgSkt15FFrIybn",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.aLXgSkt15FFrIybn"
+    },
+    {
+      "text": "Katamori",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "PZD88cZzF91NKVSt",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.PZD88cZzF91NKVSt"
+    },
+    {
+      "text": "Kazuhide",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "RWB2EJ38bFxm2rf0",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.RWB2EJ38bFxm2rf0"
+    },
+    {
+      "text": "Kazushige",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "fxt5HpYrdYx1eA4o",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.fxt5HpYrdYx1eA4o"
+    },
+    {
+      "text": "Keiki",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "vq0idrppb6krYWp3",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.vq0idrppb6krYWp3"
+    },
+    {
+      "text": "Kihei",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "pMIX5XvLPuQIMNB8",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.pMIX5XvLPuQIMNB8"
+    },
+    {
+      "text": "Kiyomasa",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "OXSAqM1uNEqFSS8Y",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.OXSAqM1uNEqFSS8Y"
+    },
+    {
+      "text": "Kiyotsuna",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "W4gixZfwf33Z9kxw",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.W4gixZfwf33Z9kxw"
+    },
+    {
+      "text": "Kojuro",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "Sg8mxwATW0N6gbgr",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.Sg8mxwATW0N6gbgr"
+    },
+    {
+      "text": "Kotaro",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "pIGJQOfhkt93x6hZ",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.pIGJQOfhkt93x6hZ"
+    },
+    {
+      "text": "Kunichika",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "PY47tQdATvY1GUal",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.PY47tQdATvY1GUal"
+    },
+    {
+      "text": "Masaga",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "P0V3aUloadHFSIP1",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.P0V3aUloadHFSIP1"
+    },
+    {
+      "text": "Masahige",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "n2uFAHwqxtCqhpy3",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.n2uFAHwqxtCqhpy3"
+    },
+    {
+      "text": "Masakatsu",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "Sc1kuX3V9tX0Ice6",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.Sc1kuX3V9tX0Ice6"
+    },
+    {
+      "text": "Masako",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "2BXCumbJfQk9XtTJ",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.2BXCumbJfQk9XtTJ"
+    },
+    {
+      "text": "Masanori",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "3NOvB70FUELMFhdi",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.3NOvB70FUELMFhdi"
+    },
+    {
+      "text": "Mitsuhide",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "F5UQsqtMeDo5wd5Q",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.F5UQsqtMeDo5wd5Q"
+    },
+    {
+      "text": "Mitsumasa",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "PV9fK0L2M8azn4uS",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.PV9fK0L2M8azn4uS"
+    },
+    {
+      "text": "Morichika",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "U1j2oENu77U9aOAe",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.U1j2oENu77U9aOAe"
+    },
+    {
+      "text": "Morinari",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "JLAHYU1wH6OwrCOV",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.JLAHYU1wH6OwrCOV"
+    },
+    {
+      "text": "Motochika",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "wznM5y6VS7NRKWVF",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.wznM5y6VS7NRKWVF"
+    },
+    {
+      "text": "Motokiyo",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "kZaCLMpERjgBX7wk",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.kZaCLMpERjgBX7wk"
+    },
+    {
+      "text": "Mototsuna",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "AP8dwBKLLsnz0A3C",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.AP8dwBKLLsnz0A3C"
+    },
+    {
+      "text": "Nagaharu",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "TBNgOwJmRqtXSnLU",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.TBNgOwJmRqtXSnLU"
+    },
+    {
+      "text": "Nagamasa",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "1oAeYDRI8WEaV6zm",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.1oAeYDRI8WEaV6zm"
+    },
+    {
+      "text": "Nagayasu",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "Vrxe4ro8dp9VxCtJ",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.Vrxe4ro8dp9VxCtJ"
+    },
+    {
+      "text": "Naomasa",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "n8iHrlHoM2wWqpse",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.n8iHrlHoM2wWqpse"
+    },
+    {
+      "text": "Naotaka",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "oTv22huPL05kyRqM",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.oTv22huPL05kyRqM"
+    },
+    {
+      "text": "Naotsune",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "c6fmCmuOpJYkJDcj",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.c6fmCmuOpJYkJDcj"
+    },
+    {
+      "text": "Naoyuki",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "CEsmVYRTtG1ep90m",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.CEsmVYRTtG1ep90m"
+    },
+    {
+      "text": "Naozane",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "M4HCw0JSeMzng4Yl",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.M4HCw0JSeMzng4Yl"
+    },
+    {
+      "text": "Narimasa",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "f34naXvCWWUMlv72",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.f34naXvCWWUMlv72"
+    },
+    {
+      "text": "Nishiki",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "Kxjleqy7w6521lj4",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.Kxjleqy7w6521lj4"
+    },
+    {
+      "text": "Nobuchika",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "e5zR2K5DILm6izeI",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.e5zR2K5DILm6izeI"
+    },
+    {
+      "text": "Nobufusa",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "4e1NK9Ymqopi4FBy",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.4e1NK9Ymqopi4FBy"
+    },
+    {
+      "text": "Nobukata",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "r5HEXJcSVXdXdb4k",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.r5HEXJcSVXdXdb4k"
+    },
+    {
+      "text": "Nobutomo",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "LAKGHMmYqs9c7VkP",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.LAKGHMmYqs9c7VkP"
+    },
+    {
+      "text": "Noriyori",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "Cn82VTVgWoaDCjGz",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.Cn82VTVgWoaDCjGz"
+    },
+    {
+      "text": "Okimoto",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "99vsyfGHX398HiDW",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.99vsyfGHX398HiDW"
+    },
+    {
+      "text": "Ooka",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "rKofVdYl2le4Lh9V",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.rKofVdYl2le4Lh9V"
+    },
+    {
+      "text": "Ranmaru",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "2kOIZelhCDKnPxrp",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.2kOIZelhCDKnPxrp"
+    },
+    {
+      "text": "Shigenaga",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "3YA3sCLx47N6rK33",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.3YA3sCLx47N6rK33"
+    },
+    {
+      "text": "Shigetsuna",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "PYul89slDFV43BMq",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.PYul89slDFV43BMq"
+    },
+    {
+      "text": "Shigezane",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "OmAR8MsWdIUdhNbT",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.OmAR8MsWdIUdhNbT"
+    },
+    {
+      "text": "Shinpei",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "fqlR0AIDbtcmfBPD",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.fqlR0AIDbtcmfBPD"
+    },
+    {
+      "text": "Soji",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "HQ3HbomYCYAbpfHz",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.HQ3HbomYCYAbpfHz"
+    },
+    {
+      "text": "Sukemasa",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "5URl7wgah2Heihq3",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.5URl7wgah2Heihq3"
+    },
+    {
+      "text": "Tadakatsu",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "StAdzuELTo6wybSb",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.StAdzuELTo6wybSb"
+    },
+    {
+      "text": "Tadaoki",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "cO2vNWyGTrTAS20k",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.cO2vNWyGTrTAS20k"
+    },
+    {
+      "text": "Tadatomo",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "R61rFfadTEylktGY",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.R61rFfadTEylktGY"
+    },
+    {
+      "text": "Takaakira",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "Idxm40g5rfE1gQxd",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.Idxm40g5rfE1gQxd"
+    },
+    {
+      "text": "Takashi",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "FgnDtvGLioKzamQ4",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.FgnDtvGLioKzamQ4"
+    },
+    {
+      "text": "Takayoshi",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "QS7IVxk341fOZpup",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.QS7IVxk341fOZpup"
+    },
+    {
+      "text": "Tarozaemon",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "Wpu8kUM9jbrNBG76",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.Wpu8kUM9jbrNBG76"
+    },
+    {
+      "text": "Teru",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "DjnHVJC3zw1VB6Jj",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.DjnHVJC3zw1VB6Jj"
+    },
+    {
+      "text": "Terukage",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "eSviXzKEiAnj0XZG",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.eSviXzKEiAnj0XZG"
+    },
+    {
+      "text": "Tokimune",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "Sl5Pi6YKa0hdhPhM",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.Sl5Pi6YKa0hdhPhM"
+    },
+    {
+      "text": "Tomomichi",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "uxSiB3WwprPIPRii",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.uxSiB3WwprPIPRii"
+    },
+    {
+      "text": "Tonse",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "lky0O98m64rGACbK",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.lky0O98m64rGACbK"
+    },
+    {
+      "text": "Toshimune",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "hOKXBS72yYdwfzwS",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.hOKXBS72yYdwfzwS"
+    },
+    {
+      "text": "Toshinaga",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "GRvUk3OdNWvCQ1JV",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.GRvUk3OdNWvCQ1JV"
+    },
+    {
+      "text": "Toshizo",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "OYhSPXnWANXAT398",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.OYhSPXnWANXAT398"
+    },
+    {
+      "text": "Toyoharu",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "eLuRDZyxx4pvWp2J",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.eLuRDZyxx4pvWp2J"
+    },
+    {
+      "text": "Tsunenaga",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "BvTsQLThiTyiuPVc",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.BvTsQLThiTyiuPVc"
+    },
+    {
+      "text": "Tsuneoki",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "5qIRMxXPnOQd3km3",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.5qIRMxXPnOQd3km3"
+    },
+    {
+      "text": "Ujimasa",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "8kMojLBuo4yWyyIe",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.8kMojLBuo4yWyyIe"
+    },
+    {
+      "text": "Ujisato",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "BNTQdRTQdvXE2Zy6",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.BNTQdRTQdvXE2Zy6"
+    },
+    {
+      "text": "Ujiyasu",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "zEgsT6AvYxLPuslt",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.zEgsT6AvYxLPuslt"
+    },
+    {
+      "text": "Ujizane",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "TCwoDPb4TyygiXef",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.TCwoDPb4TyygiXef"
+    },
+    {
+      "text": "Yasumori",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "fksBOCOH3jUsp9ks",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.fksBOCOH3jUsp9ks"
+    },
+    {
+      "text": "Yoshihisa",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "nmMo3uANFsDYxS59",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.nmMo3uANFsDYxS59"
+    },
+    {
+      "text": "Yoshimoto",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "LMIFOT0sos5jghmf",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.LMIFOT0sos5jghmf"
+    },
+    {
+      "text": "Yukinaga",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "OgKKd4JsWVkhemp6",
+      "type": "text",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PUmbwVMa2OxC8bJ8.OgKKd4JsWVkhemp6"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use the Firelander names provided here which came from a list of common male and female names from the Edo period of Japan.</p><p>You may use Elf or Varou names to fit the Kitsune, Tanuki, and others.  If you prefer more traditional Japanese names, use the Firelander name oracles.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "mVFtwYh4vvXQuqTu",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "12.331",
+    "createdTime": 1708933150809,
+    "modifiedTime": 1709074946237,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "PUmbwVMa2OxC8bJ8",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!tables!PUmbwVMa2OxC8bJ8"
+}

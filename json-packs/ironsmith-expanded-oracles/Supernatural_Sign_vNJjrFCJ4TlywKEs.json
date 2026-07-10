@@ -1,0 +1,331 @@
+{
+  "name": "Supernatural Sign",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Shadow that wavers as if in a haze of heat",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "VX9pTpmUxa8CdSOW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.VX9pTpmUxa8CdSOW"
+    },
+    {
+      "text": "Shadow that moves independent of a light source",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "zKgx1vH9CTNpxQKS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.zKgx1vH9CTNpxQKS"
+    },
+    {
+      "text": "Shadow that appears to be of a different creature",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "A56kc16zllO7vuUd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.A56kc16zllO7vuUd"
+    },
+    {
+      "text": "Small horns on the head",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "Q6DXc2OTgLRiisJP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.Q6DXc2OTgLRiisJP"
+    },
+    {
+      "text": "Elongated fingers or claws of a beast",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "IdDKfiwilyQMj69V",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.IdDKfiwilyQMj69V"
+    },
+    {
+      "text": "Bioluminescent portion of the body",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "fno0ffGbWNJRCSHz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.fno0ffGbWNJRCSHz"
+    },
+    {
+      "text": "Gains a monster characteristic (see Delve)",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "mrEAUGqmGpVR9Wru",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.mrEAUGqmGpVR9Wru"
+    },
+    {
+      "text": "Gains a monster ability (see Delve)",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "2EQ77I3P7kwsAvzc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.2EQ77I3P7kwsAvzc"
+    },
+    {
+      "text": "Hair and clothes are suspended in the air as if in water",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "Bza6PDEcsDVIb1kI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.Bza6PDEcsDVIb1kI"
+    },
+    {
+      "text": "Glowing sigil or glyph on the body",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "qZV68zcAjbsf9aUz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.qZV68zcAjbsf9aUz"
+    },
+    {
+      "text": "Flames and smokes always bends towards them",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "3BjlKbviqY3NHWbx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.3BjlKbviqY3NHWbx"
+    },
+    {
+      "text": "Steam or smoke rises from their footsteps",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "pw5DC4dTC5n9Uut1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.pw5DC4dTC5n9Uut1"
+    },
+    {
+      "text": "A ghostly visage transposed over their face",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "1R8ov8oHSEG7LWIW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.1R8ov8oHSEG7LWIW"
+    },
+    {
+      "text": "Translucent skin",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "rF9cU9bf5ofDWBYT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.rF9cU9bf5ofDWBYT"
+    },
+    {
+      "text": "Glowing red eyes",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "8syciQFqTJ3pNU9E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.8syciQFqTJ3pNU9E"
+    },
+    {
+      "text": "Snake, tentacle or vine-like hair",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "xNx0MJMwT1VlE6NB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.xNx0MJMwT1VlE6NB"
+    },
+    {
+      "text": "Flames leap higher when close to their skin",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "fDUCfyhnowXw1Hrd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.fDUCfyhnowXw1Hrd"
+    },
+    {
+      "text": "Small bone spurs or protrusions",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "PgPoqMVitBHcI6ge",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.PgPoqMVitBHcI6ge"
+    },
+    {
+      "text": "Tail",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "hNt1uIOLAwMeNh2V",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.hNt1uIOLAwMeNh2V"
+    },
+    {
+      "text": "Covered in animal fur",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "DnX1olS5tlwI41yR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vNJjrFCJ4TlywKEs.DnX1olS5tlwI41yR"
+    }
+  ],
+  "folder": "iw9CdTaDyib9IgXg",
+  "sort": 500000,
+  "_id": "vNJjrFCJ4TlywKEs",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A supernatural sign of corruption occurs when a horror or otherworldly being is responsible for the corruption. The corrupted Ironlander takes on some characteristic of that being or its realm of origin. While these signs can sometimes be a tool for the Ironlander to use (such as a monstrous ability), they are more often a disturbing reminder to themselves and others of the dark force at work within them.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.vNJjrFCJ4TlywKEs"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791158841,
+    "modifiedTime": 1702851711877,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!vNJjrFCJ4TlywKEs"
+}

@@ -1,0 +1,121 @@
+{
+  "name": "What is the Dominant Attitude of the People?",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Frightened to inaction",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "9Yph3URWSWUTmmdb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QraukbOe9Pfzkc8A.9Yph3URWSWUTmmdb"
+    },
+    {
+      "text": "Helpless or giving up",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "bhnjr5IKb0GUNOjX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QraukbOe9Pfzkc8A.bhnjr5IKb0GUNOjX"
+    },
+    {
+      "text": "Panicked or reckless",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "HDDgyTNoH4KieCyK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QraukbOe9Pfzkc8A.HDDgyTNoH4KieCyK"
+    },
+    {
+      "text": "Dismayed at the losses",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "SfksoGImbgJrfSly",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QraukbOe9Pfzkc8A.SfksoGImbgJrfSly"
+    },
+    {
+      "text": "Disgusted by the monster or ignoring it",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "bZGqKQcvOr6Ddl78",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QraukbOe9Pfzkc8A.bZGqKQcvOr6Ddl78"
+    },
+    {
+      "text": "Enraged or aggressive",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "FGG3mA5ugSqTJT6U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!QraukbOe9Pfzkc8A.FGG3mA5ugSqTJT6U"
+    }
+  ],
+  "folder": "DR4prmmNlNwWqwpV",
+  "sort": 150000,
+  "_id": "QraukbOe9Pfzkc8A",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The first thing that generally happens in game is that the player characters get a plea for help from a settlement or group of people. To find out what these people tell you about the monster problem, roll percentile dice (2d10 treating the tens digit and ones digit separately) and action die (1d6) using the following tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.QraukbOe9Pfzkc8A"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159482,
+    "modifiedTime": 1702879608985,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!QraukbOe9Pfzkc8A"
+}

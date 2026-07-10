@@ -1,0 +1,19 @@
+{
+  "name": "Locations",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "lCBownpY290WYqSQ",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1709074979725,
+    "modifiedTime": 1709074979725,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!folders!lCBownpY290WYqSQ"
+}

@@ -1,0 +1,165 @@
+{
+  "name": "Nkala",
+  "type": "foe",
+  "img": "icons/creatures/fish/crab-blue-purple.webp",
+  "items": [
+    {
+      "_id": "jq7T1LdxduDOgDgT",
+      "name": "Nkala",
+      "type": "progress",
+      "img": "icons/creatures/fish/crab-blue-purple.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Giant spectral crab</p>\n<p>Diameter of a human's height</p>\n<p>Hippo-like head on each end</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Eat shadows of people</p>\n<p>Serve sorcerer or witch</p>\n<p>Follow whistling or high-pitched noises</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Devour shadow</p>\n<p>Psychic strikes of fear</p>\n<p>Pincer attacks</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 227\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 50\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 46\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 48\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Nkala appear to be flat, brown crabs with a hard shell, but they have a head on either end of their body like the flattened head of a hippopotamus. In all honesty, we thought they were a laughable creature when we first encountered them. Little did we know that these are not beasts or animals but some form of horror empowered by sinister magic. And do not scream around these creatures, for they are drawn to the sound.</p>\n<p>While the crab-like pincers and hippo-like tusks are deadly physical weapons, the nkala&rsquo;s most dangerous aspects are those connected to their nature as a horror. Firstly, the nkala have an ability to instill immediate and powerful fear in a victim. Like a lance through the brain, the fear can produce physical harm as the heart and blood vessels overload and also usually cause the victim to freeze in place unable to think clearly enough to run away.</p>\n<p>Secondly, the nkala can eat a person&rsquo;s shadow. This again may not sound dangerous, but the consequences of not having a shadow are equally deadly. Over time, a person who has lost their shadow will waste away. They can see into a realm of death super-imposed onto our world and spend more and more time there. Without the shadow&rsquo;s ability to cast darkness out of the body, that darkness builds up and consumes the victim.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A person has lost their shadow and fears the certain death they know is coming for them in the weeks ahead. A powerful mystic claims that they can create a new shadow for the person, but need a rare artifact. What does the mystic need? Who is the person that lost their shadow, and how do you know them?</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Do nkala stay near sources of water, or are they land-dwelling?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!90yc0nHr9F8VK7gy.jq7T1LdxduDOgDgT"
+    }
+  ],
+  "effects": [],
+  "folder": "gOfwvuzAJkHM51B8",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.x7lUU3cer4uWnTUm"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Nkala",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/fish/crab-blue-purple.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.x7lUU3cer4uWnTUm",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741330800612,
+    "modifiedTime": 1741330800645,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "90yc0nHr9F8VK7gy",
+  "sort": 200000,
+  "_key": "!actors!90yc0nHr9F8VK7gy"
+}

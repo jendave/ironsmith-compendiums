@@ -1,0 +1,22 @@
+{
+  "name": "Horrors",
+  "sorting": "a",
+  "folder": null,
+  "type": "Actor",
+  "_id": "lEK8lBFa4VdUphsn",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1740693869564,
+    "modifiedTime": 1740693869564,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!lEK8lBFa4VdUphsn"
+}

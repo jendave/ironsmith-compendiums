@@ -1,0 +1,165 @@
+{
+  "name": "Boiuna",
+  "type": "foe",
+  "img": "icons/creatures/reptiles/serpent-horned-green.webp",
+  "items": [
+    {
+      "_id": "bOdwS4pPn3sSCxro",
+      "name": "Boiuna",
+      "type": "progress",
+      "img": "icons/creatures/reptiles/serpent-horned-green.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Miles long snake</p>\n<p>Glowing eyes</p>\n<p>Lower fangs that go through the upper jaw</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Submerge in deep rivers</p>\n<p>Build fish populations for food</p>\n<p>Hibernate for months or years</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Swallow whole</p>\n<p>Suck in great quantities of water to trap many &nbsp;prey</p>\n<p>Create river tidal waves with its huge body</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 225\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 38\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 41\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>While it may seem odd to say, a mile long serpent is not unheard of in the Junglelands. What is unusual about the god-sized snake Boiuna is that it doesn&rsquo;t live in the oceans but in the river Mayu Wanu. We don&rsquo;t know exactly how long Boiuna is, but there have been simultaneous reports of attacks by Boiuna&rsquo;s tail at one river settlement and by Boiuna&rsquo;s head at the next settlement.</p>\n<p>As far as we can tell, Boiuna draws in huge amounts of river water and then filters its meals almost like a whale with krill. As large as this beast is, you may think that the river has no other life in it because Boiuna eats it all, but this is not so. Legend says, and experience has confirmed, that Boiuna is an intelligent hunter and will transport whole schools of fish from one section of the river to the next in order to keep the population density at a steady norm.</p>\n<p>Some claim that Boiuna may be one of the lost Father Snakes, companion to the three Mother Snake god-like creatures, but according to our mystics there does not appear to be anything otherworldly about Boiuna. It has no mystical energy or abilities. It&rsquo;s just a snake big enough to swallow small settlements whole. That&rsquo;s all.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>Boiuna had not been seen in several years along the river Mayu Wanu until a few weeks ago. A shaman believes they have developed a concoction that can put Boiuna back into a hibernating state and thereby keep the river safe for a few more years. The problem: the boat-sized dose must be delivered straight into the maw of Boiuna.</p>\n</blockquote>\n</div>\n</div>\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Which cult worships Boiuna as a deity, and what part of their religious practices presents a danger to the populace?</em></p>\n</blockquote>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "rank": 5,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!ZFVX3N7aCLC4OGei.bOdwS4pPn3sSCxro"
+    }
+  ],
+  "effects": [],
+  "folder": "rQmvCHCQLeWaZZ0z",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA"
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "prototypeToken": {
+    "name": "Boiuna",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/reptiles/serpent-horned-green.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "hexagonalShape": 0,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.foeactorsis.Actor.sEHAArchxhkPbsGA",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741414851609,
+    "modifiedTime": 1741415223418,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "ZFVX3N7aCLC4OGei",
+  "sort": 100000,
+  "_key": "!actors!ZFVX3N7aCLC4OGei"
+}

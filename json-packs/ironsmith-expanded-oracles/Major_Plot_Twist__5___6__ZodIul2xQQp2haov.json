@@ -1,0 +1,311 @@
+{
+  "name": "Major Plot Twist (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "You are accused of a crime and being hunted.",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "INfRu4c1qzbcjAp6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.INfRu4c1qzbcjAp6"
+    },
+    {
+      "text": "An unexpected guardian impedes your progress until appeased, circumvented, or defeated.",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "f63WJ5I2mxWkDyry",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.f63WJ5I2mxWkDyry"
+    },
+    {
+      "text": "Innocent lives are now in danger due to your actions.",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "aY3zuYCdKV1cS9jk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.aY3zuYCdKV1cS9jk"
+    },
+    {
+      "text": "Rumors spread which ruin your reputation.",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "yQQVF73WNJSDpro1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.yQQVF73WNJSDpro1"
+    },
+    {
+      "text": "A tactical advantage is lost.",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "mp5H3EyYDXL8CPWR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.mp5H3EyYDXL8CPWR"
+    },
+    {
+      "text": "Something you thought false is revealed to be true.",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "g8Yj0l11c27LAAb2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.g8Yj0l11c27LAAb2"
+    },
+    {
+      "text": "You are separated from an ally, friend, or companion in a troubling way.",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "XdEeyE4itnrbZr4j",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.XdEeyE4itnrbZr4j"
+    },
+    {
+      "text": "A trap or circumstance of the environment forces you to work with the enemy to survive.",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "8zMH6X9oJUALBnoo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.8zMH6X9oJUALBnoo"
+    },
+    {
+      "text": "An action is much more effective than you anticipated which complicates the situation.",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "lrCsdwCbPx7oVqZ3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.lrCsdwCbPx7oVqZ3"
+    },
+    {
+      "text": "You discover the next destination on your journey is considered off limits by local custom and travel there could cause friction.",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "Vt1exCm1RNso37si",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.Vt1exCm1RNso37si"
+    },
+    {
+      "text": "You draw attention to yourself in a troubling way.",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "6UJgzu2Rtol0aWYo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.6UJgzu2Rtol0aWYo"
+    },
+    {
+      "text": "An action takes much more time than anticipated causing you to meet someone or something best avoided.",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "R6lM0QKA04dLNoRc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.R6lM0QKA04dLNoRc"
+    },
+    {
+      "text": "An ally, friend, or companion is unexpectedly injured.",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "UAncZWDyjY4qCBAg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.UAncZWDyjY4qCBAg"
+    },
+    {
+      "text": "You are made to look the fool.",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "V65gDLrcfvIi59B3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.V65gDLrcfvIi59B3"
+    },
+    {
+      "text": "You lose significant support for your cause.",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "6ptePqIEzwDO8a2F",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.6ptePqIEzwDO8a2F"
+    },
+    {
+      "text": "Something you wanted to remain hidden is revealed.",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "Z9QwiteRVe2Fstzm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.Z9QwiteRVe2Fstzm"
+    },
+    {
+      "text": "Your actions were witnessed and interpreted in a detrimental way.",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "gfkAk0XuUIGBcfZW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.gfkAk0XuUIGBcfZW"
+    },
+    {
+      "text": "A new ally appears and forcefully takes charge of the situation doing more harm than good.",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "4tlgiSchKFdASVcE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.4tlgiSchKFdASVcE"
+    },
+    {
+      "text": "A friend, ally, or companion is accused of a crime and being hunted.",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "eH2HmiSNV9XW971f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.eH2HmiSNV9XW971f"
+    },
+    {
+      "text": "Roll twice more on this table. Both results occur. If they are the same result, make it more dramatic.",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "GkhoZN057atIzsvo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZodIul2xQQp2haov.GkhoZN057atIzsvo"
+    }
+  ],
+  "folder": "JGoBiGjNOZyH38MA",
+  "sort": -25000,
+  "_id": "ZodIul2xQQp2haov",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ZodIul2xQQp2haov"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161663,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!ZodIul2xQQp2haov"
+}

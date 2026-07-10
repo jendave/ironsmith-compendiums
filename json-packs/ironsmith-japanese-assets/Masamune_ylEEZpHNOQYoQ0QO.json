@@ -1,0 +1,71 @@
+{
+  "type": "asset",
+  "folder": "292WrNSrx7F9caMX",
+  "name": "Masamune",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you gift a blade you have forged to commemorate an important event or relationship, you may (one time only) reroll any dice when you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.be95ca063ded2b19]{Compel}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.b643d9ea53ff8d98]{Forge a Bond}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.25421995c803340e]{Sojourn}, or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.421b379cb40b6ab7]{Test Your Bond}.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you forge or repair an exquisite blade, roll +wits. On a strong hit, choose one to apply when you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} with it.<ul><li>Balanced: Add +1.</li><li>Honed: Inflict +1 harm on a bit</li><li>Named: Take +1 momentum on a hit</li></ul></p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you reforge a blade with nie iron to imbue it with mystic power, roll +wits. On a strong hit, choose one. A weak hit or miss ruins the blade. If you break or discard one of these blades, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.e09e2fc8bb709320]{Endure Stress} (2 stress).<ul><li>Baneful: Name a specific foe. When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.5288e935906f6d28]{Strike} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} with this blade against that foe, add +1. On a hit, inflict +1 harm and take +1 momentum</li><li>Arcane: The blade becomes a rarity. Envision its power.</li></ul></p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "You must unlock the 2nd abiility before the 3rd.",
+        "selected": false
+      }
+    ],
+    "conditions": [],
+    "description": "Forger Of Blades"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/anvil.svg",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709072361915,
+    "modifiedTime": 1764387308430,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "sort": 100000,
+  "_id": "ylEEZpHNOQYoQ0QO",
+  "_key": "!items!ylEEZpHNOQYoQ0QO"
+}

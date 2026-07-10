@@ -1,0 +1,207 @@
+{
+  "name": "Disposition (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Grateful",
+      "range": [
+        1,
+        6
+      ],
+      "_id": "uvwlJOAXfaP7L99u",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YoyegDVPzdgZlfod.uvwlJOAXfaP7L99u"
+    },
+    {
+      "text": "Optimistic",
+      "range": [
+        7,
+        13
+      ],
+      "_id": "kkLw4Wgvcnxeu2j3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YoyegDVPzdgZlfod.kkLw4Wgvcnxeu2j3"
+    },
+    {
+      "text": "Interested",
+      "range": [
+        14,
+        20
+      ],
+      "_id": "BdgptHEAXyehh4hS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YoyegDVPzdgZlfod.BdgptHEAXyehh4hS"
+    },
+    {
+      "text": "Distracted",
+      "range": [
+        21,
+        28
+      ],
+      "_id": "cxkHlLJt1ytPr03R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YoyegDVPzdgZlfod.cxkHlLJt1ytPr03R"
+    },
+    {
+      "text": "Confused",
+      "range": [
+        29,
+        36
+      ],
+      "_id": "MUv8fWq7tl1a37Cc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YoyegDVPzdgZlfod.MUv8fWq7tl1a37Cc"
+    },
+    {
+      "text": "Annoyed",
+      "range": [
+        37,
+        47
+      ],
+      "_id": "LhFV2v6kooaKFh63",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YoyegDVPzdgZlfod.LhFV2v6kooaKFh63"
+    },
+    {
+      "text": "Obfuscating",
+      "range": [
+        48,
+        57
+      ],
+      "_id": "WGQGbfi3eZO3kCUg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YoyegDVPzdgZlfod.WGQGbfi3eZO3kCUg"
+    },
+    {
+      "text": "Bitter",
+      "range": [
+        58,
+        67
+      ],
+      "_id": "EIHeAH7MMCgYVDCs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YoyegDVPzdgZlfod.EIHeAH7MMCgYVDCs"
+    },
+    {
+      "text": "Nervous",
+      "range": [
+        68,
+        76
+      ],
+      "_id": "5QnVE1xK23spqKNX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YoyegDVPzdgZlfod.5QnVE1xK23spqKNX"
+    },
+    {
+      "text": "Angry",
+      "range": [
+        77,
+        85
+      ],
+      "_id": "sNdpWe33641QthOj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YoyegDVPzdgZlfod.sNdpWe33641QthOj"
+    },
+    {
+      "text": "Disapproving",
+      "range": [
+        86,
+        93
+      ],
+      "_id": "KXYvp02oHTShuWWX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YoyegDVPzdgZlfod.KXYvp02oHTShuWWX"
+    },
+    {
+      "text": "Combative",
+      "range": [
+        94,
+        100
+      ],
+      "_id": "cRZWyQdH0Nt0GB0x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YoyegDVPzdgZlfod.cRZWyQdH0Nt0GB0x"
+    }
+  ],
+  "folder": "RwdM0k88MkirBvKa",
+  "sort": -65625,
+  "_id": "YoyegDVPzdgZlfod",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this oracle when you want to define the initial tone of an encounter with an NPC or faction.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161276,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!YoyegDVPzdgZlfod"
+}

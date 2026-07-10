@@ -1,0 +1,121 @@
+{
+  "name": "Narrative Conflict",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "vs. Self",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "ohrT6uGHH3aLYre1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4DOOXzrcLbExZ12z.ohrT6uGHH3aLYre1"
+    },
+    {
+      "text": "vs. Character",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "p94rc3mxAAJcegVK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4DOOXzrcLbExZ12z.p94rc3mxAAJcegVK"
+    },
+    {
+      "text": "vs. Fate",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "um5JF79MyOL5Ncsx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4DOOXzrcLbExZ12z.um5JF79MyOL5Ncsx"
+    },
+    {
+      "text": "vs. Nature",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "3qC9i8iVI3CfFboE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4DOOXzrcLbExZ12z.3qC9i8iVI3CfFboE"
+    },
+    {
+      "text": "vs. Society",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "nmHNrb8gkdguv1Sb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4DOOXzrcLbExZ12z.nmHNrb8gkdguv1Sb"
+    },
+    {
+      "text": "vs. Supernatural",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "7OtjBeePQgLfgdfz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4DOOXzrcLbExZ12z.7OtjBeePQgLfgdfz"
+    }
+  ],
+  "folder": "VAY2CFAKr23S9VJK",
+  "sort": 700000,
+  "_id": "4DOOXzrcLbExZ12z",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>If you want yet another way to build a quest premise, roll for an Action/ Theme (see Ironsworn core rules) and roll your action die on the following table showing the types of narrative conflicts</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.4DOOXzrcLbExZ12z"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159024,
+    "modifiedTime": 1702687545749,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!4DOOXzrcLbExZ12z"
+}

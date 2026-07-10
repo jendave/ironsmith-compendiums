@@ -1,0 +1,157 @@
+{
+  "name": "Dragon, Iron",
+  "img": "icons/creatures/abilities/dragon-ice-breath-blue.webp",
+  "type": "foe",
+  "folder": "PhtC6865BqJuajtM",
+  "prototypeToken": {
+    "actorLink": true,
+    "name": "Dragon, Iron",
+    "displayName": 0,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "icons/creatures/abilities/dragon-ice-breath-blue.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "system": {
+    "dfid": ""
+  },
+  "items": [
+    {
+      "name": "Dragon, Iron",
+      "type": "progress",
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Long, sinuous and wingless body</p>\n<p class=\"nogrow\">Four legs with huge talons</p>\n<p class=\"nogrow\">Long neck and tail</p>\n<p class=\"nogrow\">Iron-like scales</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Burrow for and eat iron</p>\n<p class=\"nogrow\">Dig deep in the stone for warmth</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Surround, squeeze and crush</p>\n<p class=\"nogrow\">Noxious breath</p>\n<p class=\"nogrow\">Bite, rend, and tail sweep</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Weaknesses</h4>\n<p class=\"nogrow\">Dislike bright light and direct sunlight</p>\n</div>\n</div>\n<p>Not only are iron dragons a dull gray like their namesake, but they also seek out and eat iron ore which allows them to grow thick, ferrous scales and fuels their noxious breath of heavy gas clouds that can knock a stout warrior out in moments. While the scales on a red dragon seem impenetrable, the iron dragon's scales are like cast iron armor on top of normal dragon scales. Harming an iron dragon requires precision strikes at joints or prying loose the iron growth on the scales to get at the actual dragon flesh beneath.</p>\n<p>Iron dragons are adept at digging and burrowing as they search for iron ore and spend much of their time underground. In fact, huge sinkholes have been known to occur under areas with an active iron dragon. However, they also hunt for iron on the surface from time to time. Settlements with large smithies have been known to be attacked in the night by one of these gray monsters who can smell the iron from miles away.</p>\n<p>Most likely due to their underground nature, iron dragons have poorer eyesight and rely more on smell and sound. They also strongly dislike bright lights, and a few settlements have successfully fended off an iron dragon attack by building a huge bonfire. For the same reason, iron dragons do not engage in battle with red dragons.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>An armorer claims to have made a suit of mail from iron dragon scales and as such that the wearer of this armor will be all but invisible to the dragon the scales came from. A tournament is being held with this armor as a prize, but why would the armorer be willing to part with this rare item? What is the ulterior motive for hosting this tournament?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>Iron dragons also wield some primordial mystic power. What is it?</em></p>\n</blockquote>",
+        "rank": 4,
+        "current": 0,
+        "completed": false,
+        "subtype": "foe",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      "_id": "b0cwy6uj5UYssRRM",
+      "img": "icons/creatures/abilities/dragon-ice-breath-blue.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "e1Oag2SXzEND5oPH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "coreVersion": "12.331",
+        "createdTime": 1708682828652,
+        "modifiedTime": 1741213697096,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!actors.items!aOk1NPv3ySdTzydy.b0cwy6uj5UYssRRM"
+    }
+  ],
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "12.331",
+    "createdTime": 1708682811724,
+    "modifiedTime": 1741213705873,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "aOk1NPv3ySdTzydy",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!actors!aOk1NPv3ySdTzydy"
+}

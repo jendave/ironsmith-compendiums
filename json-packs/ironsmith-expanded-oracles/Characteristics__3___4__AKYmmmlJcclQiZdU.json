@@ -1,0 +1,447 @@
+{
+  "name": "Characteristics (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Long-limbed",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "xYTzUwVf5j1JAzTw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.xYTzUwVf5j1JAzTw"
+    },
+    {
+      "text": "Oversized mouth",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "ufi3dC8G8gYpjALp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.ufi3dC8G8gYpjALp"
+    },
+    {
+      "text": "Scaled",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "oUSNfZdgPwgrbbFe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.oUSNfZdgPwgrbbFe"
+    },
+    {
+      "text": "Fur / hair / filaments",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "R9MCCG8yTDDb64g1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.R9MCCG8yTDDb64g1"
+    },
+    {
+      "text": "Feathered",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "JRal78DzfnOOxTkG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.JRal78DzfnOOxTkG"
+    },
+    {
+      "text": "Dripping mucus",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "ORB94rfTQLWkeIdT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.ORB94rfTQLWkeIdT"
+    },
+    {
+      "text": "Ridges / plates",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "gcgDHXCd6kZXVlbm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.gcgDHXCd6kZXVlbm"
+    },
+    {
+      "text": "Elongated neck",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "7N9NYHF2EPy8UuAl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.7N9NYHF2EPy8UuAl"
+    },
+    {
+      "text": "Multi-jointed",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "Yu5EBTDbMhH0j9Kr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.Yu5EBTDbMhH0j9Kr"
+    },
+    {
+      "text": "Bark-like skin",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "aWYetFXSYbBPgiBk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.aWYetFXSYbBPgiBk"
+    },
+    {
+      "text": "Flabby skin",
+      "range": [
+        51,
+        54
+      ],
+      "_id": "mWzMbGRe8Dx73Vtm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.mWzMbGRe8Dx73Vtm"
+    },
+    {
+      "text": "Compound eyes",
+      "range": [
+        55,
+        58
+      ],
+      "_id": "u1MKF1yApFytwXZ8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.u1MKF1yApFytwXZ8"
+    },
+    {
+      "text": "Distinctive smell",
+      "range": [
+        59,
+        62
+      ],
+      "_id": "mUEUAs9P1aRGPZsv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.mUEUAs9P1aRGPZsv"
+    },
+    {
+      "text": "Dexterous trunk",
+      "range": [
+        63,
+        66
+      ],
+      "_id": "7tApW7kkqyot9xqa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.7tApW7kkqyot9xqa"
+    },
+    {
+      "text": "Faceless / inexpressive",
+      "range": [
+        67,
+        69
+      ],
+      "_id": "IBIQcTxvJ57wBKQD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.IBIQcTxvJ57wBKQD"
+    },
+    {
+      "text": "Entangled object",
+      "range": [
+        70,
+        72
+      ],
+      "_id": "LSdydUaGddL14eyn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.LSdydUaGddL14eyn"
+    },
+    {
+      "text": "Hooded / crested",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "T8yaABqRHqdPqg5L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.T8yaABqRHqdPqg5L"
+    },
+    {
+      "text": "Flicking tongue",
+      "range": [
+        76,
+        78
+      ],
+      "_id": "Yg4AQOCEHZX0j5qI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.Yg4AQOCEHZX0j5qI"
+    },
+    {
+      "text": "Ill-proportioned",
+      "range": [
+        79,
+        81
+      ],
+      "_id": "o557nWpSLQCZMi4E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.o557nWpSLQCZMi4E"
+    },
+    {
+      "text": "Oily secretions",
+      "range": [
+        82,
+        84
+      ],
+      "_id": "YyrAI6W2rQWMgqQZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.YyrAI6W2rQWMgqQZ"
+    },
+    {
+      "text": "Reflective skin",
+      "range": [
+        85,
+        87
+      ],
+      "_id": "r2etBdzz3NF2PvQ1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.r2etBdzz3NF2PvQ1"
+    },
+    {
+      "text": "Crystalline",
+      "range": [
+        88,
+        90
+      ],
+      "_id": "uyNbF3LPbhX3O1zy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.uyNbF3LPbhX3O1zy"
+    },
+    {
+      "text": "Missing appendage",
+      "range": [
+        91,
+        93
+      ],
+      "_id": "1RiBkSmgqKyJ11Zz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.1RiBkSmgqKyJ11Zz"
+    },
+    {
+      "text": "Visible parasite",
+      "range": [
+        94,
+        95
+      ],
+      "_id": "jwmCVDEFkQfMgglw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.jwmCVDEFkQfMgglw"
+    },
+    {
+      "text": "Fungal growth",
+      "range": [
+        96,
+        97
+      ],
+      "_id": "EZMJOoBHVEZb8Qly",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.EZMJOoBHVEZb8Qly"
+    },
+    {
+      "text": "Vaporous",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "Qtafc5cGFZUp9Vbu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.Qtafc5cGFZUp9Vbu"
+    },
+    {
+      "text": "Pseudopods",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "XbPguNTyQ3yutTuI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.XbPguNTyQ3yutTuI"
+    },
+    {
+      "text": "Embedded weapon",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "er9WKM5KisegwMtD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AKYmmmlJcclQiZdU.er9WKM5KisegwMtD"
+    }
+  ],
+  "folder": "QybiGAbDuTsW65s1",
+  "sort": 1,
+  "_id": "AKYmmmlJcclQiZdU",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946938727,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!AKYmmmlJcclQiZdU"
+}

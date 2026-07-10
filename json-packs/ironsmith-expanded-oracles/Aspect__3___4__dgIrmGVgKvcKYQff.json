@@ -1,0 +1,727 @@
+{
+  "name": "Aspect (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Malignant",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "Ua9NAcrGXBTXkDMb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.Ua9NAcrGXBTXkDMb"
+    },
+    {
+      "text": "Dense",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "VMhaP4oAJ8ZY4YmG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.VMhaP4oAJ8ZY4YmG"
+    },
+    {
+      "text": "Tainted",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "tJtwVT04NPtYXflV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.tJtwVT04NPtYXflV"
+    },
+    {
+      "text": "Cursed",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "bWTnOmnjug1QplZ2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.bWTnOmnjug1QplZ2"
+    },
+    {
+      "text": "Frigid",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "Ll2hYtd6WizDn82S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.Ll2hYtd6WizDn82S"
+    },
+    {
+      "text": "Forsaken",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "geH9RmH7g6i9BV8J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.geH9RmH7g6i9BV8J"
+    },
+    {
+      "text": "Overwhelming",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "MR5L6rARYzmgdInx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.MR5L6rARYzmgdInx"
+    },
+    {
+      "text": "Lifeless",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "6I8OEz1Fe4zPF759",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.6I8OEz1Fe4zPF759"
+    },
+    {
+      "text": "Fetid",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "tZEgpW5VK1CimD6P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.tZEgpW5VK1CimD6P"
+    },
+    {
+      "text": "Remote",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "HKONDpM49VX48WXQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.HKONDpM49VX48WXQ"
+    },
+    {
+      "text": "Untamed",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "DigYvkAtGNJIH8XL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.DigYvkAtGNJIH8XL"
+    },
+    {
+      "text": "Tangled",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "DTuT8kA1cN43ZKej",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.DTuT8kA1cN43ZKej"
+    },
+    {
+      "text": "Eerie",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "Gm01YZE4OFvl68ux",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.Gm01YZE4OFvl68ux"
+    },
+    {
+      "text": "Bloodstained",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "KGUEP2saIZyTzqmS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.KGUEP2saIZyTzqmS"
+    },
+    {
+      "text": "Pale",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "l43ifNOTfXnxDoVZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.l43ifNOTfXnxDoVZ"
+    },
+    {
+      "text": "Jagged",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "xT3WlloyX0te4uaG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.xT3WlloyX0te4uaG"
+    },
+    {
+      "text": "Trembling",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "2Jk356ju9TjfaISK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.2Jk356ju9TjfaISK"
+    },
+    {
+      "text": "Hypnotic",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "p3rgxpha2WfjFLti",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.p3rgxpha2WfjFLti"
+    },
+    {
+      "text": "Tumultuous",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "HSvni9sFXj9v4zPY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.HSvni9sFXj9v4zPY"
+    },
+    {
+      "text": "Corrupted",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "ItwY6MFZUMWSPqGD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.ItwY6MFZUMWSPqGD"
+    },
+    {
+      "text": "Jinxed",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "FE8GlL5whC0A23Qq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.FE8GlL5whC0A23Qq"
+    },
+    {
+      "text": "Dire",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "okAOg0g01Qa1Ts5U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.okAOg0g01Qa1Ts5U"
+    },
+    {
+      "text": "Buried",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "5o1IaBZh8q8NmBgu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.5o1IaBZh8q8NmBgu"
+    },
+    {
+      "text": "Unpredictable",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "mEWSSJLzxhT0Y7Jl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.mEWSSJLzxhT0Y7Jl"
+    },
+    {
+      "text": "Cavernous",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "xOGo6DTbFxCQpF6o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.xOGo6DTbFxCQpF6o"
+    },
+    {
+      "text": "Quaking",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "Oo4S9kzUJVT1GMPw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.Oo4S9kzUJVT1GMPw"
+    },
+    {
+      "text": "Entombed",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "3ec4ohh8umpSzoZk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.3ec4ohh8umpSzoZk"
+    },
+    {
+      "text": "Haunted",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "gn9kBB2yEzTZxUeu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.gn9kBB2yEzTZxUeu"
+    },
+    {
+      "text": "Unforgiving",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "AMGjJWNrbUTV76yu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.AMGjJWNrbUTV76yu"
+    },
+    {
+      "text": "Lightless",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "acOPpU6a82W5wRUG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.acOPpU6a82W5wRUG"
+    },
+    {
+      "text": "Necrotic",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "efbG3UkxDajg3gcm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.efbG3UkxDajg3gcm"
+    },
+    {
+      "text": "Arcane",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "C3dU7ntUygx3Fw1q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.C3dU7ntUygx3Fw1q"
+    },
+    {
+      "text": "Ashen",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "zK6vVuP7ImgNIdvR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.zK6vVuP7ImgNIdvR"
+    },
+    {
+      "text": "Hollow",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "59A9q4znc24JJ3sG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.59A9q4znc24JJ3sG"
+    },
+    {
+      "text": "Alien",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "mke8gGpEWwVnIlWl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.mke8gGpEWwVnIlWl"
+    },
+    {
+      "text": "Defiled",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "WLNpqEAaczpIpha7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.WLNpqEAaczpIpha7"
+    },
+    {
+      "text": "Decrepit",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "cVbM29jVJFJ8NqCF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.cVbM29jVJFJ8NqCF"
+    },
+    {
+      "text": "Stifling",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "tp99StmsooKh8IzJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.tp99StmsooKh8IzJ"
+    },
+    {
+      "text": "Labyrinthine",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "NvBxwh2U0MiaelbZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.NvBxwh2U0MiaelbZ"
+    },
+    {
+      "text": "Fractured",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "D0h8zq3g5zGTsOSs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.D0h8zq3g5zGTsOSs"
+    },
+    {
+      "text": "Otherworldly",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "3Qw3gbeDvMwgAH3t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.3Qw3gbeDvMwgAH3t"
+    },
+    {
+      "text": "Intimidating",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "WDw3BOIytQ1ybui7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.WDw3BOIytQ1ybui7"
+    },
+    {
+      "text": "Precarious",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "90vFmDAQqH5GZbxG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.90vFmDAQqH5GZbxG"
+    },
+    {
+      "text": "Oppressive",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "oqJ4MC5YVGiwtFro",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.oqJ4MC5YVGiwtFro"
+    },
+    {
+      "text": "Sinister",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "PpkjQaHZQz9b35va",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.PpkjQaHZQz9b35va"
+    },
+    {
+      "text": "Rotted",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "THYJFGbihY4GU1FR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.THYJFGbihY4GU1FR"
+    },
+    {
+      "text": "Barren",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "fZgVCBJHr5fYTd7S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.fZgVCBJHr5fYTd7S"
+    },
+    {
+      "text": "Devastated",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "KFmFjg6tGNXJDrjO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.KFmFjg6tGNXJDrjO"
+    },
+    {
+      "text": "Enigmatic",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "MRtpfQC6EtnY76Tn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.MRtpfQC6EtnY76Tn"
+    },
+    {
+      "text": "Grisly",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "Wqp9Jg1LlRZcpUSW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!dgIrmGVgKvcKYQff.Wqp9Jg1LlRZcpUSW"
+    }
+  ],
+  "folder": "7XlALaoo4AUPlm5Z",
+  "sort": 1,
+  "_id": "dgIrmGVgKvcKYQff",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695946160519,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!dgIrmGVgKvcKYQff"
+}

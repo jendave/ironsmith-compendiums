@@ -1,0 +1,19 @@
+{
+  "name": "Quick Settlement Name Generator",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "7pF3r7DsI3OCt4p6",
+  "folder": null,
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "11.315",
+    "createdTime": 1708933025202,
+    "modifiedTime": 1709074992721,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "color": null,
+  "_key": "!folders!7pF3r7DsI3OCt4p6"
+}

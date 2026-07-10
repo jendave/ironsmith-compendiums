@@ -1,0 +1,184 @@
+{
+  "name": "Shipwreck",
+  "type": "delve-domain",
+  "_id": "3EmY7oyrvAxfsqG0",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "summary": "A huge ship crashed upon rocks or reef.",
+    "description": "<div class=\"page\" title=\"Page 252\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Whether dashed upon a rocky shoreline by relentless waves or ground to a halt atop an unseen reef, shipwrecks make tempting targets for those who are opportunistic. Unfortunately, this means that any exploration of such a site comes with the risk of running into other like-minded opportunists such as pirates, sharks, or other denizens who see the value of a new home among the waves.</p>\n<div class=\"page\" title=\"Page 252\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Making your way through a shipwreck can be especially dangerous as the ship itself can still list and lurch with the waves. Not to mention the haphazard destruction caused within the vessel or the holes in the hull that have let in both water and denizen alike.</p>\n<div class=\"page\" title=\"Page 252\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>One may delve into a&nbsp;shipwreck in search of a fabled treasure only to find the desired object has sunk to the inky depths below.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "features": [
+      {
+        "range": [
+          21,
+          43
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Cargo hold of decaying goods"
+      },
+      {
+        "range": [
+          44,
+          56
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Crew quarters"
+      },
+      {
+        "range": [
+          57,
+          64
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Small storage chest"
+      },
+      {
+        "range": [
+          65,
+          68
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Broken barrrels of goods"
+      },
+      {
+        "range": [
+          69,
+          72
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Captain's quarters"
+      },
+      {
+        "range": [
+          73,
+          76
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Navigation room"
+      },
+      {
+        "range": [
+          77,
+          80
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Fire ravaged galley"
+      },
+      {
+        "range": [
+          81,
+          84
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Rotted sails and fallen mast"
+      },
+      {
+        "range": [
+          85,
+          88
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Helm and broken wheel"
+      },
+      {
+        "range": [
+          89,
+          98
+        ],
+        "text": "Something unusual or unexpected",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          99,
+          99
+        ],
+        "text": "You transition into a new theme",
+        "type": 0,
+        "flags": {}
+      },
+      {
+        "range": [
+          100,
+          100
+        ],
+        "text": "You transition into a new domain",
+        "type": 0,
+        "flags": {}
+      }
+    ],
+    "dangers": [
+      {
+        "range": [
+          31,
+          33
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Rotted wood gives way"
+      },
+      {
+        "range": [
+          34,
+          36
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Submerged room"
+      },
+      {
+        "range": [
+          37,
+          39
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Denizen making its new home"
+      },
+      {
+        "range": [
+          40,
+          42
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Sudden structural shift"
+      },
+      {
+        "range": [
+          43,
+          45
+        ],
+        "type": 0,
+        "flags": {},
+        "text": "Way blocked by jumbled crates"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1703541734354,
+    "modifiedTime": 1703541916474,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!items!3EmY7oyrvAxfsqG0"
+}

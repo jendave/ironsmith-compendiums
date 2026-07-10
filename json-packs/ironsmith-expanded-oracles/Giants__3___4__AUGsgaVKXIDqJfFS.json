@@ -1,0 +1,402 @@
+{
+  "name": "Giants (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Khutidu",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "SpqGvLJN0dSZkx7v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.SpqGvLJN0dSZkx7v"
+    },
+    {
+      "text": "Javom",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "rnlP7c8oYe4U5dbn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.rnlP7c8oYe4U5dbn"
+    },
+    {
+      "text": "Chonadu",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "afVDIVRbU4ZwaUhU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.afVDIVRbU4ZwaUhU"
+    },
+    {
+      "text": "Temy",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "C6npqgDZhehVAAqA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.C6npqgDZhehVAAqA"
+    },
+    {
+      "text": "Kathir",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "DQIbXsdVyiz3M9me",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.DQIbXsdVyiz3M9me"
+    },
+    {
+      "text": "Khuton",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "UkdsOxlYD6pvQox2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.UkdsOxlYD6pvQox2"
+    },
+    {
+      "text": "Jarun",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "vAne1wO0HAPC1CGK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.vAne1wO0HAPC1CGK"
+    },
+    {
+      "text": "Chonan",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "EieMvPzs1CIdDgRU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.EieMvPzs1CIdDgRU"
+    },
+    {
+      "text": "Kirochu",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "d9sunQ0Ul27p7948",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.d9sunQ0Ul27p7948"
+    },
+    {
+      "text": "Othochu",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "zi0jFDYwZ5Kkhsf6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.zi0jFDYwZ5Kkhsf6"
+    },
+    {
+      "text": "Temochu",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "vAatezjm87ZXDyF9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.vAatezjm87ZXDyF9"
+    },
+    {
+      "text": "Othon",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "9Qj7hvGhs2JqMnZe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.9Qj7hvGhs2JqMnZe"
+    },
+    {
+      "text": "Chonu",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "xsNR4QQi6I3nZkWJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.xsNR4QQi6I3nZkWJ"
+    },
+    {
+      "text": "Bandun",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "BTgLcuSXcqUWVNzJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.BTgLcuSXcqUWVNzJ"
+    },
+    {
+      "text": "Tubandu",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "Oy8omWsdm0Tj7kSh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.Oy8omWsdm0Tj7kSh"
+    },
+    {
+      "text": "Bakura",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "ofsuR9uk7EDvP25W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.ofsuR9uk7EDvP25W"
+    },
+    {
+      "text": "Khashun",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "FhpqT8hmjurqphDO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.FhpqT8hmjurqphDO"
+    },
+    {
+      "text": "Ottidu",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "iZhK1WS4QkjfJ7sS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.iZhK1WS4QkjfJ7sS"
+    },
+    {
+      "text": "Jaros",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "Ztgcf7O4nxwajZo5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.Ztgcf7O4nxwajZo5"
+    },
+    {
+      "text": "Atir",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "c80ZKTBRw3vxRi5x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.c80ZKTBRw3vxRi5x"
+    },
+    {
+      "text": "Dena",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "UcjgaZ05IPk9bJdd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.UcjgaZ05IPk9bJdd"
+    },
+    {
+      "text": "Kidhin",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "gi5RE6U5nt25acsa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.gi5RE6U5nt25acsa"
+    },
+    {
+      "text": "Chonon",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "eNC3UUogKHVo0h3F",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.eNC3UUogKHVo0h3F"
+    },
+    {
+      "text": "Martun",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "eVvHQGiOdqYRjtUk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.eVvHQGiOdqYRjtUk"
+    },
+    {
+      "text": "Buando",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "BTOGVGfb23mqXj0w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AUGsgaVKXIDqJfFS.BTOGVGfb23mqXj0w"
+    }
+  ],
+  "folder": "9uyJ7VCXwHxRtmPE",
+  "sort": 200000,
+  "_id": "AUGsgaVKXIDqJfFS",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791161528,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!AUGsgaVKXIDqJfFS"
+}

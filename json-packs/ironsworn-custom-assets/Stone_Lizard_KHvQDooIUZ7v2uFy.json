@@ -1,0 +1,77 @@
+{
+  "type": "asset",
+  "folder": "XD6cGvLy4gnRTwVW",
+  "name": "Stone Lizard",
+  "system": {
+    "requirement": "<p>Your lizard guides you into the depths.</p>",
+    "category": "Companion",
+    "color": "#000000",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": false,
+        "description": "<p><b>Instinctive:</b> When you @UUID[Compendium.foundry-ironsworn.ironsworndelvemoves.Item.36c6cbe556fbb639]{Delve the Depths} +wits by trusting the lizard's instincts, ou are forewarned. On a weak hit, roll twice on @UUID[Compendium.foundry-ironsworn.ironsworndelvemoves.Item.36c6cbe556fbb639]{Delve the Depths} the table and choose one result. If you then @UUID[Compendium.foundry-ironsworn.ironsworndelvemoves.Item.06f78b87b9532437]{Reveal a Danger}, take +1 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p><b>Camouflaging:</b> When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} by hiding or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} by readying an ambush, add +lizard's health</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p><b>Reactive:</b> When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.7e008d0f656dc8b3]{Clash} and roll a 10 on a challenge die, the lizard joins the fray; reroll any dice.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 3,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/gecko.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Companion/Banshee",
+      "dsid": "asset:starforged/companion/banshee",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.27.0",
+    "createdTime": 1777589865667,
+    "modifiedTime": 1777589865667,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "KHvQDooIUZ7v2uFy",
+  "sort": 0,
+  "_key": "!items!KHvQDooIUZ7v2uFy"
+}

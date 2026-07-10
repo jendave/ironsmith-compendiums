@@ -1,0 +1,76 @@
+{
+  "name": "Clue Relates To...",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Who committed the crime",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "l8Be1rTliGOWFwxv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PsWvuiS2ivTsDwWC.l8Be1rTliGOWFwxv"
+    },
+    {
+      "text": "Why it was committed",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "yb6018bzPGXhYuhU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PsWvuiS2ivTsDwWC.yb6018bzPGXhYuhU"
+    },
+    {
+      "text": "Culprit’s past location",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "T54RmvCT4g6HU2Is",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PsWvuiS2ivTsDwWC.T54RmvCT4g6HU2Is"
+    }
+  ],
+  "folder": "ys0tLVTcvwcElQVg",
+  "sort": 100000,
+  "_id": "PsWvuiS2ivTsDwWC",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>After discovering the physical object, you can find out what type of information the physical clue gives you by rolling your action die (1d6) twice on the following tables. If needed, make an Action/Theme roll for more details.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.PsWvuiS2ivTsDwWC"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159346,
+    "modifiedTime": 1702852218319,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!PsWvuiS2ivTsDwWC"
+}

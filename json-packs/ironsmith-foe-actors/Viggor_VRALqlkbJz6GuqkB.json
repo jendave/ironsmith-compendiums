@@ -1,0 +1,163 @@
+{
+  "name": "Viggor",
+  "type": "foe",
+  "img": "icons/creatures/eyes/humanoid-single-yellow.webp",
+  "items": [
+    {
+      "_id": "DCchL0z4pPWdXT4L",
+      "name": "Viggor",
+      "type": "progress",
+      "img": "icons/creatures/eyes/humanoid-single-yellow.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<div class=\"boxgroup flexrow boxrow\" style=\"margin-bottom: 0.5rem;\">\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Features</h4>\n<p class=\"nogrow\">Clothing adorned with animal feathers, teeth, scales, and claws</p>\n<p class=\"nogrow\">Their soul inhabits animals</p>\n<p class=\"nogrow\">Unkempt and gaunt</p>\n<p class=\"nogrow\">Hold a mystic focus</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Drives</h4>\n<p class=\"nogrow\">Protect animals</p>\n<p class=\"nogrow\">Live as an animal</p>\n<p class=\"nogrow\">Protect their empty body</p>\n<p class=\"nogrow\">Stay isolated</p>\n</div>\n<div class=\"flexcol box\" style=\"justify-content: flex-start;\">\n<h4 class=\"nogrow\" style=\"margin: 0.5em;\">Tactics</h4>\n<p class=\"nogrow\">Attack as an animal</p>\n<p class=\"nogrow\">Switch quickly between animal bodies</p>\n<p class=\"nogrow\">Retreat back to their own body</p>\n</div>\n</div>\n<p>A viggor is an Ironlander born with beast magic. When their power first manifests, they gain an odd affinity for communicating with animals. As their power matures, they can \"push\" themselves into an animal and control the animal directly. While their own body lies dormant, their soul roams the woods as a wolf on the hunt or spies on the neighbors as a rat in the wall. Some animals are easier to push into, but most viggor never push into an unwilling host unless absolutely necessary. The more they push, the more bestial they become themselves. Animals who have interacted with a viggor will often stay near and guard a viggor's empty body until it is their turn to be pushed into. It seems that this mystical process of pushing strengthens an animal&rsquo;s bond with the viggor.</p>\n<p>When viggor \"push\" themselves into an animal, they lose all senses and control of their own human body which lies cold and unmoving while their spirit roams. It is like their life essence completely leaves their body to live inside the animal. In this way, their body is vulnerable during a push. If someone were to find their body in this state, they could be killed without ever knowing an attacker was there. This is why viggor tend to isolate themselves in lost caves or hidden huts deep in a forest.</p>\n<p>While this type of magic sounds like a fairy tale come true, we ultimately learned to fear the viggor because the more they push into animal minds, the more animal-like they become themselves. They obsess over being inside an animal to the point that their human bodies are often frail and abused. It's an addiction for them that slowly drives them mad. It is best that we excommunicate viggor when they are found and leave them to their own slow death.</p>\n<blockquote>\n<p>Quest Starter:</p>\n<p>A woman on her deathbed has requested that you find her lost husband, a viggor who was exiled years ago. She believes that she has discovered the key to breaking her husband free from the beast magic that binds him. Why would you take on this quest for her? Who is she to you? Can her husband be brought to his senses long enough to say goodbye to his wife, or is he lost forever to his beasts?</p>\n</blockquote>\n<p>&nbsp;</p>\n<blockquote>\n<p><em>Your Truth:</em></p>\n<p><em>What happens when a viggor&rsquo;s body is killed while their spirit is still pushed into an animal?</em></p>\n<p><em>Can a viggor push into multiple animals at once? At what price?</em></p>\n</blockquote>\n<p><strong>Variant:</strong> The viggor&rsquo;s spirit coalesces into an ethereal animal rather than inhabiting a living creature.</p>",
+        "rank": 2,
+        "current": 0,
+        "completed": false,
+        "subtype": "progress",
+        "starred": false,
+        "hasTrack": true,
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 6
+      },
+      "ownership": {
+        "default": 0,
+        "UxRPXT7DZJSEuDW6": 3
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.0",
+        "createdTime": null,
+        "modifiedTime": 1741197200393,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!actors.items!VRALqlkbJz6GuqkB.DCchL0z4pPWdXT4L"
+    }
+  ],
+  "effects": [],
+  "folder": "ZErbaYomHilUkSak",
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "12.331",
+      "systemVersion": "1.25.0"
+    }
+  },
+  "system": {
+    "dfid": ""
+  },
+  "prototypeToken": {
+    "name": "Viggor",
+    "displayName": 50,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "icons/creatures/eyes/humanoid-single-yellow.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "appendNumber": false,
+    "prependAdjective": false,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "hexagonalShape": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.0",
+    "createdTime": 1741195800518,
+    "modifiedTime": 1741195800518,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "VRALqlkbJz6GuqkB",
+  "sort": 0,
+  "_key": "!actors!VRALqlkbJz6GuqkB"
+}

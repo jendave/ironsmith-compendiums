@@ -1,0 +1,1527 @@
+{
+  "name": "Descriptor (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Stoic",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "xD7UR37v5uv2gklA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.xD7UR37v5uv2gklA"
+    },
+    {
+      "text": "Attractive",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "UZkBqlXLHXS3cquF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.UZkBqlXLHXS3cquF"
+    },
+    {
+      "text": "Passive",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Z2EnruMgRpoMzyqq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.Z2EnruMgRpoMzyqq"
+    },
+    {
+      "text": "Aloof",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "DLzNSA6X4To5dzVe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.DLzNSA6X4To5dzVe"
+    },
+    {
+      "text": "Affectionate",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "FlHwMgts37S808dW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.FlHwMgts37S808dW"
+    },
+    {
+      "text": "Generous",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "228ifMUbF8OO4xTG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.228ifMUbF8OO4xTG"
+    },
+    {
+      "text": "Smug",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "BfJ7CyZt041U2VxJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.BfJ7CyZt041U2VxJ"
+    },
+    {
+      "text": "Armed",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "xDIXdz6T16c42Grl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.xDIXdz6T16c42Grl"
+    },
+    {
+      "text": "Clever",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "r1MBhFMSoDolPhUH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.r1MBhFMSoDolPhUH"
+    },
+    {
+      "text": "Brave",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "s4eeAMIqhXWqWNhX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.s4eeAMIqhXWqWNhX"
+    },
+    {
+      "text": "Ugly",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "IV4r6Rgz9iFVx1Ol",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.IV4r6Rgz9iFVx1Ol"
+    },
+    {
+      "text": "Sociable",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "NUdGu2BRiby29lVq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.NUdGu2BRiby29lVq"
+    },
+    {
+      "text": "Doomed",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "J5yoZhL8YAcg8gSY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.J5yoZhL8YAcg8gSY"
+    },
+    {
+      "text": "Connected",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "S44nnGFMI312ZK0Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.S44nnGFMI312ZK0Z"
+    },
+    {
+      "text": "Bold",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "UE2WqawmZKxDUJUx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.UE2WqawmZKxDUJUx"
+    },
+    {
+      "text": "Jealous",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "JI4PSvNEX1KmPdXs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.JI4PSvNEX1KmPdXs"
+    },
+    {
+      "text": "Angry",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "EEjf2uo0P4xbCCqN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.EEjf2uo0P4xbCCqN"
+    },
+    {
+      "text": "Active",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "aEcFCJFFGg0pZcD3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.aEcFCJFFGg0pZcD3"
+    },
+    {
+      "text": "Suspicious",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "vCfI1YlKlCPz9D2v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.vCfI1YlKlCPz9D2v"
+    },
+    {
+      "text": "Hostile",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "P3GviwcGwdSqgJ8S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.P3GviwcGwdSqgJ8S"
+    },
+    {
+      "text": "Hardhearted",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "ynhGy44dvXjpLycG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.ynhGy44dvXjpLycG"
+    },
+    {
+      "text": "Successful",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "uAAZQiJYhAUw7GQH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.uAAZQiJYhAUw7GQH"
+    },
+    {
+      "text": "Talented",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "H4LGMmM455kRSes9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.H4LGMmM455kRSes9"
+    },
+    {
+      "text": "Experienced",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "95ice5gBGZ74fzVb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.95ice5gBGZ74fzVb"
+    },
+    {
+      "text": "Deceitful",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "s6ljb38IrhJrlPwT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.s6ljb38IrhJrlPwT"
+    },
+    {
+      "text": "Ambitious",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "xVwRTbHpfrIyygHT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.xVwRTbHpfrIyygHT"
+    },
+    {
+      "text": "Aggressive",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "NcQEy3zZaurwhPJr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.NcQEy3zZaurwhPJr"
+    },
+    {
+      "text": "Conceited",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "bx2rTsCngqDgYDG3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.bx2rTsCngqDgYDG3"
+    },
+    {
+      "text": "Proud",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "TFJdVJ46bN7FdgyB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.TFJdVJ46bN7FdgyB"
+    },
+    {
+      "text": "Stern",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "4ILUP6Ggk2exFV0u",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.4ILUP6Ggk2exFV0u"
+    },
+    {
+      "text": "Dependent",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "1wWchDFcDrgMoyhR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.1wWchDFcDrgMoyhR"
+    },
+    {
+      "text": "Wary",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "hYJch36DIxAn0F6h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.hYJch36DIxAn0F6h"
+    },
+    {
+      "text": "Strong",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "kLqvKEBeM0luEaDn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.kLqvKEBeM0luEaDn"
+    },
+    {
+      "text": "Insightful",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "sDg9AWu7gyDi3lcj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.sDg9AWu7gyDi3lcj"
+    },
+    {
+      "text": "Dangerous",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "vP8RmhY6ck7GW8eH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.vP8RmhY6ck7GW8eH"
+    },
+    {
+      "text": "Quirky",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "Euc8KDGSqi6y7NXS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.Euc8KDGSqi6y7NXS"
+    },
+    {
+      "text": "Cheery",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "nYpsX6zN43kDgLAn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.nYpsX6zN43kDgLAn"
+    },
+    {
+      "text": "Disfigured",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "8zYC1MMIpFOwsZqL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.8zYC1MMIpFOwsZqL"
+    },
+    {
+      "text": "Intolerant",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "HS4FYpIQfrg3494a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.HS4FYpIQfrg3494a"
+    },
+    {
+      "text": "Skilled",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "lEJRIYDZU2GJHlc8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.lEJRIYDZU2GJHlc8"
+    },
+    {
+      "text": "Stingy",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "HDU6ajd0jIVy6Gur",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.HDU6ajd0jIVy6Gur"
+    },
+    {
+      "text": "Timid",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "1L2NTYehBPYGpZNe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.1L2NTYehBPYGpZNe"
+    },
+    {
+      "text": "Insensitive",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "r0rss5jHvaMrPe2X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.r0rss5jHvaMrPe2X"
+    },
+    {
+      "text": "Wild",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "6yM6pOt7aFreKRjX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.6yM6pOt7aFreKRjX"
+    },
+    {
+      "text": "Bitter",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "kj9Aez4qzFpEcXdk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.kj9Aez4qzFpEcXdk"
+    },
+    {
+      "text": "Cunning",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "FUyWTW5zWCkFA7Pm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.FUyWTW5zWCkFA7Pm"
+    },
+    {
+      "text": "Remorseful",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "mU2apQ6OvKTNddm5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.mU2apQ6OvKTNddm5"
+    },
+    {
+      "text": "Kind",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "8ShMNsDyu0TZxjmK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.8ShMNsDyu0TZxjmK"
+    },
+    {
+      "text": "Charming",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "J7qP3DQglfkzZjCl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.J7qP3DQglfkzZjCl"
+    },
+    {
+      "text": "Oblivious",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "WnShr9ex5TTBSP0T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.WnShr9ex5TTBSP0T"
+    },
+    {
+      "text": "Critical",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "qTjBtRk9BIQli2pF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.qTjBtRk9BIQli2pF"
+    },
+    {
+      "text": "Cautious",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "Zw5UDwkcBnIMPoS3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.Zw5UDwkcBnIMPoS3"
+    },
+    {
+      "text": "Resourceful",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "CX7UxvfEhCH3JBJ2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.CX7UxvfEhCH3JBJ2"
+    },
+    {
+      "text": "Weary",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "4BskAltDhZyMIjcP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.4BskAltDhZyMIjcP"
+    },
+    {
+      "text": "Wounded",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "IUdfLQAOPEdOWrQW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.IUdfLQAOPEdOWrQW"
+    },
+    {
+      "text": "Anxious",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "gQkUKIAXhwAr1LuQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.gQkUKIAXhwAr1LuQ"
+    },
+    {
+      "text": "Powerful",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "PxiRBFXUqy8z6Dbj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.PxiRBFXUqy8z6Dbj"
+    },
+    {
+      "text": "Athletic",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "nfd7KukanvSvGZCB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.nfd7KukanvSvGZCB"
+    },
+    {
+      "text": "Driven",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "1Ob4f3cZvDs6lnbP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.1Ob4f3cZvDs6lnbP"
+    },
+    {
+      "text": "Cruel",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "nw8jQ2Fyz7v10ZVv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.nw8jQ2Fyz7v10ZVv"
+    },
+    {
+      "text": "Quiet",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "djO2baipDVXUVYja",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.djO2baipDVXUVYja"
+    },
+    {
+      "text": "Honest",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "U6Suwt9ZOn3hOM25",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.U6Suwt9ZOn3hOM25"
+    },
+    {
+      "text": "Infamous",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "860V8oE6A7dMBg8E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.860V8oE6A7dMBg8E"
+    },
+    {
+      "text": "Dying",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "V1J7gGrWjI3TcHFb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.V1J7gGrWjI3TcHFb"
+    },
+    {
+      "text": "Reclusive",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "Q0oIARxjPn3sxLfC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.Q0oIARxjPn3sxLfC"
+    },
+    {
+      "text": "Artistic",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "FCYmSZxy7XVQIUQU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.FCYmSZxy7XVQIUQU"
+    },
+    {
+      "text": "Disabled",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "LbOkWMeP0GK0pyDl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.LbOkWMeP0GK0pyDl"
+    },
+    {
+      "text": "Confused",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "NOaYSboxqmYrKUFP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.NOaYSboxqmYrKUFP"
+    },
+    {
+      "text": "Manipulative",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "Lh0049ZFPTNJZ0MI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.Lh0049ZFPTNJZ0MI"
+    },
+    {
+      "text": "Relaxed",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "pdNmQ243OMkOZ01t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.pdNmQ243OMkOZ01t"
+    },
+    {
+      "text": "Stealthy",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "4JugtVlo4s2lhnz9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.4JugtVlo4s2lhnz9"
+    },
+    {
+      "text": "Confident",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "ITiZuQAYv2lmXrOp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.ITiZuQAYv2lmXrOp"
+    },
+    {
+      "text": "Weak",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "WTblHTs84iKk22rH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.WTblHTs84iKk22rH"
+    },
+    {
+      "text": "Friendly",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "dcp71o1S076QO1aY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.dcp71o1S076QO1aY"
+    },
+    {
+      "text": "Wise",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "m1DI7zcl7k7wlLiu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.m1DI7zcl7k7wlLiu"
+    },
+    {
+      "text": "Influential",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "SBrS6JbuBfmU6RI1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.SBrS6JbuBfmU6RI1"
+    },
+    {
+      "text": "Young",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "7C1taEB58p2FJP0u",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.7C1taEB58p2FJP0u"
+    },
+    {
+      "text": "Adventurous",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "rnLbTb13YTim6qID",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.rnLbTb13YTim6qID"
+    },
+    {
+      "text": "Oppressed",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "xZzuuD0GZAnSy7Br",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.xZzuuD0GZAnSy7Br"
+    },
+    {
+      "text": "Vengeful",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "jFDeAiSsLA0mGqQx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.jFDeAiSsLA0mGqQx"
+    },
+    {
+      "text": "Cooperative",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "hhyhb2T1c1lFVmPh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.hhyhb2T1c1lFVmPh"
+    },
+    {
+      "text": "Armored",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "pzxWETAapTquy4vq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.pzxWETAapTquy4vq"
+    },
+    {
+      "text": "Apathetic",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "CZ9ncjSRt8rCF6Jq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.CZ9ncjSRt8rCF6Jq"
+    },
+    {
+      "text": "Determined",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "dQGkbhKLYkegsTb8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.dQGkbhKLYkegsTb8"
+    },
+    {
+      "text": "Loyal",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "h0tjM88NDhhVx1fJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.h0tjM88NDhhVx1fJ"
+    },
+    {
+      "text": "Sick",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "fydRvdyMVYSbtrrI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.fydRvdyMVYSbtrrI"
+    },
+    {
+      "text": "Religious",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "dXPFuGhnWNiMPg1C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.dXPFuGhnWNiMPg1C"
+    },
+    {
+      "text": "Selfish",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "V60f432F3nHfESOV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.V60f432F3nHfESOV"
+    },
+    {
+      "text": "Old",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "tgo3WfUImKWA3qlM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.tgo3WfUImKWA3qlM"
+    },
+    {
+      "text": "Fervent",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "gqEMUZO32LapEoJX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.gqEMUZO32LapEoJX"
+    },
+    {
+      "text": "Violent",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "kezrw39PcV7KLk3v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.kezrw39PcV7KLk3v"
+    },
+    {
+      "text": "Agreeable",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "xtauj07vTtXkd1YA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.xtauj07vTtXkd1YA"
+    },
+    {
+      "text": "Hot-tempered",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "HvhOkicjzW6yxRVq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.HvhOkicjzW6yxRVq"
+    },
+    {
+      "text": "Stubborn",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "BdMV4eLVIjDqfeq2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.BdMV4eLVIjDqfeq2"
+    },
+    {
+      "text": "Incompetent",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "hkyJUej12KZLeQrD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.hkyJUej12KZLeQrD"
+    },
+    {
+      "text": "Greedy",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "7QX3TKKqBY2tl8Rt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.7QX3TKKqBY2tl8Rt"
+    },
+    {
+      "text": "Cowardly",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "XzJ0pFaQsf5xuOed",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.XzJ0pFaQsf5xuOed"
+    },
+    {
+      "text": "Obsessed",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "eCdj6w5B6bKjhMUs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.eCdj6w5B6bKjhMUs"
+    },
+    {
+      "text": "Careless",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "L8RmqsYtG9qq7F63",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.L8RmqsYtG9qq7F63"
+    },
+    {
+      "text": "Ironsworn",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "2aluUJDcvj8656YV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PHizkEMpEbuqf8hu.2aluUJDcvj8656YV"
+    }
+  ],
+  "folder": "RwdM0k88MkirBvKa",
+  "sort": -75000,
+  "_id": "PHizkEMpEbuqf8hu",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this oracle to help flesh out a character’s personality or physical characteristics. Roll more than once to add additional detail.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695791160172,
+    "modifiedTime": 1695962283311,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!PHizkEMpEbuqf8hu"
+}

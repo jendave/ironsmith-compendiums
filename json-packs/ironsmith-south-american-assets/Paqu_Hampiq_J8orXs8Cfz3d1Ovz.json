@@ -1,0 +1,68 @@
+{
+  "type": "asset",
+  "folder": "FMKphzaxzc2pZQCC",
+  "name": "Paqu Hampiq",
+  "system": {
+    "requirement": "After you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.725a21e2f02d7e12]{Fulfill Your Vow} to a shaman and @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.b643d9ea53ff8d98]{Forge a Bond} with them to train you...",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4dd8468e095810a4]{Secure an Advantage} +wits or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.4244b77103f55bc4]{Gather Information} by entering a trance to communicate with the spiritual realm, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.be95ca063ded2b19]{Compel}, @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.b643d9ea53ff8d98]{Forge a Bond}, or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.421b379cb40b6ab7]{Test Your Bond} leveraging information gained from the above communion with the spiritual realm, add +1 and take +1 spirit on a hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.c8bacc17f73d3103]{Face Danger} or @UUID[Compendium.foundry-ironsworn.ironswornmoves.Item.1f978f9faa43d5c6]{Face Desolation}, you may offer yourself to the ancestral spirits. If you do, add +2 and treat a strong hit as a weak hit.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Shaman"
+  },
+  "img": "modules/ironsmith-expanded-oracles/assets/war-bonnet.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1709598851354,
+    "modifiedTime": 1764393239830,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "J8orXs8Cfz3d1Ovz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "e1Oag2SXzEND5oPH": 3
+  },
+  "_key": "!items!J8orXs8Cfz3d1Ovz"
+}

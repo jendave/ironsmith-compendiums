@@ -1,0 +1,181 @@
+{
+  "name": "On a Weak Hit But...",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "It's worse than you thought: Endure Harm.",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "iH9YVPcSuUHUng2W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fkf5NivRTBPEBpAt.iH9YVPcSuUHUng2W"
+    },
+    {
+      "text": "You are overcome: Endure Stress.",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "12I54Wh41utR6nOH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fkf5NivRTBPEBpAt.12I54Wh41utR6nOH"
+    },
+    {
+      "text": "Your victory is short-lived: A new danger or foe appears, or an existing danger worsens.",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "ywyZhnu9znWvFKbk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fkf5NivRTBPEBpAt.ywyZhnu9znWvFKbk"
+    },
+    {
+      "text": "You suffer collateral damage: Something of value is lost or broken, or someone important must pay the cost.",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "SiP0Lez06bW1vnTv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fkf5NivRTBPEBpAt.SiP0Lez06bW1vnTv"
+    },
+    {
+      "text": "You'll pay for it: An objective falls out of reach.",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "yBHBZZjBBLkksyX2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fkf5NivRTBPEBpAt.yBHBZZjBBLkksyX2"
+    },
+    {
+      "text": "Others won't forget: You are marked for vengeance.",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "PY6seENEclKYhZDA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fkf5NivRTBPEBpAt.PY6seENEclKYhZDA"
+    },
+    {
+      "text": "You are tainted: The monster marks, infects, or curses you in some recognizable way.",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "A1chW0JahaJOHaxu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fkf5NivRTBPEBpAt.A1chW0JahaJOHaxu"
+    },
+    {
+      "text": "The settlement still suffers: Another incident has occurred at the settlement.  Roll for an Action and Theme using the oracles in the Ironsworn core rules.",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "Or0ULOIaAo5lfPpt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fkf5NivRTBPEBpAt.Or0ULOIaAo5lfPpt"
+    },
+    {
+      "text": "The plot thickens: Roll for an Aspect and Focus using the oracles in Ironsworn: Delve.",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "ALD5qDXJJA2xtHJC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fkf5NivRTBPEBpAt.ALD5qDXJJA2xtHJC"
+    },
+    {
+      "text": "You are viewed as ruthless or distasteful: If you have a bond with the settlement or someone closely involved with this monster hunt, Test Your Bond.  Otherwise, you may not Sojourn in the settlement after this fight.",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "pC6VSePyWjvBYZkW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fkf5NivRTBPEBpAt.pC6VSePyWjvBYZkW"
+    }
+  ],
+  "folder": "lC26cBW2dVSF1D1F",
+  "sort": 200000,
+  "_id": "fkf5NivRTBPEBpAt",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>There may be ways other than a fight to the death to fulfill your monster hunting vow. If you get a hit on the End the Fight move and are unsure as to the outcome, you may roll percentile dice (2d10) on the following table. Note that for a strong hit on your End the Fight, you only use the tens digit of the percentile dice. On a weak hit, you use both the tens and the ones digit separately.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.fkf5NivRTBPEBpAt"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1695791159610,
+    "modifiedTime": 1702854163214,
+    "lastModifiedBy": "e1Oag2SXzEND5oPH"
+  },
+  "_key": "!tables!fkf5NivRTBPEBpAt"
+}
